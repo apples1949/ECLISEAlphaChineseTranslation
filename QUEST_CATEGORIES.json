@@ -1,0 +1,97 @@
+{
+	"#note": "Please do not publicize these code lines or distribute a modified version of the mod - keep this to yourself. That includes the levels as well. Thanks! - DT",
+	"#comment": "ECLISE Quest Categories",
+	"version": 1,
+	"objects": [ {
+			"aliases": [ "QuestTabCategories" ],
+			"objclass": "QuestTabCategories",
+			"objdata": {
+				"Name": "QuestTabCategories",
+				"TabCategories": [ "SpineQuests", "EpicQuests", "Minigames", "CommunityLevels", "ChallengeQuests", "LiveQuests", "CompletedQuests" ],
+				"CompletedQuestTabIdx": 6
+			}
+		}, {
+			"aliases": [ "Minigames" ],
+			"objclass": "QuestTabCategoryData",
+			"objdata": {
+				"Name": "Minigames",
+				"QuestTabCategory": "Minigames",
+				"QuestCategories": [ "Minigames" ],
+				"TabLabel": "MINIGAMES",
+				"TabImageType": "normal",
+				"TabSelectedImage": "IMAGE_UI_STORE_PLANTSTAB_ACTIVE",
+				"TabUnselectedImage": "IMAGE_UI_STORE_PLANTSTAB_DOWN"
+			}
+		}, {
+			"aliases": [ "CommunityLevels" ],
+			"objclass": "QuestTabCategoryData",
+			"objdata": {
+				"Name": "CommunityLevels",
+				"QuestTabCategory": "CommunityLevels",
+				"QuestCategories": [ "Community" ],
+				"TabLabel": "COMMUNITY",
+				"TabImageType": "normal",
+				"TabSelectedImage": "IMAGE_UI_STORE_SPROUTSTAB_ACTIVE",
+				"TabUnselectedImage": "IMAGE_UI_STORE_SPROUTSTAB_DOWN"
+			}
+		}, {
+			"aliases": [ "ChallengeQuests" ],
+			"objclass": "QuestTabCategoryData",
+			"objdata": {
+				"Name": "ChallengeQuests",
+				"QuestTabCategory": "ChallengeQuests",
+				"QuestCategories": [ "Challenges" ],
+				"TabLabel": "CHALLENGES",
+				"TabImageType": "normal",
+				"TabSelectedImage": "IMAGE_UI_STORE_UPGRADESTAB_ACTIVE",
+				"TabUnselectedImage": "IMAGE_UI_STORE_UPGRADESTAB_DOWN"
+			}
+		}, {
+			"aliases": [ "LiveQuests" ],
+			"objclass": "QuestTabCategoryData",
+			"objdata": {
+				"Name": "LiveQuests",
+				"QuestTabCategory": "LiveQuests",
+				"QuestCategories": [ "Live" ],
+				"TabLabel": "LIVE",
+				"TabImageType": "normal",
+				"TabSelectedImage": "IMAGE_UI_STORE_GEMSTAB_ACTIVE",
+				"TabUnselectedImage": "IMAGE_UI_STORE_GEMSTAB_DOWN"
+			}
+		}, {
+			"aliases": [ "EpicQuests" ],
+			"objclass": "QuestTabCategoryData",
+			"objdata": {
+				"Name": "EpicQuests",
+				"QuestTabCategory": "EpicQuests",
+				"QuestCategories": [ "Epic" ],
+				"TabLabel": "SPECIAL",
+				"TabImageType": "normal",
+				"TabSelectedImage": "IMAGE_UI_STORE_PINATASTAB_ACTIVE",
+				"TabUnselectedImage": "IMAGE_UI_STORE_PINATASTAB_DOWN"
+			}
+		}, {
+			"aliases": [ "SpineQuests" ],
+			"objclass": "QuestTabCategoryData",
+			"objdata": {
+				"Name": "SpineQuests",
+				"QuestTabCategory": "SpineQuests",
+				"QuestCategories": [ "Tutorial", "Egypt", "Pirate", "Cowboy", "UnlockWorld", "Future", "Dark", "Beach", "IceAge", "LostCity", "Eighties", "Dino", "Modern", "PremiumPlant" ],
+				"TabLabel": "ADVENTURE",
+				"TabImageType": "normal",
+				"TabSelectedImage": "IMAGE_UI_STORE_COINSTAB_ACTIVE",
+				"TabUnselectedImage": "IMAGE_UI_STORE_COINSTAB_DOWN"
+			}
+		}, {
+			"aliases": [ "CompletedQuests" ],
+			"objclass": "QuestTabCategoryData",
+			"objdata": {
+				"Name": "CompletedQuests",
+				"QuestTabCategory": "CompletedQuests",
+				"TabLabel": "[QUEST_TAB_LABEL_COMPLETED]",
+				"TabImageType": "normal",
+				"TabSelectedImage": "IMAGE_UI_STORE_UPGRADESTAB_ACTIVE",
+				"TabUnselectedImage": "IMAGE_UI_STORE_UPGRADESTAB_ACTIVE"
+			}
+		} ]
+}
