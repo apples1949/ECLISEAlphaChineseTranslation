@@ -1,0 +1,815 @@
+﻿﻿Beach_DangerRoom.json, [DANGER_ROOM_BEACH_LEVEL_NAME] ,[DANGER_ROOM_BEACH_LEVEL_NAME]
+Beach0.json, 看看旅行日志! ,查看一下旅行日志吧!
+Beach1.json, 7-1: 沙滩 ,7-1: 傍海沙滩
+Beach11.json, 17-1: 巨浪 ,17-1: 巨浪
+Beach12.json, 17-2: 全套潜水员 ,17-2: 全套潜水员 
+Beach14.json, 17-4: 麻烦的渔夫 ,17-4: 麻烦的渔夫
+Beach16.json, 17-6: 包围圈 ,17-6: 包围圈
+Beach17.json, 17-7: 气球港湾 ,17-7: 气球港湾 
+Beach19.json, 17-9: 水鼠 ,17-9: 水鼠
+Beach2.json, 7-2: Unstable Terrain ,7-2: 不稳地形
+Beach4.json, 7-4: Flooded Area ,7-4: 淹没区域
+Beach5.json, 7-5: Wave Controller ,7-5: 驯浪高手
+Beach7.json, 7-7: Capturing Creature ,7-7: 生物攻占
+Beach9.json, 7-9: Party Destroyer ,7-9: 宴会破坏者
+challenges\epic_banana2.json, BNN-2: Premium Detonator ,BNN-2: 高昂炸药
+challenges\epic_banana5.json, BNN-5: Aiming Arcademy ,BNN-5: 瞄准街机
+challenges\epic_cowboy9.json, The Old Queens ,年老皇后
+challenges\epic_crystallshroom1.json, CRS-1: Moon Pyra ,CRS-1: 埃及月色
+challenges\epic_crystallshroom10.json, CRS-10: Shard Chapter ,CRS-10: 冰片终章
+challenges\epic_crystallshroom2.json, CRS-2: Seemless Bitter ,CRS-2: 不当苦涩
+challenges\epic_crystallshroom4.json, CRS-4: Fire Block ,CRS-4: 防火器
+challenges\epic_crystallshroom6.json, CRS-6: Clone Storm ,CRS-6: 克隆风暴
+challenges\epic_dino20.json, Dino Dynasty ,恐龙王朝
+challenges\EPIC_ELECTRICBLUEBERRY1.json, EBL-1: Smoke Strokes ,EBL-1: 乌云雷击
+challenges\EPIC_ELECTRICBLUEBERRY4.json, EBL-4: Threat Unboxer ,EBL-4: 危险拆箱
+challenges\epic_iceage10.json, Shuffling Revenge ,换位复仇
+challenges\epic_iceshroom1.json, ICS-1: Night at the Marsh ,ICS-1: 沼泽之夜
+challenges\epic_iceshroom10.json, ICS-10: Ice Power ,ICS-10: 寒冰之力
+challenges\epic_iceshroom2.json, ICS-2: Ice Element ,ICS-2: 冰元素
+challenges\epic_iceshroom3.json, ICS-3: Family Plant ,ICS-3: 植物家族
+challenges\epic_iceshroom4.json, ICS-4: Breeze Power ,ICS-4: 冻结之力
+challenges\epic_iceshroom5.json, ICS-5: Flashbang ,ICS-5: 闪光弹
+challenges\epic_iceshroom6.json, ICS-6: Firefly Field ,ICS-6: 飞火流萤
+challenges\epic_iceshroom7.json, ICS-7: Hiber Nation ,ICS-7: 冬眠国度
+challenges\epic_iceshroom8.json, ICS-8: Stop Motion ,ICS-8: 停止前进
+challenges\epic_iceshroom9.json, ICS-9: Frozen Flesh ,ICS-9: 冻肉
+challenges\epic_lostcity19.json, Plague of the Forest ,丛林瘟疫
+challenges\epic_modern1.json, MD-D1: Modern Day ,MD-D1: 现代白天
+challenges\epic_modern2.json, MD-N1: Modern Night ,MD-N1: 现代夜晚
+challenges\epic_modern3.json, MD-D2: Grass Steps ,MD-D2: 草坪漫步
+challenges\epic_modern4.json, MD-N2: Moon Grains ,MD-N2: 夜光琳琳
+challenges\epic_modern7.json, MD-D4: Future Dance? ,MD-D4: 未来舞蹈?
+challenges\epic_modern8.json, MD-N4: Rave Under Grave ,MD-N4: 墓底舞会
+challenges\epic_shadowleaf1.json, SDL-1: Hiding off the Sun ,SDL-1: 遮天蔽日
+challenges\epic_shadowleaf4.json, SDL-4: On the Other Side of the Tree ,SDL-4: 树林别处
+challenges\epic_shadowleaf6.json, SDL-6: Moon Boon ,SDL-6: 月光恩惠
+challenges\epic_shadowleaf9.json, SDL-9: Spread Cross ,SDL-9: 交叉传播
+challenges\epic_springbean1.json, SPB-1: Spring Theory ,SPB-1: 弹簧理论
+challenges\epic_springbean8.json, SPB-8: Force Bounce ,SPB-8: 强制弹跳
+challenges\epic_sunbean6.json, SNB-6: Sun Cells ,SNB-6: 阳光电池
+challenges\epic_wintermelon1.json, WML-1: The Melon Brothers ,WML-1: 西瓜兄弟
+community\AKEE_FISHYCHIPS.json, Fishy Chips - A.K.E.E ,炸鱼薯条 - A.K.E.E
+community\akee_themagickingdom.json, The Magic Kingdom - A.K.E.E ,魔法王国 - A.K.E.E
+community\akee_theoldkingdom.json, The Old Kingdom - A.K.E.E ,古老王国 - A.K.E.E
+community\BEEPBOOP_CATWALK.json, Catwalk - BeepBoop ,灵活猫步 - BeepBoop
+community\beepboop_goldenrain.json, Golden Rain - BeepBoop ,黄金之雨 - BeepBoop
+community\beepboop_intotheforest.json, Into the Forest - BeepBoop ,深入密林 - BeepBoop
+community\BEEPBOOP_LOADEDANDLOCKED.json, Loaded and Locked - BeepBoop ,装填锁定 - BeepBoop
+community\BEEPBOOP_NOTALLTHATGLITTERS.json, Not All That Glitters is Gold - BeepBoop ,发光的不一定都是金子 - BeepBoop
+community\beepboop_prehistorictemple.json, Prehistoric Temple - BeepBoop ,史前神殿 - BeepBoop
+community\BEEPBOOP_SUNLOCK.json, Sunlock - BeepBoop ,阳光之锁 - BeepBoop
+community\BEEPBOOP_SUNRESERVES.json, Sun Reserves - BeepBoop ,阳光储备 - BeepBoop
+community\BEEPBOOP_TENTACLELANE.json, Tentacle Lane - BeepBoop ,触手滑道 - BeepBoop
+community\beepboop_zombiemagnet.json, Zombie Magnet - BeepBoop ,僵尸磁铁 - BeepBoop
+community\beetsa_firepower.json, Firepower - beetsa ,火焰力量 - beetsa
+community\beetsa_highzapvoltages.json, High Zap Voltages - beetsa ,高压电击 - beetsa
+community\beetsa_oldtimeyrailways.json, Old-Timey Railways - beetsa ,古老铁路 - beetsa
+community\beetsa_speedyproblem.json, Speedy Problem - beetsa ,速度问题 - beetsa
+community\beetsa_zombiesmelter.json, Zombie Smelter - beetsa ,僵尸熔炉 - beetsa
+community\BREAD_BACKFROMEXTINCTION.json, Back From Extinction - bread ,从灭绝中回归 - bread
+community\BREAD_FLYINGTROUBLES.json, Flying Troubles - bread ,空中麻烦 - bread
+community\CAELUM_DEFROSTATION.json, Defrostation - Caelum ,急速解冻 - Caelum
+community\CAELUM_EYEOFTHESTORM.json, The Eye of the Storm - Caelum ,风暴中心 - Caelum
+community\CAELUM_HONEYTRAP.json, Honey Trap - Caelum ,甜蜜陷阱 - Caelum
+community\CAELUM_LOSTINTIME.json, Lost in Time - Caelum ,时光迷失 - Caelum
+community\CAELUM_MOBILEBATTERY.json, Mobile Battery - Caelum ,可动炮台 - Caelum
+community\CAELUM_RETURNTOSENDER.json, Return to Sender - Caelum ,以牙还牙 - Caelum
+community\CAELUM_SERPIAAPAMA.json, Sepia Apama - Caelum ,乌贼护罩 - Caelum
+community\community_gate.json, Welcome to the Community Levels! ,欢迎来到社区关卡!
+community\creeps_dancingqueens.json, The Dancing Queens - Creeps ,舞蹈皇后 - Creeps
+community\creeps_trulymetal.json, Truly Metal - Creeps ,正宗金属 - Creeps
+community\dhq_jugglernaut.json, Juggler-naut - DHQ ,坚果杂耍 - DHQ
+community\dt_blastfishing.json, Blast Fishing - DT ,钓鱼爆破 - DT
+community\dt_farflungfuture.json, Far-flung Future - DT ,远抛未来 - DT
+community\DT_HERDIMMUNITY.json, Herd Immunity - DT ,牧群免疫 - DT
+community\DT_HERDPROTECTION.json, Herd Protection - DT ,牧群保护 - DT
+community\dt_iceburn.json, Ice Burn - DT ,冰封焚烧 - DT
+community\dt_macenaries.json, The Macenaries - DT ,雇佣恐龙 - DT
+community\dt_minesafety.json, Mine Safety - DT ,土豆安危 - DT
+community\dt_moldtrap.json, Mold Trap - DT ,霉菌陷阱 - DT
+community\dt_multiply.json, Multiplying Problem - DT ,增殖问题 - DT
+community\DT_OBJECTIVE_ESCORT.json, Objective: Escort - DT ,任务: 护送蜻蜓 - DT
+community\dt_powergrid.json, The Power Grid - DT ,能量方格 - DT
+community\DT_RAIDLEADER.json, Raid Leader - DT ,冲锋陷阵 - DT
+community\dt_runngun.json, Run n' Gun - DT ,枪手跑酷 - DT
+community\DT_SAFEHARBOUR.json, Safe Harbour - DT ,安全港湾 - DT
+community\dt_sonicwaves.json, Sonic Waves - DT ,音速袭击 - DT
+community\dt_summoning.json, The Summoning - DT ,召唤狂潮 - DT
+community\dt_techshow.json, The Tech Show - DT ,科技展览 - DT
+community\dt_watery_graves.json, Watery Graves - DT ,水淹坟场 - DT
+community\DT_WILDDANCER.json, Wild Dancers - DT ,狂野舞者 - DT
+community\ender_allloutattack.json, All Loud Attack - EnderallyGolem ,混响袭击 - EnderallyGolem
+community\ender_debugtrap.json, Debug Trap - EnderallyGolem ,调试陷阱 - EnderallyGolem
+community\ENDER_DHQ_HEATWAVE.json, Heat Wave - DHQ & Ender ,燥热波浪 - DHQ & Ender
+community\ENDER_DISCHARGEFIELD.json, Discharge Field - EnderallyGolem ,漏电场地 - EnderallyGolem
+community\ENDER_FATAZOMGANA.json, Fata Zomgana - EnderallyGolem ,幻影危机 - EnderallyGolem
+community\ENDER_FISSUREBLISTER.json, Fissure Blister - EnderallyGolem ,土地裂缝 - EnderallyGolem
+community\ENDER_FROZONELAYER.json, Frozone Layer - EnderallyGolem ,冻层 - EnderallyGolem
+community\ENDER_GOLDENBALANCE.json, Golden Balance - EnderallyGolem ,黄金平衡 - EnderallyGolem
+community\ENDER_HINDERTIMBER.json, Hinder Timber - EnderallyGolem ,夹板阻碍 - EnderallyGolem
+community\ENDER_METAFORCE.json, Meta Force - EnderallyGolem ,变化之力 - EnderallyGolem
+community\ender_nullandvoid.json, Null And Void - EnderallyGolem ,空洞虚无 - EnderallyGolem
+community\ENDER_PLAQUES.json, Plague of the Plaques - EnderallyGolem ,斑块瘟疫 - EnderallyGolem
+community\ender_precipitation.json, Precipitant Precipitation - EnderallyGolem ,大雨倾盆 - EnderallyGolem
+community\ender_rainbowroad.json, Rainbow Road - EnderallyGolem ,彩虹大道 - EnderallyGolem
+community\ENDER_RIDINGSHOTGUN.json, Riding Shotgun - EnderallyGolem ,装载机枪 - EnderallyGolem
+community\GIANG_LANDOWNER.json, Land Owner - Giang ,大地领主 - Giang
+community\imagi_speeddance.json, Speed Dance - Imagination ,极速舞蹈 - Imagination
+community\imagi_strikethrough.json, Strikethrough - Imagination ,删除线 - Imaginaton
+community\imagi_twinthreat.json, Twin Threat - Imagination ,双重威胁 - Imagination
+community\JUNGLETYRANT_BUGGYJUNGLES.json, Buggy Jungles - Jungletyrant ,害虫丛林 - Jungletyrant
+community\JUNGLETYRANT_DAREDEVILSSPEED.json, Daredevil's Speed - JungleTyrant ,超胆侠之速 - JungleTyrant
+community\kf4_danceclan.json, Dance Clan - KF4 ,舞蹈世家 - KF4
+community\LOCKO_ARTILLERYMAINTENANCE.json, Artillery Maintenance - Lock O ,炮兵维修 - Lock O
+community\LOCKO_BOWLINSSPECIALDAY.json, Bowlins Special Day - Lock O ,保龄球特殊日 - Lock O
+community\LOCKO_BURIEDBEACH.json, Buried Beach - Lock O ,掩埋海滩 - Lock O
+community\LOCKO_DINOTAMER.json, Dino Tamer - Lock O ,驯龙高手 - Lock O
+community\LOCKO_ELITESQUAD.json, The Elite Squad - Lock O ,精英部队 - Lock O
+community\LOCKO_EMERGENCYBUTTON.json, The Emergency Button - Lock O ,紧急按钮 - Lock O
+community\LOCKO_EXPLOSIVETRAP.json, Explosive Trap - Lock O ,爆炸陷阱 - Lock O
+community\LOCKO_FLASHBANG.json, Flashbangs - Lock O ,闪光弹 - Lock O
+community\LOCKO_INFESTEDJUNGLE.json, Infested Jungle - Lock O ,瘟疫丛林 - Lock O
+community\LOCKO_PIECEBYPIECE.json, Piece by Piece - Lock O ,循序渐进 - Lock O
+community\LOCKO_POWEREDRAILS.json, Powered Rails - Lock O ,蓄能矿车 - Lock O
+community\LOCKO_ROOTTENWEB.json, Rootten Web - Lock O ,根深蒂固 - Lock O
+community\LOCKO_ROYALTROUBLES.json, Royal Troubles - Lock O ,皇家麻烦 - Lock O
+community\LOCKO_SPICYICE.json, Spicy Ice - Lock O ,火辣冰雕 - Lock O
+community\LOCKO_SWINGINGNIGHT.json, Swinging Night - Lock O ,摇摆之夜 - Lock O
+community\LOCKO_THEFREEZER.json, The Freezer - Lock O ,冰柜 - Lock O
+community\LOCKO_THEPAINTER.json, The Painter - Lock O ,妙手丹青 - Lock O
+community\LOCKO_TIDALWAVES.json, Tidal Waves - Lock O ,潮汐溺尸 - Lock O
+community\LOCKO_TOTHEWATER.json, To the Water! - Lock O ,抛向大海! - Lock O
+community\LOCKO_UNHOLYCRUZADE.json, Unholy Cruzade - Lock O ,邪恶十字军 - Lock O
+community\LOCKO_ZOMBIETAMER.json, Zombie Tamer - Lock O ,驯尸高手 - Lock O
+community\MALEX_AIRBOARDER.json, Airboarder - Malex2005 ,极速飞行 - Malex2005
+community\MALEX_BUGTHUGS.json, The Bug Thugs - Malex2005 ,害虫恶棍 - Malex2005
+community\MALEX_CAVERAVE.json, Cave Rave - Malex2005 ,洞穴节奏 - Malex2005
+community\MALEX_CONCEALEDSNOWSTORM.json, Concealed Snow Storms - Malex2005 ,隐匿雪暴 - Malex2005
+community\MALEX_EXTREMESEASIDESPORTS.json, Extreme Seaside Sports - Malex2005 ,极限海边运动 - Malex2005
+community\malex_feelingblue.json, Feeling Blue? - Malex2005 ,感到蓝受? - Malex2005
+community\MALEX_FLIPPERFLOP.json, Flipper-Flop - Malex2005 ,海狸扑腾 - Malex2005
+community\MALEX_MOVINGMOVERS.json, Moving Movers - Malex2005 ,可动滑块 - Malex2005
+community\malex_poweroflove.json, Power of Love - Malex2005 ,爱的力量 - Malex2005
+community\MALEX_SUNSTRIKE.json, Sun Strike - Malex2005 ,阳光罢工 - Malex2005
+community\MALEX_SYNTHSERFS.json, Synth Serfs - Malex2005 ,魔音农奴 - Malex2005
+community\malex_therealmarsh.json, The REAL Marsh - Malex2005 ,正宗沼泽 - Malex2005
+community\malex_unthawediceage.json, Unthawed Ice Age - Malex2005 ,未化冰河 - Malex2005
+community\MEMEMAN_BOXINGARENA.json, Boxing Arena - MemeMan ,拳击擂台 - MemeMan
+community\MEMEMAN_NUCLEARPOWER.json, Nuclear Power - MemeMan ,核平力量 - MemeMan
+community\MEMEMAN_SPEEDSURF.json, Speed Surf - MemeMan ,极速冲浪 - MemeMan
+community\NUTSHADE_PSYCHAPATH.json, Psycha Path - Nutshade ,断魂小路 - Nutshade
+community\poss_aimtowin.json, Aim to Win - Poss ,旨在桂冠 - Poss
+community\poss_hookedin.json, Hooked In - Poss ,上钩 - Poss
+community\poss_splitgrid.json, Split Grid - Poss ,分裂方格 - Poss
+community\REE_BROKENLINE.json, Broken Line - Reeee ,断层 - Reeee
+community\REE_FRIENDLYFIRE.json, Friendly Fire - Reeee ,友伤 - Reeee
+community\REE_FRIENDLYNETHER.json, Friendly? Nether - Reeee ,友善的幽冥渡渡? - Reeee
+community\REE_GOLDENSHOVEL.json, Golden Shovel - Reeee ,黄金铲子 - Reeee
+community\REE_IAO.json, IaO - Reeee ,laO - Reeee
+community\REE_POWERSOURCE.json, Power Source - Reeee ,能力之源 - Reeee
+community\REE_STRAWBURSTPLAYGROUND.json, Strawburst Playground - Reeee ,草莓乐园 - Reeee
+community\sergio_alternativeflowerline.json, Alternative Flower Line - Sergio+ ,可动花坛 - Sergio+
+community\sergio_arcticocean.json, Arctic Ocean - Sergio+ ,北冰洋 - Sergio+
+community\SERGIO_FINALCOUNTDOWN.json, The Final Countdown - Sergio+ ,最后的倒计时 - Sergio+
+community\SERGIO_HARDERBETTER.json, Harder Better Faster Butter - Sergio+ ,更硬更好更快的黄油 - Sergio+
+community\sergio_mixedstorm.json, Mixed Storm - Sergio+ ,混合风暴 - Sergio+
+community\spikeman_frogfeast.json, Frog Feast - Spike Man ,青蛙盛宴 - Spike Man 
+community\spikeman_goldrush.json, Gold Rush - Spike Man ,淘金热 - Spike Man 
+community\STUFF_AVIANLAND.json, Avian Land - stuff/embarking ,鸟禽登船 - stuff/embarking
+community\THESHERO_BLASTINGRACE.json, Blasting Race - TheShero ,爆破竞赛 - TheShero
+community\theshero_chess.json, Chess - TheShero ,棋盘迷局 - TheShero
+community\TRIN_HEALINGSKILL.json, Healing Skill - Trin ,治疗技艺 - Trin
+community\USERNAME_RAINBOWROAD.json, Rainbow Raid - username ,彩虹突袭 - username
+community\VIN_DEFLECTION.json, Deflection - Vin ,行径偏移 - Vin
+community\VIN_NETHERSGATE.json, Nether's Gate - Vin ,下界之门 - Vin
+community\VIN_NOTHERNLIGHT.json, The Northern Night - Vin ,北极之夜 - Vin
+community\VIN_VIP.json, V.I.P - Vin , V.I.P - Vin
+community\YERICKY_BASICBURSTER.json, Basic Burster - Yericky ,基础炸药 - Yericky
+community\YERICKY_GHOSTTOWN.json, Ghost Town - Yericky ,闹鬼城镇 - Yericky
+community\YERICKY_HAUNTEDCASTLE.json, Haunted Castle - Yericky ,闹鬼城堡 - Yericky
+community\YERICKY_LOSTNIGHT.json, The Lost Night - Yericky ,失落之夜 - Yericky
+community\yericky_riseofdarkness.json, The Rise of Darkness - Yericky ,暗夜复兴 - Yericky
+community\YERICKY_SKIRMISHINTHESEA.json, Skirmish in the Sea - Yericky ,潮汐战役 - Yericky
+community\YERICKY_SUNSNIPERS.json, The Sun Snipers - Yericky ,阳光狙手 - Yericky
+community\YERICKY_SUPERMELONBROS.json, Super Melon Bros - Yericky ,超级西瓜兄弟 - Yericky
+community\YERICKY_WILDBATTLE.json, The Wild Battle in the West - Yericky ,西部野战 - Yericky
+Cowboy_DangerRoom_A.json, [DANGER_ROOM_COWBOY_LEVEL_NAME] ,[DANGER_ROOM_COWBOY_LEVEL_NAME]
+Cowboy_DangerRoom_B.json, [DANGER_ROOM_COWBOY_LEVEL_NAME] ,[DANGER_ROOM_COWBOY_LEVEL_NAME]
+Cowboy_DangerRoom_C.json, [DANGER_ROOM_COWBOY_LEVEL_NAME] ,[DANGER_ROOM_COWBOY_LEVEL_NAME]
+Cowboy_DangerRoom_D.json, [DANGER_ROOM_COWBOY_LEVEL_NAME] ,[DANGER_ROOM_COWBOY_LEVEL_NAME]
+Cowboy_Night1.json, WW-1: Western Darkland ,WW-1: 西部夜土
+Cowboy_Night10.json, WW-10: The Farm Ranger ,WW-10: 农场看守人
+Cowboy_Night2.json, WW-2: Dual Player ,WW-2: 二重奏
+Cowboy_Night4.json, WW-4: Bull Doze ,WW-4: 瞌睡公牛
+Cowboy_Night6.json, WW-6: Trapped Minecart ,WW-6: 陷阱矿车
+Cowboy_Night7.json, WW-7: Spread Inject ,WW-7: 分散注射
+Cowboy0.json, Check the Travel Log! ,查看一下旅行原木吧!
+Cowboy1.json, 6-1: Western Wasteland ,6-1: 西部荒地
+Cowboy11.json, 16-1: Western Wonderland ,16-1: 西部仙境
+Cowboy12.json, 16-2: Wild Runner ,16-2:西部逃亡
+Cowboy14.json, 16-4: The Farm ,16-4:农场
+Cowboy15.json, 16-5: Railway Revolution ,16-5: 铁路革命
+Cowboy16.json, 16-6: Crossing Field ,16-6: 交叉领域
+Cowboy18.json, 16-8: Vegan Vengeance ,16-8: 素食者的复仇
+Cowboy2.json, 6-2: Backbite ,6-2: 背后偷袭
+Cowboy4.json, 6-4: Dancing Dynasty ,6-4: 舞蹈年华
+Cowboy7.json, 6-7: The Overpassers , 6-7: 飞跃者
+Cowboy8.json, 6-8: Wild Collide ,6-8: 横冲直撞
+Dark_DangerRoom_A.json, [DANGER_ROOM_DARKAGES_LEVEL_NAME] ,[DANGER_ROOM_DARKAGES_LEVEL_NAME]
+Dark_DangerRoom_B.json, [DANGER_ROOM_DARKAGES_LEVEL_NAME] ,[DANGER_ROOM_DARKAGES_LEVEL_NAME]
+dark_dangerroom_C.json, [DANGER_ROOM_DARKAGES_LEVEL_NAME] ,[DANGER_ROOM_DARKAGES_LEVEL_NAME]
+dark_dangerroom_D.json, [DANGER_ROOM_DARKAGES_LEVEL_NAME] ,[DANGER_ROOM_DARKAGES_LEVEL_NAME]
+dark_day1.json, DA-1: time set 1500 ,DA-1: 时间设置 白天
+dark_day11.json, DA-11: Wakeward ,DA-11: 唤醒
+dark_day12.json, DA-12: Timed Bloom ,DA-12: 接镖之花
+dark_day14.json, DA-14: Herded Amulet ,DA-14: 牧群护符
+dark_day17.json, DA-17: Walkthrough ,DA-17: 穿过
+dark_day19.json, DA-19: Land Canon ,DA-19: 登陆炮台
+dark_day2.json, DA-2: Peasant Hoods ,DA-2: 农民兜帽
+dark_day20.json, DA-20: Day Liverance ,DA-20: 阔绰之日
+dark_day4.json, DA-4: Herdless Amulet ,DA-4: 无牧护符
+dark_day6.json, DA-6: Day Mocracy ,DA-6: 白日民主
+dark_day8.json, DA-8: Armor & Lance ,DA-8:盾与矛
+Dark0.json, Check the Travel Log! ,查看一下旅行原木吧!
+Dark1.json, 3-1: Dark Ages ,3-1: 黑暗时代
+Dark11.json, 13-1: Rebel Side ,13-1: 叛变之方
+Dark12.json, 13-2: Medieval Mending Machine ,13-2: 中世纪修理器
+Dark16.json, 13-6: Midnight Circus ,13-6: 夜半马戏团
+Dark17.json, 13-7: Shadow of the Night ,13-7: 午夜阴影
+Dark2.json, 3-2: Dawned Light ,3-2: 曙光
+Dark3.json, 3-3: Brave at the Grave ,3-3: 在冢之勇
+Dark6.json, 3-6: The Heavy Trampler ,3-6: 巨力践踏者
+Dark7.json, 3-7: Wanderers' Spell ,3-7: 流浪者魔咒
+Dino_DangerRoom_A.json, [DANGER_ROOM_DINO_LEVEL_NAME] ,[DANGER_ROOM_DINO_LEVEL_NAME]
+Dino_DangerRoom_B.json, [DANGER_ROOM_DINO_LEVEL_NAME] ,[DANGER_ROOM_DINO_LEVEL_NAME]
+Dino_DangerRoom_C.json, [DANGER_ROOM_DINO_LEVEL_NAME] ,[DANGER_ROOM_DINO_LEVEL_NAME]
+Dino_DangerRoom_D.json, [DANGER_ROOM_DINO_LEVEL_NAME] ,[DANGER_ROOM_DINO_LEVEL_NAME]
+Dino_Night1.json, JM-1: Blank Sky ,JM-1: 茫茫长空
+DINO_NIGHT11.json, JM-11: Uncontained Energy Source ,JM-11: 外来能源
+DINO_NIGHT12.json, JM-12: Con-gression ,JM-12: 中场移动
+DINO_NIGHT13.json, JM-13: Fly Catcher ,JM-13: 对空捕手
+DINO_NIGHT14.json, JM-14: Ragscalling ,JM-14: 地壳碎裂
+DINO_NIGHT15.json, JM-15: Ground Detacher ,JM-15: 地板拆工
+DINO_NIGHT16.json, JM-16: Raise And Fold ,JM-16: 上升与合并
+DINO_NIGHT17.json, JM-17: Firecricket ,JM-17: 火蟋蟀
+DINO_NIGHT18.json, JM-18: Backfright ,JM-18: 后方恐惧
+DINO_NIGHT19.json, JM-19: Groundbreaking Decibel ,JM-19: 震地狂嚎
+Dino_Night2.json, JM-2: Active Spot ,JM-2: 活动点
+DINO_NIGHT20.json, JM-20: Deathwishes At Blackwater ,JM-20: 黑水遗愿
+Dino_Night4.json, JM-4: Shake Land ,JM-4: 大地颤抖
+Dino_Night5.json, JM-5: Backtracker ,JM-5: 折返者
+Dino_Night7.json, JM-7: Mighty Night ,JM-7: 崇高之夜
+Dino_Night8.json, JM-8: Grass Hoppers ,JM-8: 草坪跳蚤
+Dino0.json, Check the Travel Log! ,查看一下旅行原木吧!
+Dino1.json, 8-1: Mesozoic Marsh ,8-1: 中生代沼泽
+Dino11.json, 18-1: Jurassic Smash ,18-1: 侏罗纪粉碎
+Dino12.json, 18-2: Perfume Performance ,18-2: 香水演出
+Dino13.json, 18-3: Terrorsaurus ,18-3: 恐龙
+Dino14.json, 18-4: Touchdown ,18-4: 接触传染
+Dino15.json, 18-5: Flint Land ,18-5: 燧石大陆
+Dino16.json, 18-6: Amber Chamber ,18-6: 琥珀房间
+Dino17.json, 18-7: Mace Tales ,18-7: 狼牙棒传说
+Dino18.json, 18-8: Hoar Roar ,18-8: 冰霜咆哮
+Dino19.json, 18-9: Backflight ,18-9: 向后飞行
+Dino2.json, 8-2: Kickstarter ,8-2: 弹射起步
+Dino20.json, 18-10: Dinoland ,18-10: 恐龙大陆
+Dino5.json, 8-5: Elders' Playground ,8-5: 长者乐园
+Dino7.json, 8-7: Backward Path ,8-7: 反向之路
+Dino9.json, 8-9: Battle No-Brain ,8-9: 无脑之战
+egypt_dangerroom_A.json, [DANGER_ROOM_EGYPT_LEVEL_NAME] ,[DANGER_ROOM_EGYPT_LEVEL_NAME]
+egypt_dangerroom_B.json, [DANGER_ROOM_EGYPT_LEVEL_NAME] ,[DANGER_ROOM_EGYPT_LEVEL_NAME]
+Egypt_Night1.json, AE-1: The Ancient Night ,AE-1: 远古之夜
+Egypt_Night2.json, AE-2: Signs Of Camels ,AE-2: 骆驼标记
+Egypt_Night4.json, AE-4: Pyramid Nightshift ,AE-4: 不眠金字塔
+Egypt_Night5.json, AE-5: Odd Blockoff ,AE-5: 霉田怪圈
+Egypt_Night7.json, AE-7: Big Decision ,AE-7: 重大抉择
+Egypt0.json, Check the Travel Log! ,查看一下旅行原木吧!
+egypt00.json, Check the Travel Log! ,查看一下旅行原木吧!
+Egypt1.json, 1-1: The Ancient Time ,1-1: 远古时期
+Egypt11.json, 11-1: Ancient Power ,11-1: 远古之力
+Egypt13.json, 11-3: Tomb Raiser ,11-3: 造墓人
+Egypt16.json, 11-6: Set War ,11-6: 大战
+Egypt18.json, 11-8: Extreme Exploration ,11-8: 极限探险
+Egypt2.json, 1-2: Overgrave Lobber ,1-2: 跨墓投手
+Egypt21.json, 21-1: Ancient Curse ,21-1: 远古诅咒
+Egypt22.json, 21-2: Mumerous Invasion ,21-2: 多重入侵
+Egypt24.json, 21-4: Ra Square ,21-4: 太阳神广场
+Egypt26.json, 21-6: Sun Guard ,21-6: 阳光守卫
+Egypt28.json, 21-8: Reprisation ,21-8: 复制
+Egypt5.json, 1-5: Escaping Explorer ,1-5: 奔逃探险者
+Egypt6.json, 1-6: Tighten Up ,1-6: 紧凑管理
+Egypt7.json, 1-7: Sun Field ,1-7: 阳光产地
+Eighties_DangerRoom.json, [DANGER_ROOM_EIGHTIES_LEVEL_NAME] ,[DANGER_ROOM_EIGHTIES_LEVEL_NAME]
+Eighties0.json, Check the Travel Log! ,查看一下旅行原木吧!
+Eighties1.json, 10-1: Eighties Empire ,10-1: 八零帝国
+Eighties10.json, 10-10: Talent Show ,10-10: 才艺表演
+Eighties11.json, 20-1: Meta Jam ,20-1: 即兴切歌
+Eighties12.json, 20-2: Blind Audition 2 ,20-2: 致盲试音 2
+Eighties13.json, 20-3: The Arcademy ,20-3: 游戏厅
+Eighties14.json, 20-4: Unreal Army ,20-4: 虚拟兵卒
+Eighties15.json, 20-5: Breakdancers ,20-5: 霹雳舞者
+Eighties16.json, 20-6: Star Gate ,20-6: 星门
+Eighties17.json, 20-7: Threat Run ,20-7: 奔跑威胁
+Eighties18.json, 20-8: Escalation Game ,20-8: 升级游戏
+Eighties19.json, 20-9: Simulation Band ,20-9: 虚拟乐队
+Eighties2.json, 10-2: Glitteria ,10-2: 闪闪发光
+Eighties20.json, 20-10: Taking the Big Stage ,20-10: 登台表演
+Eighties4.json, 10-4: Punk Palace ,10-4: 朋克宫殿
+Eighties6.json, 10-6: Blind Audition ,10-6: 致盲试音
+Eighties7.json, 10-7: Micro Sway ,10-7: 横扫麦克风
+Eighties8.json, 10-8: The Neon Nightclub ,10-8: 霓虹夜总会
+Future_DangerRoom_A.json, [DANGER_ROOM_FUTURE_LEVEL_NAME] ,[DANGER_ROOM_FUTURE_LEVEL_NAME]
+Future_DangerRoom_B.json, [DANGER_ROOM_FUTURE_LEVEL_NAME] ,[DANGER_ROOM_FUTURE_LEVEL_NAME]
+Future0.json, Check the Travel Log! ,查看一下旅行原木吧!
+Future1.json, 9-1: Future Tense ,9-1: 未来时态
+Future11.json, 19-1: Empowerage ,19-1: 超能时代
+Future12.json, 19-2: Sudden Wall ,19-2: 突现肉墙
+Future13.json, 19-3: Future Dancing Zombie ,19-3: 未来舞蹈僵尸
+Future14.json, 19-4: Hypno-tech ,19-4: 魅惑科技
+Future16.json, 19-6: Mobile Bunker ,19-6: 移动推土机
+Future17.json, 19-7: The Safezone ,19-7: 安全区域
+Future19.json, 19-9: Techno Gen ,19-9: 高科技乐队
+Future3.json, 9-3: Augmented Protection ,9-3: 加强护盾
+Future5.json, 9-5: Heavy Roadblockers ,9-5: 巨型路障
+Future7.json, 9-7: Jet Drive ,9-7: 喷射驱动
+Future9.json, 9-9: Portal Combat ,9-9: 传送门之战
+Iceage_DangerRoom.json, [DANGER_ROOM_ICEAGE_LEVEL_NAME] ,[DANGER_ROOM_ICEAGE_LEVEL_NAME]
+Iceage0.json, Check the Travel Log! ,查看一下旅行原木吧!
+Iceage1.json, 5-1: Ice Lever ,5-1: 寒冰杠杆
+Iceage11.json, 15-1: Snow Lake ,15-1: 雪湖
+Iceage12.json, 15-2: Lava Floor ,15-2: 熔岩地板
+Iceage13.json, 15-3: Weasel Teasel ,15-3: 冰鼬挑逗
+Iceage14.json, 15-4: Moon Power ,15-4: 月光之力
+Iceage16.json, 15-6: Bittersweet ,15-6: 苦甜参半
+Iceage18.json, 15-8: Wind Shield ,15-8: 防风罩
+Iceage2.json, 5-2: Freezervation ,5-2: 冰封
+Iceage4.json, 5-4: Hunting Season ,5-4: 狩猎时节
+Iceage7.json, 5-7: Team Frostimps ,5-7: 冰霜小鬼队
+Iceage8.json, 5-8: Ice Age ,5-8: 冰河世纪
+LostCity_DangerRoom_A.json, [DANGER_ROOM_LOSTCITY_LEVEL_NAME] ,[DANGER_ROOM_LOSTCITY_LEVEL_NAME]
+LostCity_DangerRoom_B.json, [DANGER_ROOM_LOSTCITY_LEVEL_NAME] ,[DANGER_ROOM_LOSTCITY_LEVEL_NAME]
+LostCity_Night1.json, LC-1: Moonlight Jungle ,LC-1: 月光丛林
+LostCity_Night2.json, LC-2: Hovering Tramps ,LC-2: 彷徨探险者
+LostCity_Night3.json, LC-3: Blooming Night ,LC-3: 花开之夜
+LostCity_Night5.json, LC-5: Convergent ,LC-5: 汇聚
+LostCity_Night7.json, LC-7: Former Night ,LC-7: 前夜
+LostCity_Night9.json, LC-9: Wandering Jungle ,LC-9: 丛林游荡
+LostCity0.json, Check the Travel Log! ,查看一下旅行原木吧!
+LostCity00.json, Check the Travel Log! ,查看一下旅行原木吧!
+LostCity1.json, 2-1: Running Temple ,2-1: 神庙逃亡
+LostCity10.json, 2-10: Block Dropper ,2-10: 障碍运输者
+LostCity11.json, 12-1: Forest Forgotten ,12-1: 遗忘之森
+LostCity12.json, 12-2: Problem Sholver ,12-2: 麻烦铲工
+LostCity16.json, 12-6: Bug Spray ,12-6: 害虫泼洒
+LostCity18.json, 12-8: Patecatl' Blessing ,12-8: 神明祝福
+LostCity19.json, 12-9: Treasure Hunt ,12-9: 寻宝
+LostCity2.json, 2-2: Head Protector ,2-2: 护头器
+LostCity21.json, 22-1: Lost Grate ,22-1: 失落文明
+LostCity22.json, 22-2: Bug Gatherer ,22-2: 害虫聚集
+LostCity23.json, 22-3: The Tag Game ,22-3: 标签游戏
+LostCity24.json, 22-4: Safe Of Sound ,22-4: 哑巴
+LostCity25.json, 22-5: Takeaway Hunger ,22-5: 饥饿掠夺者
+LostCity26.json, 22-6: Tennitus ,22-6: 营地仙人掌
+LostCity27.json, 22-7: Mime Tracer ,22-7: 哑剧示踪
+LostCity28.json, 22-8: Air Compress ,22-8: 空气压缩
+LostCity29.json, 22-9: Swing Field ,22-9: 摇摆之地
+LostCity4.json, 2-4: Fly Sticker ,2-4: 飞行员
+LostCity6.json, 2-6: Air Snipe ,2-6: 空战
+minigames\botanical_1.json, Botanical Battle I: Robodancers ,植物反击 I: 机械舞者
+minigames\botanical_2.json, Botanical Battle II: Tiny Army - DT ,植物反击 II: 迷你军队 - DT
+minigames\botanical_3.json, Botanical Battle III: Thorny Retrobution - DT ,植物反击 III: 荆棘回击 - DT
+minigames\botanical_4.json, Botanical Battle IV: Bowl Game - DT ,植物反击 IV: 保龄球游戏 - DT
+minigames\bowling_1.json, Bowling Party: Boundyard ,保龄球派对: 弹射庭院
+minigames\bowling_10.json, Bowling Party X: The Future ,保龄球派对 X: 未来
+minigames\bowling_2.json, Bowling Party 2: Gravestones ,保龄球派对 2: 墓碑
+minigames\bowling_3.json, Bowling Party 3: Dinosaurs ,保龄球派对 3: 恐龙
+minigames\bowling_4.json, Bowling Party 4: Wildancer ,保龄球派对 4: 狂野舞者
+minigames\bowling_5.json, Bowling Party 5: Sandstorm ,保龄球派对 5: 沙尘暴
+minigames\bowling_6.json, Bowling Party 6: Multiply ,保龄球派对 6: 增殖
+minigames\bowling_7.json, Bowling Party 7: Origin ,保龄球派对 7: 原版
+minigames\bowling_8.json, Bowling Party 8: Endangered ,保龄球派对 8: 濒危
+minigames\bowling_9.json, Bowling Party 9: Deathline ,保龄球派对 9: 死线
+minigames\CRYOSIEGE.json, Cryosiege - EnderallyGolem ,冰晶封锁 - EnderallyGolem
+minigames\CRYOSIEGE_EASY.json, Cryosiege (easy) - EnderallyGolem ,冰晶封锁 (简单) - EnderallyGolem
+minigames\encroucher.json, The Encroucher ,入侵者
+minigames\encroucher_easy.json, The Encroucher (easy) ,入侵者 (简单)
+minigames\goldcapture.json, Gold Capture ,黄金捕获
+minigames\goldcapture_easy.json, Gold Capture (easy) ,黄金捕获 (简单)
+minigames\good_farmer.json, The Good Farmer - Lock O ,春种秋收 - Lock O
+minigames\good_farmer_easy.json, The Good Farmer (Easy) - Lock O ,春种秋收 (简单) - Lock O
+minigames\invisighoul_1.json, Invisi-ghoul ,隐形食脑者
+minigames\invisighoul_2.json, Invisi-ghoul: Tenttinus ,隐形食脑者: 隐形帐篷
+minigames\invisighoul_3.json, Invisi-ghoul: Nerve Spikes ,隐形食脑者: 神经刺痛
+minigames\invisighoul_4.json, Invisi-ghoul: Wild Shot ,隐形食脑者: 荒野枪手
+minigames\invisighoul_5.json, Invisi-ghoul: Ghost Race ,隐形食脑者: 亡灵赛跑
+minigames\invisighoul_6.json, Invisi-ghoul: Cold War ,隐形食脑者: 酷寒战争
+minigames\lilyland.json, Lily of the Balley ,莲上芭蕾
+minigames\lilyland_easy.json, Lily of the Balley (easy) ,莲上芭蕾 (简单)
+minigames\mega_countdown.json, Mega Countdown - DT ,终极倒数 - DT
+minigames\mega_countdown_easy.json, Mega Countdown (easy) - DT ,终极倒数 (简单) - DT
+minigames\mineset_ender1.json, Minesetter ,布雷者
+minigames\mineset_ender2.json, Minesetter ,布雷者
+minigames\mineset_ender3.json, Minesetter ,布雷者
+minigames\mineset_ender4.json, Minesetter ,布雷者
+minigames\mineset1.json, Minesetter ,布雷者
+minigames\mineset2.json, Minesetter ,布雷者
+minigames\mineset3.json, Minesetter ,布雷者
+minigames\mineset4.json, Minesetter ,布雷者
+minigames\mineset5.json, Minesetter ,布雷者
+minigames\mineset6.json, Minesetter ,布雷者
+minigames\mineset7.json, Minesetter ,布雷者
+minigames\mineset8.json, Minesetter ,布雷者
+minigames\object.json, Objective: Protect - DT ,任务: 保护 - DT
+minigames\object_easy.json, Objective: Protect (easy) - DT ,任务: 保护 (简单) - DT
+minigames\overleft_1.json, Overleft I: To the Left ,隔山打牛 I: 向左
+minigames\overleft_2.json, Overleft II: Motivation ,隔山打牛 II: 动力
+minigames\overleft_3.json, Overleft III: Mage Day ,隔山打牛 III: 大日子
+minigames\overleft_4.json, Overleft IV: Pool Party ,隔山打牛 IV: 泳池派对
+minigames\overleft_5.json, Overleft V: Explorers' League - DT ,隔山打牛 V: 探险联盟 - DT
+minigames\parrotrousle.json, Parrotrousle - DT ,鹦鹉动乱 - DT
+minigames\parrotrousle_easy.json, Parrotrousle (easy) - DT ,鹦鹉动乱 (简单) - DT
+minigames\shipper.json, The Shipper ,托运者
+minigames\shipper_easy.json, The Shipper (easy) ,托运者 (简单)
+minigames\solar_quest.json, Solar Quest - Lock O ,阳光探索 - Lock O
+minigames\solar_quest_easy.json, Solar Quest (Easy) - Lock O ,阳光探索 (简单) - Lock O
+minigames\split_decision.json, Split Decision ,瞻前顾后
+minigames\split_decision_easy.json, Split Decision (easy) ,瞻前顾后 (简单)
+minigames\survival_column.json, Survival: Column Chaos ,生存: 柱状混乱
+minigames\survival_escalation.json, Survival: Escalation ,生存: 阳光积攒
+minigames\survival_gargantuar.json, Survival: Gargantuar Feast ,生存: 巨人盛宴
+minigames\time_crack.json, A Crack in Time - DT ,时空裂缝 - DT
+minigames\time_crack_easy.json, A Crack in Time (easy) - DT ,时空裂缝 (简单) - DT
+minigames\wallbreaker.json, Wall Breaker ,高墙拆除者
+minigames\wallbreaker_easy.json, Wall Breaker (easy) ,高墙拆除者 (简单)
+Modern_DangerRoom_A.json, [DANGER_ROOM_MODERN_LEVEL_NAME] ,[DANGER_ROOM_MODERN_LEVEL_NAME]
+Modern_DangerRoom_B.json, [DANGER_ROOM_MODERN_LEVEL_NAME] ,[DANGER_ROOM_MODERN_LEVEL_NAME]
+Modern0.json, You Shall Not Pass! ...... jk ,你不应该通过! ... 开个玩笑
+Pirate_DangerRoom_A.json, [DANGER_ROOM_PIRATE_LEVEL_NAME] ,[DANGER_ROOM_PIRATE_LEVEL_NAME]
+Pirate_DangerRoom_B.json, [DANGER_ROOM_PIRATE_LEVEL_NAME] ,[DANGER_ROOM_PIRATE_LEVEL_NAME]
+Pirate_DangerRoom_C.json, [DANGER_ROOM_PIRATE_LEVEL_NAME] ,[DANGER_ROOM_PIRATE_LEVEL_NAME]
+Pirate_DangerRoom_D.json, [DANGER_ROOM_PIRATE_LEVEL_NAME] ,[DANGER_ROOM_PIRATE_LEVEL_NAME]
+Pirate_DangerRoom_E.json, [DANGER_ROOM_PIRATE_LEVEL_NAME] ,[DANGER_ROOM_PIRATE_LEVEL_NAME]
+Pirate0.json, Check the Travel Log! ,查看一下旅行原木吧!
+Pirate1.json, 4-1: Green Plank ,4-1: 绿化甲板
+Pirate11.json, 14-1: Veteran Sailor ,14-1: 老练水手
+Pirate12.json, 14-2: Raiding Party ,14-2: 劫掠派对
+Pirate13.json, 14-3: Cannon Candicator ,14-3: 炮位
+Pirate15.json, 14-5: Hardened Headcannon ,14-5: 硬化弹头
+Pirate17.json, 14-7: Bird Family ,14-7: 鸟类家族
+Pirate2.json, 4-2: Swifty Bucklers ,4-2: 迅猛跳跃者
+Pirate3.json, 4-3: Bucket Ballete ,4-3: 木桶芭蕾
+Pirate5.json, 4-5: Pea For Three ,4-5: 豆分三路
+Pirate7.json, 4-7: Captain Colony ,4-7: 船长集中区
+SECRET0.json, S-0: Secret Level ,S-0: 神秘关卡
+SECRET1.json, S-1: Flame Dancer ,S-1: 烈焰舞者
+SECRET13.json, S-13: Sneak Race ,S-13: 潜水竞赛
+SECRET18.json, S-18: Time Stomp ,S-18: 时间践踏
+SECRET2.json, S-2: Veteran Torcher ,S-2: 老练火炬手
+SECRET20.json, S-20: Metal Age ,S-20: 金属年代
+SECRET3.json, S-3: Impigration ,S-3: 小鬼移民
+SECRET4.json, S-4: A Civilization's Treasure ,S-4: 文明宝藏
+SECRET5.json, S-5: Friendly Frenzy ,S-5: 友好迷乱
+SECRET7.json, S-7: Sea Nests ,S-7: 海上鸟巢
+Survival_Beach.json, Survival: Big Wave Beach ,生存: 巨浪沙滩
+Survival_Cowboy.json, Survival: Wild West ,生存: 狂野西部
+Survival_Dark.json, Survival: Dark Ages ,生存: 黑暗时代
+Survival_Dino.json, Survival: Jurassic Marsh ,生存: 侏罗纪沼泽
+Survival_Egypt.json, Survival: Ancient Egypt ,生存: 远古埃及
+Survival_Eighties.json, Survival: Neon Mixtape Tour ,生存: 炫光魔音游
+Survival_Future.json, Survival: Far Future ,生存: 遥远未来
+Survival_Iceage.json, Survival: Frostbite Caves ,生存: 极寒冰窟
+Survival_LostCity.json, Survival: Lost City ,生存: 失落之城
+Survival_Pirate.json, Survival: Pirate Seas ,生存: 海盗港湾
+tickdown\td_001.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_002.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_003.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_004.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_005.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_006.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_007.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_008.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_009.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_010.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_011.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_012.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_013.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_014.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_015.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_016.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_017.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_018.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_019.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_020.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_021.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_022.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_023.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_024.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_025.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_026.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_027.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_028.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_029.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_030.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_031.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_032.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_033.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_034.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_035.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_036.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_037.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_038.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_039.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_040.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_041.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_042.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_043.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_044.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_045.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_046.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_047.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_048.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_049.json, TICKDOWN Mode! ,倒计时模式!
+tickdown\td_050.json, TICKDOWN Mode! ,倒计时模式!
+training\cowboyA0_easy.json, Training Mode: Normal Level (easy) ,训练模式: 正常关卡 (简单)
+training\cowboyA0_extreme.json, Training Mode: Normal Level (extreme) ,训练模式: 正常关卡 (极难)
+training\cowboyA0_hard.json, Training Mode: Normal Level (hard) ,训练模式: 正常关卡 (困难)
+training\cowboyA0_normal.json, Training Mode: Normal Level (normal) ,训练模式: 正常关卡 (一般)
+training\cowboyA1_easy.json, Training Mode: Normal Level (easy) ,训练模式: 正常关卡 (简单)
+training\cowboyA1_extreme.json, Training Mode: Normal Level (extreme) ,训练模式: 正常关卡 (极难)
+training\cowboyA1_hard.json, Training Mode: Normal Level (hard) ,训练模式: 正常关卡 (困难)
+training\cowboyA1_normal.json, Training Mode: Normal Level (normal) ,训练模式: 正常关卡 (一般)
+training\cowboyB0_easy.json, Training Mode: Rushed Start (easy) ,训练模式: 急促开局 (简单)
+training\cowboyB0_extreme.json, Training Mode: Rushed Start (extreme) ,训练模式: 急促开局 (极难)
+training\cowboyB0_hard.json, Training Mode: Rushed Start (hard) ,训练模式: 急促开局 (困难)
+training\cowboyB0_normal.json, Training Mode: Rushed Start (normal) ,训练模式: 急促开局 (一般)
+training\cowboyB1_easy.json, Training Mode: Rushed Start (easy) ,训练模式: 急促开局 (简单)
+training\cowboyB1_extreme.json, Training Mode: Rushed Start (extreme) ,训练模式: 急促开局 (极难)
+training\cowboyB1_hard.json, Training Mode: Rushed Start (hard) ,训练模式: 急促开局 (困难)
+training\cowboyB1_normal.json, Training Mode: Rushed Start (normal) ,训练模式: 急促开局 (一般)
+training\cowboyC0_easy.json, Training Mode: Gimmick Swarm (easy) ,训练模式: 花招成群 (简单)
+training\cowboyC0_extreme.json, Training Mode: Gimmick Swarm (extreme) ,训练模式: 花招成群 (极难)
+training\cowboyC0_hard.json, Training Mode: Gimmick Swarm (hard) ,训练模式: 花招成群 (困难)
+training\cowboyC0_normal.json, Training Mode: Gimmick Swarm (normal) ,训练模式: 花招成群 (一般)
+training\cowboyC1_easy.json, Training Mode: Gimmick Swarm (easy) ,训练模式: 花招成群 (简单)
+training\cowboyC1_extreme.json, Training Mode: Gimmick Swarm (extreme) ,训练模式: 花招成群 (极难)
+training\cowboyC1_hard.json, Training Mode: Gimmick Swarm (hard) ,训练模式: 花招成群 (困难)
+training\cowboyC1_normal.json, Training Mode: Gimmick Swarm (normal) ,训练模式: 花招成群 (一般)
+training\cowboyD1_easy.json, Training Mode: Auto Sun (easy) ,训练模式: 自动阳光 (简单)
+training\cowboyD1_extreme.json, Training Mode: Auto Sun (extreme) ,训练模式: 自动阳光 (极难)
+training\cowboyD1_hard.json, Training Mode: Auto Sun (hard) ,训练模式: 自动阳光 (困难)
+training\cowboyD1_normal.json, Training Mode: Auto Sun (normal) ,训练模式: 自动阳光 (一般)
+training\cowboyE0_easy.json, Training Mode: Double Recharge (easy) ,训练模式: 双倍冷却 (简单)
+training\cowboyE0_extreme.json, Training Mode: Double Recharge (extreme) ,训练模式: 双倍冷却 (极难)
+training\cowboyE0_hard.json, Training Mode: Double Recharge (hard) ,训练模式: 双倍冷却 (困难)
+training\cowboyE0_normal.json, Training Mode: Double Recharge (normal) ,训练模式: 双倍冷却 (一般)
+training\cowboyE1_easy.json, Training Mode: Double Recharge (easy) ,训练模式: 双倍冷却 (简单)
+training\cowboyE1_extreme.json, Training Mode: Double Recharge (extreme) ,训练模式: 双倍冷却 (极难)
+training\cowboyE1_hard.json, Training Mode: Double Recharge (hard) ,训练模式: 双倍冷却 (困难)
+training\cowboyE1_normal.json, Training Mode: Double Recharge (normal) ,训练模式: 双倍冷却 (一般)
+training\cowboyF0_easy.json, Training Mode: Sun Headstart (easy) ,训练模式: 开局阳光 (简单)
+training\cowboyF0_extreme.json, Training Mode: Sun Headstart (extreme) ,训练模式: 开局阳光 (极难)
+training\cowboyF0_hard.json, Training Mode: Sun Headstart (hard) ,训练模式: 开局阳光 (困难)
+training\cowboyF0_normal.json, Training Mode: Sun Headstart (normal) ,训练模式: 开局阳光 (一般)
+training\cowboyF1_easy.json, Training Mode: Sun Headstart (easy) ,训练模式: 开局阳光 (简单)
+training\cowboyF1_extreme.json, Training Mode: Sun Headstart (extreme) ,训练模式: 开局阳光 (极难)
+training\cowboyF1_hard.json, Training Mode: Sun Headstart (hard) ,训练模式: 开局阳光 (困难)
+training\cowboyF1_normal.json, Training Mode: Sun Headstart (normal) ,训练模式: 开局阳光 (一般)
+training\cowboyG1_easy.json, Training Mode: Last Stand (easy) ,训练模式: 坚不可摧 (简单)
+training\cowboyG1_extreme.json, Training Mode: Last Stand (extreme) ,训练模式: 坚不可摧 (极难)
+training\cowboyG1_hard.json, Training Mode: Last Stand (hard) ,训练模式: 坚不可摧 (困难)
+training\cowboyG1_normal.json, Training Mode: Last Stand (normal) ,训练模式: 坚不可摧 (一般)
+training\darkA0_easy.json, Training Mode: Normal Level (easy) ,训练模式: 正常关卡 (简单)
+training\darkA0_extreme.json, Training Mode: Normal Level (extreme) ,训练模式: 正常关卡 (极难)
+training\darkA0_hard.json, Training Mode: Normal Level (hard) ,训练模式: 正常关卡 (困难)
+training\darkA0_normal.json, Training Mode: Normal Level (normal) ,训练模式: 正常关卡 (一般)
+training\darkA1_easy.json, Training Mode: Normal Level (easy) ,训练模式: 正常关卡 (简单)
+training\darkA1_extreme.json, Training Mode: Normal Level (extreme) ,训练模式: 正常关卡 (极难)
+training\darkA1_hard.json, Training Mode: Normal Level (hard) ,训练模式: 正常关卡 (困难)
+training\darkA1_normal.json, Training Mode: Normal Level (normal) ,训练模式: 正常关卡 (一般)
+training\darkB0_easy.json, Training Mode: Rushed Start (easy) ,训练模式: 急促开局 (简单)
+training\darkB0_extreme.json, Training Mode: Rushed Start (extreme) ,训练模式: 急促开局 (极难)
+training\darkB0_hard.json, Training Mode: Rushed Start (hard) ,训练模式: 急促开局 (困难)
+training\darkB0_normal.json, Training Mode: Rushed Start (normal) ,训练模式: 急促开局 (一般)
+training\darkB1_easy.json, Training Mode: Rushed Start (easy) ,训练模式: 急促开局 (简单)
+training\darkB1_extreme.json, Training Mode: Rushed Start (extreme) ,训练模式: 急促开局 (极难)
+training\darkB1_hard.json, Training Mode: Rushed Start (hard) ,训练模式: 急促开局 (困难)
+training\darkB1_normal.json, Training Mode: Rushed Start (normal) ,训练模式: 急促开局 (一般)
+training\darkC0_easy.json, Training Mode: Gimmick Swarm (easy) ,训练模式: 花招成群 (简单)
+training\darkC0_extreme.json, Training Mode: Gimmick Swarm (extreme) ,训练模式: 花招成群 (极难)
+training\darkC0_hard.json, Training Mode: Gimmick Swarm (hard) ,训练模式: 花招成群 (困难)
+training\darkC0_normal.json, Training Mode: Gimmick Swarm (normal) ,训练模式: 花招成群 (一般)
+training\darkC1_easy.json, Training Mode: Gimmick Swarm (easy) ,训练模式: 花招成群 (简单)
+training\darkC1_extreme.json, Training Mode: Gimmick Swarm (extreme) ,训练模式: 花招成群 (极难)
+training\darkC1_hard.json, Training Mode: Gimmick Swarm (hard) ,训练模式: 花招成群 (困难)
+training\darkC1_normal.json, Training Mode: Gimmick Swarm (normal) ,训练模式: 花招成群 (一般)
+training\darkD1_easy.json, Training Mode: Auto Sun (easy) ,训练模式: 自动阳光 (简单)
+training\darkD1_extreme.json, Training Mode: Auto Sun (extreme) ,训练模式: 自动阳光 (极难)
+training\darkD1_hard.json, Training Mode: Auto Sun (hard) ,训练模式: 自动阳光 (困难)
+training\darkD1_normal.json, Training Mode: Auto Sun (normal) ,训练模式: 自动阳光 (一般)
+training\darkE0_easy.json, Training Mode: Double Recharge (easy) ,训练模式: 双倍冷却 (简单)
+training\darkE0_extreme.json, Training Mode: Double Recharge (extreme) ,训练模式: 双倍冷却 (极难)
+training\darkE0_hard.json, Training Mode: Double Recharge (hard) ,训练模式: 双倍冷却 (困难)
+training\darkE0_normal.json, Training Mode: Double Recharge (normal) ,训练模式: 双倍冷却 (一般)
+training\darkE1_easy.json, Training Mode: Double Recharge (easy) ,训练模式: 双倍冷却 (简单)
+training\darkE1_extreme.json, Training Mode: Double Recharge (extreme) ,训练模式: 双倍冷却 (极难)
+training\darkE1_hard.json, Training Mode: Double Recharge (hard) ,训练模式: 双倍冷却 (困难)
+training\darkE1_normal.json, Training Mode: Double Recharge (normal) ,训练模式: 双倍冷却 (一般)
+training\darkF0_easy.json, Training Mode: Sun Headstart (easy) ,训练模式: 开局阳光 (简单)
+training\darkF0_extreme.json, Training Mode: Sun Headstart (extreme) ,训练模式: 开局阳光 (极难)
+training\darkF0_hard.json, Training Mode: Sun Headstart (hard) ,训练模式: 开局阳光 (困难)
+training\darkF0_normal.json, Training Mode: Sun Headstart (normal) ,训练模式: 开局阳光 (一般)
+training\darkF1_easy.json, Training Mode: Sun Headstart (easy) ,训练模式: 开局阳光 (简单)
+training\darkF1_extreme.json, Training Mode: Sun Headstart (extreme) ,训练模式: 开局阳光 (极难)
+training\darkF1_hard.json, Training Mode: Sun Headstart (hard) ,训练模式: 开局阳光 (困难)
+training\darkF1_normal.json, Training Mode: Sun Headstart (normal) ,训练模式: 开局阳光 (一般)
+training\darkG1_easy.json, Training Mode: Last Stand (easy) ,训练模式: 坚不可摧 (简单)
+training\darkG1_extreme.json, Training Mode: Last Stand (extreme) ,训练模式: 坚不可摧 (极难)
+training\darkG1_hard.json, Training Mode: Last Stand (hard) ,训练模式: 坚不可摧 (困难)
+training\darkG1_normal.json, Training Mode: Last Stand (normal) ,训练模式: 坚不可摧 (一般)
+training\egyptA0_easy.json, Training Mode: Normal Level (easy) ,训练模式: 正常关卡 (简单)
+training\egyptA0_extreme.json, Training Mode: Normal Level (extreme) ,训练模式: 正常关卡 (极难)
+training\egyptA0_hard.json, Training Mode: Normal Level (hard) ,训练模式: 正常关卡 (困难)
+training\egyptA0_normal.json, Training Mode: Normal Level (normal) ,训练模式: 正常关卡 (一般)
+training\egyptA1_easy.json, Training Mode: Normal Level (easy) ,训练模式: 正常关卡 (简单)
+training\egyptA1_extreme.json, Training Mode: Normal Level (extreme) ,训练模式: 正常关卡 (极难)
+training\egyptA1_hard.json, Training Mode: Normal Level (hard) ,训练模式: 正常关卡 (困难)
+training\egyptA1_normal.json, Training Mode: Normal Level (normal) ,训练模式: 正常关卡 (一般)
+training\egyptB0_easy.json, Training Mode: Rushed Start (easy) ,训练模式: 急促开局 (简单) 
+training\egyptB0_extreme.json, Training Mode: Rushed Start (extreme) ,训练模式: 急促开局 (极难)
+training\egyptB0_hard.json, Training Mode: Rushed Start (hard) ,训练模式: 急促开局 (困难)
+training\egyptB0_normal.json, Training Mode: Rushed Start (normal) ,训练模式: 急促开局 (一般)
+training\egyptB1_easy.json, Training Mode: Rushed Start (easy) ,训练模式: 急促开局 (简单) 
+training\egyptB1_extreme.json, Training Mode: Rushed Start (extreme) ,训练模式: 急促开局 (极难)
+training\egyptB1_hard.json, Training Mode: Rushed Start (hard) ,训练模式: 急促开局 (困难)
+training\egyptB1_normal.json, Training Mode: Rushed Start (normal) ,训练模式: 急促开局 (一般)
+training\egyptC0_easy.json, Training Mode: Gimmick Swarm (easy) ,训练模式: 花招成群 (简单)
+training\egyptC0_extreme.json, Training Mode: Gimmick Swarm (extreme) ,训练模式: 花招成群 (极难)
+training\egyptC0_hard.json, Training Mode: Gimmick Swarm (hard) ,训练模式: 花招成群 (困难)
+training\egyptC0_normal.json, Training Mode: Gimmick Swarm (normal) ,训练模式: 花招成群 (一般)
+training\egyptC1_easy.json, Training Mode: Gimmick Swarm (easy) ,训练模式: 花招成群 (简单)
+training\egyptC1_extreme.json, Training Mode: Gimmick Swarm (extreme) ,训练模式: 花招成群 (极难)
+training\egyptC1_hard.json, Training Mode: Gimmick Swarm (hard) ,训练模式: 花招成群 (困难)
+training\egyptC1_normal.json, Training Mode: Gimmick Swarm (normal) ,训练模式: 花招成群 (一般)
+training\egyptD1_easy.json, Training Mode: Auto Sun (easy) ,训练模式: 自动阳光 (简单)
+training\egyptD1_extreme.json, Training Mode: Auto Sun (extreme) ,训练模式: 自动阳光 (极难)
+training\egyptD1_hard.json, Training Mode: Auto Sun (hard) ,训练模式: 自动阳光 (困难)
+training\egyptD1_normal.json, Training Mode: Auto Sun (normal) ,训练模式: 自动阳光 (一般)
+training\egyptE0_easy.json, Training Mode: Double Recharge (easy) ,训练模式: 双倍冷却 (简单)
+training\egyptE0_extreme.json, Training Mode: Double Recharge (extreme) ,训练模式: 双倍冷却 (极难)
+training\egyptE0_hard.json, Training Mode: Double Recharge (hard) ,训练模式: 双倍冷却 (困难)
+training\egyptE0_normal.json, Training Mode: Double Recharge (normal) ,训练模式: 双倍冷却 (一般)
+training\egyptE1_easy.json, Training Mode: Double Recharge (easy) ,训练模式: 双倍冷却 (简单)
+training\egyptE1_extreme.json, Training Mode: Double Recharge (extreme) ,训练模式: 双倍冷却 (极难)
+training\egyptE1_hard.json, Training Mode: Double Recharge (hard) ,训练模式: 双倍冷却 (困难)
+training\egyptE1_normal.json, Training Mode: Double Recharge (normal) ,训练模式: 双倍冷却 (一般)
+training\egyptF0_easy.json, Training Mode: Sun Headstart (easy) ,训练模式: 开局阳光 (简单)
+training\egyptF0_extreme.json, Training Mode: Sun Headstart (extreme) ,训练模式: 开局阳光 (极难)
+training\egyptF0_hard.json, Training Mode: Sun Headstart (hard) ,训练模式: 开局阳光 (困难)
+training\egyptF0_normal.json, Training Mode: Sun Headstart (normal) ,训练模式: 开局阳光 (一般)
+training\egyptF1_easy.json, Training Mode: Sun Headstart (easy) ,训练模式: 开局阳光 (简单)
+training\egyptF1_extreme.json, Training Mode: Sun Headstart (extreme) ,训练模式: 开局阳光 (极难)
+training\egyptF1_hard.json, Training Mode: Sun Headstart (hard) ,训练模式: 开局阳光 (困难)
+training\egyptF1_normal.json, Training Mode: Sun Headstart (normal) ,训练模式: 开局阳光 (一般)
+training\egyptG1_easy.json, Training Mode: Last Stand (easy) ,训练模式: 坚不可摧 (简单)
+training\egyptG1_extreme.json, Training Mode: Last Stand (extreme) ,训练模式: 坚不可摧 (极难)
+training\egyptG1_hard.json, Training Mode: Last Stand (hard) ,训练模式: 坚不可摧 (困难)
+training\egyptG1_normal.json, Training Mode: Last Stand (normal) ,训练模式: 坚不可摧 (一般)
+training\iceageA1_easy.json, Training Mode: Normal Level (easy) ,训练模式: 正常关卡 (简单)
+training\iceageA1_extreme.json, Training Mode: Normal Level (extreme) ,训练模式: 正常关卡 (极难)
+training\iceageA1_hard.json, Training Mode: Normal Level (hard) ,训练模式: 正常关卡 (困难)
+training\iceageA1_normal.json, Training Mode: Normal Level (normal) ,训练模式: 正常关卡 (一般)
+training\iceageB1_easy.json, Training Mode: Rushed Start (easy) ,训练模式: 急促开局 (简单)
+training\iceageB1_extreme.json, Training Mode: Rushed Start (extreme) ,训练模式: 急促开局 (极难)
+training\iceageB1_hard.json, Training Mode: Rushed Start (hard) ,训练模式: 急促开局 (困难)
+training\iceageB1_normal.json, Training Mode: Rushed Start (normal) ,训练模式: 急促开局 (一般)
+training\iceageC1_easy.json, Training Mode: Gimmick Swarm (easy) ,训练模式: 花招成群 (简单)
+training\iceageC1_extreme.json, Training Mode: Gimmick Swarm (extreme) ,训练模式: 花招成群 (极难)
+training\iceageC1_hard.json, Training Mode: Gimmick Swarm (hard) ,训练模式: 花招成群 (困难)
+training\iceageC1_normal.json, Training Mode: Gimmick Swarm (normal) ,训练模式: 花招成群 (一般)
+training\iceageD1_easy.json, Training Mode: Auto Sun (easy) ,训练模式: 自动阳光 (简单)
+training\iceageD1_extreme.json, Training Mode: Auto Sun (extreme) ,训练模式: 自动阳光 (极难)
+training\iceageD1_hard.json, Training Mode: Auto Sun (hard) ,训练模式: 自动阳光 (困难)
+training\iceageD1_normal.json, Training Mode: Auto Sun (normal) ,训练模式: 自动阳光 (一般)
+training\iceageE1_easy.json, Training Mode: Double Recharge (easy) ,训练模式: 双倍冷却 (简单)
+training\iceageE1_extreme.json, Training Mode: Double Recharge (extreme) ,训练模式: 双倍冷却 (极难)
+training\iceageE1_hard.json, Training Mode: Double Recharge (hard) ,训练模式: 双倍冷却 (困难)
+training\iceageE1_normal.json, Training Mode: Double Recharge (normal) ,训练模式: 双倍冷却 (一般)
+training\iceageF1_easy.json, Training Mode: Sun Headstart (easy) ,训练模式: 开局阳光 (简单)
+training\iceageF1_extreme.json, Training Mode: Sun Headstart (extreme) ,训练模式: 开局阳光 (极难)
+training\iceageF1_hard.json, Training Mode: Sun Headstart (hard) ,训练模式: 开局阳光 (困难)
+training\iceageF1_normal.json, Training Mode: Sun Headstart (normal) ,训练模式: 开局阳光 (一般)
+training\iceageG1_easy.json, Training Mode: Last Stand (easy) ,训练模式: 坚不可摧 (简单)
+training\iceageG1_extreme.json, Training Mode: Last Stand (extreme) ,训练模式: 坚不可摧 (极难)
+training\iceageG1_hard.json, Training Mode: Last Stand (hard) ,训练模式: 坚不可摧 (困难)
+training\iceageG1_normal.json, Training Mode: Last Stand (normal) ,训练模式: 坚不可摧 (一般)
+training\lostcityA0_easy.json, Training Mode: Normal Level (easy) ,训练模式: 正常关卡 (简单)
+training\lostcityA0_extreme.json, Training Mode: Normal Level (extreme) ,训练模式: 正常关卡 (极难)
+training\lostcityA0_hard.json, Training Mode: Normal Level (hard) ,训练模式: 正常关卡 (困难)
+training\lostcityA0_normal.json, Training Mode: Normal Level (normal) ,训练模式: 正常关卡 (一般)
+training\lostcityA1_easy.json, Training Mode: Normal Level (easy) ,训练模式: 正常关卡 (简单)
+training\lostcityA1_extreme.json, Training Mode: Normal Level (extreme) ,训练模式: 正常关卡 (极难)
+training\lostcityA1_hard.json, Training Mode: Normal Level (hard) ,训练模式: 正常关卡 (困难)
+training\lostcityA1_normal.json, Training Mode: Normal Level (normal) ,训练模式: 正常关卡 (一般)
+training\lostcityB0_easy.json, Training Mode: Rushed Start (easy) ,训练模式: 急促开局 (简单)
+training\lostcityB0_extreme.json, Training Mode: Rushed Start (extreme) ,训练模式: 急促开局 (极难)
+training\lostcityB0_hard.json, Training Mode: Rushed Start (hard) ,训练模式: 急促开局 (困难)
+training\lostcityB0_normal.json, Training Mode: Rushed Start (normal) ,训练模式: 急促开局 (一般)
+training\lostcityB1_easy.json, Training Mode: Rushed Start (easy) ,训练模式: 急促开局 (简单)
+training\lostcityB1_extreme.json, Training Mode: Rushed Start (extreme) ,训练模式: 急促开局 (极难)
+training\lostcityB1_hard.json, Training Mode: Rushed Start (hard) ,训练模式: 急促开局 (困难)
+training\lostcityB1_normal.json, Training Mode: Rushed Start (normal) ,训练模式: 急促开局 (一般)
+training\lostcityC0_easy.json, Training Mode: Gimmick Swarm (easy) ,训练模式: 花招成群 (简单)
+training\lostcityC0_extreme.json, Training Mode: Gimmick Swarm (extreme) ,训练模式: 花招成群 (极难)
+training\lostcityC0_hard.json, Training Mode: Gimmick Swarm (hard) ,训练模式: 花招成群 (困难)
+training\lostcityC0_normal.json, Training Mode: Gimmick Swarm (normal) ,训练模式: 花招成群 (一般)
+training\lostcityC1_easy.json, Training Mode: Gimmick Swarm (easy) ,训练模式: 花招成群 (简单)
+training\lostcityC1_extreme.json, Training Mode: Gimmick Swarm (extreme) ,训练模式: 花招成群 (极难)
+training\lostcityC1_hard.json, Training Mode: Gimmick Swarm (hard) ,训练模式: 花招成群 (困难)
+training\lostcityC1_normal.json, Training Mode: Gimmick Swarm (normal) ,训练模式: 花招成群 (一般)
+training\lostcityD1_easy.json, Training Mode: Auto Sun (easy) ,训练模式: 自动阳光 (简单)
+training\lostcityD1_extreme.json, Training Mode: Auto Sun (extreme) ,训练模式: 自动阳光 (极难)
+training\lostcityD1_hard.json, Training Mode: Auto Sun (hard) ,训练模式: 自动阳光 (困难)
+training\lostcityD1_normal.json, Training Mode: Auto Sun (normal) ,训练模式: 自动阳光 (一般)
+training\lostcityE0_easy.json, Training Mode: Double Recharge (easy) ,训练模式: 双倍冷却 (简单)
+training\lostcityE0_extreme.json, Training Mode: Double Recharge (extreme) ,训练模式: 双倍冷却 (极难)
+training\lostcityE0_hard.json, Training Mode: Double Recharge (hard) ,训练模式: 双倍冷却 (困难)
+training\lostcityE0_normal.json, Training Mode: Double Recharge (normal) ,训练模式: 双倍冷却 (一般)
+training\lostcityE1_easy.json, Training Mode: Double Recharge (easy) ,训练模式: 双倍冷却 (简单)
+training\lostcityE1_extreme.json, Training Mode: Double Recharge (extreme) ,训练模式: 双倍冷却 (极难)
+training\lostcityE1_hard.json, Training Mode: Double Recharge (hard) ,训练模式: 双倍冷却 (困难)
+training\lostcityE1_normal.json, Training Mode: Double Recharge (normal) ,训练模式: 双倍冷却 (一般)
+training\lostcityF0_easy.json, Training Mode: Sun Headstart (easy) ,训练模式: 开局阳光 (简单)
+training\lostcityF0_extreme.json, Training Mode: Sun Headstart (extreme) ,训练模式: 开局阳光 (极难)
+training\lostcityF0_hard.json, Training Mode: Sun Headstart (hard) ,训练模式: 开局阳光 (困难)
+training\lostcityF0_normal.json, Training Mode: Sun Headstart (normal) ,训练模式: 开局阳光 (一般)
+training\lostcityF1_easy.json, Training Mode: Sun Headstart (easy) ,训练模式: 开局阳光 (简单)
+training\lostcityF1_extreme.json, Training Mode: Sun Headstart (extreme) ,训练模式: 开局阳光 (极难)
+training\lostcityF1_hard.json, Training Mode: Sun Headstart (hard) ,训练模式: 开局阳光 (困难)
+training\lostcityF1_normal.json, Training Mode: Sun Headstart (normal) ,训练模式: 开局阳光 (一般)
+training\lostcityG1_easy.json, Training Mode: Last Stand (easy) ,训练模式: 坚不可摧 (简单)
+training\lostcityG1_extreme.json, Training Mode: Last Stand (extreme) ,训练模式: 坚不可摧 (极难)
+training\lostcityG1_hard.json, Training Mode: Last Stand (hard) ,训练模式: 坚不可摧 (困难)
+training\lostcityG1_normal.json, Training Mode: Last Stand (normal) ,训练模式: 坚不可摧 (一般)
+training\pirateA1_easy_1.json, Training Mode: Normal Level (easy) ,训练模式: 正常关卡 (简单)
+training\pirateA1_easy_2.json, Training Mode: Normal Level (easy) ,训练模式: 正常关卡 (简单)
+training\pirateA1_extreme_1.json, Training Mode: Normal Level (extreme) ,训练模式: 正常关卡 (极难)
+training\pirateA1_extreme_2.json, Training Mode: Normal Level (extreme) ,训练模式: 正常关卡 (极难)
+training\pirateA1_hard_1.json, Training Mode: Normal Level (hard) ,训练模式: 正常关卡 (困难)
+training\pirateA1_hard_2.json, Training Mode: Normal Level (hard) ,训练模式: 正常关卡 (困难)
+training\pirateA1_normal_1.json, Training Mode: Normal Level (normal) ,训练模式: 正常关卡 (一般)
+training\pirateA1_normal_2.json, Training Mode: Normal Level (normal) ,训练模式: 正常关卡 (一般)
+training\pirateB1_easy_1.json, Training Mode: Rushed Start (easy) ,训练模式: 急促开局 (简单)
+training\pirateB1_easy_2.json, Training Mode: Rushed Start (easy) ,训练模式: 急促开局 (简单)
+training\pirateB1_extreme_1.json, Training Mode: Rushed Start (extreme) ,训练模式: 急促开局 (极难)
+training\pirateB1_extreme_2.json, Training Mode: Rushed Start (extreme) ,训练模式: 急促开局 (极难)
+training\pirateB1_hard_1.json, Training Mode: Rushed Start (hard) ,训练模式: 急促开局 (困难)
+training\pirateB1_hard_2.json, Training Mode: Rushed Start (hard) ,训练模式: 急促开局 (困难)
+training\pirateB1_normal_1.json, Training Mode: Rushed Start (normal) ,训练模式: 急促开局 (一般)
+training\pirateB1_normal_2.json, Training Mode: Rushed Start (normal) ,训练模式: 急促开局 (一般)
+training\pirateC1_easy_1.json, Training Mode: Gimmick Swarm (easy) ,训练模式: 花招成群 (简单)
+training\pirateC1_easy_2.json, Training Mode: Gimmick Swarm (easy) ,训练模式: 花招成群 (简单)
+training\pirateC1_extreme_1.json, Training Mode: Gimmick Swarm (extreme) ,训练模式: 花招成群 (极难)
+training\pirateC1_extreme_2.json, Training Mode: Gimmick Swarm (extreme) ,训练模式: 花招成群 (极难)
+training\pirateC1_hard_1.json, Training Mode: Gimmick Swarm (hard) ,训练模式: 花招成群 (困难)
+training\pirateC1_hard_2.json, Training Mode: Gimmick Swarm (hard) ,训练模式: 花招成群 (困难)
+training\pirateC1_normal_1.json, Training Mode: Gimmick Swarm (normal) ,训练模式: 花招成群 (一般)
+training\pirateC1_normal_2.json, Training Mode: Gimmick Swarm (normal) ,训练模式: 花招成群 (一般)
+training\pirateD1_easy_1.json, Training Mode: Auto Sun (easy) ,训练模式: 自动阳光 (简单)
+training\pirateD1_easy_2.json, Training Mode: Auto Sun (easy) ,训练模式: 自动阳光 (简单)
+training\pirateD1_extreme_1.json, Training Mode: Auto Sun (extreme) ,训练模式: 自动阳光 (极难)
+training\pirateD1_extreme_2.json, Training Mode: Auto Sun (extreme) ,训练模式: 自动阳光 (极难)
+training\pirateD1_hard_1.json, Training Mode: Auto Sun (hard) ,训练模式: 自动阳光 (困难)
+training\pirateD1_hard_2.json, Training Mode: Auto Sun (hard) ,训练模式: 自动阳光 (困难)
+training\pirateD1_normal_1.json, Training Mode: Auto Sun (normal) ,训练模式: 自动阳光 (一般)
+training\pirateD1_normal_2.json, Training Mode: Auto Sun (normal) ,训练模式: 自动阳光 (一般)
+training\pirateE1_easy_1.json, Training Mode: Double Recharge (easy) ,训练模式: 双倍冷却 (简单)
+training\pirateE1_easy_2.json, Training Mode: Double Recharge (easy) ,训练模式: 双倍冷却 (简单)
+training\pirateE1_extreme_1.json, Training Mode: Double Recharge (extreme) ,训练模式: 双倍冷却 (极难)
+training\pirateE1_extreme_2.json, Training Mode: Double Recharge (extreme) ,训练模式: 双倍冷却 (极难)
+training\pirateE1_hard_1.json, Training Mode: Double Recharge (hard) ,训练模式: 双倍冷却 (困难)
+training\pirateE1_hard_2.json, Training Mode: Double Recharge (hard) ,训练模式: 双倍冷却 (困难)
+training\pirateE1_normal_1.json, Training Mode: Double Recharge (normal) ,训练模式: 双倍冷却 (一般)
+training\pirateE1_normal_2.json, Training Mode: Double Recharge (normal) ,训练模式: 双倍冷却 (一般)
+training\pirateF1_easy_1.json, Training Mode: Sun Headstart (easy) ,训练模式: 开局阳光 (简单)
+training\pirateF1_easy_2.json, Training Mode: Sun Headstart (easy) ,训练模式: 开局阳光 (简单)
+training\pirateF1_extreme_1.json, Training Mode: Sun Headstart (extreme) ,训练模式: 开局阳光 (极难)
+training\pirateF1_extreme_2.json, Training Mode: Sun Headstart (extreme) ,训练模式: 开局阳光 (极难)
+training\pirateF1_hard_1.json, Training Mode: Sun Headstart (hard) ,训练模式: 开局阳光 (困难)
+training\pirateF1_hard_2.json, Training Mode: Sun Headstart (hard) ,训练模式: 开局阳光 (困难)
+training\pirateF1_normal_1.json, Training Mode: Sun Headstart (normal) ,训练模式: 开局阳光 (一般)
+training\pirateF1_normal_2.json, Training Mode: Sun Headstart (normal) ,训练模式: 开局阳光 (一般)
+training\pirateG1_easy_1.json, Training Mode: Last Stand (easy) ,训练模式: 坚不可摧 (简单)
+training\pirateG1_easy_2.json, Training Mode: Last Stand (easy) ,训练模式: 坚不可摧 (简单)
+training\pirateG1_extreme_1.json, Training Mode: Last Stand (extreme) ,训练模式: 坚不可摧 (极难)
+training\pirateG1_extreme_2.json, Training Mode: Last Stand (extreme) ,训练模式: 坚不可摧 (极难)
+training\pirateG1_hard_1.json, Training Mode: Last Stand (hard) ,训练模式: 坚不可摧 (困难)
+training\pirateG1_hard_2.json, Training Mode: Last Stand (hard) ,训练模式: 坚不可摧 (困难)
+training\pirateG1_normal_1.json, Training Mode: Last Stand (normal) ,训练模式: 坚不可摧 (一般)
+training\pirateG1_normal_2.json, Training Mode: Last Stand (normal) ,训练模式: 坚不可摧 (一般)
+training\reset_training.json, Do not quit midway! ,不要中途退出!
+training\reset_training_2.json, Reset Training Room! ,重置训练区!
+Tutorial1.json, 0-1: Tutorial ,0-1: 教程
+Tutorial2.json, 0-2: Tutorial ,0-2: 教程
+Tutorial3.json, 0-3: Tutorial ,0-3: 教程
+Tutorial4.json, 0-4: Tutorial ,0-4: 教程

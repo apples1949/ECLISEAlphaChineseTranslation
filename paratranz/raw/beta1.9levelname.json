@@ -1,0 +1,5707 @@
+[
+  {
+    "key": "Beach_DangerRoom.json",
+    "original": " [DANGER_ROOM_BEACH_LEVEL_NAME] ",
+    "translation": "[DANGER_ROOM_BEACH_LEVEL_NAME]",
+    "stage": 5,
+    "context": "1"
+  },
+  {
+    "key": "Beach0.json",
+    "original": " 看看旅行日志! ",
+    "translation": "查看一下旅行日志吧!",
+    "stage": 5,
+    "context": "2"
+  },
+  {
+    "key": "Beach1.json",
+    "original": " 7-1: 沙滩 ",
+    "translation": "7-1: 傍海沙滩",
+    "stage": 5,
+    "context": "3"
+  },
+  {
+    "key": "Beach11.json",
+    "original": " 17-1: 巨浪 ",
+    "translation": "17-1: 巨浪",
+    "stage": 5,
+    "context": "4"
+  },
+  {
+    "key": "Beach12.json",
+    "original": " 17-2: 全套潜水员 ",
+    "translation": "17-2: 全套潜水员 ",
+    "stage": 5,
+    "context": "5"
+  },
+  {
+    "key": "Beach14.json",
+    "original": " 17-4: 麻烦的渔夫 ",
+    "translation": "17-4: 麻烦的渔夫",
+    "stage": 5,
+    "context": "6"
+  },
+  {
+    "key": "Beach16.json",
+    "original": " 17-6: 包围圈 ",
+    "translation": "17-6: 包围圈",
+    "stage": 5,
+    "context": "7"
+  },
+  {
+    "key": "Beach17.json",
+    "original": " 17-7: 气球港湾 ",
+    "translation": "17-7: 气球港湾 ",
+    "stage": 5,
+    "context": "8"
+  },
+  {
+    "key": "Beach19.json",
+    "original": " 17-9: 水鼠 ",
+    "translation": "17-9: 水鼠",
+    "stage": 5,
+    "context": "9"
+  },
+  {
+    "key": "Beach2.json",
+    "original": " 7-2: Unstable Terrain ",
+    "translation": "7-2: 不稳地形",
+    "stage": 5,
+    "context": "10"
+  },
+  {
+    "key": "Beach4.json",
+    "original": " 7-4: Flooded Area ",
+    "translation": "7-4: 淹没区域",
+    "stage": 5,
+    "context": "11"
+  },
+  {
+    "key": "Beach5.json",
+    "original": " 7-5: Wave Controller ",
+    "translation": "7-5: 驯浪高手",
+    "stage": 5,
+    "context": "12"
+  },
+  {
+    "key": "Beach7.json",
+    "original": " 7-7: Capturing Creature ",
+    "translation": "7-7: 生物攻占",
+    "stage": 5,
+    "context": "13"
+  },
+  {
+    "key": "Beach9.json",
+    "original": " 7-9: Party Destroyer ",
+    "translation": "7-9: 宴会破坏者",
+    "stage": 5,
+    "context": "14"
+  },
+  {
+    "key": "challenges\\epic_banana2.json",
+    "original": " BNN-2: Premium Detonator ",
+    "translation": "BNN-2: 高昂炸药",
+    "stage": 5,
+    "context": "15"
+  },
+  {
+    "key": "challenges\\epic_banana5.json",
+    "original": " BNN-5: Aiming Arcademy ",
+    "translation": "BNN-5: 瞄准街机",
+    "stage": 5,
+    "context": "16"
+  },
+  {
+    "key": "challenges\\epic_cowboy9.json",
+    "original": " The Old Queens ",
+    "translation": "年老皇后",
+    "stage": 5,
+    "context": "17"
+  },
+  {
+    "key": "challenges\\epic_crystallshroom1.json",
+    "original": " CRS-1: Moon Pyra ",
+    "translation": "CRS-1: 埃及月色",
+    "stage": 5,
+    "context": "18"
+  },
+  {
+    "key": "challenges\\epic_crystallshroom10.json",
+    "original": " CRS-10: Shard Chapter ",
+    "translation": "CRS-10: 冰片终章",
+    "stage": 5,
+    "context": "19"
+  },
+  {
+    "key": "challenges\\epic_crystallshroom2.json",
+    "original": " CRS-2: Seemless Bitter ",
+    "translation": "CRS-2: 不当苦涩",
+    "stage": 5,
+    "context": "20"
+  },
+  {
+    "key": "challenges\\epic_crystallshroom4.json",
+    "original": " CRS-4: Fire Block ",
+    "translation": "CRS-4: 防火器",
+    "stage": 5,
+    "context": "21"
+  },
+  {
+    "key": "challenges\\epic_crystallshroom6.json",
+    "original": " CRS-6: Clone Storm ",
+    "translation": "CRS-6: 克隆风暴",
+    "stage": 5,
+    "context": "22"
+  },
+  {
+    "key": "challenges\\epic_dino20.json",
+    "original": " Dino Dynasty ",
+    "translation": "恐龙王朝",
+    "stage": 5,
+    "context": "23"
+  },
+  {
+    "key": "challenges\\EPIC_ELECTRICBLUEBERRY1.json",
+    "original": " EBL-1: Smoke Strokes ",
+    "translation": "EBL-1: 乌云雷击",
+    "stage": 5,
+    "context": "24"
+  },
+  {
+    "key": "challenges\\EPIC_ELECTRICBLUEBERRY4.json",
+    "original": " EBL-4: Threat Unboxer ",
+    "translation": "EBL-4: 危险拆箱",
+    "stage": 5,
+    "context": "25"
+  },
+  {
+    "key": "challenges\\epic_iceage10.json",
+    "original": " Shuffling Revenge ",
+    "translation": "换位复仇",
+    "stage": 5,
+    "context": "26"
+  },
+  {
+    "key": "challenges\\epic_iceshroom1.json",
+    "original": " ICS-1: Night at the Marsh ",
+    "translation": "ICS-1: 沼泽之夜",
+    "stage": 5,
+    "context": "27"
+  },
+  {
+    "key": "challenges\\epic_iceshroom10.json",
+    "original": " ICS-10: Ice Power ",
+    "translation": "ICS-10: 寒冰之力",
+    "stage": 5,
+    "context": "28"
+  },
+  {
+    "key": "challenges\\epic_iceshroom2.json",
+    "original": " ICS-2: Ice Element ",
+    "translation": "ICS-2: 冰元素",
+    "stage": 5,
+    "context": "29"
+  },
+  {
+    "key": "challenges\\epic_iceshroom3.json",
+    "original": " ICS-3: Family Plant ",
+    "translation": "ICS-3: 植物家族",
+    "stage": 5,
+    "context": "30"
+  },
+  {
+    "key": "challenges\\epic_iceshroom4.json",
+    "original": " ICS-4: Breeze Power ",
+    "translation": "ICS-4: 冻结之力",
+    "stage": 5,
+    "context": "31"
+  },
+  {
+    "key": "challenges\\epic_iceshroom5.json",
+    "original": " ICS-5: Flashbang ",
+    "translation": "ICS-5: 闪光弹",
+    "stage": 5,
+    "context": "32"
+  },
+  {
+    "key": "challenges\\epic_iceshroom6.json",
+    "original": " ICS-6: Firefly Field ",
+    "translation": "ICS-6: 飞火流萤",
+    "stage": 5,
+    "context": "33"
+  },
+  {
+    "key": "challenges\\epic_iceshroom7.json",
+    "original": " ICS-7: Hiber Nation ",
+    "translation": "ICS-7: 冬眠国度",
+    "stage": 5,
+    "context": "34"
+  },
+  {
+    "key": "challenges\\epic_iceshroom8.json",
+    "original": " ICS-8: Stop Motion ",
+    "translation": "ICS-8: 停止前进",
+    "stage": 5,
+    "context": "35"
+  },
+  {
+    "key": "challenges\\epic_iceshroom9.json",
+    "original": " ICS-9: Frozen Flesh ",
+    "translation": "ICS-9: 冻肉",
+    "stage": 5,
+    "context": "36"
+  },
+  {
+    "key": "challenges\\epic_lostcity19.json",
+    "original": " Plague of the Forest ",
+    "translation": "丛林瘟疫",
+    "stage": 5,
+    "context": "37"
+  },
+  {
+    "key": "challenges\\epic_modern1.json",
+    "original": " MD-D1: Modern Day ",
+    "translation": "MD-D1: 现代白天",
+    "stage": 5,
+    "context": "38"
+  },
+  {
+    "key": "challenges\\epic_modern2.json",
+    "original": " MD-N1: Modern Night ",
+    "translation": "MD-N1: 现代夜晚",
+    "stage": 5,
+    "context": "39"
+  },
+  {
+    "key": "challenges\\epic_modern3.json",
+    "original": " MD-D2: Grass Steps ",
+    "translation": "MD-D2: 草坪漫步",
+    "stage": 5,
+    "context": "40"
+  },
+  {
+    "key": "challenges\\epic_modern4.json",
+    "original": " MD-N2: Moon Grains ",
+    "translation": "MD-N2: 夜光琳琳",
+    "stage": 5,
+    "context": "41"
+  },
+  {
+    "key": "challenges\\epic_modern7.json",
+    "original": " MD-D4: Future Dance? ",
+    "translation": "MD-D4: 未来舞蹈?",
+    "stage": 5,
+    "context": "42"
+  },
+  {
+    "key": "challenges\\epic_modern8.json",
+    "original": " MD-N4: Rave Under Grave ",
+    "translation": "MD-N4: 墓底舞会",
+    "stage": 5,
+    "context": "43"
+  },
+  {
+    "key": "challenges\\epic_shadowleaf1.json",
+    "original": " SDL-1: Hiding off the Sun ",
+    "translation": "SDL-1: 遮天蔽日",
+    "stage": 5,
+    "context": "44"
+  },
+  {
+    "key": "challenges\\epic_shadowleaf4.json",
+    "original": " SDL-4: On the Other Side of the Tree ",
+    "translation": "SDL-4: 树林别处",
+    "stage": 5,
+    "context": "45"
+  },
+  {
+    "key": "challenges\\epic_shadowleaf6.json",
+    "original": " SDL-6: Moon Boon ",
+    "translation": "SDL-6: 月光恩惠",
+    "stage": 5,
+    "context": "46"
+  },
+  {
+    "key": "challenges\\epic_shadowleaf9.json",
+    "original": " SDL-9: Spread Cross ",
+    "translation": "SDL-9: 交叉传播",
+    "stage": 5,
+    "context": "47"
+  },
+  {
+    "key": "challenges\\epic_springbean1.json",
+    "original": " SPB-1: Spring Theory ",
+    "translation": "SPB-1: 弹簧理论",
+    "stage": 5,
+    "context": "48"
+  },
+  {
+    "key": "challenges\\epic_springbean8.json",
+    "original": " SPB-8: Force Bounce ",
+    "translation": "SPB-8: 强制弹跳",
+    "stage": 5,
+    "context": "49"
+  },
+  {
+    "key": "challenges\\epic_sunbean6.json",
+    "original": " SNB-6: Sun Cells ",
+    "translation": "SNB-6: 阳光电池",
+    "stage": 5,
+    "context": "50"
+  },
+  {
+    "key": "challenges\\epic_wintermelon1.json",
+    "original": " WML-1: The Melon Brothers ",
+    "translation": "WML-1: 西瓜兄弟",
+    "stage": 5,
+    "context": "51"
+  },
+  {
+    "key": "community\\AKEE_FISHYCHIPS.json",
+    "original": " Fishy Chips - A.K.E.E ",
+    "translation": "炸鱼薯条 - A.K.E.E",
+    "stage": 5,
+    "context": "52"
+  },
+  {
+    "key": "community\\akee_themagickingdom.json",
+    "original": " The Magic Kingdom - A.K.E.E ",
+    "translation": "魔法王国 - A.K.E.E",
+    "stage": 5,
+    "context": "53"
+  },
+  {
+    "key": "community\\akee_theoldkingdom.json",
+    "original": " The Old Kingdom - A.K.E.E ",
+    "translation": "古老王国 - A.K.E.E",
+    "stage": 5,
+    "context": "54"
+  },
+  {
+    "key": "community\\BEEPBOOP_CATWALK.json",
+    "original": " Catwalk - BeepBoop ",
+    "translation": "灵活猫步 - BeepBoop",
+    "stage": 5,
+    "context": "55"
+  },
+  {
+    "key": "community\\beepboop_goldenrain.json",
+    "original": " Golden Rain - BeepBoop ",
+    "translation": "黄金之雨 - BeepBoop",
+    "stage": 5,
+    "context": "56"
+  },
+  {
+    "key": "community\\beepboop_intotheforest.json",
+    "original": " Into the Forest - BeepBoop ",
+    "translation": "深入密林 - BeepBoop",
+    "stage": 5,
+    "context": "57"
+  },
+  {
+    "key": "community\\BEEPBOOP_LOADEDANDLOCKED.json",
+    "original": " Loaded and Locked - BeepBoop ",
+    "translation": "装填锁定 - BeepBoop",
+    "stage": 5,
+    "context": "58"
+  },
+  {
+    "key": "community\\BEEPBOOP_NOTALLTHATGLITTERS.json",
+    "original": " Not All That Glitters is Gold - BeepBoop ",
+    "translation": "发光的不一定都是金子 - BeepBoop",
+    "stage": 5,
+    "context": "59"
+  },
+  {
+    "key": "community\\beepboop_prehistorictemple.json",
+    "original": " Prehistoric Temple - BeepBoop ",
+    "translation": "史前神殿 - BeepBoop",
+    "stage": 5,
+    "context": "60"
+  },
+  {
+    "key": "community\\BEEPBOOP_SUNLOCK.json",
+    "original": " Sunlock - BeepBoop ",
+    "translation": "阳光之锁 - BeepBoop",
+    "stage": 5,
+    "context": "61"
+  },
+  {
+    "key": "community\\BEEPBOOP_SUNRESERVES.json",
+    "original": " Sun Reserves - BeepBoop ",
+    "translation": "阳光储备 - BeepBoop",
+    "stage": 5,
+    "context": "62"
+  },
+  {
+    "key": "community\\BEEPBOOP_TENTACLELANE.json",
+    "original": " Tentacle Lane - BeepBoop ",
+    "translation": "触手滑道 - BeepBoop",
+    "stage": 5,
+    "context": "63"
+  },
+  {
+    "key": "community\\beepboop_zombiemagnet.json",
+    "original": " Zombie Magnet - BeepBoop ",
+    "translation": "僵尸磁铁 - BeepBoop",
+    "stage": 5,
+    "context": "64"
+  },
+  {
+    "key": "community\\beetsa_firepower.json",
+    "original": " Firepower - beetsa ",
+    "translation": "火焰力量 - beetsa",
+    "stage": 5,
+    "context": "65"
+  },
+  {
+    "key": "community\\beetsa_highzapvoltages.json",
+    "original": " High Zap Voltages - beetsa ",
+    "translation": "高压电击 - beetsa",
+    "stage": 5,
+    "context": "66"
+  },
+  {
+    "key": "community\\beetsa_oldtimeyrailways.json",
+    "original": " Old-Timey Railways - beetsa ",
+    "translation": "古老铁路 - beetsa",
+    "stage": 5,
+    "context": "67"
+  },
+  {
+    "key": "community\\beetsa_speedyproblem.json",
+    "original": " Speedy Problem - beetsa ",
+    "translation": "速度问题 - beetsa",
+    "stage": 5,
+    "context": "68"
+  },
+  {
+    "key": "community\\beetsa_zombiesmelter.json",
+    "original": " Zombie Smelter - beetsa ",
+    "translation": "僵尸熔炉 - beetsa",
+    "stage": 5,
+    "context": "69"
+  },
+  {
+    "key": "community\\BREAD_BACKFROMEXTINCTION.json",
+    "original": " Back From Extinction - bread ",
+    "translation": "从灭绝中回归 - bread",
+    "stage": 5,
+    "context": "70"
+  },
+  {
+    "key": "community\\BREAD_FLYINGTROUBLES.json",
+    "original": " Flying Troubles - bread ",
+    "translation": "空中麻烦 - bread",
+    "stage": 5,
+    "context": "71"
+  },
+  {
+    "key": "community\\CAELUM_DEFROSTATION.json",
+    "original": " Defrostation - Caelum ",
+    "translation": "急速解冻 - Caelum",
+    "stage": 5,
+    "context": "72"
+  },
+  {
+    "key": "community\\CAELUM_EYEOFTHESTORM.json",
+    "original": " The Eye of the Storm - Caelum ",
+    "translation": "风暴中心 - Caelum",
+    "stage": 5,
+    "context": "73"
+  },
+  {
+    "key": "community\\CAELUM_HONEYTRAP.json",
+    "original": " Honey Trap - Caelum ",
+    "translation": "甜蜜陷阱 - Caelum",
+    "stage": 5,
+    "context": "74"
+  },
+  {
+    "key": "community\\CAELUM_LOSTINTIME.json",
+    "original": " Lost in Time - Caelum ",
+    "translation": "时光迷失 - Caelum",
+    "stage": 5,
+    "context": "75"
+  },
+  {
+    "key": "community\\CAELUM_MOBILEBATTERY.json",
+    "original": " Mobile Battery - Caelum ",
+    "translation": "可动炮台 - Caelum",
+    "stage": 5,
+    "context": "76"
+  },
+  {
+    "key": "community\\CAELUM_RETURNTOSENDER.json",
+    "original": " Return to Sender - Caelum ",
+    "translation": "以牙还牙 - Caelum",
+    "stage": 5,
+    "context": "77"
+  },
+  {
+    "key": "community\\CAELUM_SERPIAAPAMA.json",
+    "original": " Sepia Apama - Caelum ",
+    "translation": "乌贼护罩 - Caelum",
+    "stage": 5,
+    "context": "78"
+  },
+  {
+    "key": "community\\community_gate.json",
+    "original": " Welcome to the Community Levels! ",
+    "translation": "欢迎来到社区关卡!",
+    "stage": 5,
+    "context": "79"
+  },
+  {
+    "key": "community\\creeps_dancingqueens.json",
+    "original": " The Dancing Queens - Creeps ",
+    "translation": "舞蹈皇后 - Creeps",
+    "stage": 5,
+    "context": "80"
+  },
+  {
+    "key": "community\\creeps_trulymetal.json",
+    "original": " Truly Metal - Creeps ",
+    "translation": "正宗金属 - Creeps",
+    "stage": 5,
+    "context": "81"
+  },
+  {
+    "key": "community\\dhq_jugglernaut.json",
+    "original": " Juggler-naut - DHQ ",
+    "translation": "坚果杂耍 - DHQ",
+    "stage": 5,
+    "context": "82"
+  },
+  {
+    "key": "community\\dt_blastfishing.json",
+    "original": " Blast Fishing - DT ",
+    "translation": "钓鱼爆破 - DT",
+    "stage": 5,
+    "context": "83"
+  },
+  {
+    "key": "community\\dt_farflungfuture.json",
+    "original": " Far-flung Future - DT ",
+    "translation": "远抛未来 - DT",
+    "stage": 5,
+    "context": "84"
+  },
+  {
+    "key": "community\\DT_HERDIMMUNITY.json",
+    "original": " Herd Immunity - DT ",
+    "translation": "牧群免疫 - DT",
+    "stage": 5,
+    "context": "85"
+  },
+  {
+    "key": "community\\DT_HERDPROTECTION.json",
+    "original": " Herd Protection - DT ",
+    "translation": "牧群保护 - DT",
+    "stage": 5,
+    "context": "86"
+  },
+  {
+    "key": "community\\dt_iceburn.json",
+    "original": " Ice Burn - DT ",
+    "translation": "冰封焚烧 - DT",
+    "stage": 5,
+    "context": "87"
+  },
+  {
+    "key": "community\\dt_macenaries.json",
+    "original": " The Macenaries - DT ",
+    "translation": "雇佣恐龙 - DT",
+    "stage": 5,
+    "context": "88"
+  },
+  {
+    "key": "community\\dt_minesafety.json",
+    "original": " Mine Safety - DT ",
+    "translation": "土豆安危 - DT",
+    "stage": 5,
+    "context": "89"
+  },
+  {
+    "key": "community\\dt_moldtrap.json",
+    "original": " Mold Trap - DT ",
+    "translation": "霉菌陷阱 - DT",
+    "stage": 5,
+    "context": "90"
+  },
+  {
+    "key": "community\\dt_multiply.json",
+    "original": " Multiplying Problem - DT ",
+    "translation": "增殖问题 - DT",
+    "stage": 5,
+    "context": "91"
+  },
+  {
+    "key": "community\\DT_OBJECTIVE_ESCORT.json",
+    "original": " Objective: Escort - DT ",
+    "translation": "任务: 护送蜻蜓 - DT",
+    "stage": 5,
+    "context": "92"
+  },
+  {
+    "key": "community\\dt_powergrid.json",
+    "original": " The Power Grid - DT ",
+    "translation": "能量方格 - DT",
+    "stage": 5,
+    "context": "93"
+  },
+  {
+    "key": "community\\DT_RAIDLEADER.json",
+    "original": " Raid Leader - DT ",
+    "translation": "冲锋陷阵 - DT",
+    "stage": 5,
+    "context": "94"
+  },
+  {
+    "key": "community\\dt_runngun.json",
+    "original": " Run n' Gun - DT ",
+    "translation": "枪手跑酷 - DT",
+    "stage": 5,
+    "context": "95"
+  },
+  {
+    "key": "community\\DT_SAFEHARBOUR.json",
+    "original": " Safe Harbour - DT ",
+    "translation": "安全港湾 - DT",
+    "stage": 5,
+    "context": "96"
+  },
+  {
+    "key": "community\\dt_sonicwaves.json",
+    "original": " Sonic Waves - DT ",
+    "translation": "音速袭击 - DT",
+    "stage": 5,
+    "context": "97"
+  },
+  {
+    "key": "community\\dt_summoning.json",
+    "original": " The Summoning - DT ",
+    "translation": "召唤狂潮 - DT",
+    "stage": 5,
+    "context": "98"
+  },
+  {
+    "key": "community\\dt_techshow.json",
+    "original": " The Tech Show - DT ",
+    "translation": "科技展览 - DT",
+    "stage": 5,
+    "context": "99"
+  },
+  {
+    "key": "community\\dt_watery_graves.json",
+    "original": " Watery Graves - DT ",
+    "translation": "水淹坟场 - DT",
+    "stage": 5,
+    "context": "100"
+  },
+  {
+    "key": "community\\DT_WILDDANCER.json",
+    "original": " Wild Dancers - DT ",
+    "translation": "狂野舞者 - DT",
+    "stage": 5,
+    "context": "101"
+  },
+  {
+    "key": "community\\ender_allloutattack.json",
+    "original": " All Loud Attack - EnderallyGolem ",
+    "translation": "混响袭击 - EnderallyGolem",
+    "stage": 5,
+    "context": "102"
+  },
+  {
+    "key": "community\\ender_debugtrap.json",
+    "original": " Debug Trap - EnderallyGolem ",
+    "translation": "调试陷阱 - EnderallyGolem",
+    "stage": 5,
+    "context": "103"
+  },
+  {
+    "key": "community\\ENDER_DHQ_HEATWAVE.json",
+    "original": " Heat Wave - DHQ & Ender ",
+    "translation": "燥热波浪 - DHQ & Ender",
+    "stage": 5,
+    "context": "104"
+  },
+  {
+    "key": "community\\ENDER_DISCHARGEFIELD.json",
+    "original": " Discharge Field - EnderallyGolem ",
+    "translation": "漏电场地 - EnderallyGolem",
+    "stage": 5,
+    "context": "105"
+  },
+  {
+    "key": "community\\ENDER_FATAZOMGANA.json",
+    "original": " Fata Zomgana - EnderallyGolem ",
+    "translation": "幻影危机 - EnderallyGolem",
+    "stage": 5,
+    "context": "106"
+  },
+  {
+    "key": "community\\ENDER_FISSUREBLISTER.json",
+    "original": " Fissure Blister - EnderallyGolem ",
+    "translation": "土地裂缝 - EnderallyGolem",
+    "stage": 5,
+    "context": "107"
+  },
+  {
+    "key": "community\\ENDER_FROZONELAYER.json",
+    "original": " Frozone Layer - EnderallyGolem ",
+    "translation": "冻层 - EnderallyGolem",
+    "stage": 5,
+    "context": "108"
+  },
+  {
+    "key": "community\\ENDER_GOLDENBALANCE.json",
+    "original": " Golden Balance - EnderallyGolem ",
+    "translation": "黄金平衡 - EnderallyGolem",
+    "stage": 5,
+    "context": "109"
+  },
+  {
+    "key": "community\\ENDER_HINDERTIMBER.json",
+    "original": " Hinder Timber - EnderallyGolem ",
+    "translation": "夹板阻碍 - EnderallyGolem",
+    "stage": 5,
+    "context": "110"
+  },
+  {
+    "key": "community\\ENDER_METAFORCE.json",
+    "original": " Meta Force - EnderallyGolem ",
+    "translation": "变化之力 - EnderallyGolem",
+    "stage": 5,
+    "context": "111"
+  },
+  {
+    "key": "community\\ender_nullandvoid.json",
+    "original": " Null And Void - EnderallyGolem ",
+    "translation": "空洞虚无 - EnderallyGolem",
+    "stage": 5,
+    "context": "112"
+  },
+  {
+    "key": "community\\ENDER_PLAQUES.json",
+    "original": " Plague of the Plaques - EnderallyGolem ",
+    "translation": "斑块瘟疫 - EnderallyGolem",
+    "stage": 5,
+    "context": "113"
+  },
+  {
+    "key": "community\\ender_precipitation.json",
+    "original": " Precipitant Precipitation - EnderallyGolem ",
+    "translation": "大雨倾盆 - EnderallyGolem",
+    "stage": 5,
+    "context": "114"
+  },
+  {
+    "key": "community\\ender_rainbowroad.json",
+    "original": " Rainbow Road - EnderallyGolem ",
+    "translation": "彩虹大道 - EnderallyGolem",
+    "stage": 5,
+    "context": "115"
+  },
+  {
+    "key": "community\\ENDER_RIDINGSHOTGUN.json",
+    "original": " Riding Shotgun - EnderallyGolem ",
+    "translation": "装载机枪 - EnderallyGolem",
+    "stage": 5,
+    "context": "116"
+  },
+  {
+    "key": "community\\GIANG_LANDOWNER.json",
+    "original": " Land Owner - Giang ",
+    "translation": "大地领主 - Giang",
+    "stage": 5,
+    "context": "117"
+  },
+  {
+    "key": "community\\imagi_speeddance.json",
+    "original": " Speed Dance - Imagination ",
+    "translation": "极速舞蹈 - Imagination",
+    "stage": 5,
+    "context": "118"
+  },
+  {
+    "key": "community\\imagi_strikethrough.json",
+    "original": " Strikethrough - Imagination ",
+    "translation": "删除线 - Imaginaton",
+    "stage": 5,
+    "context": "119"
+  },
+  {
+    "key": "community\\imagi_twinthreat.json",
+    "original": " Twin Threat - Imagination ",
+    "translation": "双重威胁 - Imagination",
+    "stage": 5,
+    "context": "120"
+  },
+  {
+    "key": "community\\JUNGLETYRANT_BUGGYJUNGLES.json",
+    "original": " Buggy Jungles - Jungletyrant ",
+    "translation": "害虫丛林 - Jungletyrant",
+    "stage": 5,
+    "context": "121"
+  },
+  {
+    "key": "community\\JUNGLETYRANT_DAREDEVILSSPEED.json",
+    "original": " Daredevil's Speed - JungleTyrant ",
+    "translation": "超胆侠之速 - JungleTyrant",
+    "stage": 5,
+    "context": "122"
+  },
+  {
+    "key": "community\\kf4_danceclan.json",
+    "original": " Dance Clan - KF4 ",
+    "translation": "舞蹈世家 - KF4",
+    "stage": 5,
+    "context": "123"
+  },
+  {
+    "key": "community\\LOCKO_ARTILLERYMAINTENANCE.json",
+    "original": " Artillery Maintenance - Lock O ",
+    "translation": "炮兵维修 - Lock O",
+    "stage": 5,
+    "context": "124"
+  },
+  {
+    "key": "community\\LOCKO_BOWLINSSPECIALDAY.json",
+    "original": " Bowlins Special Day - Lock O ",
+    "translation": "保龄球特殊日 - Lock O",
+    "stage": 5,
+    "context": "125"
+  },
+  {
+    "key": "community\\LOCKO_BURIEDBEACH.json",
+    "original": " Buried Beach - Lock O ",
+    "translation": "掩埋海滩 - Lock O",
+    "stage": 5,
+    "context": "126"
+  },
+  {
+    "key": "community\\LOCKO_DINOTAMER.json",
+    "original": " Dino Tamer - Lock O ",
+    "translation": "驯龙高手 - Lock O",
+    "stage": 5,
+    "context": "127"
+  },
+  {
+    "key": "community\\LOCKO_ELITESQUAD.json",
+    "original": " The Elite Squad - Lock O ",
+    "translation": "精英部队 - Lock O",
+    "stage": 5,
+    "context": "128"
+  },
+  {
+    "key": "community\\LOCKO_EMERGENCYBUTTON.json",
+    "original": " The Emergency Button - Lock O ",
+    "translation": "紧急按钮 - Lock O",
+    "stage": 5,
+    "context": "129"
+  },
+  {
+    "key": "community\\LOCKO_EXPLOSIVETRAP.json",
+    "original": " Explosive Trap - Lock O ",
+    "translation": "爆炸陷阱 - Lock O",
+    "stage": 5,
+    "context": "130"
+  },
+  {
+    "key": "community\\LOCKO_FLASHBANG.json",
+    "original": " Flashbangs - Lock O ",
+    "translation": "闪光弹 - Lock O",
+    "stage": 5,
+    "context": "131"
+  },
+  {
+    "key": "community\\LOCKO_INFESTEDJUNGLE.json",
+    "original": " Infested Jungle - Lock O ",
+    "translation": "瘟疫丛林 - Lock O",
+    "stage": 5,
+    "context": "132"
+  },
+  {
+    "key": "community\\LOCKO_PIECEBYPIECE.json",
+    "original": " Piece by Piece - Lock O ",
+    "translation": "循序渐进 - Lock O",
+    "stage": 5,
+    "context": "133"
+  },
+  {
+    "key": "community\\LOCKO_POWEREDRAILS.json",
+    "original": " Powered Rails - Lock O ",
+    "translation": "蓄能矿车 - Lock O",
+    "stage": 5,
+    "context": "134"
+  },
+  {
+    "key": "community\\LOCKO_ROOTTENWEB.json",
+    "original": " Rootten Web - Lock O ",
+    "translation": "根深蒂固 - Lock O",
+    "stage": 5,
+    "context": "135"
+  },
+  {
+    "key": "community\\LOCKO_ROYALTROUBLES.json",
+    "original": " Royal Troubles - Lock O ",
+    "translation": "皇家麻烦 - Lock O",
+    "stage": 5,
+    "context": "136"
+  },
+  {
+    "key": "community\\LOCKO_SPICYICE.json",
+    "original": " Spicy Ice - Lock O ",
+    "translation": "火辣冰雕 - Lock O",
+    "stage": 5,
+    "context": "137"
+  },
+  {
+    "key": "community\\LOCKO_SWINGINGNIGHT.json",
+    "original": " Swinging Night - Lock O ",
+    "translation": "摇摆之夜 - Lock O",
+    "stage": 5,
+    "context": "138"
+  },
+  {
+    "key": "community\\LOCKO_THEFREEZER.json",
+    "original": " The Freezer - Lock O ",
+    "translation": "冰柜 - Lock O",
+    "stage": 5,
+    "context": "139"
+  },
+  {
+    "key": "community\\LOCKO_THEPAINTER.json",
+    "original": " The Painter - Lock O ",
+    "translation": "妙手丹青 - Lock O",
+    "stage": 5,
+    "context": "140"
+  },
+  {
+    "key": "community\\LOCKO_TIDALWAVES.json",
+    "original": " Tidal Waves - Lock O ",
+    "translation": "潮汐溺尸 - Lock O",
+    "stage": 5,
+    "context": "141"
+  },
+  {
+    "key": "community\\LOCKO_TOTHEWATER.json",
+    "original": " To the Water! - Lock O ",
+    "translation": "抛向大海! - Lock O",
+    "stage": 5,
+    "context": "142"
+  },
+  {
+    "key": "community\\LOCKO_UNHOLYCRUZADE.json",
+    "original": " Unholy Cruzade - Lock O ",
+    "translation": "邪恶十字军 - Lock O",
+    "stage": 5,
+    "context": "143"
+  },
+  {
+    "key": "community\\LOCKO_ZOMBIETAMER.json",
+    "original": " Zombie Tamer - Lock O ",
+    "translation": "驯尸高手 - Lock O",
+    "stage": 5,
+    "context": "144"
+  },
+  {
+    "key": "community\\MALEX_AIRBOARDER.json",
+    "original": " Airboarder - Malex2005 ",
+    "translation": "极速飞行 - Malex2005",
+    "stage": 5,
+    "context": "145"
+  },
+  {
+    "key": "community\\MALEX_BUGTHUGS.json",
+    "original": " The Bug Thugs - Malex2005 ",
+    "translation": "害虫恶棍 - Malex2005",
+    "stage": 5,
+    "context": "146"
+  },
+  {
+    "key": "community\\MALEX_CAVERAVE.json",
+    "original": " Cave Rave - Malex2005 ",
+    "translation": "洞穴节奏 - Malex2005",
+    "stage": 5,
+    "context": "147"
+  },
+  {
+    "key": "community\\MALEX_CONCEALEDSNOWSTORM.json",
+    "original": " Concealed Snow Storms - Malex2005 ",
+    "translation": "隐匿雪暴 - Malex2005",
+    "stage": 5,
+    "context": "148"
+  },
+  {
+    "key": "community\\MALEX_EXTREMESEASIDESPORTS.json",
+    "original": " Extreme Seaside Sports - Malex2005 ",
+    "translation": "极限海边运动 - Malex2005",
+    "stage": 5,
+    "context": "149"
+  },
+  {
+    "key": "community\\malex_feelingblue.json",
+    "original": " Feeling Blue? - Malex2005 ",
+    "translation": "感到蓝受? - Malex2005",
+    "stage": 5,
+    "context": "150"
+  },
+  {
+    "key": "community\\MALEX_FLIPPERFLOP.json",
+    "original": " Flipper-Flop - Malex2005 ",
+    "translation": "海狸扑腾 - Malex2005",
+    "stage": 5,
+    "context": "151"
+  },
+  {
+    "key": "community\\MALEX_MOVINGMOVERS.json",
+    "original": " Moving Movers - Malex2005 ",
+    "translation": "可动滑块 - Malex2005",
+    "stage": 5,
+    "context": "152"
+  },
+  {
+    "key": "community\\malex_poweroflove.json",
+    "original": " Power of Love - Malex2005 ",
+    "translation": "爱的力量 - Malex2005",
+    "stage": 5,
+    "context": "153"
+  },
+  {
+    "key": "community\\MALEX_SUNSTRIKE.json",
+    "original": " Sun Strike - Malex2005 ",
+    "translation": "阳光罢工 - Malex2005",
+    "stage": 5,
+    "context": "154"
+  },
+  {
+    "key": "community\\MALEX_SYNTHSERFS.json",
+    "original": " Synth Serfs - Malex2005 ",
+    "translation": "魔音农奴 - Malex2005",
+    "stage": 5,
+    "context": "155"
+  },
+  {
+    "key": "community\\malex_therealmarsh.json",
+    "original": " The REAL Marsh - Malex2005 ",
+    "translation": "正宗沼泽 - Malex2005",
+    "stage": 5,
+    "context": "156"
+  },
+  {
+    "key": "community\\malex_unthawediceage.json",
+    "original": " Unthawed Ice Age - Malex2005 ",
+    "translation": "未化冰河 - Malex2005",
+    "stage": 5,
+    "context": "157"
+  },
+  {
+    "key": "community\\MEMEMAN_BOXINGARENA.json",
+    "original": " Boxing Arena - MemeMan ",
+    "translation": "拳击擂台 - MemeMan",
+    "stage": 5,
+    "context": "158"
+  },
+  {
+    "key": "community\\MEMEMAN_NUCLEARPOWER.json",
+    "original": " Nuclear Power - MemeMan ",
+    "translation": "核平力量 - MemeMan",
+    "stage": 5,
+    "context": "159"
+  },
+  {
+    "key": "community\\MEMEMAN_SPEEDSURF.json",
+    "original": " Speed Surf - MemeMan ",
+    "translation": "极速冲浪 - MemeMan",
+    "stage": 5,
+    "context": "160"
+  },
+  {
+    "key": "community\\NUTSHADE_PSYCHAPATH.json",
+    "original": " Psycha Path - Nutshade ",
+    "translation": "断魂小路 - Nutshade",
+    "stage": 5,
+    "context": "161"
+  },
+  {
+    "key": "community\\poss_aimtowin.json",
+    "original": " Aim to Win - Poss ",
+    "translation": "旨在桂冠 - Poss",
+    "stage": 5,
+    "context": "162"
+  },
+  {
+    "key": "community\\poss_hookedin.json",
+    "original": " Hooked In - Poss ",
+    "translation": "上钩 - Poss",
+    "stage": 5,
+    "context": "163"
+  },
+  {
+    "key": "community\\poss_splitgrid.json",
+    "original": " Split Grid - Poss ",
+    "translation": "分裂方格 - Poss",
+    "stage": 5,
+    "context": "164"
+  },
+  {
+    "key": "community\\REE_BROKENLINE.json",
+    "original": " Broken Line - Reeee ",
+    "translation": "断层 - Reeee",
+    "stage": 5,
+    "context": "165"
+  },
+  {
+    "key": "community\\REE_FRIENDLYFIRE.json",
+    "original": " Friendly Fire - Reeee ",
+    "translation": "友伤 - Reeee",
+    "stage": 5,
+    "context": "166"
+  },
+  {
+    "key": "community\\REE_FRIENDLYNETHER.json",
+    "original": " Friendly? Nether - Reeee ",
+    "translation": "友善的幽冥渡渡? - Reeee",
+    "stage": 5,
+    "context": "167"
+  },
+  {
+    "key": "community\\REE_GOLDENSHOVEL.json",
+    "original": " Golden Shovel - Reeee ",
+    "translation": "黄金铲子 - Reeee",
+    "stage": 5,
+    "context": "168"
+  },
+  {
+    "key": "community\\REE_IAO.json",
+    "original": " IaO - Reeee ",
+    "translation": "laO - Reeee",
+    "stage": 5,
+    "context": "169"
+  },
+  {
+    "key": "community\\REE_POWERSOURCE.json",
+    "original": " Power Source - Reeee ",
+    "translation": "能力之源 - Reeee",
+    "stage": 5,
+    "context": "170"
+  },
+  {
+    "key": "community\\REE_STRAWBURSTPLAYGROUND.json",
+    "original": " Strawburst Playground - Reeee ",
+    "translation": "草莓乐园 - Reeee",
+    "stage": 5,
+    "context": "171"
+  },
+  {
+    "key": "community\\sergio_alternativeflowerline.json",
+    "original": " Alternative Flower Line - Sergio+ ",
+    "translation": "可动花坛 - Sergio+",
+    "stage": 5,
+    "context": "172"
+  },
+  {
+    "key": "community\\sergio_arcticocean.json",
+    "original": " Arctic Ocean - Sergio+ ",
+    "translation": "北冰洋 - Sergio+",
+    "stage": 5,
+    "context": "173"
+  },
+  {
+    "key": "community\\SERGIO_FINALCOUNTDOWN.json",
+    "original": " The Final Countdown - Sergio+ ",
+    "translation": "最后的倒计时 - Sergio+",
+    "stage": 5,
+    "context": "174"
+  },
+  {
+    "key": "community\\SERGIO_HARDERBETTER.json",
+    "original": " Harder Better Faster Butter - Sergio+ ",
+    "translation": "更硬更好更快的黄油 - Sergio+",
+    "stage": 5,
+    "context": "175"
+  },
+  {
+    "key": "community\\sergio_mixedstorm.json",
+    "original": " Mixed Storm - Sergio+ ",
+    "translation": "混合风暴 - Sergio+",
+    "stage": 5,
+    "context": "176"
+  },
+  {
+    "key": "community\\spikeman_frogfeast.json",
+    "original": " Frog Feast - Spike Man ",
+    "translation": "青蛙盛宴 - Spike Man ",
+    "stage": 5,
+    "context": "177"
+  },
+  {
+    "key": "community\\spikeman_goldrush.json",
+    "original": " Gold Rush - Spike Man ",
+    "translation": "淘金热 - Spike Man ",
+    "stage": 5,
+    "context": "178"
+  },
+  {
+    "key": "community\\STUFF_AVIANLAND.json",
+    "original": " Avian Land - stuff/embarking ",
+    "translation": "鸟禽登船 - stuff/embarking",
+    "stage": 5,
+    "context": "179"
+  },
+  {
+    "key": "community\\THESHERO_BLASTINGRACE.json",
+    "original": " Blasting Race - TheShero ",
+    "translation": "爆破竞赛 - TheShero",
+    "stage": 5,
+    "context": "180"
+  },
+  {
+    "key": "community\\theshero_chess.json",
+    "original": " Chess - TheShero ",
+    "translation": "棋盘迷局 - TheShero",
+    "stage": 5,
+    "context": "181"
+  },
+  {
+    "key": "community\\TRIN_HEALINGSKILL.json",
+    "original": " Healing Skill - Trin ",
+    "translation": "治疗技艺 - Trin",
+    "stage": 5,
+    "context": "182"
+  },
+  {
+    "key": "community\\USERNAME_RAINBOWROAD.json",
+    "original": " Rainbow Raid - username ",
+    "translation": "彩虹突袭 - username",
+    "stage": 5,
+    "context": "183"
+  },
+  {
+    "key": "community\\VIN_DEFLECTION.json",
+    "original": " Deflection - Vin ",
+    "translation": "行径偏移 - Vin",
+    "stage": 5,
+    "context": "184"
+  },
+  {
+    "key": "community\\VIN_NETHERSGATE.json",
+    "original": " Nether's Gate - Vin ",
+    "translation": "下界之门 - Vin",
+    "stage": 5,
+    "context": "185"
+  },
+  {
+    "key": "community\\VIN_NOTHERNLIGHT.json",
+    "original": " The Northern Night - Vin ",
+    "translation": "北极之夜 - Vin",
+    "stage": 5,
+    "context": "186"
+  },
+  {
+    "key": "community\\VIN_VIP.json",
+    "original": " V.I.P - Vin ",
+    "translation": " V.I.P - Vin",
+    "stage": 5,
+    "context": "187"
+  },
+  {
+    "key": "community\\YERICKY_BASICBURSTER.json",
+    "original": " Basic Burster - Yericky ",
+    "translation": "基础炸药 - Yericky",
+    "stage": 5,
+    "context": "188"
+  },
+  {
+    "key": "community\\YERICKY_GHOSTTOWN.json",
+    "original": " Ghost Town - Yericky ",
+    "translation": "闹鬼城镇 - Yericky",
+    "stage": 5,
+    "context": "189"
+  },
+  {
+    "key": "community\\YERICKY_HAUNTEDCASTLE.json",
+    "original": " Haunted Castle - Yericky ",
+    "translation": "闹鬼城堡 - Yericky",
+    "stage": 5,
+    "context": "190"
+  },
+  {
+    "key": "community\\YERICKY_LOSTNIGHT.json",
+    "original": " The Lost Night - Yericky ",
+    "translation": "失落之夜 - Yericky",
+    "stage": 5,
+    "context": "191"
+  },
+  {
+    "key": "community\\yericky_riseofdarkness.json",
+    "original": " The Rise of Darkness - Yericky ",
+    "translation": "暗夜复兴 - Yericky",
+    "stage": 5,
+    "context": "192"
+  },
+  {
+    "key": "community\\YERICKY_SKIRMISHINTHESEA.json",
+    "original": " Skirmish in the Sea - Yericky ",
+    "translation": "潮汐战役 - Yericky",
+    "stage": 5,
+    "context": "193"
+  },
+  {
+    "key": "community\\YERICKY_SUNSNIPERS.json",
+    "original": " The Sun Snipers - Yericky ",
+    "translation": "阳光狙手 - Yericky",
+    "stage": 5,
+    "context": "194"
+  },
+  {
+    "key": "community\\YERICKY_SUPERMELONBROS.json",
+    "original": " Super Melon Bros - Yericky ",
+    "translation": "超级西瓜兄弟 - Yericky",
+    "stage": 5,
+    "context": "195"
+  },
+  {
+    "key": "community\\YERICKY_WILDBATTLE.json",
+    "original": " The Wild Battle in the West - Yericky ",
+    "translation": "西部野战 - Yericky",
+    "stage": 5,
+    "context": "196"
+  },
+  {
+    "key": "Cowboy_DangerRoom_A.json",
+    "original": " [DANGER_ROOM_COWBOY_LEVEL_NAME] ",
+    "translation": "[DANGER_ROOM_COWBOY_LEVEL_NAME]",
+    "stage": 5,
+    "context": "197"
+  },
+  {
+    "key": "Cowboy_DangerRoom_B.json",
+    "original": " [DANGER_ROOM_COWBOY_LEVEL_NAME] ",
+    "translation": "[DANGER_ROOM_COWBOY_LEVEL_NAME]",
+    "stage": 5,
+    "context": "198"
+  },
+  {
+    "key": "Cowboy_DangerRoom_C.json",
+    "original": " [DANGER_ROOM_COWBOY_LEVEL_NAME] ",
+    "translation": "[DANGER_ROOM_COWBOY_LEVEL_NAME]",
+    "stage": 5,
+    "context": "199"
+  },
+  {
+    "key": "Cowboy_DangerRoom_D.json",
+    "original": " [DANGER_ROOM_COWBOY_LEVEL_NAME] ",
+    "translation": "[DANGER_ROOM_COWBOY_LEVEL_NAME]",
+    "stage": 5,
+    "context": "200"
+  },
+  {
+    "key": "Cowboy_Night1.json",
+    "original": " WW-1: Western Darkland ",
+    "translation": "WW-1: 西部夜土",
+    "stage": 5,
+    "context": "201"
+  },
+  {
+    "key": "Cowboy_Night10.json",
+    "original": " WW-10: The Farm Ranger ",
+    "translation": "WW-10: 农场看守人",
+    "stage": 5,
+    "context": "202"
+  },
+  {
+    "key": "Cowboy_Night2.json",
+    "original": " WW-2: Dual Player ",
+    "translation": "WW-2: 二重奏",
+    "stage": 5,
+    "context": "203"
+  },
+  {
+    "key": "Cowboy_Night4.json",
+    "original": " WW-4: Bull Doze ",
+    "translation": "WW-4: 瞌睡公牛",
+    "stage": 5,
+    "context": "204"
+  },
+  {
+    "key": "Cowboy_Night6.json",
+    "original": " WW-6: Trapped Minecart ",
+    "translation": "WW-6: 陷阱矿车",
+    "stage": 5,
+    "context": "205"
+  },
+  {
+    "key": "Cowboy_Night7.json",
+    "original": " WW-7: Spread Inject ",
+    "translation": "WW-7: 分散注射",
+    "stage": 5,
+    "context": "206"
+  },
+  {
+    "key": "Cowboy0.json",
+    "original": " Check the Travel Log! ",
+    "translation": "查看一下旅行原木吧!",
+    "stage": 5,
+    "context": "207"
+  },
+  {
+    "key": "Cowboy1.json",
+    "original": " 6-1: Western Wasteland ",
+    "translation": "6-1: 西部荒地",
+    "stage": 5,
+    "context": "208"
+  },
+  {
+    "key": "Cowboy11.json",
+    "original": " 16-1: Western Wonderland ",
+    "translation": "16-1: 西部仙境",
+    "stage": 5,
+    "context": "209"
+  },
+  {
+    "key": "Cowboy12.json",
+    "original": " 16-2: Wild Runner ",
+    "translation": "16-2:西部逃亡",
+    "stage": 5,
+    "context": "210"
+  },
+  {
+    "key": "Cowboy14.json",
+    "original": " 16-4: The Farm ",
+    "translation": "16-4:农场",
+    "stage": 5,
+    "context": "211"
+  },
+  {
+    "key": "Cowboy15.json",
+    "original": " 16-5: Railway Revolution ",
+    "translation": "16-5: 铁路革命",
+    "stage": 5,
+    "context": "212"
+  },
+  {
+    "key": "Cowboy16.json",
+    "original": " 16-6: Crossing Field ",
+    "translation": "16-6: 交叉领域",
+    "stage": 5,
+    "context": "213"
+  },
+  {
+    "key": "Cowboy18.json",
+    "original": " 16-8: Vegan Vengeance ",
+    "translation": "16-8: 素食者的复仇",
+    "stage": 5,
+    "context": "214"
+  },
+  {
+    "key": "Cowboy2.json",
+    "original": " 6-2: Backbite ",
+    "translation": "6-2: 背后偷袭",
+    "stage": 5,
+    "context": "215"
+  },
+  {
+    "key": "Cowboy4.json",
+    "original": " 6-4: Dancing Dynasty ",
+    "translation": "6-4: 舞蹈年华",
+    "stage": 5,
+    "context": "216"
+  },
+  {
+    "key": "Cowboy7.json",
+    "original": " 6-7: The Overpassers ",
+    "translation": " 6-7: 飞跃者",
+    "stage": 5,
+    "context": "217"
+  },
+  {
+    "key": "Cowboy8.json",
+    "original": " 6-8: Wild Collide ",
+    "translation": "6-8: 横冲直撞",
+    "stage": 5,
+    "context": "218"
+  },
+  {
+    "key": "Dark_DangerRoom_A.json",
+    "original": " [DANGER_ROOM_DARKAGES_LEVEL_NAME] ",
+    "translation": "[DANGER_ROOM_DARKAGES_LEVEL_NAME]",
+    "stage": 5,
+    "context": "219"
+  },
+  {
+    "key": "Dark_DangerRoom_B.json",
+    "original": " [DANGER_ROOM_DARKAGES_LEVEL_NAME] ",
+    "translation": "[DANGER_ROOM_DARKAGES_LEVEL_NAME]",
+    "stage": 5,
+    "context": "220"
+  },
+  {
+    "key": "dark_dangerroom_C.json",
+    "original": " [DANGER_ROOM_DARKAGES_LEVEL_NAME] ",
+    "translation": "[DANGER_ROOM_DARKAGES_LEVEL_NAME]",
+    "stage": 5,
+    "context": "221"
+  },
+  {
+    "key": "dark_dangerroom_D.json",
+    "original": " [DANGER_ROOM_DARKAGES_LEVEL_NAME] ",
+    "translation": "[DANGER_ROOM_DARKAGES_LEVEL_NAME]",
+    "stage": 5,
+    "context": "222"
+  },
+  {
+    "key": "dark_day1.json",
+    "original": " DA-1: time set 1500 ",
+    "translation": "DA-1: 时间设置 白天",
+    "stage": 5,
+    "context": "223"
+  },
+  {
+    "key": "dark_day11.json",
+    "original": " DA-11: Wakeward ",
+    "translation": "DA-11: 唤醒",
+    "stage": 5,
+    "context": "224"
+  },
+  {
+    "key": "dark_day12.json",
+    "original": " DA-12: Timed Bloom ",
+    "translation": "DA-12: 接镖之花",
+    "stage": 5,
+    "context": "225"
+  },
+  {
+    "key": "dark_day14.json",
+    "original": " DA-14: Herded Amulet ",
+    "translation": "DA-14: 牧群护符",
+    "stage": 5,
+    "context": "226"
+  },
+  {
+    "key": "dark_day17.json",
+    "original": " DA-17: Walkthrough ",
+    "translation": "DA-17: 穿过",
+    "stage": 5,
+    "context": "227"
+  },
+  {
+    "key": "dark_day19.json",
+    "original": " DA-19: Land Canon ",
+    "translation": "DA-19: 登陆炮台",
+    "stage": 5,
+    "context": "228"
+  },
+  {
+    "key": "dark_day2.json",
+    "original": " DA-2: Peasant Hoods ",
+    "translation": "DA-2: 农民兜帽",
+    "stage": 5,
+    "context": "229"
+  },
+  {
+    "key": "dark_day20.json",
+    "original": " DA-20: Day Liverance ",
+    "translation": "DA-20: 阔绰之日",
+    "stage": 5,
+    "context": "230"
+  },
+  {
+    "key": "dark_day4.json",
+    "original": " DA-4: Herdless Amulet ",
+    "translation": "DA-4: 无牧护符",
+    "stage": 5,
+    "context": "231"
+  },
+  {
+    "key": "dark_day6.json",
+    "original": " DA-6: Day Mocracy ",
+    "translation": "DA-6: 白日民主",
+    "stage": 5,
+    "context": "232"
+  },
+  {
+    "key": "dark_day8.json",
+    "original": " DA-8: Armor & Lance ",
+    "translation": "DA-8:盾与矛",
+    "stage": 5,
+    "context": "233"
+  },
+  {
+    "key": "Dark0.json",
+    "original": " Check the Travel Log! ",
+    "translation": "查看一下旅行原木吧!",
+    "stage": 5,
+    "context": "234"
+  },
+  {
+    "key": "Dark1.json",
+    "original": " 3-1: Dark Ages ",
+    "translation": "3-1: 黑暗时代",
+    "stage": 5,
+    "context": "235"
+  },
+  {
+    "key": "Dark11.json",
+    "original": " 13-1: Rebel Side ",
+    "translation": "13-1: 叛变之方",
+    "stage": 5,
+    "context": "236"
+  },
+  {
+    "key": "Dark12.json",
+    "original": " 13-2: Medieval Mending Machine ",
+    "translation": "13-2: 中世纪修理器",
+    "stage": 5,
+    "context": "237"
+  },
+  {
+    "key": "Dark16.json",
+    "original": " 13-6: Midnight Circus ",
+    "translation": "13-6: 夜半马戏团",
+    "stage": 5,
+    "context": "238"
+  },
+  {
+    "key": "Dark17.json",
+    "original": " 13-7: Shadow of the Night ",
+    "translation": "13-7: 午夜阴影",
+    "stage": 5,
+    "context": "239"
+  },
+  {
+    "key": "Dark2.json",
+    "original": " 3-2: Dawned Light ",
+    "translation": "3-2: 曙光",
+    "stage": 5,
+    "context": "240"
+  },
+  {
+    "key": "Dark3.json",
+    "original": " 3-3: Brave at the Grave ",
+    "translation": "3-3: 在冢之勇",
+    "stage": 5,
+    "context": "241"
+  },
+  {
+    "key": "Dark6.json",
+    "original": " 3-6: The Heavy Trampler ",
+    "translation": "3-6: 巨力践踏者",
+    "stage": 5,
+    "context": "242"
+  },
+  {
+    "key": "Dark7.json",
+    "original": " 3-7: Wanderers' Spell ",
+    "translation": "3-7: 流浪者魔咒",
+    "stage": 5,
+    "context": "243"
+  },
+  {
+    "key": "Dino_DangerRoom_A.json",
+    "original": " [DANGER_ROOM_DINO_LEVEL_NAME] ",
+    "translation": "[DANGER_ROOM_DINO_LEVEL_NAME]",
+    "stage": 5,
+    "context": "244"
+  },
+  {
+    "key": "Dino_DangerRoom_B.json",
+    "original": " [DANGER_ROOM_DINO_LEVEL_NAME] ",
+    "translation": "[DANGER_ROOM_DINO_LEVEL_NAME]",
+    "stage": 5,
+    "context": "245"
+  },
+  {
+    "key": "Dino_DangerRoom_C.json",
+    "original": " [DANGER_ROOM_DINO_LEVEL_NAME] ",
+    "translation": "[DANGER_ROOM_DINO_LEVEL_NAME]",
+    "stage": 5,
+    "context": "246"
+  },
+  {
+    "key": "Dino_DangerRoom_D.json",
+    "original": " [DANGER_ROOM_DINO_LEVEL_NAME] ",
+    "translation": "[DANGER_ROOM_DINO_LEVEL_NAME]",
+    "stage": 5,
+    "context": "247"
+  },
+  {
+    "key": "Dino_Night1.json",
+    "original": " JM-1: Blank Sky ",
+    "translation": "JM-1: 茫茫长空",
+    "stage": 5,
+    "context": "248"
+  },
+  {
+    "key": "DINO_NIGHT11.json",
+    "original": " JM-11: Uncontained Energy Source ",
+    "translation": "JM-11: 外来能源",
+    "stage": 5,
+    "context": "249"
+  },
+  {
+    "key": "DINO_NIGHT12.json",
+    "original": " JM-12: Con-gression ",
+    "translation": "JM-12: 中场移动",
+    "stage": 5,
+    "context": "250"
+  },
+  {
+    "key": "DINO_NIGHT13.json",
+    "original": " JM-13: Fly Catcher ",
+    "translation": "JM-13: 对空捕手",
+    "stage": 5,
+    "context": "251"
+  },
+  {
+    "key": "DINO_NIGHT14.json",
+    "original": " JM-14: Ragscalling ",
+    "translation": "JM-14: 地壳碎裂",
+    "stage": 5,
+    "context": "252"
+  },
+  {
+    "key": "DINO_NIGHT15.json",
+    "original": " JM-15: Ground Detacher ",
+    "translation": "JM-15: 地板拆工",
+    "stage": 5,
+    "context": "253"
+  },
+  {
+    "key": "DINO_NIGHT16.json",
+    "original": " JM-16: Raise And Fold ",
+    "translation": "JM-16: 上升与合并",
+    "stage": 5,
+    "context": "254"
+  },
+  {
+    "key": "DINO_NIGHT17.json",
+    "original": " JM-17: Firecricket ",
+    "translation": "JM-17: 火蟋蟀",
+    "stage": 5,
+    "context": "255"
+  },
+  {
+    "key": "DINO_NIGHT18.json",
+    "original": " JM-18: Backfright ",
+    "translation": "JM-18: 后方恐惧",
+    "stage": 5,
+    "context": "256"
+  },
+  {
+    "key": "DINO_NIGHT19.json",
+    "original": " JM-19: Groundbreaking Decibel ",
+    "translation": "JM-19: 震地狂嚎",
+    "stage": 5,
+    "context": "257"
+  },
+  {
+    "key": "Dino_Night2.json",
+    "original": " JM-2: Active Spot ",
+    "translation": "JM-2: 活动点",
+    "stage": 5,
+    "context": "258"
+  },
+  {
+    "key": "DINO_NIGHT20.json",
+    "original": " JM-20: Deathwishes At Blackwater ",
+    "translation": "JM-20: 黑水遗愿",
+    "stage": 5,
+    "context": "259"
+  },
+  {
+    "key": "Dino_Night4.json",
+    "original": " JM-4: Shake Land ",
+    "translation": "JM-4: 大地颤抖",
+    "stage": 5,
+    "context": "260"
+  },
+  {
+    "key": "Dino_Night5.json",
+    "original": " JM-5: Backtracker ",
+    "translation": "JM-5: 折返者",
+    "stage": 5,
+    "context": "261"
+  },
+  {
+    "key": "Dino_Night7.json",
+    "original": " JM-7: Mighty Night ",
+    "translation": "JM-7: 崇高之夜",
+    "stage": 5,
+    "context": "262"
+  },
+  {
+    "key": "Dino_Night8.json",
+    "original": " JM-8: Grass Hoppers ",
+    "translation": "JM-8: 草坪跳蚤",
+    "stage": 5,
+    "context": "263"
+  },
+  {
+    "key": "Dino0.json",
+    "original": " Check the Travel Log! ",
+    "translation": "查看一下旅行原木吧!",
+    "stage": 5,
+    "context": "264"
+  },
+  {
+    "key": "Dino1.json",
+    "original": " 8-1: Mesozoic Marsh ",
+    "translation": "8-1: 中生代沼泽",
+    "stage": 5,
+    "context": "265"
+  },
+  {
+    "key": "Dino11.json",
+    "original": " 18-1: Jurassic Smash ",
+    "translation": "18-1: 侏罗纪粉碎",
+    "stage": 5,
+    "context": "266"
+  },
+  {
+    "key": "Dino12.json",
+    "original": " 18-2: Perfume Performance ",
+    "translation": "18-2: 香水演出",
+    "stage": 5,
+    "context": "267"
+  },
+  {
+    "key": "Dino13.json",
+    "original": " 18-3: Terrorsaurus ",
+    "translation": "18-3: 恐龙",
+    "stage": 5,
+    "context": "268"
+  },
+  {
+    "key": "Dino14.json",
+    "original": " 18-4: Touchdown ",
+    "translation": "18-4: 接触传染",
+    "stage": 5,
+    "context": "269"
+  },
+  {
+    "key": "Dino15.json",
+    "original": " 18-5: Flint Land ",
+    "translation": "18-5: 燧石大陆",
+    "stage": 5,
+    "context": "270"
+  },
+  {
+    "key": "Dino16.json",
+    "original": " 18-6: Amber Chamber ",
+    "translation": "18-6: 琥珀房间",
+    "stage": 5,
+    "context": "271"
+  },
+  {
+    "key": "Dino17.json",
+    "original": " 18-7: Mace Tales ",
+    "translation": "18-7: 狼牙棒传说",
+    "stage": 5,
+    "context": "272"
+  },
+  {
+    "key": "Dino18.json",
+    "original": " 18-8: Hoar Roar ",
+    "translation": "18-8: 冰霜咆哮",
+    "stage": 5,
+    "context": "273"
+  },
+  {
+    "key": "Dino19.json",
+    "original": " 18-9: Backflight ",
+    "translation": "18-9: 向后飞行",
+    "stage": 5,
+    "context": "274"
+  },
+  {
+    "key": "Dino2.json",
+    "original": " 8-2: Kickstarter ",
+    "translation": "8-2: 弹射起步",
+    "stage": 5,
+    "context": "275"
+  },
+  {
+    "key": "Dino20.json",
+    "original": " 18-10: Dinoland ",
+    "translation": "18-10: 恐龙大陆",
+    "stage": 5,
+    "context": "276"
+  },
+  {
+    "key": "Dino5.json",
+    "original": " 8-5: Elders' Playground ",
+    "translation": "8-5: 长者乐园",
+    "stage": 5,
+    "context": "277"
+  },
+  {
+    "key": "Dino7.json",
+    "original": " 8-7: Backward Path ",
+    "translation": "8-7: 反向之路",
+    "stage": 5,
+    "context": "278"
+  },
+  {
+    "key": "Dino9.json",
+    "original": " 8-9: Battle No-Brain ",
+    "translation": "8-9: 无脑之战",
+    "stage": 5,
+    "context": "279"
+  },
+  {
+    "key": "egypt_dangerroom_A.json",
+    "original": " [DANGER_ROOM_EGYPT_LEVEL_NAME] ",
+    "translation": "[DANGER_ROOM_EGYPT_LEVEL_NAME]",
+    "stage": 5,
+    "context": "280"
+  },
+  {
+    "key": "egypt_dangerroom_B.json",
+    "original": " [DANGER_ROOM_EGYPT_LEVEL_NAME] ",
+    "translation": "[DANGER_ROOM_EGYPT_LEVEL_NAME]",
+    "stage": 5,
+    "context": "281"
+  },
+  {
+    "key": "Egypt_Night1.json",
+    "original": " AE-1: The Ancient Night ",
+    "translation": "AE-1: 远古之夜",
+    "stage": 5,
+    "context": "282"
+  },
+  {
+    "key": "Egypt_Night2.json",
+    "original": " AE-2: Signs Of Camels ",
+    "translation": "AE-2: 骆驼标记",
+    "stage": 5,
+    "context": "283"
+  },
+  {
+    "key": "Egypt_Night4.json",
+    "original": " AE-4: Pyramid Nightshift ",
+    "translation": "AE-4: 不眠金字塔",
+    "stage": 5,
+    "context": "284"
+  },
+  {
+    "key": "Egypt_Night5.json",
+    "original": " AE-5: Odd Blockoff ",
+    "translation": "AE-5: 霉田怪圈",
+    "stage": 5,
+    "context": "285"
+  },
+  {
+    "key": "Egypt_Night7.json",
+    "original": " AE-7: Big Decision ",
+    "translation": "AE-7: 重大抉择",
+    "stage": 5,
+    "context": "286"
+  },
+  {
+    "key": "Egypt0.json",
+    "original": " Check the Travel Log! ",
+    "translation": "查看一下旅行原木吧!",
+    "stage": 5,
+    "context": "287"
+  },
+  {
+    "key": "egypt00.json",
+    "original": " Check the Travel Log! ",
+    "translation": "查看一下旅行原木吧!",
+    "stage": 5,
+    "context": "288"
+  },
+  {
+    "key": "Egypt1.json",
+    "original": " 1-1: The Ancient Time ",
+    "translation": "1-1: 远古时期",
+    "stage": 5,
+    "context": "289"
+  },
+  {
+    "key": "Egypt11.json",
+    "original": " 11-1: Ancient Power ",
+    "translation": "11-1: 远古之力",
+    "stage": 5,
+    "context": "290"
+  },
+  {
+    "key": "Egypt13.json",
+    "original": " 11-3: Tomb Raiser ",
+    "translation": "11-3: 造墓人",
+    "stage": 5,
+    "context": "291"
+  },
+  {
+    "key": "Egypt16.json",
+    "original": " 11-6: Set War ",
+    "translation": "11-6: 大战",
+    "stage": 5,
+    "context": "292"
+  },
+  {
+    "key": "Egypt18.json",
+    "original": " 11-8: Extreme Exploration ",
+    "translation": "11-8: 极限探险",
+    "stage": 5,
+    "context": "293"
+  },
+  {
+    "key": "Egypt2.json",
+    "original": " 1-2: Overgrave Lobber ",
+    "translation": "1-2: 跨墓投手",
+    "stage": 5,
+    "context": "294"
+  },
+  {
+    "key": "Egypt21.json",
+    "original": " 21-1: Ancient Curse ",
+    "translation": "21-1: 远古诅咒",
+    "stage": 5,
+    "context": "295"
+  },
+  {
+    "key": "Egypt22.json",
+    "original": " 21-2: Mumerous Invasion ",
+    "translation": "21-2: 多重入侵",
+    "stage": 5,
+    "context": "296"
+  },
+  {
+    "key": "Egypt24.json",
+    "original": " 21-4: Ra Square ",
+    "translation": "21-4: 太阳神广场",
+    "stage": 5,
+    "context": "297"
+  },
+  {
+    "key": "Egypt26.json",
+    "original": " 21-6: Sun Guard ",
+    "translation": "21-6: 阳光守卫",
+    "stage": 5,
+    "context": "298"
+  },
+  {
+    "key": "Egypt28.json",
+    "original": " 21-8: Reprisation ",
+    "translation": "21-8: 复制",
+    "stage": 5,
+    "context": "299"
+  },
+  {
+    "key": "Egypt5.json",
+    "original": " 1-5: Escaping Explorer ",
+    "translation": "1-5: 奔逃探险者",
+    "stage": 5,
+    "context": "300"
+  },
+  {
+    "key": "Egypt6.json",
+    "original": " 1-6: Tighten Up ",
+    "translation": "1-6: 紧凑管理",
+    "stage": 5,
+    "context": "301"
+  },
+  {
+    "key": "Egypt7.json",
+    "original": " 1-7: Sun Field ",
+    "translation": "1-7: 阳光产地",
+    "stage": 5,
+    "context": "302"
+  },
+  {
+    "key": "Eighties_DangerRoom.json",
+    "original": " [DANGER_ROOM_EIGHTIES_LEVEL_NAME] ",
+    "translation": "[DANGER_ROOM_EIGHTIES_LEVEL_NAME]",
+    "stage": 5,
+    "context": "303"
+  },
+  {
+    "key": "Eighties0.json",
+    "original": " Check the Travel Log! ",
+    "translation": "查看一下旅行原木吧!",
+    "stage": 5,
+    "context": "304"
+  },
+  {
+    "key": "Eighties1.json",
+    "original": " 10-1: Eighties Empire ",
+    "translation": "10-1: 八零帝国",
+    "stage": 5,
+    "context": "305"
+  },
+  {
+    "key": "Eighties10.json",
+    "original": " 10-10: Talent Show ",
+    "translation": "10-10: 才艺表演",
+    "stage": 5,
+    "context": "306"
+  },
+  {
+    "key": "Eighties11.json",
+    "original": " 20-1: Meta Jam ",
+    "translation": "20-1: 即兴切歌",
+    "stage": 5,
+    "context": "307"
+  },
+  {
+    "key": "Eighties12.json",
+    "original": " 20-2: Blind Audition 2 ",
+    "translation": "20-2: 致盲试音 2",
+    "stage": 5,
+    "context": "308"
+  },
+  {
+    "key": "Eighties13.json",
+    "original": " 20-3: The Arcademy ",
+    "translation": "20-3: 游戏厅",
+    "stage": 5,
+    "context": "309"
+  },
+  {
+    "key": "Eighties14.json",
+    "original": " 20-4: Unreal Army ",
+    "translation": "20-4: 虚拟兵卒",
+    "stage": 5,
+    "context": "310"
+  },
+  {
+    "key": "Eighties15.json",
+    "original": " 20-5: Breakdancers ",
+    "translation": "20-5: 霹雳舞者",
+    "stage": 5,
+    "context": "311"
+  },
+  {
+    "key": "Eighties16.json",
+    "original": " 20-6: Star Gate ",
+    "translation": "20-6: 星门",
+    "stage": 5,
+    "context": "312"
+  },
+  {
+    "key": "Eighties17.json",
+    "original": " 20-7: Threat Run ",
+    "translation": "20-7: 奔跑威胁",
+    "stage": 5,
+    "context": "313"
+  },
+  {
+    "key": "Eighties18.json",
+    "original": " 20-8: Escalation Game ",
+    "translation": "20-8: 升级游戏",
+    "stage": 5,
+    "context": "314"
+  },
+  {
+    "key": "Eighties19.json",
+    "original": " 20-9: Simulation Band ",
+    "translation": "20-9: 虚拟乐队",
+    "stage": 5,
+    "context": "315"
+  },
+  {
+    "key": "Eighties2.json",
+    "original": " 10-2: Glitteria ",
+    "translation": "10-2: 闪闪发光",
+    "stage": 5,
+    "context": "316"
+  },
+  {
+    "key": "Eighties20.json",
+    "original": " 20-10: Taking the Big Stage ",
+    "translation": "20-10: 登台表演",
+    "stage": 5,
+    "context": "317"
+  },
+  {
+    "key": "Eighties4.json",
+    "original": " 10-4: Punk Palace ",
+    "translation": "10-4: 朋克宫殿",
+    "stage": 5,
+    "context": "318"
+  },
+  {
+    "key": "Eighties6.json",
+    "original": " 10-6: Blind Audition ",
+    "translation": "10-6: 致盲试音",
+    "stage": 5,
+    "context": "319"
+  },
+  {
+    "key": "Eighties7.json",
+    "original": " 10-7: Micro Sway ",
+    "translation": "10-7: 横扫麦克风",
+    "stage": 5,
+    "context": "320"
+  },
+  {
+    "key": "Eighties8.json",
+    "original": " 10-8: The Neon Nightclub ",
+    "translation": "10-8: 霓虹夜总会",
+    "stage": 5,
+    "context": "321"
+  },
+  {
+    "key": "Future_DangerRoom_A.json",
+    "original": " [DANGER_ROOM_FUTURE_LEVEL_NAME] ",
+    "translation": "[DANGER_ROOM_FUTURE_LEVEL_NAME]",
+    "stage": 5,
+    "context": "322"
+  },
+  {
+    "key": "Future_DangerRoom_B.json",
+    "original": " [DANGER_ROOM_FUTURE_LEVEL_NAME] ",
+    "translation": "[DANGER_ROOM_FUTURE_LEVEL_NAME]",
+    "stage": 5,
+    "context": "323"
+  },
+  {
+    "key": "Future0.json",
+    "original": " Check the Travel Log! ",
+    "translation": "查看一下旅行原木吧!",
+    "stage": 5,
+    "context": "324"
+  },
+  {
+    "key": "Future1.json",
+    "original": " 9-1: Future Tense ",
+    "translation": "9-1: 未来时态",
+    "stage": 5,
+    "context": "325"
+  },
+  {
+    "key": "Future11.json",
+    "original": " 19-1: Empowerage ",
+    "translation": "19-1: 超能时代",
+    "stage": 5,
+    "context": "326"
+  },
+  {
+    "key": "Future12.json",
+    "original": " 19-2: Sudden Wall ",
+    "translation": "19-2: 突现肉墙",
+    "stage": 5,
+    "context": "327"
+  },
+  {
+    "key": "Future13.json",
+    "original": " 19-3: Future Dancing Zombie ",
+    "translation": "19-3: 未来舞蹈僵尸",
+    "stage": 5,
+    "context": "328"
+  },
+  {
+    "key": "Future14.json",
+    "original": " 19-4: Hypno-tech ",
+    "translation": "19-4: 魅惑科技",
+    "stage": 5,
+    "context": "329"
+  },
+  {
+    "key": "Future16.json",
+    "original": " 19-6: Mobile Bunker ",
+    "translation": "19-6: 移动推土机",
+    "stage": 5,
+    "context": "330"
+  },
+  {
+    "key": "Future17.json",
+    "original": " 19-7: The Safezone ",
+    "translation": "19-7: 安全区域",
+    "stage": 5,
+    "context": "331"
+  },
+  {
+    "key": "Future19.json",
+    "original": " 19-9: Techno Gen ",
+    "translation": "19-9: 高科技乐队",
+    "stage": 5,
+    "context": "332"
+  },
+  {
+    "key": "Future3.json",
+    "original": " 9-3: Augmented Protection ",
+    "translation": "9-3: 加强护盾",
+    "stage": 5,
+    "context": "333"
+  },
+  {
+    "key": "Future5.json",
+    "original": " 9-5: Heavy Roadblockers ",
+    "translation": "9-5: 巨型路障",
+    "stage": 5,
+    "context": "334"
+  },
+  {
+    "key": "Future7.json",
+    "original": " 9-7: Jet Drive ",
+    "translation": "9-7: 喷射驱动",
+    "stage": 5,
+    "context": "335"
+  },
+  {
+    "key": "Future9.json",
+    "original": " 9-9: Portal Combat ",
+    "translation": "9-9: 传送门之战",
+    "stage": 5,
+    "context": "336"
+  },
+  {
+    "key": "Iceage_DangerRoom.json",
+    "original": " [DANGER_ROOM_ICEAGE_LEVEL_NAME] ",
+    "translation": "[DANGER_ROOM_ICEAGE_LEVEL_NAME]",
+    "stage": 5,
+    "context": "337"
+  },
+  {
+    "key": "Iceage0.json",
+    "original": " Check the Travel Log! ",
+    "translation": "查看一下旅行原木吧!",
+    "stage": 5,
+    "context": "338"
+  },
+  {
+    "key": "Iceage1.json",
+    "original": " 5-1: Ice Lever ",
+    "translation": "5-1: 寒冰杠杆",
+    "stage": 5,
+    "context": "339"
+  },
+  {
+    "key": "Iceage11.json",
+    "original": " 15-1: Snow Lake ",
+    "translation": "15-1: 雪湖",
+    "stage": 5,
+    "context": "340"
+  },
+  {
+    "key": "Iceage12.json",
+    "original": " 15-2: Lava Floor ",
+    "translation": "15-2: 熔岩地板",
+    "stage": 5,
+    "context": "341"
+  },
+  {
+    "key": "Iceage13.json",
+    "original": " 15-3: Weasel Teasel ",
+    "translation": "15-3: 冰鼬挑逗",
+    "stage": 5,
+    "context": "342"
+  },
+  {
+    "key": "Iceage14.json",
+    "original": " 15-4: Moon Power ",
+    "translation": "15-4: 月光之力",
+    "stage": 5,
+    "context": "343"
+  },
+  {
+    "key": "Iceage16.json",
+    "original": " 15-6: Bittersweet ",
+    "translation": "15-6: 苦甜参半",
+    "stage": 5,
+    "context": "344"
+  },
+  {
+    "key": "Iceage18.json",
+    "original": " 15-8: Wind Shield ",
+    "translation": "15-8: 防风罩",
+    "stage": 5,
+    "context": "345"
+  },
+  {
+    "key": "Iceage2.json",
+    "original": " 5-2: Freezervation ",
+    "translation": "5-2: 冰封",
+    "stage": 5,
+    "context": "346"
+  },
+  {
+    "key": "Iceage4.json",
+    "original": " 5-4: Hunting Season ",
+    "translation": "5-4: 狩猎时节",
+    "stage": 5,
+    "context": "347"
+  },
+  {
+    "key": "Iceage7.json",
+    "original": " 5-7: Team Frostimps ",
+    "translation": "5-7: 冰霜小鬼队",
+    "stage": 5,
+    "context": "348"
+  },
+  {
+    "key": "Iceage8.json",
+    "original": " 5-8: Ice Age ",
+    "translation": "5-8: 冰河世纪",
+    "stage": 5,
+    "context": "349"
+  },
+  {
+    "key": "LostCity_DangerRoom_A.json",
+    "original": " [DANGER_ROOM_LOSTCITY_LEVEL_NAME] ",
+    "translation": "[DANGER_ROOM_LOSTCITY_LEVEL_NAME]",
+    "stage": 5,
+    "context": "350"
+  },
+  {
+    "key": "LostCity_DangerRoom_B.json",
+    "original": " [DANGER_ROOM_LOSTCITY_LEVEL_NAME] ",
+    "translation": "[DANGER_ROOM_LOSTCITY_LEVEL_NAME]",
+    "stage": 5,
+    "context": "351"
+  },
+  {
+    "key": "LostCity_Night1.json",
+    "original": " LC-1: Moonlight Jungle ",
+    "translation": "LC-1: 月光丛林",
+    "stage": 5,
+    "context": "352"
+  },
+  {
+    "key": "LostCity_Night2.json",
+    "original": " LC-2: Hovering Tramps ",
+    "translation": "LC-2: 彷徨探险者",
+    "stage": 5,
+    "context": "353"
+  },
+  {
+    "key": "LostCity_Night3.json",
+    "original": " LC-3: Blooming Night ",
+    "translation": "LC-3: 花开之夜",
+    "stage": 5,
+    "context": "354"
+  },
+  {
+    "key": "LostCity_Night5.json",
+    "original": " LC-5: Convergent ",
+    "translation": "LC-5: 汇聚",
+    "stage": 5,
+    "context": "355"
+  },
+  {
+    "key": "LostCity_Night7.json",
+    "original": " LC-7: Former Night ",
+    "translation": "LC-7: 前夜",
+    "stage": 5,
+    "context": "356"
+  },
+  {
+    "key": "LostCity_Night9.json",
+    "original": " LC-9: Wandering Jungle ",
+    "translation": "LC-9: 丛林游荡",
+    "stage": 5,
+    "context": "357"
+  },
+  {
+    "key": "LostCity0.json",
+    "original": " Check the Travel Log! ",
+    "translation": "查看一下旅行原木吧!",
+    "stage": 5,
+    "context": "358"
+  },
+  {
+    "key": "LostCity00.json",
+    "original": " Check the Travel Log! ",
+    "translation": "查看一下旅行原木吧!",
+    "stage": 5,
+    "context": "359"
+  },
+  {
+    "key": "LostCity1.json",
+    "original": " 2-1: Running Temple ",
+    "translation": "2-1: 神庙逃亡",
+    "stage": 5,
+    "context": "360"
+  },
+  {
+    "key": "LostCity10.json",
+    "original": " 2-10: Block Dropper ",
+    "translation": "2-10: 障碍运输者",
+    "stage": 5,
+    "context": "361"
+  },
+  {
+    "key": "LostCity11.json",
+    "original": " 12-1: Forest Forgotten ",
+    "translation": "12-1: 遗忘之森",
+    "stage": 5,
+    "context": "362"
+  },
+  {
+    "key": "LostCity12.json",
+    "original": " 12-2: Problem Sholver ",
+    "translation": "12-2: 麻烦铲工",
+    "stage": 5,
+    "context": "363"
+  },
+  {
+    "key": "LostCity16.json",
+    "original": " 12-6: Bug Spray ",
+    "translation": "12-6: 害虫泼洒",
+    "stage": 5,
+    "context": "364"
+  },
+  {
+    "key": "LostCity18.json",
+    "original": " 12-8: Patecatl' Blessing ",
+    "translation": "12-8: 神明祝福",
+    "stage": 5,
+    "context": "365"
+  },
+  {
+    "key": "LostCity19.json",
+    "original": " 12-9: Treasure Hunt ",
+    "translation": "12-9: 寻宝",
+    "stage": 5,
+    "context": "366"
+  },
+  {
+    "key": "LostCity2.json",
+    "original": " 2-2: Head Protector ",
+    "translation": "2-2: 护头器",
+    "stage": 5,
+    "context": "367"
+  },
+  {
+    "key": "LostCity21.json",
+    "original": " 22-1: Lost Grate ",
+    "translation": "22-1: 失落文明",
+    "stage": 5,
+    "context": "368"
+  },
+  {
+    "key": "LostCity22.json",
+    "original": " 22-2: Bug Gatherer ",
+    "translation": "22-2: 害虫聚集",
+    "stage": 5,
+    "context": "369"
+  },
+  {
+    "key": "LostCity23.json",
+    "original": " 22-3: The Tag Game ",
+    "translation": "22-3: 标签游戏",
+    "stage": 5,
+    "context": "370"
+  },
+  {
+    "key": "LostCity24.json",
+    "original": " 22-4: Safe Of Sound ",
+    "translation": "22-4: 哑巴",
+    "stage": 5,
+    "context": "371"
+  },
+  {
+    "key": "LostCity25.json",
+    "original": " 22-5: Takeaway Hunger ",
+    "translation": "22-5: 饥饿掠夺者",
+    "stage": 5,
+    "context": "372"
+  },
+  {
+    "key": "LostCity26.json",
+    "original": " 22-6: Tennitus ",
+    "translation": "22-6: 营地仙人掌",
+    "stage": 5,
+    "context": "373"
+  },
+  {
+    "key": "LostCity27.json",
+    "original": " 22-7: Mime Tracer ",
+    "translation": "22-7: 哑剧示踪",
+    "stage": 5,
+    "context": "374"
+  },
+  {
+    "key": "LostCity28.json",
+    "original": " 22-8: Air Compress ",
+    "translation": "22-8: 空气压缩",
+    "stage": 5,
+    "context": "375"
+  },
+  {
+    "key": "LostCity29.json",
+    "original": " 22-9: Swing Field ",
+    "translation": "22-9: 摇摆之地",
+    "stage": 5,
+    "context": "376"
+  },
+  {
+    "key": "LostCity4.json",
+    "original": " 2-4: Fly Sticker ",
+    "translation": "2-4: 飞行员",
+    "stage": 5,
+    "context": "377"
+  },
+  {
+    "key": "LostCity6.json",
+    "original": " 2-6: Air Snipe ",
+    "translation": "2-6: 空战",
+    "stage": 5,
+    "context": "378"
+  },
+  {
+    "key": "minigames\\botanical_1.json",
+    "original": " Botanical Battle I: Robodancers ",
+    "translation": "植物反击 I: 机械舞者",
+    "stage": 5,
+    "context": "379"
+  },
+  {
+    "key": "minigames\\botanical_2.json",
+    "original": " Botanical Battle II: Tiny Army - DT ",
+    "translation": "植物反击 II: 迷你军队 - DT",
+    "stage": 5,
+    "context": "380"
+  },
+  {
+    "key": "minigames\\botanical_3.json",
+    "original": " Botanical Battle III: Thorny Retrobution - DT ",
+    "translation": "植物反击 III: 荆棘回击 - DT",
+    "stage": 5,
+    "context": "381"
+  },
+  {
+    "key": "minigames\\botanical_4.json",
+    "original": " Botanical Battle IV: Bowl Game - DT ",
+    "translation": "植物反击 IV: 保龄球游戏 - DT",
+    "stage": 5,
+    "context": "382"
+  },
+  {
+    "key": "minigames\\bowling_1.json",
+    "original": " Bowling Party: Boundyard ",
+    "translation": "保龄球派对: 弹射庭院",
+    "stage": 5,
+    "context": "383"
+  },
+  {
+    "key": "minigames\\bowling_10.json",
+    "original": " Bowling Party X: The Future ",
+    "translation": "保龄球派对 X: 未来",
+    "stage": 5,
+    "context": "384"
+  },
+  {
+    "key": "minigames\\bowling_2.json",
+    "original": " Bowling Party 2: Gravestones ",
+    "translation": "保龄球派对 2: 墓碑",
+    "stage": 5,
+    "context": "385"
+  },
+  {
+    "key": "minigames\\bowling_3.json",
+    "original": " Bowling Party 3: Dinosaurs ",
+    "translation": "保龄球派对 3: 恐龙",
+    "stage": 5,
+    "context": "386"
+  },
+  {
+    "key": "minigames\\bowling_4.json",
+    "original": " Bowling Party 4: Wildancer ",
+    "translation": "保龄球派对 4: 狂野舞者",
+    "stage": 5,
+    "context": "387"
+  },
+  {
+    "key": "minigames\\bowling_5.json",
+    "original": " Bowling Party 5: Sandstorm ",
+    "translation": "保龄球派对 5: 沙尘暴",
+    "stage": 5,
+    "context": "388"
+  },
+  {
+    "key": "minigames\\bowling_6.json",
+    "original": " Bowling Party 6: Multiply ",
+    "translation": "保龄球派对 6: 增殖",
+    "stage": 5,
+    "context": "389"
+  },
+  {
+    "key": "minigames\\bowling_7.json",
+    "original": " Bowling Party 7: Origin ",
+    "translation": "保龄球派对 7: 原版",
+    "stage": 5,
+    "context": "390"
+  },
+  {
+    "key": "minigames\\bowling_8.json",
+    "original": " Bowling Party 8: Endangered ",
+    "translation": "保龄球派对 8: 濒危",
+    "stage": 5,
+    "context": "391"
+  },
+  {
+    "key": "minigames\\bowling_9.json",
+    "original": " Bowling Party 9: Deathline ",
+    "translation": "保龄球派对 9: 死线",
+    "stage": 5,
+    "context": "392"
+  },
+  {
+    "key": "minigames\\CRYOSIEGE.json",
+    "original": " Cryosiege - EnderallyGolem ",
+    "translation": "冰晶封锁 - EnderallyGolem",
+    "stage": 5,
+    "context": "393"
+  },
+  {
+    "key": "minigames\\CRYOSIEGE_EASY.json",
+    "original": " Cryosiege (easy) - EnderallyGolem ",
+    "translation": "冰晶封锁 (简单) - EnderallyGolem",
+    "stage": 5,
+    "context": "394"
+  },
+  {
+    "key": "minigames\\encroucher.json",
+    "original": " The Encroucher ",
+    "translation": "入侵者",
+    "stage": 5,
+    "context": "395"
+  },
+  {
+    "key": "minigames\\encroucher_easy.json",
+    "original": " The Encroucher (easy) ",
+    "translation": "入侵者 (简单)",
+    "stage": 5,
+    "context": "396"
+  },
+  {
+    "key": "minigames\\goldcapture.json",
+    "original": " Gold Capture ",
+    "translation": "黄金捕获",
+    "stage": 5,
+    "context": "397"
+  },
+  {
+    "key": "minigames\\goldcapture_easy.json",
+    "original": " Gold Capture (easy) ",
+    "translation": "黄金捕获 (简单)",
+    "stage": 5,
+    "context": "398"
+  },
+  {
+    "key": "minigames\\good_farmer.json",
+    "original": " The Good Farmer - Lock O ",
+    "translation": "春种秋收 - Lock O",
+    "stage": 5,
+    "context": "399"
+  },
+  {
+    "key": "minigames\\good_farmer_easy.json",
+    "original": " The Good Farmer (Easy) - Lock O ",
+    "translation": "春种秋收 (简单) - Lock O",
+    "stage": 5,
+    "context": "400"
+  },
+  {
+    "key": "minigames\\invisighoul_1.json",
+    "original": " Invisi-ghoul ",
+    "translation": "隐形食脑者",
+    "stage": 5,
+    "context": "401"
+  },
+  {
+    "key": "minigames\\invisighoul_2.json",
+    "original": " Invisi-ghoul: Tenttinus ",
+    "translation": "隐形食脑者: 隐形帐篷",
+    "stage": 5,
+    "context": "402"
+  },
+  {
+    "key": "minigames\\invisighoul_3.json",
+    "original": " Invisi-ghoul: Nerve Spikes ",
+    "translation": "隐形食脑者: 神经刺痛",
+    "stage": 5,
+    "context": "403"
+  },
+  {
+    "key": "minigames\\invisighoul_4.json",
+    "original": " Invisi-ghoul: Wild Shot ",
+    "translation": "隐形食脑者: 荒野枪手",
+    "stage": 5,
+    "context": "404"
+  },
+  {
+    "key": "minigames\\invisighoul_5.json",
+    "original": " Invisi-ghoul: Ghost Race ",
+    "translation": "隐形食脑者: 亡灵赛跑",
+    "stage": 5,
+    "context": "405"
+  },
+  {
+    "key": "minigames\\invisighoul_6.json",
+    "original": " Invisi-ghoul: Cold War ",
+    "translation": "隐形食脑者: 酷寒战争",
+    "stage": 5,
+    "context": "406"
+  },
+  {
+    "key": "minigames\\lilyland.json",
+    "original": " Lily of the Balley ",
+    "translation": "莲上芭蕾",
+    "stage": 5,
+    "context": "407"
+  },
+  {
+    "key": "minigames\\lilyland_easy.json",
+    "original": " Lily of the Balley (easy) ",
+    "translation": "莲上芭蕾 (简单)",
+    "stage": 5,
+    "context": "408"
+  },
+  {
+    "key": "minigames\\mega_countdown.json",
+    "original": " Mega Countdown - DT ",
+    "translation": "终极倒数 - DT",
+    "stage": 5,
+    "context": "409"
+  },
+  {
+    "key": "minigames\\mega_countdown_easy.json",
+    "original": " Mega Countdown (easy) - DT ",
+    "translation": "终极倒数 (简单) - DT",
+    "stage": 5,
+    "context": "410"
+  },
+  {
+    "key": "minigames\\mineset_ender1.json",
+    "original": " Minesetter ",
+    "translation": "布雷者",
+    "stage": 5,
+    "context": "411"
+  },
+  {
+    "key": "minigames\\mineset_ender2.json",
+    "original": " Minesetter ",
+    "translation": "布雷者",
+    "stage": 5,
+    "context": "412"
+  },
+  {
+    "key": "minigames\\mineset_ender3.json",
+    "original": " Minesetter ",
+    "translation": "布雷者",
+    "stage": 5,
+    "context": "413"
+  },
+  {
+    "key": "minigames\\mineset_ender4.json",
+    "original": " Minesetter ",
+    "translation": "布雷者",
+    "stage": 5,
+    "context": "414"
+  },
+  {
+    "key": "minigames\\mineset1.json",
+    "original": " Minesetter ",
+    "translation": "布雷者",
+    "stage": 5,
+    "context": "415"
+  },
+  {
+    "key": "minigames\\mineset2.json",
+    "original": " Minesetter ",
+    "translation": "布雷者",
+    "stage": 5,
+    "context": "416"
+  },
+  {
+    "key": "minigames\\mineset3.json",
+    "original": " Minesetter ",
+    "translation": "布雷者",
+    "stage": 5,
+    "context": "417"
+  },
+  {
+    "key": "minigames\\mineset4.json",
+    "original": " Minesetter ",
+    "translation": "布雷者",
+    "stage": 5,
+    "context": "418"
+  },
+  {
+    "key": "minigames\\mineset5.json",
+    "original": " Minesetter ",
+    "translation": "布雷者",
+    "stage": 5,
+    "context": "419"
+  },
+  {
+    "key": "minigames\\mineset6.json",
+    "original": " Minesetter ",
+    "translation": "布雷者",
+    "stage": 5,
+    "context": "420"
+  },
+  {
+    "key": "minigames\\mineset7.json",
+    "original": " Minesetter ",
+    "translation": "布雷者",
+    "stage": 5,
+    "context": "421"
+  },
+  {
+    "key": "minigames\\mineset8.json",
+    "original": " Minesetter ",
+    "translation": "布雷者",
+    "stage": 5,
+    "context": "422"
+  },
+  {
+    "key": "minigames\\object.json",
+    "original": " Objective: Protect - DT ",
+    "translation": "任务: 保护 - DT",
+    "stage": 5,
+    "context": "423"
+  },
+  {
+    "key": "minigames\\object_easy.json",
+    "original": " Objective: Protect (easy) - DT ",
+    "translation": "任务: 保护 (简单) - DT",
+    "stage": 5,
+    "context": "424"
+  },
+  {
+    "key": "minigames\\overleft_1.json",
+    "original": " Overleft I: To the Left ",
+    "translation": "隔山打牛 I: 向左",
+    "stage": 5,
+    "context": "425"
+  },
+  {
+    "key": "minigames\\overleft_2.json",
+    "original": " Overleft II: Motivation ",
+    "translation": "隔山打牛 II: 动力",
+    "stage": 5,
+    "context": "426"
+  },
+  {
+    "key": "minigames\\overleft_3.json",
+    "original": " Overleft III: Mage Day ",
+    "translation": "隔山打牛 III: 大日子",
+    "stage": 5,
+    "context": "427"
+  },
+  {
+    "key": "minigames\\overleft_4.json",
+    "original": " Overleft IV: Pool Party ",
+    "translation": "隔山打牛 IV: 泳池派对",
+    "stage": 5,
+    "context": "428"
+  },
+  {
+    "key": "minigames\\overleft_5.json",
+    "original": " Overleft V: Explorers' League - DT ",
+    "translation": "隔山打牛 V: 探险联盟 - DT",
+    "stage": 5,
+    "context": "429"
+  },
+  {
+    "key": "minigames\\parrotrousle.json",
+    "original": " Parrotrousle - DT ",
+    "translation": "鹦鹉动乱 - DT",
+    "stage": 5,
+    "context": "430"
+  },
+  {
+    "key": "minigames\\parrotrousle_easy.json",
+    "original": " Parrotrousle (easy) - DT ",
+    "translation": "鹦鹉动乱 (简单) - DT",
+    "stage": 5,
+    "context": "431"
+  },
+  {
+    "key": "minigames\\shipper.json",
+    "original": " The Shipper ",
+    "translation": "托运者",
+    "stage": 5,
+    "context": "432"
+  },
+  {
+    "key": "minigames\\shipper_easy.json",
+    "original": " The Shipper (easy) ",
+    "translation": "托运者 (简单)",
+    "stage": 5,
+    "context": "433"
+  },
+  {
+    "key": "minigames\\solar_quest.json",
+    "original": " Solar Quest - Lock O ",
+    "translation": "阳光探索 - Lock O",
+    "stage": 5,
+    "context": "434"
+  },
+  {
+    "key": "minigames\\solar_quest_easy.json",
+    "original": " Solar Quest (Easy) - Lock O ",
+    "translation": "阳光探索 (简单) - Lock O",
+    "stage": 5,
+    "context": "435"
+  },
+  {
+    "key": "minigames\\split_decision.json",
+    "original": " Split Decision ",
+    "translation": "瞻前顾后",
+    "stage": 5,
+    "context": "436"
+  },
+  {
+    "key": "minigames\\split_decision_easy.json",
+    "original": " Split Decision (easy) ",
+    "translation": "瞻前顾后 (简单)",
+    "stage": 5,
+    "context": "437"
+  },
+  {
+    "key": "minigames\\survival_column.json",
+    "original": " Survival: Column Chaos ",
+    "translation": "生存: 柱状混乱",
+    "stage": 5,
+    "context": "438"
+  },
+  {
+    "key": "minigames\\survival_escalation.json",
+    "original": " Survival: Escalation ",
+    "translation": "生存: 阳光积攒",
+    "stage": 5,
+    "context": "439"
+  },
+  {
+    "key": "minigames\\survival_gargantuar.json",
+    "original": " Survival: Gargantuar Feast ",
+    "translation": "生存: 巨人盛宴",
+    "stage": 5,
+    "context": "440"
+  },
+  {
+    "key": "minigames\\time_crack.json",
+    "original": " A Crack in Time - DT ",
+    "translation": "时空裂缝 - DT",
+    "stage": 5,
+    "context": "441"
+  },
+  {
+    "key": "minigames\\time_crack_easy.json",
+    "original": " A Crack in Time (easy) - DT ",
+    "translation": "时空裂缝 (简单) - DT",
+    "stage": 5,
+    "context": "442"
+  },
+  {
+    "key": "minigames\\wallbreaker.json",
+    "original": " Wall Breaker ",
+    "translation": "高墙拆除者",
+    "stage": 5,
+    "context": "443"
+  },
+  {
+    "key": "minigames\\wallbreaker_easy.json",
+    "original": " Wall Breaker (easy) ",
+    "translation": "高墙拆除者 (简单)",
+    "stage": 5,
+    "context": "444"
+  },
+  {
+    "key": "Modern_DangerRoom_A.json",
+    "original": " [DANGER_ROOM_MODERN_LEVEL_NAME] ",
+    "translation": "[DANGER_ROOM_MODERN_LEVEL_NAME]",
+    "stage": 5,
+    "context": "445"
+  },
+  {
+    "key": "Modern_DangerRoom_B.json",
+    "original": " [DANGER_ROOM_MODERN_LEVEL_NAME] ",
+    "translation": "[DANGER_ROOM_MODERN_LEVEL_NAME]",
+    "stage": 5,
+    "context": "446"
+  },
+  {
+    "key": "Modern0.json",
+    "original": " You Shall Not Pass! ...... jk ",
+    "translation": "你不应该通过! ... 开个玩笑",
+    "stage": 5,
+    "context": "447"
+  },
+  {
+    "key": "Pirate_DangerRoom_A.json",
+    "original": " [DANGER_ROOM_PIRATE_LEVEL_NAME] ",
+    "translation": "[DANGER_ROOM_PIRATE_LEVEL_NAME]",
+    "stage": 5,
+    "context": "448"
+  },
+  {
+    "key": "Pirate_DangerRoom_B.json",
+    "original": " [DANGER_ROOM_PIRATE_LEVEL_NAME] ",
+    "translation": "[DANGER_ROOM_PIRATE_LEVEL_NAME]",
+    "stage": 5,
+    "context": "449"
+  },
+  {
+    "key": "Pirate_DangerRoom_C.json",
+    "original": " [DANGER_ROOM_PIRATE_LEVEL_NAME] ",
+    "translation": "[DANGER_ROOM_PIRATE_LEVEL_NAME]",
+    "stage": 5,
+    "context": "450"
+  },
+  {
+    "key": "Pirate_DangerRoom_D.json",
+    "original": " [DANGER_ROOM_PIRATE_LEVEL_NAME] ",
+    "translation": "[DANGER_ROOM_PIRATE_LEVEL_NAME]",
+    "stage": 5,
+    "context": "451"
+  },
+  {
+    "key": "Pirate_DangerRoom_E.json",
+    "original": " [DANGER_ROOM_PIRATE_LEVEL_NAME] ",
+    "translation": "[DANGER_ROOM_PIRATE_LEVEL_NAME]",
+    "stage": 5,
+    "context": "452"
+  },
+  {
+    "key": "Pirate0.json",
+    "original": " Check the Travel Log! ",
+    "translation": "查看一下旅行原木吧!",
+    "stage": 5,
+    "context": "453"
+  },
+  {
+    "key": "Pirate1.json",
+    "original": " 4-1: Green Plank ",
+    "translation": "4-1: 绿化甲板",
+    "stage": 5,
+    "context": "454"
+  },
+  {
+    "key": "Pirate11.json",
+    "original": " 14-1: Veteran Sailor ",
+    "translation": "14-1: 老练水手",
+    "stage": 5,
+    "context": "455"
+  },
+  {
+    "key": "Pirate12.json",
+    "original": " 14-2: Raiding Party ",
+    "translation": "14-2: 劫掠派对",
+    "stage": 5,
+    "context": "456"
+  },
+  {
+    "key": "Pirate13.json",
+    "original": " 14-3: Cannon Candicator ",
+    "translation": "14-3: 炮位",
+    "stage": 5,
+    "context": "457"
+  },
+  {
+    "key": "Pirate15.json",
+    "original": " 14-5: Hardened Headcannon ",
+    "translation": "14-5: 硬化弹头",
+    "stage": 5,
+    "context": "458"
+  },
+  {
+    "key": "Pirate17.json",
+    "original": " 14-7: Bird Family ",
+    "translation": "14-7: 鸟类家族",
+    "stage": 5,
+    "context": "459"
+  },
+  {
+    "key": "Pirate2.json",
+    "original": " 4-2: Swifty Bucklers ",
+    "translation": "4-2: 迅猛跳跃者",
+    "stage": 5,
+    "context": "460"
+  },
+  {
+    "key": "Pirate3.json",
+    "original": " 4-3: Bucket Ballete ",
+    "translation": "4-3: 木桶芭蕾",
+    "stage": 5,
+    "context": "461"
+  },
+  {
+    "key": "Pirate5.json",
+    "original": " 4-5: Pea For Three ",
+    "translation": "4-5: 豆分三路",
+    "stage": 5,
+    "context": "462"
+  },
+  {
+    "key": "Pirate7.json",
+    "original": " 4-7: Captain Colony ",
+    "translation": "4-7: 船长集中区",
+    "stage": 5,
+    "context": "463"
+  },
+  {
+    "key": "SECRET0.json",
+    "original": " S-0: Secret Level ",
+    "translation": "S-0: 神秘关卡",
+    "stage": 5,
+    "context": "464"
+  },
+  {
+    "key": "SECRET1.json",
+    "original": " S-1: Flame Dancer ",
+    "translation": "S-1: 烈焰舞者",
+    "stage": 5,
+    "context": "465"
+  },
+  {
+    "key": "SECRET13.json",
+    "original": " S-13: Sneak Race ",
+    "translation": "S-13: 潜水竞赛",
+    "stage": 5,
+    "context": "466"
+  },
+  {
+    "key": "SECRET18.json",
+    "original": " S-18: Time Stomp ",
+    "translation": "S-18: 时间践踏",
+    "stage": 5,
+    "context": "467"
+  },
+  {
+    "key": "SECRET2.json",
+    "original": " S-2: Veteran Torcher ",
+    "translation": "S-2: 老练火炬手",
+    "stage": 5,
+    "context": "468"
+  },
+  {
+    "key": "SECRET20.json",
+    "original": " S-20: Metal Age ",
+    "translation": "S-20: 金属年代",
+    "stage": 5,
+    "context": "469"
+  },
+  {
+    "key": "SECRET3.json",
+    "original": " S-3: Impigration ",
+    "translation": "S-3: 小鬼移民",
+    "stage": 5,
+    "context": "470"
+  },
+  {
+    "key": "SECRET4.json",
+    "original": " S-4: A Civilization's Treasure ",
+    "translation": "S-4: 文明宝藏",
+    "stage": 5,
+    "context": "471"
+  },
+  {
+    "key": "SECRET5.json",
+    "original": " S-5: Friendly Frenzy ",
+    "translation": "S-5: 友好迷乱",
+    "stage": 5,
+    "context": "472"
+  },
+  {
+    "key": "SECRET7.json",
+    "original": " S-7: Sea Nests ",
+    "translation": "S-7: 海上鸟巢",
+    "stage": 5,
+    "context": "473"
+  },
+  {
+    "key": "Survival_Beach.json",
+    "original": " Survival: Big Wave Beach ",
+    "translation": "生存: 巨浪沙滩",
+    "stage": 5,
+    "context": "474"
+  },
+  {
+    "key": "Survival_Cowboy.json",
+    "original": " Survival: Wild West ",
+    "translation": "生存: 狂野西部",
+    "stage": 5,
+    "context": "475"
+  },
+  {
+    "key": "Survival_Dark.json",
+    "original": " Survival: Dark Ages ",
+    "translation": "生存: 黑暗时代",
+    "stage": 5,
+    "context": "476"
+  },
+  {
+    "key": "Survival_Dino.json",
+    "original": " Survival: Jurassic Marsh ",
+    "translation": "生存: 侏罗纪沼泽",
+    "stage": 5,
+    "context": "477"
+  },
+  {
+    "key": "Survival_Egypt.json",
+    "original": " Survival: Ancient Egypt ",
+    "translation": "生存: 远古埃及",
+    "stage": 5,
+    "context": "478"
+  },
+  {
+    "key": "Survival_Eighties.json",
+    "original": " Survival: Neon Mixtape Tour ",
+    "translation": "生存: 炫光魔音游",
+    "stage": 5,
+    "context": "479"
+  },
+  {
+    "key": "Survival_Future.json",
+    "original": " Survival: Far Future ",
+    "translation": "生存: 遥远未来",
+    "stage": 5,
+    "context": "480"
+  },
+  {
+    "key": "Survival_Iceage.json",
+    "original": " Survival: Frostbite Caves ",
+    "translation": "生存: 极寒冰窟",
+    "stage": 5,
+    "context": "481"
+  },
+  {
+    "key": "Survival_LostCity.json",
+    "original": " Survival: Lost City ",
+    "translation": "生存: 失落之城",
+    "stage": 5,
+    "context": "482"
+  },
+  {
+    "key": "Survival_Pirate.json",
+    "original": " Survival: Pirate Seas ",
+    "translation": "生存: 海盗港湾",
+    "stage": 5,
+    "context": "483"
+  },
+  {
+    "key": "tickdown\\td_001.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "484"
+  },
+  {
+    "key": "tickdown\\td_002.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "485"
+  },
+  {
+    "key": "tickdown\\td_003.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "486"
+  },
+  {
+    "key": "tickdown\\td_004.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "487"
+  },
+  {
+    "key": "tickdown\\td_005.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "488"
+  },
+  {
+    "key": "tickdown\\td_006.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "489"
+  },
+  {
+    "key": "tickdown\\td_007.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "490"
+  },
+  {
+    "key": "tickdown\\td_008.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "491"
+  },
+  {
+    "key": "tickdown\\td_009.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "492"
+  },
+  {
+    "key": "tickdown\\td_010.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "493"
+  },
+  {
+    "key": "tickdown\\td_011.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "494"
+  },
+  {
+    "key": "tickdown\\td_012.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "495"
+  },
+  {
+    "key": "tickdown\\td_013.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "496"
+  },
+  {
+    "key": "tickdown\\td_014.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "497"
+  },
+  {
+    "key": "tickdown\\td_015.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "498"
+  },
+  {
+    "key": "tickdown\\td_016.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "499"
+  },
+  {
+    "key": "tickdown\\td_017.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "500"
+  },
+  {
+    "key": "tickdown\\td_018.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "501"
+  },
+  {
+    "key": "tickdown\\td_019.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "502"
+  },
+  {
+    "key": "tickdown\\td_020.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "503"
+  },
+  {
+    "key": "tickdown\\td_021.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "504"
+  },
+  {
+    "key": "tickdown\\td_022.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "505"
+  },
+  {
+    "key": "tickdown\\td_023.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "506"
+  },
+  {
+    "key": "tickdown\\td_024.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "507"
+  },
+  {
+    "key": "tickdown\\td_025.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "508"
+  },
+  {
+    "key": "tickdown\\td_026.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "509"
+  },
+  {
+    "key": "tickdown\\td_027.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "510"
+  },
+  {
+    "key": "tickdown\\td_028.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "511"
+  },
+  {
+    "key": "tickdown\\td_029.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "512"
+  },
+  {
+    "key": "tickdown\\td_030.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "513"
+  },
+  {
+    "key": "tickdown\\td_031.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "514"
+  },
+  {
+    "key": "tickdown\\td_032.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "515"
+  },
+  {
+    "key": "tickdown\\td_033.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "516"
+  },
+  {
+    "key": "tickdown\\td_034.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "517"
+  },
+  {
+    "key": "tickdown\\td_035.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "518"
+  },
+  {
+    "key": "tickdown\\td_036.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "519"
+  },
+  {
+    "key": "tickdown\\td_037.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "520"
+  },
+  {
+    "key": "tickdown\\td_038.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "521"
+  },
+  {
+    "key": "tickdown\\td_039.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "522"
+  },
+  {
+    "key": "tickdown\\td_040.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "523"
+  },
+  {
+    "key": "tickdown\\td_041.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "524"
+  },
+  {
+    "key": "tickdown\\td_042.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "525"
+  },
+  {
+    "key": "tickdown\\td_043.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "526"
+  },
+  {
+    "key": "tickdown\\td_044.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "527"
+  },
+  {
+    "key": "tickdown\\td_045.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "528"
+  },
+  {
+    "key": "tickdown\\td_046.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "529"
+  },
+  {
+    "key": "tickdown\\td_047.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "530"
+  },
+  {
+    "key": "tickdown\\td_048.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "531"
+  },
+  {
+    "key": "tickdown\\td_049.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "532"
+  },
+  {
+    "key": "tickdown\\td_050.json",
+    "original": " TICKDOWN Mode! ",
+    "translation": "倒计时模式!",
+    "stage": 5,
+    "context": "533"
+  },
+  {
+    "key": "training\\cowboyA0_easy.json",
+    "original": " Training Mode: Normal Level (easy) ",
+    "translation": "训练模式: 正常关卡 (简单)",
+    "stage": 5,
+    "context": "534"
+  },
+  {
+    "key": "training\\cowboyA0_extreme.json",
+    "original": " Training Mode: Normal Level (extreme) ",
+    "translation": "训练模式: 正常关卡 (极难)",
+    "stage": 5,
+    "context": "535"
+  },
+  {
+    "key": "training\\cowboyA0_hard.json",
+    "original": " Training Mode: Normal Level (hard) ",
+    "translation": "训练模式: 正常关卡 (困难)",
+    "stage": 5,
+    "context": "536"
+  },
+  {
+    "key": "training\\cowboyA0_normal.json",
+    "original": " Training Mode: Normal Level (normal) ",
+    "translation": "训练模式: 正常关卡 (一般)",
+    "stage": 5,
+    "context": "537"
+  },
+  {
+    "key": "training\\cowboyA1_easy.json",
+    "original": " Training Mode: Normal Level (easy) ",
+    "translation": "训练模式: 正常关卡 (简单)",
+    "stage": 5,
+    "context": "538"
+  },
+  {
+    "key": "training\\cowboyA1_extreme.json",
+    "original": " Training Mode: Normal Level (extreme) ",
+    "translation": "训练模式: 正常关卡 (极难)",
+    "stage": 5,
+    "context": "539"
+  },
+  {
+    "key": "training\\cowboyA1_hard.json",
+    "original": " Training Mode: Normal Level (hard) ",
+    "translation": "训练模式: 正常关卡 (困难)",
+    "stage": 5,
+    "context": "540"
+  },
+  {
+    "key": "training\\cowboyA1_normal.json",
+    "original": " Training Mode: Normal Level (normal) ",
+    "translation": "训练模式: 正常关卡 (一般)",
+    "stage": 5,
+    "context": "541"
+  },
+  {
+    "key": "training\\cowboyB0_easy.json",
+    "original": " Training Mode: Rushed Start (easy) ",
+    "translation": "训练模式: 急促开局 (简单)",
+    "stage": 5,
+    "context": "542"
+  },
+  {
+    "key": "training\\cowboyB0_extreme.json",
+    "original": " Training Mode: Rushed Start (extreme) ",
+    "translation": "训练模式: 急促开局 (极难)",
+    "stage": 5,
+    "context": "543"
+  },
+  {
+    "key": "training\\cowboyB0_hard.json",
+    "original": " Training Mode: Rushed Start (hard) ",
+    "translation": "训练模式: 急促开局 (困难)",
+    "stage": 5,
+    "context": "544"
+  },
+  {
+    "key": "training\\cowboyB0_normal.json",
+    "original": " Training Mode: Rushed Start (normal) ",
+    "translation": "训练模式: 急促开局 (一般)",
+    "stage": 5,
+    "context": "545"
+  },
+  {
+    "key": "training\\cowboyB1_easy.json",
+    "original": " Training Mode: Rushed Start (easy) ",
+    "translation": "训练模式: 急促开局 (简单)",
+    "stage": 5,
+    "context": "546"
+  },
+  {
+    "key": "training\\cowboyB1_extreme.json",
+    "original": " Training Mode: Rushed Start (extreme) ",
+    "translation": "训练模式: 急促开局 (极难)",
+    "stage": 5,
+    "context": "547"
+  },
+  {
+    "key": "training\\cowboyB1_hard.json",
+    "original": " Training Mode: Rushed Start (hard) ",
+    "translation": "训练模式: 急促开局 (困难)",
+    "stage": 5,
+    "context": "548"
+  },
+  {
+    "key": "training\\cowboyB1_normal.json",
+    "original": " Training Mode: Rushed Start (normal) ",
+    "translation": "训练模式: 急促开局 (一般)",
+    "stage": 5,
+    "context": "549"
+  },
+  {
+    "key": "training\\cowboyC0_easy.json",
+    "original": " Training Mode: Gimmick Swarm (easy) ",
+    "translation": "训练模式: 花招成群 (简单)",
+    "stage": 5,
+    "context": "550"
+  },
+  {
+    "key": "training\\cowboyC0_extreme.json",
+    "original": " Training Mode: Gimmick Swarm (extreme) ",
+    "translation": "训练模式: 花招成群 (极难)",
+    "stage": 5,
+    "context": "551"
+  },
+  {
+    "key": "training\\cowboyC0_hard.json",
+    "original": " Training Mode: Gimmick Swarm (hard) ",
+    "translation": "训练模式: 花招成群 (困难)",
+    "stage": 5,
+    "context": "552"
+  },
+  {
+    "key": "training\\cowboyC0_normal.json",
+    "original": " Training Mode: Gimmick Swarm (normal) ",
+    "translation": "训练模式: 花招成群 (一般)",
+    "stage": 5,
+    "context": "553"
+  },
+  {
+    "key": "training\\cowboyC1_easy.json",
+    "original": " Training Mode: Gimmick Swarm (easy) ",
+    "translation": "训练模式: 花招成群 (简单)",
+    "stage": 5,
+    "context": "554"
+  },
+  {
+    "key": "training\\cowboyC1_extreme.json",
+    "original": " Training Mode: Gimmick Swarm (extreme) ",
+    "translation": "训练模式: 花招成群 (极难)",
+    "stage": 5,
+    "context": "555"
+  },
+  {
+    "key": "training\\cowboyC1_hard.json",
+    "original": " Training Mode: Gimmick Swarm (hard) ",
+    "translation": "训练模式: 花招成群 (困难)",
+    "stage": 5,
+    "context": "556"
+  },
+  {
+    "key": "training\\cowboyC1_normal.json",
+    "original": " Training Mode: Gimmick Swarm (normal) ",
+    "translation": "训练模式: 花招成群 (一般)",
+    "stage": 5,
+    "context": "557"
+  },
+  {
+    "key": "training\\cowboyD1_easy.json",
+    "original": " Training Mode: Auto Sun (easy) ",
+    "translation": "训练模式: 自动阳光 (简单)",
+    "stage": 5,
+    "context": "558"
+  },
+  {
+    "key": "training\\cowboyD1_extreme.json",
+    "original": " Training Mode: Auto Sun (extreme) ",
+    "translation": "训练模式: 自动阳光 (极难)",
+    "stage": 5,
+    "context": "559"
+  },
+  {
+    "key": "training\\cowboyD1_hard.json",
+    "original": " Training Mode: Auto Sun (hard) ",
+    "translation": "训练模式: 自动阳光 (困难)",
+    "stage": 5,
+    "context": "560"
+  },
+  {
+    "key": "training\\cowboyD1_normal.json",
+    "original": " Training Mode: Auto Sun (normal) ",
+    "translation": "训练模式: 自动阳光 (一般)",
+    "stage": 5,
+    "context": "561"
+  },
+  {
+    "key": "training\\cowboyE0_easy.json",
+    "original": " Training Mode: Double Recharge (easy) ",
+    "translation": "训练模式: 双倍冷却 (简单)",
+    "stage": 5,
+    "context": "562"
+  },
+  {
+    "key": "training\\cowboyE0_extreme.json",
+    "original": " Training Mode: Double Recharge (extreme) ",
+    "translation": "训练模式: 双倍冷却 (极难)",
+    "stage": 5,
+    "context": "563"
+  },
+  {
+    "key": "training\\cowboyE0_hard.json",
+    "original": " Training Mode: Double Recharge (hard) ",
+    "translation": "训练模式: 双倍冷却 (困难)",
+    "stage": 5,
+    "context": "564"
+  },
+  {
+    "key": "training\\cowboyE0_normal.json",
+    "original": " Training Mode: Double Recharge (normal) ",
+    "translation": "训练模式: 双倍冷却 (一般)",
+    "stage": 5,
+    "context": "565"
+  },
+  {
+    "key": "training\\cowboyE1_easy.json",
+    "original": " Training Mode: Double Recharge (easy) ",
+    "translation": "训练模式: 双倍冷却 (简单)",
+    "stage": 5,
+    "context": "566"
+  },
+  {
+    "key": "training\\cowboyE1_extreme.json",
+    "original": " Training Mode: Double Recharge (extreme) ",
+    "translation": "训练模式: 双倍冷却 (极难)",
+    "stage": 5,
+    "context": "567"
+  },
+  {
+    "key": "training\\cowboyE1_hard.json",
+    "original": " Training Mode: Double Recharge (hard) ",
+    "translation": "训练模式: 双倍冷却 (困难)",
+    "stage": 5,
+    "context": "568"
+  },
+  {
+    "key": "training\\cowboyE1_normal.json",
+    "original": " Training Mode: Double Recharge (normal) ",
+    "translation": "训练模式: 双倍冷却 (一般)",
+    "stage": 5,
+    "context": "569"
+  },
+  {
+    "key": "training\\cowboyF0_easy.json",
+    "original": " Training Mode: Sun Headstart (easy) ",
+    "translation": "训练模式: 开局阳光 (简单)",
+    "stage": 5,
+    "context": "570"
+  },
+  {
+    "key": "training\\cowboyF0_extreme.json",
+    "original": " Training Mode: Sun Headstart (extreme) ",
+    "translation": "训练模式: 开局阳光 (极难)",
+    "stage": 5,
+    "context": "571"
+  },
+  {
+    "key": "training\\cowboyF0_hard.json",
+    "original": " Training Mode: Sun Headstart (hard) ",
+    "translation": "训练模式: 开局阳光 (困难)",
+    "stage": 5,
+    "context": "572"
+  },
+  {
+    "key": "training\\cowboyF0_normal.json",
+    "original": " Training Mode: Sun Headstart (normal) ",
+    "translation": "训练模式: 开局阳光 (一般)",
+    "stage": 5,
+    "context": "573"
+  },
+  {
+    "key": "training\\cowboyF1_easy.json",
+    "original": " Training Mode: Sun Headstart (easy) ",
+    "translation": "训练模式: 开局阳光 (简单)",
+    "stage": 5,
+    "context": "574"
+  },
+  {
+    "key": "training\\cowboyF1_extreme.json",
+    "original": " Training Mode: Sun Headstart (extreme) ",
+    "translation": "训练模式: 开局阳光 (极难)",
+    "stage": 5,
+    "context": "575"
+  },
+  {
+    "key": "training\\cowboyF1_hard.json",
+    "original": " Training Mode: Sun Headstart (hard) ",
+    "translation": "训练模式: 开局阳光 (困难)",
+    "stage": 5,
+    "context": "576"
+  },
+  {
+    "key": "training\\cowboyF1_normal.json",
+    "original": " Training Mode: Sun Headstart (normal) ",
+    "translation": "训练模式: 开局阳光 (一般)",
+    "stage": 5,
+    "context": "577"
+  },
+  {
+    "key": "training\\cowboyG1_easy.json",
+    "original": " Training Mode: Last Stand (easy) ",
+    "translation": "训练模式: 坚不可摧 (简单)",
+    "stage": 5,
+    "context": "578"
+  },
+  {
+    "key": "training\\cowboyG1_extreme.json",
+    "original": " Training Mode: Last Stand (extreme) ",
+    "translation": "训练模式: 坚不可摧 (极难)",
+    "stage": 5,
+    "context": "579"
+  },
+  {
+    "key": "training\\cowboyG1_hard.json",
+    "original": " Training Mode: Last Stand (hard) ",
+    "translation": "训练模式: 坚不可摧 (困难)",
+    "stage": 5,
+    "context": "580"
+  },
+  {
+    "key": "training\\cowboyG1_normal.json",
+    "original": " Training Mode: Last Stand (normal) ",
+    "translation": "训练模式: 坚不可摧 (一般)",
+    "stage": 5,
+    "context": "581"
+  },
+  {
+    "key": "training\\darkA0_easy.json",
+    "original": " Training Mode: Normal Level (easy) ",
+    "translation": "训练模式: 正常关卡 (简单)",
+    "stage": 5,
+    "context": "582"
+  },
+  {
+    "key": "training\\darkA0_extreme.json",
+    "original": " Training Mode: Normal Level (extreme) ",
+    "translation": "训练模式: 正常关卡 (极难)",
+    "stage": 5,
+    "context": "583"
+  },
+  {
+    "key": "training\\darkA0_hard.json",
+    "original": " Training Mode: Normal Level (hard) ",
+    "translation": "训练模式: 正常关卡 (困难)",
+    "stage": 5,
+    "context": "584"
+  },
+  {
+    "key": "training\\darkA0_normal.json",
+    "original": " Training Mode: Normal Level (normal) ",
+    "translation": "训练模式: 正常关卡 (一般)",
+    "stage": 5,
+    "context": "585"
+  },
+  {
+    "key": "training\\darkA1_easy.json",
+    "original": " Training Mode: Normal Level (easy) ",
+    "translation": "训练模式: 正常关卡 (简单)",
+    "stage": 5,
+    "context": "586"
+  },
+  {
+    "key": "training\\darkA1_extreme.json",
+    "original": " Training Mode: Normal Level (extreme) ",
+    "translation": "训练模式: 正常关卡 (极难)",
+    "stage": 5,
+    "context": "587"
+  },
+  {
+    "key": "training\\darkA1_hard.json",
+    "original": " Training Mode: Normal Level (hard) ",
+    "translation": "训练模式: 正常关卡 (困难)",
+    "stage": 5,
+    "context": "588"
+  },
+  {
+    "key": "training\\darkA1_normal.json",
+    "original": " Training Mode: Normal Level (normal) ",
+    "translation": "训练模式: 正常关卡 (一般)",
+    "stage": 5,
+    "context": "589"
+  },
+  {
+    "key": "training\\darkB0_easy.json",
+    "original": " Training Mode: Rushed Start (easy) ",
+    "translation": "训练模式: 急促开局 (简单)",
+    "stage": 5,
+    "context": "590"
+  },
+  {
+    "key": "training\\darkB0_extreme.json",
+    "original": " Training Mode: Rushed Start (extreme) ",
+    "translation": "训练模式: 急促开局 (极难)",
+    "stage": 5,
+    "context": "591"
+  },
+  {
+    "key": "training\\darkB0_hard.json",
+    "original": " Training Mode: Rushed Start (hard) ",
+    "translation": "训练模式: 急促开局 (困难)",
+    "stage": 5,
+    "context": "592"
+  },
+  {
+    "key": "training\\darkB0_normal.json",
+    "original": " Training Mode: Rushed Start (normal) ",
+    "translation": "训练模式: 急促开局 (一般)",
+    "stage": 5,
+    "context": "593"
+  },
+  {
+    "key": "training\\darkB1_easy.json",
+    "original": " Training Mode: Rushed Start (easy) ",
+    "translation": "训练模式: 急促开局 (简单)",
+    "stage": 5,
+    "context": "594"
+  },
+  {
+    "key": "training\\darkB1_extreme.json",
+    "original": " Training Mode: Rushed Start (extreme) ",
+    "translation": "训练模式: 急促开局 (极难)",
+    "stage": 5,
+    "context": "595"
+  },
+  {
+    "key": "training\\darkB1_hard.json",
+    "original": " Training Mode: Rushed Start (hard) ",
+    "translation": "训练模式: 急促开局 (困难)",
+    "stage": 5,
+    "context": "596"
+  },
+  {
+    "key": "training\\darkB1_normal.json",
+    "original": " Training Mode: Rushed Start (normal) ",
+    "translation": "训练模式: 急促开局 (一般)",
+    "stage": 5,
+    "context": "597"
+  },
+  {
+    "key": "training\\darkC0_easy.json",
+    "original": " Training Mode: Gimmick Swarm (easy) ",
+    "translation": "训练模式: 花招成群 (简单)",
+    "stage": 5,
+    "context": "598"
+  },
+  {
+    "key": "training\\darkC0_extreme.json",
+    "original": " Training Mode: Gimmick Swarm (extreme) ",
+    "translation": "训练模式: 花招成群 (极难)",
+    "stage": 5,
+    "context": "599"
+  },
+  {
+    "key": "training\\darkC0_hard.json",
+    "original": " Training Mode: Gimmick Swarm (hard) ",
+    "translation": "训练模式: 花招成群 (困难)",
+    "stage": 5,
+    "context": "600"
+  },
+  {
+    "key": "training\\darkC0_normal.json",
+    "original": " Training Mode: Gimmick Swarm (normal) ",
+    "translation": "训练模式: 花招成群 (一般)",
+    "stage": 5,
+    "context": "601"
+  },
+  {
+    "key": "training\\darkC1_easy.json",
+    "original": " Training Mode: Gimmick Swarm (easy) ",
+    "translation": "训练模式: 花招成群 (简单)",
+    "stage": 5,
+    "context": "602"
+  },
+  {
+    "key": "training\\darkC1_extreme.json",
+    "original": " Training Mode: Gimmick Swarm (extreme) ",
+    "translation": "训练模式: 花招成群 (极难)",
+    "stage": 5,
+    "context": "603"
+  },
+  {
+    "key": "training\\darkC1_hard.json",
+    "original": " Training Mode: Gimmick Swarm (hard) ",
+    "translation": "训练模式: 花招成群 (困难)",
+    "stage": 5,
+    "context": "604"
+  },
+  {
+    "key": "training\\darkC1_normal.json",
+    "original": " Training Mode: Gimmick Swarm (normal) ",
+    "translation": "训练模式: 花招成群 (一般)",
+    "stage": 5,
+    "context": "605"
+  },
+  {
+    "key": "training\\darkD1_easy.json",
+    "original": " Training Mode: Auto Sun (easy) ",
+    "translation": "训练模式: 自动阳光 (简单)",
+    "stage": 5,
+    "context": "606"
+  },
+  {
+    "key": "training\\darkD1_extreme.json",
+    "original": " Training Mode: Auto Sun (extreme) ",
+    "translation": "训练模式: 自动阳光 (极难)",
+    "stage": 5,
+    "context": "607"
+  },
+  {
+    "key": "training\\darkD1_hard.json",
+    "original": " Training Mode: Auto Sun (hard) ",
+    "translation": "训练模式: 自动阳光 (困难)",
+    "stage": 5,
+    "context": "608"
+  },
+  {
+    "key": "training\\darkD1_normal.json",
+    "original": " Training Mode: Auto Sun (normal) ",
+    "translation": "训练模式: 自动阳光 (一般)",
+    "stage": 5,
+    "context": "609"
+  },
+  {
+    "key": "training\\darkE0_easy.json",
+    "original": " Training Mode: Double Recharge (easy) ",
+    "translation": "训练模式: 双倍冷却 (简单)",
+    "stage": 5,
+    "context": "610"
+  },
+  {
+    "key": "training\\darkE0_extreme.json",
+    "original": " Training Mode: Double Recharge (extreme) ",
+    "translation": "训练模式: 双倍冷却 (极难)",
+    "stage": 5,
+    "context": "611"
+  },
+  {
+    "key": "training\\darkE0_hard.json",
+    "original": " Training Mode: Double Recharge (hard) ",
+    "translation": "训练模式: 双倍冷却 (困难)",
+    "stage": 5,
+    "context": "612"
+  },
+  {
+    "key": "training\\darkE0_normal.json",
+    "original": " Training Mode: Double Recharge (normal) ",
+    "translation": "训练模式: 双倍冷却 (一般)",
+    "stage": 5,
+    "context": "613"
+  },
+  {
+    "key": "training\\darkE1_easy.json",
+    "original": " Training Mode: Double Recharge (easy) ",
+    "translation": "训练模式: 双倍冷却 (简单)",
+    "stage": 5,
+    "context": "614"
+  },
+  {
+    "key": "training\\darkE1_extreme.json",
+    "original": " Training Mode: Double Recharge (extreme) ",
+    "translation": "训练模式: 双倍冷却 (极难)",
+    "stage": 5,
+    "context": "615"
+  },
+  {
+    "key": "training\\darkE1_hard.json",
+    "original": " Training Mode: Double Recharge (hard) ",
+    "translation": "训练模式: 双倍冷却 (困难)",
+    "stage": 5,
+    "context": "616"
+  },
+  {
+    "key": "training\\darkE1_normal.json",
+    "original": " Training Mode: Double Recharge (normal) ",
+    "translation": "训练模式: 双倍冷却 (一般)",
+    "stage": 5,
+    "context": "617"
+  },
+  {
+    "key": "training\\darkF0_easy.json",
+    "original": " Training Mode: Sun Headstart (easy) ",
+    "translation": "训练模式: 开局阳光 (简单)",
+    "stage": 5,
+    "context": "618"
+  },
+  {
+    "key": "training\\darkF0_extreme.json",
+    "original": " Training Mode: Sun Headstart (extreme) ",
+    "translation": "训练模式: 开局阳光 (极难)",
+    "stage": 5,
+    "context": "619"
+  },
+  {
+    "key": "training\\darkF0_hard.json",
+    "original": " Training Mode: Sun Headstart (hard) ",
+    "translation": "训练模式: 开局阳光 (困难)",
+    "stage": 5,
+    "context": "620"
+  },
+  {
+    "key": "training\\darkF0_normal.json",
+    "original": " Training Mode: Sun Headstart (normal) ",
+    "translation": "训练模式: 开局阳光 (一般)",
+    "stage": 5,
+    "context": "621"
+  },
+  {
+    "key": "training\\darkF1_easy.json",
+    "original": " Training Mode: Sun Headstart (easy) ",
+    "translation": "训练模式: 开局阳光 (简单)",
+    "stage": 5,
+    "context": "622"
+  },
+  {
+    "key": "training\\darkF1_extreme.json",
+    "original": " Training Mode: Sun Headstart (extreme) ",
+    "translation": "训练模式: 开局阳光 (极难)",
+    "stage": 5,
+    "context": "623"
+  },
+  {
+    "key": "training\\darkF1_hard.json",
+    "original": " Training Mode: Sun Headstart (hard) ",
+    "translation": "训练模式: 开局阳光 (困难)",
+    "stage": 5,
+    "context": "624"
+  },
+  {
+    "key": "training\\darkF1_normal.json",
+    "original": " Training Mode: Sun Headstart (normal) ",
+    "translation": "训练模式: 开局阳光 (一般)",
+    "stage": 5,
+    "context": "625"
+  },
+  {
+    "key": "training\\darkG1_easy.json",
+    "original": " Training Mode: Last Stand (easy) ",
+    "translation": "训练模式: 坚不可摧 (简单)",
+    "stage": 5,
+    "context": "626"
+  },
+  {
+    "key": "training\\darkG1_extreme.json",
+    "original": " Training Mode: Last Stand (extreme) ",
+    "translation": "训练模式: 坚不可摧 (极难)",
+    "stage": 5,
+    "context": "627"
+  },
+  {
+    "key": "training\\darkG1_hard.json",
+    "original": " Training Mode: Last Stand (hard) ",
+    "translation": "训练模式: 坚不可摧 (困难)",
+    "stage": 5,
+    "context": "628"
+  },
+  {
+    "key": "training\\darkG1_normal.json",
+    "original": " Training Mode: Last Stand (normal) ",
+    "translation": "训练模式: 坚不可摧 (一般)",
+    "stage": 5,
+    "context": "629"
+  },
+  {
+    "key": "training\\egyptA0_easy.json",
+    "original": " Training Mode: Normal Level (easy) ",
+    "translation": "训练模式: 正常关卡 (简单)",
+    "stage": 5,
+    "context": "630"
+  },
+  {
+    "key": "training\\egyptA0_extreme.json",
+    "original": " Training Mode: Normal Level (extreme) ",
+    "translation": "训练模式: 正常关卡 (极难)",
+    "stage": 5,
+    "context": "631"
+  },
+  {
+    "key": "training\\egyptA0_hard.json",
+    "original": " Training Mode: Normal Level (hard) ",
+    "translation": "训练模式: 正常关卡 (困难)",
+    "stage": 5,
+    "context": "632"
+  },
+  {
+    "key": "training\\egyptA0_normal.json",
+    "original": " Training Mode: Normal Level (normal) ",
+    "translation": "训练模式: 正常关卡 (一般)",
+    "stage": 5,
+    "context": "633"
+  },
+  {
+    "key": "training\\egyptA1_easy.json",
+    "original": " Training Mode: Normal Level (easy) ",
+    "translation": "训练模式: 正常关卡 (简单)",
+    "stage": 5,
+    "context": "634"
+  },
+  {
+    "key": "training\\egyptA1_extreme.json",
+    "original": " Training Mode: Normal Level (extreme) ",
+    "translation": "训练模式: 正常关卡 (极难)",
+    "stage": 5,
+    "context": "635"
+  },
+  {
+    "key": "training\\egyptA1_hard.json",
+    "original": " Training Mode: Normal Level (hard) ",
+    "translation": "训练模式: 正常关卡 (困难)",
+    "stage": 5,
+    "context": "636"
+  },
+  {
+    "key": "training\\egyptA1_normal.json",
+    "original": " Training Mode: Normal Level (normal) ",
+    "translation": "训练模式: 正常关卡 (一般)",
+    "stage": 5,
+    "context": "637"
+  },
+  {
+    "key": "training\\egyptB0_easy.json",
+    "original": " Training Mode: Rushed Start (easy) ",
+    "translation": "训练模式: 急促开局 (简单) ",
+    "stage": 5,
+    "context": "638"
+  },
+  {
+    "key": "training\\egyptB0_extreme.json",
+    "original": " Training Mode: Rushed Start (extreme) ",
+    "translation": "训练模式: 急促开局 (极难)",
+    "stage": 5,
+    "context": "639"
+  },
+  {
+    "key": "training\\egyptB0_hard.json",
+    "original": " Training Mode: Rushed Start (hard) ",
+    "translation": "训练模式: 急促开局 (困难)",
+    "stage": 5,
+    "context": "640"
+  },
+  {
+    "key": "training\\egyptB0_normal.json",
+    "original": " Training Mode: Rushed Start (normal) ",
+    "translation": "训练模式: 急促开局 (一般)",
+    "stage": 5,
+    "context": "641"
+  },
+  {
+    "key": "training\\egyptB1_easy.json",
+    "original": " Training Mode: Rushed Start (easy) ",
+    "translation": "训练模式: 急促开局 (简单) ",
+    "stage": 5,
+    "context": "642"
+  },
+  {
+    "key": "training\\egyptB1_extreme.json",
+    "original": " Training Mode: Rushed Start (extreme) ",
+    "translation": "训练模式: 急促开局 (极难)",
+    "stage": 5,
+    "context": "643"
+  },
+  {
+    "key": "training\\egyptB1_hard.json",
+    "original": " Training Mode: Rushed Start (hard) ",
+    "translation": "训练模式: 急促开局 (困难)",
+    "stage": 5,
+    "context": "644"
+  },
+  {
+    "key": "training\\egyptB1_normal.json",
+    "original": " Training Mode: Rushed Start (normal) ",
+    "translation": "训练模式: 急促开局 (一般)",
+    "stage": 5,
+    "context": "645"
+  },
+  {
+    "key": "training\\egyptC0_easy.json",
+    "original": " Training Mode: Gimmick Swarm (easy) ",
+    "translation": "训练模式: 花招成群 (简单)",
+    "stage": 5,
+    "context": "646"
+  },
+  {
+    "key": "training\\egyptC0_extreme.json",
+    "original": " Training Mode: Gimmick Swarm (extreme) ",
+    "translation": "训练模式: 花招成群 (极难)",
+    "stage": 5,
+    "context": "647"
+  },
+  {
+    "key": "training\\egyptC0_hard.json",
+    "original": " Training Mode: Gimmick Swarm (hard) ",
+    "translation": "训练模式: 花招成群 (困难)",
+    "stage": 5,
+    "context": "648"
+  },
+  {
+    "key": "training\\egyptC0_normal.json",
+    "original": " Training Mode: Gimmick Swarm (normal) ",
+    "translation": "训练模式: 花招成群 (一般)",
+    "stage": 5,
+    "context": "649"
+  },
+  {
+    "key": "training\\egyptC1_easy.json",
+    "original": " Training Mode: Gimmick Swarm (easy) ",
+    "translation": "训练模式: 花招成群 (简单)",
+    "stage": 5,
+    "context": "650"
+  },
+  {
+    "key": "training\\egyptC1_extreme.json",
+    "original": " Training Mode: Gimmick Swarm (extreme) ",
+    "translation": "训练模式: 花招成群 (极难)",
+    "stage": 5,
+    "context": "651"
+  },
+  {
+    "key": "training\\egyptC1_hard.json",
+    "original": " Training Mode: Gimmick Swarm (hard) ",
+    "translation": "训练模式: 花招成群 (困难)",
+    "stage": 5,
+    "context": "652"
+  },
+  {
+    "key": "training\\egyptC1_normal.json",
+    "original": " Training Mode: Gimmick Swarm (normal) ",
+    "translation": "训练模式: 花招成群 (一般)",
+    "stage": 5,
+    "context": "653"
+  },
+  {
+    "key": "training\\egyptD1_easy.json",
+    "original": " Training Mode: Auto Sun (easy) ",
+    "translation": "训练模式: 自动阳光 (简单)",
+    "stage": 5,
+    "context": "654"
+  },
+  {
+    "key": "training\\egyptD1_extreme.json",
+    "original": " Training Mode: Auto Sun (extreme) ",
+    "translation": "训练模式: 自动阳光 (极难)",
+    "stage": 5,
+    "context": "655"
+  },
+  {
+    "key": "training\\egyptD1_hard.json",
+    "original": " Training Mode: Auto Sun (hard) ",
+    "translation": "训练模式: 自动阳光 (困难)",
+    "stage": 5,
+    "context": "656"
+  },
+  {
+    "key": "training\\egyptD1_normal.json",
+    "original": " Training Mode: Auto Sun (normal) ",
+    "translation": "训练模式: 自动阳光 (一般)",
+    "stage": 5,
+    "context": "657"
+  },
+  {
+    "key": "training\\egyptE0_easy.json",
+    "original": " Training Mode: Double Recharge (easy) ",
+    "translation": "训练模式: 双倍冷却 (简单)",
+    "stage": 5,
+    "context": "658"
+  },
+  {
+    "key": "training\\egyptE0_extreme.json",
+    "original": " Training Mode: Double Recharge (extreme) ",
+    "translation": "训练模式: 双倍冷却 (极难)",
+    "stage": 5,
+    "context": "659"
+  },
+  {
+    "key": "training\\egyptE0_hard.json",
+    "original": " Training Mode: Double Recharge (hard) ",
+    "translation": "训练模式: 双倍冷却 (困难)",
+    "stage": 5,
+    "context": "660"
+  },
+  {
+    "key": "training\\egyptE0_normal.json",
+    "original": " Training Mode: Double Recharge (normal) ",
+    "translation": "训练模式: 双倍冷却 (一般)",
+    "stage": 5,
+    "context": "661"
+  },
+  {
+    "key": "training\\egyptE1_easy.json",
+    "original": " Training Mode: Double Recharge (easy) ",
+    "translation": "训练模式: 双倍冷却 (简单)",
+    "stage": 5,
+    "context": "662"
+  },
+  {
+    "key": "training\\egyptE1_extreme.json",
+    "original": " Training Mode: Double Recharge (extreme) ",
+    "translation": "训练模式: 双倍冷却 (极难)",
+    "stage": 5,
+    "context": "663"
+  },
+  {
+    "key": "training\\egyptE1_hard.json",
+    "original": " Training Mode: Double Recharge (hard) ",
+    "translation": "训练模式: 双倍冷却 (困难)",
+    "stage": 5,
+    "context": "664"
+  },
+  {
+    "key": "training\\egyptE1_normal.json",
+    "original": " Training Mode: Double Recharge (normal) ",
+    "translation": "训练模式: 双倍冷却 (一般)",
+    "stage": 5,
+    "context": "665"
+  },
+  {
+    "key": "training\\egyptF0_easy.json",
+    "original": " Training Mode: Sun Headstart (easy) ",
+    "translation": "训练模式: 开局阳光 (简单)",
+    "stage": 5,
+    "context": "666"
+  },
+  {
+    "key": "training\\egyptF0_extreme.json",
+    "original": " Training Mode: Sun Headstart (extreme) ",
+    "translation": "训练模式: 开局阳光 (极难)",
+    "stage": 5,
+    "context": "667"
+  },
+  {
+    "key": "training\\egyptF0_hard.json",
+    "original": " Training Mode: Sun Headstart (hard) ",
+    "translation": "训练模式: 开局阳光 (困难)",
+    "stage": 5,
+    "context": "668"
+  },
+  {
+    "key": "training\\egyptF0_normal.json",
+    "original": " Training Mode: Sun Headstart (normal) ",
+    "translation": "训练模式: 开局阳光 (一般)",
+    "stage": 5,
+    "context": "669"
+  },
+  {
+    "key": "training\\egyptF1_easy.json",
+    "original": " Training Mode: Sun Headstart (easy) ",
+    "translation": "训练模式: 开局阳光 (简单)",
+    "stage": 5,
+    "context": "670"
+  },
+  {
+    "key": "training\\egyptF1_extreme.json",
+    "original": " Training Mode: Sun Headstart (extreme) ",
+    "translation": "训练模式: 开局阳光 (极难)",
+    "stage": 5,
+    "context": "671"
+  },
+  {
+    "key": "training\\egyptF1_hard.json",
+    "original": " Training Mode: Sun Headstart (hard) ",
+    "translation": "训练模式: 开局阳光 (困难)",
+    "stage": 5,
+    "context": "672"
+  },
+  {
+    "key": "training\\egyptF1_normal.json",
+    "original": " Training Mode: Sun Headstart (normal) ",
+    "translation": "训练模式: 开局阳光 (一般)",
+    "stage": 5,
+    "context": "673"
+  },
+  {
+    "key": "training\\egyptG1_easy.json",
+    "original": " Training Mode: Last Stand (easy) ",
+    "translation": "训练模式: 坚不可摧 (简单)",
+    "stage": 5,
+    "context": "674"
+  },
+  {
+    "key": "training\\egyptG1_extreme.json",
+    "original": " Training Mode: Last Stand (extreme) ",
+    "translation": "训练模式: 坚不可摧 (极难)",
+    "stage": 5,
+    "context": "675"
+  },
+  {
+    "key": "training\\egyptG1_hard.json",
+    "original": " Training Mode: Last Stand (hard) ",
+    "translation": "训练模式: 坚不可摧 (困难)",
+    "stage": 5,
+    "context": "676"
+  },
+  {
+    "key": "training\\egyptG1_normal.json",
+    "original": " Training Mode: Last Stand (normal) ",
+    "translation": "训练模式: 坚不可摧 (一般)",
+    "stage": 5,
+    "context": "677"
+  },
+  {
+    "key": "training\\iceageA1_easy.json",
+    "original": " Training Mode: Normal Level (easy) ",
+    "translation": "训练模式: 正常关卡 (简单)",
+    "stage": 5,
+    "context": "678"
+  },
+  {
+    "key": "training\\iceageA1_extreme.json",
+    "original": " Training Mode: Normal Level (extreme) ",
+    "translation": "训练模式: 正常关卡 (极难)",
+    "stage": 5,
+    "context": "679"
+  },
+  {
+    "key": "training\\iceageA1_hard.json",
+    "original": " Training Mode: Normal Level (hard) ",
+    "translation": "训练模式: 正常关卡 (困难)",
+    "stage": 5,
+    "context": "680"
+  },
+  {
+    "key": "training\\iceageA1_normal.json",
+    "original": " Training Mode: Normal Level (normal) ",
+    "translation": "训练模式: 正常关卡 (一般)",
+    "stage": 5,
+    "context": "681"
+  },
+  {
+    "key": "training\\iceageB1_easy.json",
+    "original": " Training Mode: Rushed Start (easy) ",
+    "translation": "训练模式: 急促开局 (简单)",
+    "stage": 5,
+    "context": "682"
+  },
+  {
+    "key": "training\\iceageB1_extreme.json",
+    "original": " Training Mode: Rushed Start (extreme) ",
+    "translation": "训练模式: 急促开局 (极难)",
+    "stage": 5,
+    "context": "683"
+  },
+  {
+    "key": "training\\iceageB1_hard.json",
+    "original": " Training Mode: Rushed Start (hard) ",
+    "translation": "训练模式: 急促开局 (困难)",
+    "stage": 5,
+    "context": "684"
+  },
+  {
+    "key": "training\\iceageB1_normal.json",
+    "original": " Training Mode: Rushed Start (normal) ",
+    "translation": "训练模式: 急促开局 (一般)",
+    "stage": 5,
+    "context": "685"
+  },
+  {
+    "key": "training\\iceageC1_easy.json",
+    "original": " Training Mode: Gimmick Swarm (easy) ",
+    "translation": "训练模式: 花招成群 (简单)",
+    "stage": 5,
+    "context": "686"
+  },
+  {
+    "key": "training\\iceageC1_extreme.json",
+    "original": " Training Mode: Gimmick Swarm (extreme) ",
+    "translation": "训练模式: 花招成群 (极难)",
+    "stage": 5,
+    "context": "687"
+  },
+  {
+    "key": "training\\iceageC1_hard.json",
+    "original": " Training Mode: Gimmick Swarm (hard) ",
+    "translation": "训练模式: 花招成群 (困难)",
+    "stage": 5,
+    "context": "688"
+  },
+  {
+    "key": "training\\iceageC1_normal.json",
+    "original": " Training Mode: Gimmick Swarm (normal) ",
+    "translation": "训练模式: 花招成群 (一般)",
+    "stage": 5,
+    "context": "689"
+  },
+  {
+    "key": "training\\iceageD1_easy.json",
+    "original": " Training Mode: Auto Sun (easy) ",
+    "translation": "训练模式: 自动阳光 (简单)",
+    "stage": 5,
+    "context": "690"
+  },
+  {
+    "key": "training\\iceageD1_extreme.json",
+    "original": " Training Mode: Auto Sun (extreme) ",
+    "translation": "训练模式: 自动阳光 (极难)",
+    "stage": 5,
+    "context": "691"
+  },
+  {
+    "key": "training\\iceageD1_hard.json",
+    "original": " Training Mode: Auto Sun (hard) ",
+    "translation": "训练模式: 自动阳光 (困难)",
+    "stage": 5,
+    "context": "692"
+  },
+  {
+    "key": "training\\iceageD1_normal.json",
+    "original": " Training Mode: Auto Sun (normal) ",
+    "translation": "训练模式: 自动阳光 (一般)",
+    "stage": 5,
+    "context": "693"
+  },
+  {
+    "key": "training\\iceageE1_easy.json",
+    "original": " Training Mode: Double Recharge (easy) ",
+    "translation": "训练模式: 双倍冷却 (简单)",
+    "stage": 5,
+    "context": "694"
+  },
+  {
+    "key": "training\\iceageE1_extreme.json",
+    "original": " Training Mode: Double Recharge (extreme) ",
+    "translation": "训练模式: 双倍冷却 (极难)",
+    "stage": 5,
+    "context": "695"
+  },
+  {
+    "key": "training\\iceageE1_hard.json",
+    "original": " Training Mode: Double Recharge (hard) ",
+    "translation": "训练模式: 双倍冷却 (困难)",
+    "stage": 5,
+    "context": "696"
+  },
+  {
+    "key": "training\\iceageE1_normal.json",
+    "original": " Training Mode: Double Recharge (normal) ",
+    "translation": "训练模式: 双倍冷却 (一般)",
+    "stage": 5,
+    "context": "697"
+  },
+  {
+    "key": "training\\iceageF1_easy.json",
+    "original": " Training Mode: Sun Headstart (easy) ",
+    "translation": "训练模式: 开局阳光 (简单)",
+    "stage": 5,
+    "context": "698"
+  },
+  {
+    "key": "training\\iceageF1_extreme.json",
+    "original": " Training Mode: Sun Headstart (extreme) ",
+    "translation": "训练模式: 开局阳光 (极难)",
+    "stage": 5,
+    "context": "699"
+  },
+  {
+    "key": "training\\iceageF1_hard.json",
+    "original": " Training Mode: Sun Headstart (hard) ",
+    "translation": "训练模式: 开局阳光 (困难)",
+    "stage": 5,
+    "context": "700"
+  },
+  {
+    "key": "training\\iceageF1_normal.json",
+    "original": " Training Mode: Sun Headstart (normal) ",
+    "translation": "训练模式: 开局阳光 (一般)",
+    "stage": 5,
+    "context": "701"
+  },
+  {
+    "key": "training\\iceageG1_easy.json",
+    "original": " Training Mode: Last Stand (easy) ",
+    "translation": "训练模式: 坚不可摧 (简单)",
+    "stage": 5,
+    "context": "702"
+  },
+  {
+    "key": "training\\iceageG1_extreme.json",
+    "original": " Training Mode: Last Stand (extreme) ",
+    "translation": "训练模式: 坚不可摧 (极难)",
+    "stage": 5,
+    "context": "703"
+  },
+  {
+    "key": "training\\iceageG1_hard.json",
+    "original": " Training Mode: Last Stand (hard) ",
+    "translation": "训练模式: 坚不可摧 (困难)",
+    "stage": 5,
+    "context": "704"
+  },
+  {
+    "key": "training\\iceageG1_normal.json",
+    "original": " Training Mode: Last Stand (normal) ",
+    "translation": "训练模式: 坚不可摧 (一般)",
+    "stage": 5,
+    "context": "705"
+  },
+  {
+    "key": "training\\lostcityA0_easy.json",
+    "original": " Training Mode: Normal Level (easy) ",
+    "translation": "训练模式: 正常关卡 (简单)",
+    "stage": 5,
+    "context": "706"
+  },
+  {
+    "key": "training\\lostcityA0_extreme.json",
+    "original": " Training Mode: Normal Level (extreme) ",
+    "translation": "训练模式: 正常关卡 (极难)",
+    "stage": 5,
+    "context": "707"
+  },
+  {
+    "key": "training\\lostcityA0_hard.json",
+    "original": " Training Mode: Normal Level (hard) ",
+    "translation": "训练模式: 正常关卡 (困难)",
+    "stage": 5,
+    "context": "708"
+  },
+  {
+    "key": "training\\lostcityA0_normal.json",
+    "original": " Training Mode: Normal Level (normal) ",
+    "translation": "训练模式: 正常关卡 (一般)",
+    "stage": 5,
+    "context": "709"
+  },
+  {
+    "key": "training\\lostcityA1_easy.json",
+    "original": " Training Mode: Normal Level (easy) ",
+    "translation": "训练模式: 正常关卡 (简单)",
+    "stage": 5,
+    "context": "710"
+  },
+  {
+    "key": "training\\lostcityA1_extreme.json",
+    "original": " Training Mode: Normal Level (extreme) ",
+    "translation": "训练模式: 正常关卡 (极难)",
+    "stage": 5,
+    "context": "711"
+  },
+  {
+    "key": "training\\lostcityA1_hard.json",
+    "original": " Training Mode: Normal Level (hard) ",
+    "translation": "训练模式: 正常关卡 (困难)",
+    "stage": 5,
+    "context": "712"
+  },
+  {
+    "key": "training\\lostcityA1_normal.json",
+    "original": " Training Mode: Normal Level (normal) ",
+    "translation": "训练模式: 正常关卡 (一般)",
+    "stage": 5,
+    "context": "713"
+  },
+  {
+    "key": "training\\lostcityB0_easy.json",
+    "original": " Training Mode: Rushed Start (easy) ",
+    "translation": "训练模式: 急促开局 (简单)",
+    "stage": 5,
+    "context": "714"
+  },
+  {
+    "key": "training\\lostcityB0_extreme.json",
+    "original": " Training Mode: Rushed Start (extreme) ",
+    "translation": "训练模式: 急促开局 (极难)",
+    "stage": 5,
+    "context": "715"
+  },
+  {
+    "key": "training\\lostcityB0_hard.json",
+    "original": " Training Mode: Rushed Start (hard) ",
+    "translation": "训练模式: 急促开局 (困难)",
+    "stage": 5,
+    "context": "716"
+  },
+  {
+    "key": "training\\lostcityB0_normal.json",
+    "original": " Training Mode: Rushed Start (normal) ",
+    "translation": "训练模式: 急促开局 (一般)",
+    "stage": 5,
+    "context": "717"
+  },
+  {
+    "key": "training\\lostcityB1_easy.json",
+    "original": " Training Mode: Rushed Start (easy) ",
+    "translation": "训练模式: 急促开局 (简单)",
+    "stage": 5,
+    "context": "718"
+  },
+  {
+    "key": "training\\lostcityB1_extreme.json",
+    "original": " Training Mode: Rushed Start (extreme) ",
+    "translation": "训练模式: 急促开局 (极难)",
+    "stage": 5,
+    "context": "719"
+  },
+  {
+    "key": "training\\lostcityB1_hard.json",
+    "original": " Training Mode: Rushed Start (hard) ",
+    "translation": "训练模式: 急促开局 (困难)",
+    "stage": 5,
+    "context": "720"
+  },
+  {
+    "key": "training\\lostcityB1_normal.json",
+    "original": " Training Mode: Rushed Start (normal) ",
+    "translation": "训练模式: 急促开局 (一般)",
+    "stage": 5,
+    "context": "721"
+  },
+  {
+    "key": "training\\lostcityC0_easy.json",
+    "original": " Training Mode: Gimmick Swarm (easy) ",
+    "translation": "训练模式: 花招成群 (简单)",
+    "stage": 5,
+    "context": "722"
+  },
+  {
+    "key": "training\\lostcityC0_extreme.json",
+    "original": " Training Mode: Gimmick Swarm (extreme) ",
+    "translation": "训练模式: 花招成群 (极难)",
+    "stage": 5,
+    "context": "723"
+  },
+  {
+    "key": "training\\lostcityC0_hard.json",
+    "original": " Training Mode: Gimmick Swarm (hard) ",
+    "translation": "训练模式: 花招成群 (困难)",
+    "stage": 5,
+    "context": "724"
+  },
+  {
+    "key": "training\\lostcityC0_normal.json",
+    "original": " Training Mode: Gimmick Swarm (normal) ",
+    "translation": "训练模式: 花招成群 (一般)",
+    "stage": 5,
+    "context": "725"
+  },
+  {
+    "key": "training\\lostcityC1_easy.json",
+    "original": " Training Mode: Gimmick Swarm (easy) ",
+    "translation": "训练模式: 花招成群 (简单)",
+    "stage": 5,
+    "context": "726"
+  },
+  {
+    "key": "training\\lostcityC1_extreme.json",
+    "original": " Training Mode: Gimmick Swarm (extreme) ",
+    "translation": "训练模式: 花招成群 (极难)",
+    "stage": 5,
+    "context": "727"
+  },
+  {
+    "key": "training\\lostcityC1_hard.json",
+    "original": " Training Mode: Gimmick Swarm (hard) ",
+    "translation": "训练模式: 花招成群 (困难)",
+    "stage": 5,
+    "context": "728"
+  },
+  {
+    "key": "training\\lostcityC1_normal.json",
+    "original": " Training Mode: Gimmick Swarm (normal) ",
+    "translation": "训练模式: 花招成群 (一般)",
+    "stage": 5,
+    "context": "729"
+  },
+  {
+    "key": "training\\lostcityD1_easy.json",
+    "original": " Training Mode: Auto Sun (easy) ",
+    "translation": "训练模式: 自动阳光 (简单)",
+    "stage": 5,
+    "context": "730"
+  },
+  {
+    "key": "training\\lostcityD1_extreme.json",
+    "original": " Training Mode: Auto Sun (extreme) ",
+    "translation": "训练模式: 自动阳光 (极难)",
+    "stage": 5,
+    "context": "731"
+  },
+  {
+    "key": "training\\lostcityD1_hard.json",
+    "original": " Training Mode: Auto Sun (hard) ",
+    "translation": "训练模式: 自动阳光 (困难)",
+    "stage": 5,
+    "context": "732"
+  },
+  {
+    "key": "training\\lostcityD1_normal.json",
+    "original": " Training Mode: Auto Sun (normal) ",
+    "translation": "训练模式: 自动阳光 (一般)",
+    "stage": 5,
+    "context": "733"
+  },
+  {
+    "key": "training\\lostcityE0_easy.json",
+    "original": " Training Mode: Double Recharge (easy) ",
+    "translation": "训练模式: 双倍冷却 (简单)",
+    "stage": 5,
+    "context": "734"
+  },
+  {
+    "key": "training\\lostcityE0_extreme.json",
+    "original": " Training Mode: Double Recharge (extreme) ",
+    "translation": "训练模式: 双倍冷却 (极难)",
+    "stage": 5,
+    "context": "735"
+  },
+  {
+    "key": "training\\lostcityE0_hard.json",
+    "original": " Training Mode: Double Recharge (hard) ",
+    "translation": "训练模式: 双倍冷却 (困难)",
+    "stage": 5,
+    "context": "736"
+  },
+  {
+    "key": "training\\lostcityE0_normal.json",
+    "original": " Training Mode: Double Recharge (normal) ",
+    "translation": "训练模式: 双倍冷却 (一般)",
+    "stage": 5,
+    "context": "737"
+  },
+  {
+    "key": "training\\lostcityE1_easy.json",
+    "original": " Training Mode: Double Recharge (easy) ",
+    "translation": "训练模式: 双倍冷却 (简单)",
+    "stage": 5,
+    "context": "738"
+  },
+  {
+    "key": "training\\lostcityE1_extreme.json",
+    "original": " Training Mode: Double Recharge (extreme) ",
+    "translation": "训练模式: 双倍冷却 (极难)",
+    "stage": 5,
+    "context": "739"
+  },
+  {
+    "key": "training\\lostcityE1_hard.json",
+    "original": " Training Mode: Double Recharge (hard) ",
+    "translation": "训练模式: 双倍冷却 (困难)",
+    "stage": 5,
+    "context": "740"
+  },
+  {
+    "key": "training\\lostcityE1_normal.json",
+    "original": " Training Mode: Double Recharge (normal) ",
+    "translation": "训练模式: 双倍冷却 (一般)",
+    "stage": 5,
+    "context": "741"
+  },
+  {
+    "key": "training\\lostcityF0_easy.json",
+    "original": " Training Mode: Sun Headstart (easy) ",
+    "translation": "训练模式: 开局阳光 (简单)",
+    "stage": 5,
+    "context": "742"
+  },
+  {
+    "key": "training\\lostcityF0_extreme.json",
+    "original": " Training Mode: Sun Headstart (extreme) ",
+    "translation": "训练模式: 开局阳光 (极难)",
+    "stage": 5,
+    "context": "743"
+  },
+  {
+    "key": "training\\lostcityF0_hard.json",
+    "original": " Training Mode: Sun Headstart (hard) ",
+    "translation": "训练模式: 开局阳光 (困难)",
+    "stage": 5,
+    "context": "744"
+  },
+  {
+    "key": "training\\lostcityF0_normal.json",
+    "original": " Training Mode: Sun Headstart (normal) ",
+    "translation": "训练模式: 开局阳光 (一般)",
+    "stage": 5,
+    "context": "745"
+  },
+  {
+    "key": "training\\lostcityF1_easy.json",
+    "original": " Training Mode: Sun Headstart (easy) ",
+    "translation": "训练模式: 开局阳光 (简单)",
+    "stage": 5,
+    "context": "746"
+  },
+  {
+    "key": "training\\lostcityF1_extreme.json",
+    "original": " Training Mode: Sun Headstart (extreme) ",
+    "translation": "训练模式: 开局阳光 (极难)",
+    "stage": 5,
+    "context": "747"
+  },
+  {
+    "key": "training\\lostcityF1_hard.json",
+    "original": " Training Mode: Sun Headstart (hard) ",
+    "translation": "训练模式: 开局阳光 (困难)",
+    "stage": 5,
+    "context": "748"
+  },
+  {
+    "key": "training\\lostcityF1_normal.json",
+    "original": " Training Mode: Sun Headstart (normal) ",
+    "translation": "训练模式: 开局阳光 (一般)",
+    "stage": 5,
+    "context": "749"
+  },
+  {
+    "key": "training\\lostcityG1_easy.json",
+    "original": " Training Mode: Last Stand (easy) ",
+    "translation": "训练模式: 坚不可摧 (简单)",
+    "stage": 5,
+    "context": "750"
+  },
+  {
+    "key": "training\\lostcityG1_extreme.json",
+    "original": " Training Mode: Last Stand (extreme) ",
+    "translation": "训练模式: 坚不可摧 (极难)",
+    "stage": 5,
+    "context": "751"
+  },
+  {
+    "key": "training\\lostcityG1_hard.json",
+    "original": " Training Mode: Last Stand (hard) ",
+    "translation": "训练模式: 坚不可摧 (困难)",
+    "stage": 5,
+    "context": "752"
+  },
+  {
+    "key": "training\\lostcityG1_normal.json",
+    "original": " Training Mode: Last Stand (normal) ",
+    "translation": "训练模式: 坚不可摧 (一般)",
+    "stage": 5,
+    "context": "753"
+  },
+  {
+    "key": "training\\pirateA1_easy_1.json",
+    "original": " Training Mode: Normal Level (easy) ",
+    "translation": "训练模式: 正常关卡 (简单)",
+    "stage": 5,
+    "context": "754"
+  },
+  {
+    "key": "training\\pirateA1_easy_2.json",
+    "original": " Training Mode: Normal Level (easy) ",
+    "translation": "训练模式: 正常关卡 (简单)",
+    "stage": 5,
+    "context": "755"
+  },
+  {
+    "key": "training\\pirateA1_extreme_1.json",
+    "original": " Training Mode: Normal Level (extreme) ",
+    "translation": "训练模式: 正常关卡 (极难)",
+    "stage": 5,
+    "context": "756"
+  },
+  {
+    "key": "training\\pirateA1_extreme_2.json",
+    "original": " Training Mode: Normal Level (extreme) ",
+    "translation": "训练模式: 正常关卡 (极难)",
+    "stage": 5,
+    "context": "757"
+  },
+  {
+    "key": "training\\pirateA1_hard_1.json",
+    "original": " Training Mode: Normal Level (hard) ",
+    "translation": "训练模式: 正常关卡 (困难)",
+    "stage": 5,
+    "context": "758"
+  },
+  {
+    "key": "training\\pirateA1_hard_2.json",
+    "original": " Training Mode: Normal Level (hard) ",
+    "translation": "训练模式: 正常关卡 (困难)",
+    "stage": 5,
+    "context": "759"
+  },
+  {
+    "key": "training\\pirateA1_normal_1.json",
+    "original": " Training Mode: Normal Level (normal) ",
+    "translation": "训练模式: 正常关卡 (一般)",
+    "stage": 5,
+    "context": "760"
+  },
+  {
+    "key": "training\\pirateA1_normal_2.json",
+    "original": " Training Mode: Normal Level (normal) ",
+    "translation": "训练模式: 正常关卡 (一般)",
+    "stage": 5,
+    "context": "761"
+  },
+  {
+    "key": "training\\pirateB1_easy_1.json",
+    "original": " Training Mode: Rushed Start (easy) ",
+    "translation": "训练模式: 急促开局 (简单)",
+    "stage": 5,
+    "context": "762"
+  },
+  {
+    "key": "training\\pirateB1_easy_2.json",
+    "original": " Training Mode: Rushed Start (easy) ",
+    "translation": "训练模式: 急促开局 (简单)",
+    "stage": 5,
+    "context": "763"
+  },
+  {
+    "key": "training\\pirateB1_extreme_1.json",
+    "original": " Training Mode: Rushed Start (extreme) ",
+    "translation": "训练模式: 急促开局 (极难)",
+    "stage": 5,
+    "context": "764"
+  },
+  {
+    "key": "training\\pirateB1_extreme_2.json",
+    "original": " Training Mode: Rushed Start (extreme) ",
+    "translation": "训练模式: 急促开局 (极难)",
+    "stage": 5,
+    "context": "765"
+  },
+  {
+    "key": "training\\pirateB1_hard_1.json",
+    "original": " Training Mode: Rushed Start (hard) ",
+    "translation": "训练模式: 急促开局 (困难)",
+    "stage": 5,
+    "context": "766"
+  },
+  {
+    "key": "training\\pirateB1_hard_2.json",
+    "original": " Training Mode: Rushed Start (hard) ",
+    "translation": "训练模式: 急促开局 (困难)",
+    "stage": 5,
+    "context": "767"
+  },
+  {
+    "key": "training\\pirateB1_normal_1.json",
+    "original": " Training Mode: Rushed Start (normal) ",
+    "translation": "训练模式: 急促开局 (一般)",
+    "stage": 5,
+    "context": "768"
+  },
+  {
+    "key": "training\\pirateB1_normal_2.json",
+    "original": " Training Mode: Rushed Start (normal) ",
+    "translation": "训练模式: 急促开局 (一般)",
+    "stage": 5,
+    "context": "769"
+  },
+  {
+    "key": "training\\pirateC1_easy_1.json",
+    "original": " Training Mode: Gimmick Swarm (easy) ",
+    "translation": "训练模式: 花招成群 (简单)",
+    "stage": 5,
+    "context": "770"
+  },
+  {
+    "key": "training\\pirateC1_easy_2.json",
+    "original": " Training Mode: Gimmick Swarm (easy) ",
+    "translation": "训练模式: 花招成群 (简单)",
+    "stage": 5,
+    "context": "771"
+  },
+  {
+    "key": "training\\pirateC1_extreme_1.json",
+    "original": " Training Mode: Gimmick Swarm (extreme) ",
+    "translation": "训练模式: 花招成群 (极难)",
+    "stage": 5,
+    "context": "772"
+  },
+  {
+    "key": "training\\pirateC1_extreme_2.json",
+    "original": " Training Mode: Gimmick Swarm (extreme) ",
+    "translation": "训练模式: 花招成群 (极难)",
+    "stage": 5,
+    "context": "773"
+  },
+  {
+    "key": "training\\pirateC1_hard_1.json",
+    "original": " Training Mode: Gimmick Swarm (hard) ",
+    "translation": "训练模式: 花招成群 (困难)",
+    "stage": 5,
+    "context": "774"
+  },
+  {
+    "key": "training\\pirateC1_hard_2.json",
+    "original": " Training Mode: Gimmick Swarm (hard) ",
+    "translation": "训练模式: 花招成群 (困难)",
+    "stage": 5,
+    "context": "775"
+  },
+  {
+    "key": "training\\pirateC1_normal_1.json",
+    "original": " Training Mode: Gimmick Swarm (normal) ",
+    "translation": "训练模式: 花招成群 (一般)",
+    "stage": 5,
+    "context": "776"
+  },
+  {
+    "key": "training\\pirateC1_normal_2.json",
+    "original": " Training Mode: Gimmick Swarm (normal) ",
+    "translation": "训练模式: 花招成群 (一般)",
+    "stage": 5,
+    "context": "777"
+  },
+  {
+    "key": "training\\pirateD1_easy_1.json",
+    "original": " Training Mode: Auto Sun (easy) ",
+    "translation": "训练模式: 自动阳光 (简单)",
+    "stage": 5,
+    "context": "778"
+  },
+  {
+    "key": "training\\pirateD1_easy_2.json",
+    "original": " Training Mode: Auto Sun (easy) ",
+    "translation": "训练模式: 自动阳光 (简单)",
+    "stage": 5,
+    "context": "779"
+  },
+  {
+    "key": "training\\pirateD1_extreme_1.json",
+    "original": " Training Mode: Auto Sun (extreme) ",
+    "translation": "训练模式: 自动阳光 (极难)",
+    "stage": 5,
+    "context": "780"
+  },
+  {
+    "key": "training\\pirateD1_extreme_2.json",
+    "original": " Training Mode: Auto Sun (extreme) ",
+    "translation": "训练模式: 自动阳光 (极难)",
+    "stage": 5,
+    "context": "781"
+  },
+  {
+    "key": "training\\pirateD1_hard_1.json",
+    "original": " Training Mode: Auto Sun (hard) ",
+    "translation": "训练模式: 自动阳光 (困难)",
+    "stage": 5,
+    "context": "782"
+  },
+  {
+    "key": "training\\pirateD1_hard_2.json",
+    "original": " Training Mode: Auto Sun (hard) ",
+    "translation": "训练模式: 自动阳光 (困难)",
+    "stage": 5,
+    "context": "783"
+  },
+  {
+    "key": "training\\pirateD1_normal_1.json",
+    "original": " Training Mode: Auto Sun (normal) ",
+    "translation": "训练模式: 自动阳光 (一般)",
+    "stage": 5,
+    "context": "784"
+  },
+  {
+    "key": "training\\pirateD1_normal_2.json",
+    "original": " Training Mode: Auto Sun (normal) ",
+    "translation": "训练模式: 自动阳光 (一般)",
+    "stage": 5,
+    "context": "785"
+  },
+  {
+    "key": "training\\pirateE1_easy_1.json",
+    "original": " Training Mode: Double Recharge (easy) ",
+    "translation": "训练模式: 双倍冷却 (简单)",
+    "stage": 5,
+    "context": "786"
+  },
+  {
+    "key": "training\\pirateE1_easy_2.json",
+    "original": " Training Mode: Double Recharge (easy) ",
+    "translation": "训练模式: 双倍冷却 (简单)",
+    "stage": 5,
+    "context": "787"
+  },
+  {
+    "key": "training\\pirateE1_extreme_1.json",
+    "original": " Training Mode: Double Recharge (extreme) ",
+    "translation": "训练模式: 双倍冷却 (极难)",
+    "stage": 5,
+    "context": "788"
+  },
+  {
+    "key": "training\\pirateE1_extreme_2.json",
+    "original": " Training Mode: Double Recharge (extreme) ",
+    "translation": "训练模式: 双倍冷却 (极难)",
+    "stage": 5,
+    "context": "789"
+  },
+  {
+    "key": "training\\pirateE1_hard_1.json",
+    "original": " Training Mode: Double Recharge (hard) ",
+    "translation": "训练模式: 双倍冷却 (困难)",
+    "stage": 5,
+    "context": "790"
+  },
+  {
+    "key": "training\\pirateE1_hard_2.json",
+    "original": " Training Mode: Double Recharge (hard) ",
+    "translation": "训练模式: 双倍冷却 (困难)",
+    "stage": 5,
+    "context": "791"
+  },
+  {
+    "key": "training\\pirateE1_normal_1.json",
+    "original": " Training Mode: Double Recharge (normal) ",
+    "translation": "训练模式: 双倍冷却 (一般)",
+    "stage": 5,
+    "context": "792"
+  },
+  {
+    "key": "training\\pirateE1_normal_2.json",
+    "original": " Training Mode: Double Recharge (normal) ",
+    "translation": "训练模式: 双倍冷却 (一般)",
+    "stage": 5,
+    "context": "793"
+  },
+  {
+    "key": "training\\pirateF1_easy_1.json",
+    "original": " Training Mode: Sun Headstart (easy) ",
+    "translation": "训练模式: 开局阳光 (简单)",
+    "stage": 5,
+    "context": "794"
+  },
+  {
+    "key": "training\\pirateF1_easy_2.json",
+    "original": " Training Mode: Sun Headstart (easy) ",
+    "translation": "训练模式: 开局阳光 (简单)",
+    "stage": 5,
+    "context": "795"
+  },
+  {
+    "key": "training\\pirateF1_extreme_1.json",
+    "original": " Training Mode: Sun Headstart (extreme) ",
+    "translation": "训练模式: 开局阳光 (极难)",
+    "stage": 5,
+    "context": "796"
+  },
+  {
+    "key": "training\\pirateF1_extreme_2.json",
+    "original": " Training Mode: Sun Headstart (extreme) ",
+    "translation": "训练模式: 开局阳光 (极难)",
+    "stage": 5,
+    "context": "797"
+  },
+  {
+    "key": "training\\pirateF1_hard_1.json",
+    "original": " Training Mode: Sun Headstart (hard) ",
+    "translation": "训练模式: 开局阳光 (困难)",
+    "stage": 5,
+    "context": "798"
+  },
+  {
+    "key": "training\\pirateF1_hard_2.json",
+    "original": " Training Mode: Sun Headstart (hard) ",
+    "translation": "训练模式: 开局阳光 (困难)",
+    "stage": 5,
+    "context": "799"
+  },
+  {
+    "key": "training\\pirateF1_normal_1.json",
+    "original": " Training Mode: Sun Headstart (normal) ",
+    "translation": "训练模式: 开局阳光 (一般)",
+    "stage": 5,
+    "context": "800"
+  },
+  {
+    "key": "training\\pirateF1_normal_2.json",
+    "original": " Training Mode: Sun Headstart (normal) ",
+    "translation": "训练模式: 开局阳光 (一般)",
+    "stage": 5,
+    "context": "801"
+  },
+  {
+    "key": "training\\pirateG1_easy_1.json",
+    "original": " Training Mode: Last Stand (easy) ",
+    "translation": "训练模式: 坚不可摧 (简单)",
+    "stage": 5,
+    "context": "802"
+  },
+  {
+    "key": "training\\pirateG1_easy_2.json",
+    "original": " Training Mode: Last Stand (easy) ",
+    "translation": "训练模式: 坚不可摧 (简单)",
+    "stage": 5,
+    "context": "803"
+  },
+  {
+    "key": "training\\pirateG1_extreme_1.json",
+    "original": " Training Mode: Last Stand (extreme) ",
+    "translation": "训练模式: 坚不可摧 (极难)",
+    "stage": 5,
+    "context": "804"
+  },
+  {
+    "key": "training\\pirateG1_extreme_2.json",
+    "original": " Training Mode: Last Stand (extreme) ",
+    "translation": "训练模式: 坚不可摧 (极难)",
+    "stage": 5,
+    "context": "805"
+  },
+  {
+    "key": "training\\pirateG1_hard_1.json",
+    "original": " Training Mode: Last Stand (hard) ",
+    "translation": "训练模式: 坚不可摧 (困难)",
+    "stage": 5,
+    "context": "806"
+  },
+  {
+    "key": "training\\pirateG1_hard_2.json",
+    "original": " Training Mode: Last Stand (hard) ",
+    "translation": "训练模式: 坚不可摧 (困难)",
+    "stage": 5,
+    "context": "807"
+  },
+  {
+    "key": "training\\pirateG1_normal_1.json",
+    "original": " Training Mode: Last Stand (normal) ",
+    "translation": "训练模式: 坚不可摧 (一般)",
+    "stage": 5,
+    "context": "808"
+  },
+  {
+    "key": "training\\pirateG1_normal_2.json",
+    "original": " Training Mode: Last Stand (normal) ",
+    "translation": "训练模式: 坚不可摧 (一般)",
+    "stage": 5,
+    "context": "809"
+  },
+  {
+    "key": "training\\reset_training.json",
+    "original": " Do not quit midway! ",
+    "translation": "不要中途退出!",
+    "stage": 5,
+    "context": "810"
+  },
+  {
+    "key": "training\\reset_training_2.json",
+    "original": " Reset Training Room! ",
+    "translation": "重置训练区!",
+    "stage": 5,
+    "context": "811"
+  },
+  {
+    "key": "Tutorial1.json",
+    "original": " 0-1: Tutorial ",
+    "translation": "0-1: 教程",
+    "stage": 5,
+    "context": "812"
+  },
+  {
+    "key": "Tutorial2.json",
+    "original": " 0-2: Tutorial ",
+    "translation": "0-2: 教程",
+    "stage": 5,
+    "context": "813"
+  },
+  {
+    "key": "Tutorial3.json",
+    "original": " 0-3: Tutorial ",
+    "translation": "0-3: 教程",
+    "stage": 5,
+    "context": "814"
+  },
+  {
+    "key": "Tutorial4.json",
+    "original": " 0-4: Tutorial ",
+    "translation": "0-4: 教程",
+    "stage": 5,
+    "context": "815"
+  }
+]

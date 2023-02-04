@@ -1,0 +1,3632 @@
+[
+  {
+    "key": "1",
+    "original": "All seed packets recharge 4 times as fast!\\nSurvive without lawnmowers",
+    "translation": "所有种子包的冷却速度加快 4 倍!\\n在没有小推车的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "2",
+    "original": "Protect the endangered plants",
+    "translation": "保护濒危的植物",
+    "stage": 5
+  },
+  {
+    "key": "3",
+    "original": "Balloons arise from Lily Pads every wave\\nSpawn and destroy 60 balloons!",
+    "translation": "每一波都会有气球从莲叶中升起\\n生成并摧毁 60 个气球!",
+    "stage": 5
+  },
+  {
+    "key": "4",
+    "original": "Spend 3000 sun to break the statues before the final wave",
+    "translation": "在最后一波之前花费 3000 阳光打破雕像",
+    "stage": 5
+  },
+  {
+    "key": "5",
+    "original": "Survive with only 4000 sun",
+    "translation": "仅用 4000 阳光存活下来",
+    "stage": 5
+  },
+  {
+    "key": "6",
+    "original": "h",
+    "translation": "h",
+    "stage": 5
+  },
+  {
+    "key": "7",
+    "original": "Survive with the given plants\\nUse Plant Food on your Iceberg Lettuces or Sunflowers to make sun",
+    "translation": "使用给定的植物存活下来\\n给你的冰冻生菜或者向日葵叶绿素来生成阳光",
+    "stage": 5
+  },
+  {
+    "key": "8",
+    "original": "Not Stonks",
+    "translation": "Not Stonks",
+    "stage": 5
+  },
+  {
+    "key": "9",
+    "original": "Every 6 waves your plants will be killed",
+    "translation": "每过 6 波你的植物将被清理",
+    "stage": 5
+  },
+  {
+    "key": "10",
+    "original": "eclise is kil",
+    "translation": "eclise is kil",
+    "stage": 5
+  },
+  {
+    "key": "11",
+    "original": "Survive with a special seed bank\"",
+    "translation": "使用特殊的种子库存活下来",
+    "stage": 5
+  },
+  {
+    "key": "12",
+    "original": "Survive as the trap tiles boost the zombies speed",
+    "translation": "在陷阱瓷砖提高僵尸速度的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "13",
+    "original": "Survive while the Fireball Hunters attack!\\nThey cannot be stunned and they take half the damage from fire!",
+    "translation": "在有扔火球的猎人进攻的情况下存活下来!\\n他们无法被眩晕而且他们受到的火焰伤害减半!",
+    "stage": 5
+  },
+  {
+    "key": "14",
+    "original": "Survive while special MCs attack with grapes!",
+    "translation": "在特殊说唱僵尸用葡萄攻击的情况下存活下来!",
+    "stage": 5
+  },
+  {
+    "key": "15",
+    "original": "Survive while the Spiky Hunters attack!\\nThey cannot be stunned!",
+    "translation": "在有扔尖刺的猎人进攻的情况下存活下来!\\n他们无法被眩晕!",
+    "stage": 5
+  },
+  {
+    "key": "16",
+    "original": "Survive while the Bowling Hunters attack!\\nThey cannot be stunned!",
+    "translation": "在有扔保龄球的猎人进攻的情况下存活下来!\\n他们无法被眩晕!",
+    "stage": 5
+  },
+  {
+    "key": "17",
+    "original": "pls dont abuse tier lock ",
+    "translation": "请不要滥用阶级锁",
+    "stage": 5
+  },
+  {
+    "key": "18",
+    "original": "Survive with a special seed bank\\nAll seed packets have x1.5 recharge\\nDisco Jetpack Zombies drop sun when they die",
+    "translation": "使用特殊的种子库存活下来\\n所有种子包将有 1.5 倍冷却时间\\n迪斯科喷射器僵尸在死亡时会掉落阳光",
+    "stage": 5
+  },
+  {
+    "key": "19",
+    "original": "chicken garg reee",
+    "translation": "chicken garg reee",
+    "stage": 5
+  },
+  {
+    "key": "20",
+    "original": "Defrost all ice blocks before the final wave",
+    "translation": "在最后一波之前解冻所有冰块",
+    "stage": 5
+  },
+  {
+    "key": "21",
+    "original": "Protect the endangered plants",
+    "translation": "保护濒危的植物",
+    "stage": 5
+  },
+  {
+    "key": "22",
+    "original": "E  C  O  C  O  L  I  S  E",
+    "translation": "E  C  O  C  O  L  I  S  E",
+    "stage": 5
+  },
+  {
+    "key": "23",
+    "original": "E  C  O  C  O  L  I  S  E",
+    "translation": "E  C  O  C  O  L  I  S  E",
+    "stage": 5
+  },
+  {
+    "key": "24",
+    "original": "Survive with the given plants",
+    "translation": "使用给定的植物存活下来",
+    "stage": 5
+  },
+  {
+    "key": "25",
+    "original": "G  R  A  P  ",
+    "translation": "G  R  A  P  ",
+    "stage": 5
+  },
+  {
+    "key": "26",
+    "original": "Survive with the given plants",
+    "translation": "使用给定的植物存活下来",
+    "stage": 5
+  },
+  {
+    "key": "27",
+    "original": "Objective: Protect Squid",
+    "translation": "任务: 保护鱿鱼",
+    "stage": 5
+  },
+  {
+    "key": "28",
+    "original": "Survive with the given plants\\nProtect the endangered plants",
+    "translation": "使用给定的植物存活下来\\n保护濒危的植物",
+    "stage": 5
+  },
+  {
+    "key": "29",
+    "original": "Protect the endangered plants",
+    "translation": "保护濒危的植物",
+    "stage": 5
+  },
+  {
+    "key": "30",
+    "original": "Plan your defense and defeat the zombies.\\nMore sun will be given later.",
+    "translation": "建立起你的防线, 阻挡僵尸.\\n一段时间后将提供更多阳光.",
+    "stage": 5
+  },
+  {
+    "key": "31",
+    "original": "Kill enough non-imp zombies in the marked area to reach 16500 points!",
+    "translation": "在标记区域击杀足够多的非小鬼僵尸以达到 16500 分!",
+    "stage": 5
+  },
+  {
+    "key": "32",
+    "original": "Survive with 800 starting sun\\nSpend 3000 sun to break the statues before the final wave",
+    "translation": "在有 800 初始阳光的情况下存活下来\\n在最后一波之前花费 3000 阳光打破雕像",
+    "stage": 5
+  },
+  {
+    "key": "33",
+    "original": "Trap tiles are reversed!",
+    "translation": "陷阱地砖反转了!",
+    "stage": 5
+  },
+  {
+    "key": "34",
+    "original": "Survive with a special seedbank and 9 seed slots\\nMassive hoarde of Chickens will only come at late game",
+    "translation": "使用特殊的种子库和 9 个卡槽存活下来\\n大群的鸡只会在游戏后期出现",
+    "stage": 5
+  },
+  {
+    "key": "35",
+    "original": "Waves are triggered automatically every 10 seconds!\\nSurvive with 60 seconds to prepare",
+    "translation": "每 10 秒会自动触发下一波!\\n在有 60 秒准备时间的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "36",
+    "original": "Protect the endangered plants",
+    "translation": "保护濒危的植物",
+    "stage": 5
+  },
+  {
+    "key": "37",
+    "original": "Trap tiles are reversed!",
+    "translation": "陷阱地砖反转了!",
+    "stage": 5
+  },
+  {
+    "key": "38",
+    "original": "Rolled, but not quite Rocked.",
+    "translation": "翻滚, 但不完全摇摆.",
+    "stage": 5
+  },
+  {
+    "key": "39",
+    "original": "Survive with most plants picked for you",
+    "translation": "在已经替你选择好了大多数植物的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "40",
+    "original": "Survive with 500 starting sun and 9 seed slots",
+    "translation": "在有 500 初始阳光和 9 个卡槽的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "41",
+    "original": "Protect the endangered plants",
+    "translation": "保护濒危的植物",
+    "stage": 5
+  },
+  {
+    "key": "42",
+    "original": "Spend 2000 sun to break the statues before the final wave",
+    "translation": "在最后一波前花费 2000 阳光摧毁雕像",
+    "stage": 5
+  },
+  {
+    "key": "43",
+    "original": "Survive while Peasant Zombies are constantly knighted",
+    "translation": "在农民僵尸不断被封为骑士的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "44",
+    "original": "Survive with a special seedbank\\nDefeat Egypt zombies to get sun - they only spawn from Necromancies!",
+    "translation": "使用特殊的种子库存活下来\\n击杀埃及僵尸以获得阳光 - 他们只会通过亡灵返乡生成!",
+    "stage": 5
+  },
+  {
+    "key": "45",
+    "original": "Kill enough zombies in the marked area to reach 5000 points!",
+    "translation": "在标记区域击杀足够多的僵尸以达到 5000 分!",
+    "stage": 5
+  },
+  {
+    "key": "46",
+    "original": "Kill enough zombies in the marked area to reach 15000 points!",
+    "translation": "在标记区域击杀足够多的僵尸以达到 15000 分!",
+    "stage": 5
+  },
+  {
+    "key": "47",
+    "original": "Kill enough zombies in the marked area to reach 7700 points!",
+    "translation": "在标记区域击杀足够多的僵尸以达到 7700 分!",
+    "stage": 5
+  },
+  {
+    "key": "48",
+    "original": "Play without the shovel.",
+    "translation": "不用铲子游玩.",
+    "stage": 5
+  },
+  {
+    "key": "49",
+    "original": "Kill ALL zombies, on ONLY the marked tiles.",
+    "translation": "只在标记的地砖上杀死全部的僵尸.",
+    "stage": 5
+  },
+  {
+    "key": "50",
+    "original": "Kill enough zombies in the marked area to reach 6000 points!\\nUse the minecart to push zombies back!",
+    "translation": "在标记区域击杀足够多的僵尸以达到 6000 分!\\n使用矿车击退僵尸!",
+    "stage": 5
+  },
+  {
+    "key": "51",
+    "original": "Kill enough zombies in the marked area to reach 19500 points!\\nThe middle lane keeps pushing them back!",
+    "translation": "在标记区域击杀足够多的僵尸以达到 19500 分!\\n中间那一路会一直把他们击退!",
+    "stage": 5
+  },
+  {
+    "key": "52",
+    "original": "Hmmmmmmmm",
+    "translation": "Hmmmmmmmm",
+    "stage": 5
+  },
+  {
+    "key": "53",
+    "original": "[STARCHALLENGE_PROTECT_THE_PLANT]\"",
+    "translation": "[STARCHALLENGE_PROTECT_THE_PLANT]\"",
+    "stage": 5
+  },
+  {
+    "key": "54",
+    "original": "Idk just play lel",
+    "translation": "Idk just play lel",
+    "stage": 5
+  },
+  {
+    "key": "55",
+    "original": "Haiiiiiiiiiiiiiiiiiiiiiiiiiii",
+    "translation": "Haiiiiiiiiiiiiiiiiiiiiiiiiiii",
+    "stage": 5
+  },
+  {
+    "key": "56",
+    "original": "Survive as gravestones constantly rise from the ground on empty tiles.",
+    "translation": "在墓碑持续从空的地砖上冒出的情况下存活下来.",
+    "stage": 5
+  },
+  {
+    "key": "57",
+    "original": "uwu",
+    "translation": "uwu",
+    "stage": 5
+  },
+  {
+    "key": "58",
+    "original": "Sun is dropping from the sky faster than normal but the zombies are stealing your sun. Also, chill is less effective and beware of the sun burn.",
+    "translation": "太阳从天而降的速度比平时快, 但僵尸正在偷走你的太阳. 此外, 冷却的效果较差, 并提防太阳灼伤.",
+    "stage": 5
+  },
+  {
+    "key": "59",
+    "original": "uwu",
+    "translation": "uwu",
+    "stage": 5
+  },
+  {
+    "key": "60",
+    "original": "The rain will slowly make your lawn from column 4 to column 9 too soggy to plant on and greatly decrease fire damage.",
+    "translation": "雨水会使你第 4 列到第 9 列的草坪变得太湿而无法在上面种植植物, 而且火焰伤害也被大大减少.",
+    "stage": 5
+  },
+  {
+    "key": "61",
+    "original": "uwu",
+    "translation": "uwu",
+    "stage": 5
+  },
+  {
+    "key": "62",
+    "original": "Strange creatures are lurking in the fog.",
+    "translation": "奇怪的生物潜伏在雾中.",
+    "stage": 5
+  },
+  {
+    "key": "63",
+    "original": "uwu",
+    "translation": "uwu",
+    "stage": 5
+  },
+  {
+    "key": "64",
+    "original": "Get ready for the snowball fight.",
+    "translation": "准备好打雪仗吧.",
+    "stage": 5
+  },
+  {
+    "key": "65",
+    "original": "Beat the level in under 8 minutes",
+    "translation": "在 8 分钟内通关",
+    "stage": 5
+  },
+  {
+    "key": "66",
+    "original": "Survive with the given plants\\nIceblocks defrost over time",
+    "translation": "使用给定的植物存活下来\\n冰块随着时间的推移解冻",
+    "stage": 5
+  },
+  {
+    "key": "67",
+    "original": "Spend 5000 sun to break the statues before the final wave",
+    "translation": "在最后一波之前花费 5000 阳光打破雕像",
+    "stage": 5
+  },
+  {
+    "key": "68",
+    "original": "Plan your defense and defeat the zombies",
+    "translation": "建立起你的防线, 阻挡僵尸",
+    "stage": 5
+  },
+  {
+    "key": "69",
+    "original": "Survive with 1200 starting sun",
+    "translation": "在有 1200 初始阳光的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "70",
+    "original": "Defeat all zombies - don't let any escape!",
+    "translation": "击杀所有僵尸 - 不要让任何一只僵尸跑掉!",
+    "stage": 5
+  },
+  {
+    "key": "71",
+    "original": "Kill enough zombies in the marked area to reach 7500 points!",
+    "translation": "在标记区域击杀足够多的僵尸以达到 7500 分!",
+    "stage": 5
+  },
+  {
+    "key": "72",
+    "original": "Survive with most plants picked for you",
+    "translation": "在已经替你选择好了大多数植物的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "73",
+    "original": "Destroy the arcade machine before the final wave. The trapped minecart will protect all zombies 2 tiles forward and backward!",
+    "translation": "在最后一波前摧毁所有的的游戏机. 内置陷阱的矿车会保护前后两格内的僵尸!",
+    "stage": 5
+  },
+  {
+    "key": "74",
+    "original": "Protect the endangered Ghost Peppers with Plant Foods",
+    "translation": "使用叶绿素以保护濒危的幽灵辣椒.",
+    "stage": 5
+  },
+  {
+    "key": "75",
+    "original": "E  V  O  L  U  T  I  O  N ?",
+    "translation": "E  V  O  L  U  T  I  O  N ?",
+    "stage": 5
+  },
+  {
+    "key": "76",
+    "original": "Everybody hates escort missions, I know",
+    "translation": "我知道每个人都讨厌护送任务",
+    "stage": 5
+  },
+  {
+    "key": "77",
+    "original": "Protect the endangered plants",
+    "translation": "保护濒危的植物",
+    "stage": 5
+  },
+  {
+    "key": "78",
+    "original": "Survive without using the Red Power Tiles",
+    "translation": "在不使用红色能量地砖的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "79",
+    "original": "Borrowed from gp2 be like",
+    "translation": "从 gp2 那借来的",
+    "stage": 5
+  },
+  {
+    "key": "80",
+    "original": "Flag Zombies are tougher and boost the speed of all zombies on their lanes!",
+    "translation": "旗帜僵尸血量更高而且会加速他们所在路线的所有僵尸!",
+    "stage": 5
+  },
+  {
+    "key": "81",
+    "original": "Borrowed from gp2... again",
+    "translation": "从 gp2 那借来的... 再次",
+    "stage": 5
+  },
+  {
+    "key": "82",
+    "original": "Survive with a special seedbank. You cannot destroy these Sheep Forces!",
+    "translation": "使用特殊的种子库存活下来. 你不能摧毁那些绵羊之力!",
+    "stage": 5
+  },
+  {
+    "key": "83",
+    "original": "Double Wave spam incoming!\\nSurvive with 120 seconds to prepare",
+    "translation": "双波来袭!\\n在有 120 秒准备时间的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "84",
+    "original": "Plant Wall-nuts on all the marked tiles before the final wave",
+    "translation": "在最后一波前在标记的地砖上种满坚果墙",
+    "stage": 5
+  },
+  {
+    "key": "85",
+    "original": "Protect the endangered plants",
+    "translation": "保护濒危的植物",
+    "stage": 5
+  },
+  {
+    "key": "86",
+    "original": "Survive with most plants picked for you",
+    "translation": "在已经替你选择好了大多数植物的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "87",
+    "original": "Defeat 230 Ra Zombies!",
+    "translation": "击杀 230 只太阳神僵尸!",
+    "stage": 5
+  },
+  {
+    "key": "88",
+    "original": " ",
+    "translation": "",
+    "stage": -1
+  },
+  {
+    "key": "89",
+    "original": "Don't spend any sun for 90 seconds",
+    "translation": "不要在 90 秒内使用任何阳光",
+    "stage": 5
+  },
+  {
+    "key": "90",
+    "original": "Survive with 4000 sun. All seed packets recharge twice as slow!",
+    "translation": "用 4000 阳光存活下来. 所有种子包的冷却速度减慢 2 倍!",
+    "stage": 5
+  },
+  {
+    "key": "91",
+    "original": "The tombstones in the middle lane aren't breakable",
+    "translation": "中间那一路的墓碑是无法摧毁的",
+    "stage": 5
+  },
+  {
+    "key": "92",
+    "original": "Survive without lawnmowers",
+    "translation": "在没有小推车的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "93",
+    "original": "Survive with 500 starting sun",
+    "translation": "在有 500 初始阳光的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "94",
+    "original": " ",
+    "translation": "",
+    "stage": -1
+  },
+  {
+    "key": "95",
+    "original": "Plant nuts on all the marked tiles before the final wave",
+    "translation": "在最后一波前在标记的地砖上种满坚果",
+    "stage": 5
+  },
+  {
+    "key": "96",
+    "original": "Survive with 500 starting sun",
+    "translation": "在有 500 初始阳光的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "97",
+    "original": "Tap on the gravestones to pay sun to break them\\nThey do not block projectiles!",
+    "translation": "点击那些墓碑以花费阳光击碎它们\\n它们不会阻挡子弹!",
+    "stage": 5
+  },
+  {
+    "key": "98",
+    "original": "Survive with only 2500 sun",
+    "translation": "仅用 2500 阳光存活下来",
+    "stage": 5
+  },
+  {
+    "key": "99",
+    "original": "Don't let ANY grid item linger on the lawn for too long (including plants' grid items)",
+    "translation": "不要让任何障碍物在草坪上停留太久 (包括植物生成的障碍物)",
+    "stage": 5
+  },
+  {
+    "key": "100",
+    "original": "Each big tombstone contains a Gargantuar. Break all of them before the final wave!",
+    "translation": "每个大墓碑里都包含了一只巨人僵尸. 在最后一波前把它们都摧毁掉!",
+    "stage": 5
+  },
+  {
+    "key": "101",
+    "original": "Survive with most plants picked for you",
+    "translation": "在已经替你选择好了大多数植物的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "102",
+    "original": "Survive with 1000 starting sun\\nSurvive without lawnmowers",
+    "translation": "在有 1000 初始阳光的情况下存活下来\\n在没有小推车的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "103",
+    "original": "Football Zombies won't eat your plants nor your brain this time.\\nKill at least 20 of them.",
+    "translation": "橄榄球僵尸这次将不会吃你的植物和你的脑子.\\n至少将他们 20 只击杀掉.",
+    "stage": 5
+  },
+  {
+    "key": "104",
+    "original": "Spend 9000 sun to break the statues before the final wave",
+    "translation": "在最后一波前花费 9000 阳光摧毁雕像",
+    "stage": 5
+  },
+  {
+    "key": "105",
+    "original": "Kill enough non-imp zombies in the marked area to reach 14500 points!",
+    "translation": "在标记区域击杀足够多的非小鬼僵尸以达到 14500 分!",
+    "stage": 5
+  },
+  {
+    "key": "106",
+    "original": "Survive with 750 starting sun",
+    "translation": "在有 750 初始阳光的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "107",
+    "original": "Brought to you by goodpea2.",
+    "translation": "由 goodpea2 为你带来.",
+    "stage": 5
+  },
+  {
+    "key": "108",
+    "original": "Survive with all the plants you can have",
+    "translation": "在所有植物可用的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "109",
+    "original": "Survive with all the plants you can have",
+    "translation": "在所有植物可用的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "110",
+    "original": "Keep at least 1 bug trap activated throughout the zombie attack",
+    "translation": "在僵尸进攻的过程中保持至少一个害虫陷阱被触发",
+    "stage": 5
+  },
+  {
+    "key": "111",
+    "original": "Some zombies are illusions...",
+    "translation": "某些僵尸只是幻影...",
+    "stage": 5
+  },
+  {
+    "key": "112",
+    "original": "Survive as craters form on unoccupied tiles",
+    "translation": "在土坑会在空的地砖上生成的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "113",
+    "original": "Survive as zombies immune to fire damage create flames as they move! The flames prevent them from being chilled or frozen.",
+    "translation": "在僵尸免疫火焰伤害并在前进过程中产生火焰的情况下存活下来! 火焰可以防止他们被冷却或冻结.",
+    "stage": 5
+  },
+  {
+    "key": "114",
+    "original": "Tents will spawn on every gold tile on the final wave, removing any plants above",
+    "translation": "在最后一波时所有黄金地砖上植物会被清除, 且会支起帐篷",
+    "stage": 5
+  },
+  {
+    "key": "115",
+    "original": "Survive while super boosted Shadow Zombies attack\\nThey all die when all other zombies are killed!",
+    "translation": "在超级加强的暗影僵尸进攻的情况下存活下来\\n他们在所有僵尸都被击杀时才会死!",
+    "stage": 5
+  },
+  {
+    "key": "116",
+    "original": "Definitely not Plot Flip",
+    "translation": "显然不是布局翻转",
+    "stage": 5
+  },
+  {
+    "key": "117",
+    "original": "Chill under daylight is less effective. Rain decreases fire damage.",
+    "translation": "日光下的冷却效果较差. 雨水会削减火焰伤害.",
+    "stage": 5
+  },
+  {
+    "key": "118",
+    "original": "Protect the endangered plants",
+    "translation": "保护濒危的植物",
+    "stage": 5
+  },
+  {
+    "key": "119",
+    "original": "E  C  E  L  E  R  Y  L  I  S  E",
+    "translation": "E  C  E  L  E  R  Y  L  I  S  E",
+    "stage": 5
+  },
+  {
+    "key": "120",
+    "original": "Survive with a special seedbank",
+    "translation": "使用特殊的种子库存活下来",
+    "stage": 5
+  },
+  {
+    "key": "121",
+    "original": "Survive with a special seedbank and protect the endangered plants.",
+    "translation": "使用特殊的种子库存活下来, 并保护濒危的植物.",
+    "stage": 5
+  },
+  {
+    "key": "122",
+    "original": "Survive with a special seedbank\\nDefeat zombies to get sun!",
+    "translation": "使用特殊的种子库存活下来\\n击杀僵尸以获得阳光!",
+    "stage": 5
+  },
+  {
+    "key": "123",
+    "original": "Survive with the given plants\\nAll seed packets recharge instantly!",
+    "translation": "使用给定的植物存活下来\\n所有种子包没有冷却!",
+    "stage": 5
+  },
+  {
+    "key": "124",
+    "original": "Protect the endangered plants",
+    "translation": "保护濒危的植物",
+    "stage": 5
+  },
+  {
+    "key": "125",
+    "original": "Survive with the given plants",
+    "translation": "使用给定的植物存活下来",
+    "stage": 5
+  },
+  {
+    "key": "126",
+    "original": "Plan your defense against the zombie attack\\nIceblocks are broken at the start of the attack",
+    "translation": "建立起你的防线以抵御僵尸的进攻\\n当关卡开始时冰块会被摧毁",
+    "stage": 5
+  },
+  {
+    "key": "127",
+    "original": "Survive a massive attack in the plasma field!\\nThe boss is immune to stun!",
+    "translation": "在等离子场的大规模进攻中存活下来!\\nboss 免疫眩晕!",
+    "stage": 5
+  },
+  {
+    "key": "128",
+    "original": " ",
+    "translation": "",
+    "stage": -1
+  },
+  {
+    "key": "129",
+    "original": "Survive a massive attack while your defense is slowly decaying from the ice trickeries.\\nThe boss is immune to stun and all fire damage!",
+    "translation": "在你的防御被冰戏法慢慢削弱的时候, 在一次大规模的进攻中存活下来.\\nboss 免疫眩晕和所有的火焰伤害!",
+    "stage": 5
+  },
+  {
+    "key": "130",
+    "original": " ",
+    "translation": "",
+    "stage": -1
+  },
+  {
+    "key": "131",
+    "original": " ",
+    "translation": "",
+    "stage": -1
+  },
+  {
+    "key": "132",
+    "original": "Survive with all the plants you can have",
+    "translation": "在所有植物可用的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "133",
+    "original": "Survive with a special seedbank",
+    "translation": "使用特殊的种子库存活下来",
+    "stage": 5
+  },
+  {
+    "key": "134",
+    "original": "Survive with a special seed bank",
+    "translation": "使用特殊的种子库存活下来",
+    "stage": 5
+  },
+  {
+    "key": "135",
+    "original": "Survive with 2000 starting sun",
+    "translation": "在有 2000 初始阳光的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "136",
+    "original": "You're supposed to keep the defense from last level, but I can't do that...\\nso have 2000 starting sun instead! :p",
+    "translation": "你本应该保留上一关的植物到这, 但我做不到...\\n所以你将有 2000 初始阳光! :p",
+    "stage": 5
+  },
+  {
+    "key": "137",
+    "original": "Survive with 2000 starting sun",
+    "translation": "在有 2000 初始阳光的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "138",
+    "original": "Survive with 2000 starting sun",
+    "translation": "在有 2000 初始阳光的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "139",
+    "original": "Survive with 2000 starting sun",
+    "translation": "在有 2000 初始阳光的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "140",
+    "original": "Survive with most plants picked for you",
+    "translation": "在已经替你选择好了大多数植物的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "141",
+    "original": "Survive with all the plants you can have",
+    "translation": "在所有植物可用的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "142",
+    "original": "Warning: Frequent Bot Swarms on Column 1! Use knockback to counter!",
+    "translation": "警告: 机器虫灾频繁发生在第 1 列! 使用击退来反击!",
+    "stage": 5
+  },
+  {
+    "key": "143",
+    "original": "Unfreeze all plants before the final wave",
+    "translation": "在最后一波之前解冻所有植物",
+    "stage": 5
+  },
+  {
+    "key": "144",
+    "original": "Survive with a special seed bank\\nDon't let the zombies trample the marked tiles",
+    "translation": "使用特殊的种子库存活下来\\n不要让僵尸踩到标记的地砖",
+    "stage": 5
+  },
+  {
+    "key": "145",
+    "original": "Survive with the given plants",
+    "translation": "使用给定的植物存活下来",
+    "stage": 5
+  },
+  {
+    "key": "146",
+    "original": "Survive with 500 starting sun\\nProtect the endangered plant",
+    "translation": "在有 500 初始阳光的情况下存活下来\\n保护濒危的植物",
+    "stage": 5
+  },
+  {
+    "key": "147",
+    "original": "Protect the endangered plants",
+    "translation": "保护濒危的植物",
+    "stage": 5
+  },
+  {
+    "key": "148",
+    "original": "Protect at least 6 endangered Strawbursts",
+    "translation": "保护至少 6 株濒危的爆浆草莓",
+    "stage": 5
+  },
+  {
+    "key": "149",
+    "original": "Survive with the given plants",
+    "translation": "使用给定的植物存活下来",
+    "stage": 5
+  },
+  {
+    "key": "150",
+    "original": "Survive with the chosen plants and conveyor\\nPlants from the conveyor cost sun to plant!",
+    "translation": "使用选定的和传送带给的植物存活下来\\n传送带给的植物需要花费阳光才能种植!",
+    "stage": 5
+  },
+  {
+    "key": "151",
+    "original": " ",
+    "translation": "",
+    "stage": -1
+  },
+  {
+    "key": "152",
+    "original": " ",
+    "translation": "",
+    "stage": -1
+  },
+  {
+    "key": "153",
+    "original": "Survive with a special seedbank",
+    "translation": "使用特殊的种子库存活下来",
+    "stage": 5
+  },
+  {
+    "key": "154",
+    "original": "Destroy all gravestones before the final wave",
+    "translation": "在最后一波之前摧毁所有墓碑",
+    "stage": 5
+  },
+  {
+    "key": "155",
+    "original": "Plan your defense and defeat the zombies\\nIceblocks are broken at the start of the attack\\nMore sun will be given later",
+    "translation": "建立起你的防线, 阻挡僵尸\\n当关卡开始时冰块会被摧毁\\n一段时间后将提供更多阳光",
+    "stage": 5
+  },
+  {
+    "key": "156",
+    "original": "Spend 6000 sun to break the statues before the final wave",
+    "translation": "在最后一波前花费 6000 阳光摧毁雕像",
+    "stage": 5
+  },
+  {
+    "key": "157",
+    "original": "Kill enough zombies in the marked area to reach 20000 points!",
+    "translation": "在标记区域击杀足够多的僵尸以达到 20000 分!",
+    "stage": 5
+  },
+  {
+    "key": "158",
+    "original": "Survive with the given plants",
+    "translation": "使用给定的植物存活下来",
+    "stage": 5
+  },
+  {
+    "key": "159",
+    "original": "Protect the endangered plants",
+    "translation": "保护濒危的植物",
+    "stage": 5
+  },
+  {
+    "key": "160",
+    "original": "Survive without lawnmowers",
+    "translation": "在没有小推车的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "161",
+    "original": "Survive with 9 seed slots",
+    "translation": "使用 9 个卡槽存活下来",
+    "stage": 5
+  },
+  {
+    "key": "162",
+    "original": "Survive with only 7500 sun",
+    "translation": "仅用 7500 阳光存活下来",
+    "stage": 5
+  },
+  {
+    "key": "163",
+    "original": "E  C  L  I  S... 2 spaces!",
+    "translation": "E  C  L  I  S... 2 spaces!",
+    "stage": 5
+  },
+  {
+    "key": "164",
+    "original": "Definitely more logical than endurian, still.",
+    "translation": "当然比榴莲更符合逻辑.",
+    "stage": 5
+  },
+  {
+    "key": "165",
+    "original": "Definitely more logical than endurian.",
+    "translation": "绝对比榴莲更符合逻辑.",
+    "stage": 5
+  },
+  {
+    "key": "166",
+    "original": "E C L I S... nah screw this",
+    "translation": "E C L I S... nah screw this",
+    "stage": 5
+  },
+  {
+    "key": "167",
+    "original": "Protect the Endurian while he emits poisonous gas",
+    "translation": "在榴莲释放毒气时保护他",
+    "stage": 5
+  },
+  {
+    "key": "168",
+    "original": "E C L I S... nah",
+    "translation": "E C L I S... nah",
+    "stage": 5
+  },
+  {
+    "key": "169",
+    "original": "Protect the Endurian while he emits poisonous gas",
+    "translation": "在榴莲释放毒气时保护他",
+    "stage": 5
+  },
+  {
+    "key": "170",
+    "original": "How good is Spikeweed actually?",
+    "translation": "地刺到底有多好呢?",
+    "stage": 5
+  },
+  {
+    "key": "171",
+    "original": "Survive with a special seed bank\\nProtect the endangered plants",
+    "translation": "使用特殊的种子库存活下来\\n保护濒危的植物",
+    "stage": 5
+  },
+  {
+    "key": "172",
+    "original": "Survive with a special seedbank\\nGet a Banana Launcher to destroy the gravestone before the final wave",
+    "translation": "使用特殊的种子库存活下来\\n在最后一波前使用香蕉火箭炮来摧毁墓碑",
+    "stage": 5
+  },
+  {
+    "key": "173",
+    "original": "Survive with a special seedbank\\nGet a Banana Launcher to destroy the gravestone before the final wave",
+    "translation": "使用特殊的种子库存活下来\\n在最后一波前使用香蕉火箭炮来摧毁墓碑",
+    "stage": 5
+  },
+  {
+    "key": "174",
+    "original": "Survive with the given plants",
+    "translation": "使用给定的植物存活下来",
+    "stage": 5
+  },
+  {
+    "key": "175",
+    "original": "Survive with the given plants",
+    "translation": "使用给定的植物存活下来",
+    "stage": 5
+  },
+  {
+    "key": "176",
+    "original": "Spend 3000 sun to break the statues before the final wave",
+    "translation": "在最后一波之前花费 3000 阳光打破雕像",
+    "stage": 5
+  },
+  {
+    "key": "177",
+    "original": "Survive with only 4000 sun",
+    "translation": "仅用 4000 阳光存活下来",
+    "stage": 5
+  },
+  {
+    "key": "178",
+    "original": "Plan your defense and defeat the zombies.\\nMore sun will be given later.",
+    "translation": "建立起你的防线, 阻挡僵尸.\\n一段时间后将提供更多阳光.",
+    "stage": 5
+  },
+  {
+    "key": "179",
+    "original": "Kill enough non-imp zombies in the marked area to reach 23000 points!",
+    "translation": "在标记区域击杀足够多的非小鬼僵尸以达到 23000 分!",
+    "stage": 5
+  },
+  {
+    "key": "180",
+    "original": "Spend 4000 sun to break the statues before the final wave",
+    "translation": "在最后一波前花费 4000 阳光摧毁雕像",
+    "stage": 5
+  },
+  {
+    "key": "181",
+    "original": "Survive with 1000 starting sun",
+    "translation": "在有 1000 初始阳光的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "182",
+    "original": "Defeat all zombies - don't let any escape!",
+    "translation": "击杀所有僵尸 - 不要让任何一只僵尸跑掉!",
+    "stage": 5
+  },
+  {
+    "key": "183",
+    "original": "Kill enough zombies in the marked area to reach 10700 points!",
+    "translation": "在标记区域击杀足够多的僵尸以达到 10700 分!",
+    "stage": 5
+  },
+  {
+    "key": "184",
+    "original": "Survive without lawnmowers",
+    "translation": "在没有小推车的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "185",
+    "original": "Survive with 0 starting sun",
+    "translation": "在有 0 初始阳光的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "186",
+    "original": "Kill enough non-imp zombies in the marked area to reach 25500 points!",
+    "translation": "在标记区域击杀足够多的非小鬼僵尸以达到 25500 分!",
+    "stage": 5
+  },
+  {
+    "key": "187",
+    "original": "Survive with 750 starting sun",
+    "translation": "在有 750 初始阳光的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "188",
+    "original": "Beat the level in under 5.5 minutes",
+    "translation": "在 5.5 分钟内通关",
+    "stage": 5
+  },
+  {
+    "key": "189",
+    "original": "Spend 9000 sun to break the statues before the final wave",
+    "translation": "在最后一波前花费 9000 阳光摧毁雕像",
+    "stage": 5
+  },
+  {
+    "key": "190",
+    "original": "Protect the endangered plants",
+    "translation": "保护濒危的植物",
+    "stage": 5
+  },
+  {
+    "key": "191",
+    "original": "Survive without lawnmowers",
+    "translation": "在没有小推车的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "192",
+    "original": "Survive with 9 seed slots",
+    "translation": "使用 9 个卡槽存活下来",
+    "stage": 5
+  },
+  {
+    "key": "193",
+    "original": "Survive with only 6000 sun",
+    "translation": "仅用 6000 阳光存活下来",
+    "stage": 5
+  },
+  {
+    "key": "194",
+    "original": "Survive without lawnmowers",
+    "translation": "在没有小推车的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "195",
+    "original": "Survive with only 1000 sun\\nGold Tiles will spawn and despawn at times",
+    "translation": "仅用 1000 阳光存活下来\\n黄金地砖会随时生成和销毁",
+    "stage": 5
+  },
+  {
+    "key": "196",
+    "original": "Survive with 500 starting sun",
+    "translation": "在有 500 初始阳光的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "197",
+    "original": "Destroy all Cannons before they explode!",
+    "translation": "在小鬼炮自爆之前摧毁它们!",
+    "stage": 5
+  },
+  {
+    "key": "198",
+    "original": "Survive with only 2500 sun",
+    "translation": "仅用 2500 阳光存活下来",
+    "stage": 5
+  },
+  {
+    "key": "199",
+    "original": "Survive with the chosen plants and conveyor\\nPlants from the conveyor cost sun to plant!",
+    "translation": "使用选定的和传送带给的植物存活下来\\n送带给的植物需要花费阳光才能种植!",
+    "stage": 5
+  },
+  {
+    "key": "200",
+    "original": "Survive with 500 starting sun",
+    "translation": "在有 500 初始阳光的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "201",
+    "original": "Kill enough zombies in the marked area to reach 6700 points!\\nThe marked area and sliders will change every few waves!",
+    "translation": "在标记区域击杀足够多的僵尸以达到 6700 分!\\n每隔几波标记的区域和滑块都会改变位置!",
+    "stage": 5
+  },
+  {
+    "key": "202",
+    "original": "Survive with only 4000 sun",
+    "translation": "仅用 4000 阳光存活下来",
+    "stage": 5
+  },
+  {
+    "key": "203",
+    "original": "Survive without lawnmowers",
+    "translation": "在没有小推车的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "204",
+    "original": "Good Luck",
+    "translation": "祝你好运",
+    "stage": 5
+  },
+  {
+    "key": "205",
+    "original": "Prepare your micromanaging skills.",
+    "translation": "准备好你的微操技能.",
+    "stage": 5
+  },
+  {
+    "key": "206",
+    "original": "e",
+    "translation": "e",
+    "stage": 5
+  },
+  {
+    "key": "207",
+    "original": "Survive with plants having no cooldown and a special seedbank",
+    "translation": "在植物无冷却且使用特殊的种子库存活下来",
+    "stage": 5
+  },
+  {
+    "key": "208",
+    "original": "I am speed",
+    "translation": "I am speed",
+    "stage": 5
+  },
+  {
+    "key": "209",
+    "original": "Survive on a 3x3 island!",
+    "translation": "利用 3x3 的区域存活下来!",
+    "stage": 5
+  },
+  {
+    "key": "210",
+    "original": "Don't touch the loli.",
+    "translation": "不要碰萝莉.",
+    "stage": 2
+  },
+  {
+    "key": "211",
+    "original": "Protect the endangered plants",
+    "translation": "保护濒危的植物",
+    "stage": 5
+  },
+  {
+    "key": "212",
+    "original": "h",
+    "translation": "h",
+    "stage": 5
+  },
+  {
+    "key": "213",
+    "original": "It Introduces!",
+    "translation": "It Introduces!",
+    "stage": 5
+  },
+  {
+    "key": "214",
+    "original": "                ",
+    "translation": "",
+    "stage": -1
+  },
+  {
+    "key": "215",
+    "original": "                ",
+    "translation": "",
+    "stage": -1
+  },
+  {
+    "key": "216",
+    "original": "                ",
+    "translation": "",
+    "stage": -1
+  },
+  {
+    "key": "217",
+    "original": "                ",
+    "translation": "",
+    "stage": -1
+  },
+  {
+    "key": "218",
+    "original": "                ",
+    "translation": "",
+    "stage": -1
+  },
+  {
+    "key": "219",
+    "original": "                ",
+    "translation": "",
+    "stage": -1
+  },
+  {
+    "key": "220",
+    "original": "Survive with all the plants you can have\\nDestroy all the Lily Pads before the final wave\\nPlay without the shovel",
+    "translation": "在所有植物可用的情况下存活下来\\n在最后一波之前摧毁所有莲叶\\n不用铲子游玩",
+    "stage": 5
+  },
+  {
+    "key": "221",
+    "original": "Survive with all the plants you can have\\nDestroy all the Lily Pads before the final wave\\nPlay without the shovel",
+    "translation": "在所有植物可用的情况下存活下来\\n在最后一波之前摧毁所有莲叶\\n不用铲子游玩",
+    "stage": 5
+  },
+  {
+    "key": "222",
+    "original": "Survive with the given plants",
+    "translation": "使用给定的植物存活下来",
+    "stage": 5
+  },
+  {
+    "key": "223",
+    "original": "Protect the endangered plant",
+    "translation": "保护濒危的植物",
+    "stage": 5
+  },
+  {
+    "key": "224",
+    "original": "Protect the endangered plants",
+    "translation": "保护濒危的植物",
+    "stage": 5
+  },
+  {
+    "key": "225",
+    "original": "Survive with the given plants",
+    "translation": "使用给定的植物存活下来",
+    "stage": 5
+  },
+  {
+    "key": "226",
+    "original": "Protect the endangered plants",
+    "translation": "保护濒危的植物",
+    "stage": 5
+  },
+  {
+    "key": "227",
+    "original": "Rescue the petrified Gold Blooms before the final wave",
+    "translation": "在最后一波之前救出石化的黄金蓓蕾",
+    "stage": 5
+  },
+  {
+    "key": "228",
+    "original": "Survive while bug swarms happen randomly",
+    "translation": "在机器虫灾随机触发的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "229",
+    "original": "Some plants are limited, use them wisely",
+    "translation": "某些植物数量被限制, 明智地使用他们",
+    "stage": 5
+  },
+  {
+    "key": "230",
+    "original": "Most plants are limited, use them wisely...",
+    "translation": "大部分植物数量被限制, 明智地使用他们...",
+    "stage": 5
+  },
+  {
+    "key": "231",
+    "original": "The Red Stingers can only withstand 3 microphone swings, look out for those Pelicans as well!",
+    "translation": "红针花只能承受 3 次麦克风攻击, 同时也要当心那些鹈鹕!",
+    "stage": 5
+  },
+  {
+    "key": "232",
+    "original": "Survive with the given plants",
+    "translation": "使用给定的植物存活下来",
+    "stage": 5
+  },
+  {
+    "key": "233",
+    "original": "Destroy all the iceblocks before the final wave (frozen plants count too)",
+    "translation": "在最后一波之前解冻所有冰块 (被冰封的植物也算)",
+    "stage": 5
+  },
+  {
+    "key": "234",
+    "original": "Superior beings will zap your plants every 90 seconds!",
+    "translation": "高级生物每 90 秒会攻击你的植物!",
+    "stage": 5
+  },
+  {
+    "key": "235",
+    "original": "Spend 5000 sun to break the statues before the final wave",
+    "translation": "在最后一波之前花费 5000 阳光打破雕像",
+    "stage": 5
+  },
+  {
+    "key": "236",
+    "original": "Protect the endangered Snow Peas",
+    "translation": "保护濒危的寒冰豌豆",
+    "stage": 5
+  },
+  {
+    "key": "237",
+    "original": "Reach 4000 points",
+    "translation": "达到 4000 分",
+    "stage": 5
+  },
+  {
+    "key": "238",
+    "original": "Survive with most plants picked for you",
+    "translation": "在已经替你选择好了大多数植物的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "239",
+    "original": "Survive with only 3000 sun. All seed packets recharge twice as slow!",
+    "translation": "仅用 3000 阳光存活下来. 所有种子包的冷却速度减慢 2 倍!",
+    "stage": 5
+  },
+  {
+    "key": "240",
+    "original": "Survive with only 1000 sun\\nGold Tiles will spawn and despawn at times",
+    "translation": "仅用 1000 阳光存活下来\\n黄金地砖会随时生成和销毁",
+    "stage": 5
+  },
+  {
+    "key": "241",
+    "original": "Survive without lawnmowers",
+    "translation": "在没有小推车的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "242",
+    "original": "Spend sun on the statue to knock the off-lawn zombies back!",
+    "translation": "在雕像上花费阳光以击退场外的僵尸!",
+    "stage": 5
+  },
+  {
+    "key": "243",
+    "original": "Spend 3000 sun to break the statues before the final wave",
+    "translation": "在最后一波之前花费 3000 阳光打破雕像",
+    "stage": 5
+  },
+  {
+    "key": "244",
+    "original": "That's paradise since the first time\\nI saw you standing there.",
+    "translation": "自从我第一次看到你站在那里\\n那就是天堂.",
+    "stage": 5
+  },
+  {
+    "key": "245",
+    "original": "10 flipper rolls",
+    "translation": "十份海狸卷",
+    "stage": 5
+  },
+  {
+    "key": "246",
+    "original": "Zombies take 1/4 damage from fire plants. Stay frosty!",
+    "translation": "僵尸只会受到火系植物的 1/4 伤害. 保持冷静!",
+    "stage": 5
+  },
+  {
+    "key": "247",
+    "original": "Protect the endangered plants",
+    "translation": "保护濒危的植物",
+    "stage": 5
+  },
+  {
+    "key": "248",
+    "original": "Survive with all the plants you can have\\nProtect the Buckethead Zombie on the top lane\\nLet it trigger the trap at the final wave to win",
+    "translation": "在所有植物可用的情况下存活下来\\n保护第一路的铁桶僵尸\\n让他在最后一波时触发陷阱来获胜",
+    "stage": 5
+  },
+  {
+    "key": "249",
+    "original": "Survive with all the plants you can have\\nProtect the Brickhead Zombie on the top lane\\nLet it trigger the trap at the final wave to win",
+    "translation": "在所有植物可用的情况下存活下来\\n保护第一路的砖头僵尸\\n让他在最后一波时触发陷阱来获胜",
+    "stage": 5
+  },
+  {
+    "key": "250",
+    "original": "def not borrowed from china",
+    "translation": "绝对没有借鉴中文版",
+    "stage": 5
+  },
+  {
+    "key": "251",
+    "original": "After 5 minutes, the Gargantuars will be able to move. Plan carefully!",
+    "translation": "5 分钟后, 巨人僵尸们就能移动了. 小心计划吧!",
+    "stage": 5
+  },
+  {
+    "key": "252",
+    "original": "def not borrowed from china",
+    "translation": "绝对没有借鉴中文版",
+    "stage": 5
+  },
+  {
+    "key": "253",
+    "original": "After 5 minutes, the Gargantuars will be able to move. Plan carefully!",
+    "translation": "5 分钟后, 巨人僵尸们就能移动了. 小心计划吧!",
+    "stage": 5
+  },
+  {
+    "key": "254",
+    "original": "You VS Zombies",
+    "translation": "你 VS 僵尸",
+    "stage": 5
+  },
+  {
+    "key": "255",
+    "original": "Survive with a special seed bank",
+    "translation": "使用特殊的种子库存活下来",
+    "stage": 5
+  },
+  {
+    "key": "256",
+    "original": "boom",
+    "translation": "boom",
+    "stage": 5
+  },
+  {
+    "key": "257",
+    "original": "Survive with the given plants\\nAll seed packets recharge 5 times as fast!",
+    "translation": "使用给定的植物存活下来\\n所有种子包的冷却速度加快 5 倍!",
+    "stage": 5
+  },
+  {
+    "key": "258",
+    "original": "plz dont use dusk",
+    "translation": "请不要用幽暮",
+    "stage": 5
+  },
+  {
+    "key": "259",
+    "original": "Beat the level in under 8 minutes",
+    "translation": "在 8 分钟内通关",
+    "stage": 5
+  },
+  {
+    "key": "260",
+    "original": "Survive with all the plants you can have\\nYou get 200 sun on each tile planted",
+    "translation": "在所有植物可用的情况下存活下来\\n每块地砖种上植物后你会获得 200 阳光",
+    "stage": 5
+  },
+  {
+    "key": "261",
+    "original": "Survive with all the plants you can have\\nYou get 200 sun on each tile planted",
+    "translation": "在所有植物可用的情况下存活下来\\n每块地砖种上植物后你会获得 200 阳光",
+    "stage": 5
+  },
+  {
+    "key": "262",
+    "original": "Knife on your hand",
+    "translation": "刀在你手上",
+    "stage": 5
+  },
+  {
+    "key": "263",
+    "original": "Protect the endangered plants",
+    "translation": "保护濒危的植物",
+    "stage": 5
+  },
+  {
+    "key": "264",
+    "original": "Survive with all the plants you can have\\nProtect the endangered plant",
+    "translation": "在所有植物可用的情况下存活下来\\n保护濒危的植物",
+    "stage": 5
+  },
+  {
+    "key": "265",
+    "original": "Survive with all the plants you can have\\nProtect the endangered plant",
+    "translation": "在所有植物可用的情况下存活下来\\n保护濒危的植物",
+    "stage": 5
+  },
+  {
+    "key": "266",
+    "original": "Protect the tombstones",
+    "translation": "保护墓碑",
+    "stage": 5
+  },
+  {
+    "key": "267",
+    "original": "Protect the tombstones",
+    "translation": "保护墓碑",
+    "stage": 5
+  },
+  {
+    "key": "268",
+    "original": "Throwback!",
+    "translation": "返祖!",
+    "stage": 2
+  },
+  {
+    "key": "269",
+    "original": "Survive with mostly plants from PvZ 1. All seed packets recharge twice as slow!",
+    "translation": "使用 1 代的大部分植物存活下来. 所有种子包的冷却速度减慢 2 倍!",
+    "stage": 5
+  },
+  {
+    "key": "270",
+    "original": "Throwback!",
+    "translation": "返祖!",
+    "stage": 5
+  },
+  {
+    "key": "271",
+    "original": "Survive with mostly plants from PvZ 1. All seed packets recharge twice as slow!",
+    "translation": "使用 1 代的大部分植物存活下来. 所有种子包的冷却速度减慢 2 倍!",
+    "stage": 5
+  },
+  {
+    "key": "272",
+    "original": "Throwback!",
+    "translation": "返祖!",
+    "stage": 5
+  },
+  {
+    "key": "273",
+    "original": "Survive with mostly plants from PvZ 1. All seed packets recharge twice as slow!",
+    "translation": "使用 1 代的大部分植物存活下来. 所有种子包的冷却速度减慢 2 倍!",
+    "stage": 5
+  },
+  {
+    "key": "274",
+    "original": "Throwback!",
+    "translation": "返祖!",
+    "stage": 5
+  },
+  {
+    "key": "275",
+    "original": "Survive with mostly plants from PvZ 1. All seed packets recharge twice as slow!",
+    "translation": "使用 1 代的大部分植物存活下来. 所有种子包的冷却速度减慢 2 倍!",
+    "stage": 5
+  },
+  {
+    "key": "276",
+    "original": "There are 10 levels, how far can you get?",
+    "translation": "这有 10 关, 你能通过多少关?",
+    "stage": 5
+  },
+  {
+    "key": "277",
+    "original": "Here we go.",
+    "translation": "我们开始吧.",
+    "stage": 5
+  },
+  {
+    "key": "278",
+    "original": "U N D E R T A... I mean D E L T A R... ok fine",
+    "translation": "U N D E R T A... I mean D E L T A R... ok fine",
+    "stage": 5
+  },
+  {
+    "key": "279",
+    "original": "Sir Parrotee wish to battle! Again!",
+    "translation": "先生, 鹦鹉想要战斗! 再一次!",
+    "stage": 5
+  },
+  {
+    "key": "280",
+    "original": "U N D E R T A L E ?",
+    "translation": "U N D E R T A L E ?",
+    "stage": 5
+  },
+  {
+    "key": "281",
+    "original": "Sir Parrotee wish to battle!",
+    "translation": "先生, 鹦鹉想要战斗!",
+    "stage": 5
+  },
+  {
+    "key": "282",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "283",
+    "original": "Protect the endangered plants\\nZombies are at level 5 (x1.4 HP, x1.4 DPS, x1.04 speed)",
+    "translation": "保护濒危的植物\\n僵尸的等级为 5 (1.4 倍血量, 1.4 倍伤害, 1.04 倍速度)",
+    "stage": 5
+  },
+  {
+    "key": "284",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "285",
+    "original": "Survive with the given plants",
+    "translation": "使用给定的植物存活下来",
+    "stage": 5
+  },
+  {
+    "key": "286",
+    "original": "Custom Level",
+    "translation": "自制关卡",
+    "stage": 5
+  },
+  {
+    "key": "287",
+    "original": "Survive the attack of the long blasters!",
+    "translation": "在超远爆破者的攻击下存活下来!",
+    "stage": 5
+  },
+  {
+    "key": "288",
+    "original": "jack'o go brrr",
+    "translation": "杰克南瓜冲呀",
+    "stage": 5
+  },
+  {
+    "key": "289",
+    "original": "Protect the endangered plants with a special seedbank\\nUsing PFs on Jack'O Lantern can make the level easier",
+    "translation": "使用特殊的种子库保护濒危的植物\\n给杰克南瓜灯叶绿素会让这关容易得多",
+    "stage": 5
+  },
+  {
+    "key": "290",
+    "original": "E  C  L  I  P  S  E",
+    "translation": "E  C  L  I  P  S  E",
+    "stage": 5
+  },
+  {
+    "key": "291",
+    "original": "Protect the endangered plants with a special seedbank",
+    "translation": "使用特殊的种子库保护濒危的植物",
+    "stage": 5
+  },
+  {
+    "key": "292",
+    "original": "Plan your defense and defeat the zombies\\nMore sun will be given later",
+    "translation": "建立起你的防线, 阻挡僵尸\\n一段时间后将提供更多阳光",
+    "stage": 5
+  },
+  {
+    "key": "293",
+    "original": "Protect the endangered plants",
+    "translation": "保护濒危的植物",
+    "stage": 5
+  },
+  {
+    "key": "294",
+    "original": "{PLAYER} attempts to be a good level maker",
+    "translation": "{PLAYER} 努力成为一名优秀的关卡制造者",
+    "stage": 5
+  },
+  {
+    "key": "295",
+    "original": "Survive with 2000 starting sun\\nAll zombies are speed-boosted!",
+    "translation": "在有 2000 初始阳光的情况下存活下来\\n所有僵尸的速度被提升!",
+    "stage": 5
+  },
+  {
+    "key": "296",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "297",
+    "original": "Grid items are at level 10 (x2 HP)",
+    "translation": "障碍物的等级为 10 (2 倍血量)",
+    "stage": 5
+  },
+  {
+    "key": "298",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "299",
+    "original": "Survive with 500 starting sun",
+    "translation": "在有 500 初始阳光的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "300",
+    "original": "R  O  A  S  T  E  D    S  H  O  V  E  L  S",
+    "translation": "铲 子 烧 烤",
+    "stage": 5
+  },
+  {
+    "key": "301",
+    "original": "Kill Excavator Zombies using the splash damage of Fire Peas and Coconut Cannon. A timer will start in the final wave.",
+    "translation": "利用火焰豌豆和椰子加农炮的溅射伤害击杀铲子僵尸. 倒计时将在最后一波启动.",
+    "stage": 5
+  },
+  {
+    "key": "302",
+    "original": "Protect the endangered plants",
+    "translation": "保护濒危的植物",
+    "stage": 5
+  },
+  {
+    "key": "303",
+    "original": "E  C  L  I  P  S  E",
+    "translation": "E  C  L  I  P  S  E",
+    "stage": 5
+  },
+  {
+    "key": "304",
+    "original": "Don't let the zombies trample the marked tiles",
+    "translation": "不要让僵尸踩到标记的地砖",
+    "stage": 5
+  },
+  {
+    "key": "305",
+    "original": "P  J",
+    "translation": "P  J",
+    "stage": 5
+  },
+  {
+    "key": "306",
+    "original": "Unleash Blovers by busting the giant graves!",
+    "translation": "通过摧毁巨型墓碑来释放三叶草!",
+    "stage": 5
+  },
+  {
+    "key": "307",
+    "original": "Welcome to darkland!",
+    "translation": "欢迎来到暗土!",
+    "stage": 5
+  },
+  {
+    "key": "308",
+    "original": "Don't let the zombies step on Spikeweeds for more than 120s\\nProtect the endangered plants",
+    "translation": "不要让僵尸踩在地刺上超过 120 秒\\n保护濒危的植物",
+    "stage": 5
+  },
+  {
+    "key": "309",
+    "original": "P  J",
+    "translation": "P  J",
+    "stage": 5
+  },
+  {
+    "key": "310",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "311",
+    "original": "Reach 4000 points! You do not need to defend your house this time.",
+    "translation": "达到 4000 分! 这次你不需要保护你的房子.",
+    "stage": 5
+  },
+  {
+    "key": "312",
+    "original": "It's too cold in here...",
+    "translation": "这里太冷了...",
+    "stage": 5
+  },
+  {
+    "key": "313",
+    "original": "Survive while heavy frost winds come rapidly",
+    "translation": "在猛烈的霜风中存活下来",
+    "stage": 5
+  },
+  {
+    "key": "314",
+    "original": "P  J",
+    "translation": "P  J",
+    "stage": 5
+  },
+  {
+    "key": "315",
+    "original": "Survive with a special seed bank\\nZombies are at level 5 (x1.4 HP, x1.4 DPS, x1.04 speed)",
+    "translation": "使用特殊的种子库存活下来\\n僵尸的等级为 5 (1.4 倍血量, 1.4 倍伤害, 1.04 倍速度)",
+    "stage": 5
+  },
+  {
+    "key": "316",
+    "original": "Welcome to dark land!",
+    "translation": "欢迎来到暗土!",
+    "stage": 5
+  },
+  {
+    "key": "317",
+    "original": "Waves are much tougher, but delay between waves are longer",
+    "translation": "每一波会更难对付, 但波与波之间的间隔更长",
+    "stage": 5
+  },
+  {
+    "key": "318",
+    "original": "P  J",
+    "translation": "P  J",
+    "stage": 5
+  },
+  {
+    "key": "319",
+    "original": "Welcome to darkland!",
+    "translation": "欢迎来到暗土!",
+    "stage": 5
+  },
+  {
+    "key": "320",
+    "original": "Damaging a zombie will trigger the next wave immediately\\nBeat this level in under 5 minutes",
+    "translation": "僵尸一受伤就会立即触发下一波\\n在 5 分钟内通关",
+    "stage": 5
+  },
+  {
+    "key": "321",
+    "original": "P  J",
+    "translation": "P  J",
+    "stage": 5
+  },
+  {
+    "key": "322",
+    "original": "Defeat 50 8-Bit Zombies. They can be summoned via shields every wave!",
+    "translation": "击杀50只8位僵尸. 他们每一波都会通过电磁盾生成!",
+    "stage": 5
+  },
+  {
+    "key": "323",
+    "original": "Super Veri Funni Hunter",
+    "translation": "超级滑稽的猎人僵尸",
+    "stage": 5
+  },
+  {
+    "key": "324",
+    "original": "When Glow Snow comes, some Veteran Hunters will come as well!",
+    "translation": "当发光的雪出现的时候, 一些老练的猎人僵尸也会登场!",
+    "stage": 5
+  },
+  {
+    "key": "325",
+    "original": "P  J",
+    "translation": "P  J",
+    "stage": 5
+  },
+  {
+    "key": "326",
+    "original": "Survive with 1500 starting sun\\nEmber prevents zombies from being frozen or chilled",
+    "translation": "在有 1500 初始阳光的情况下存活下来\\n余烬会防止僵尸被冷却或冰冻",
+    "stage": 5
+  },
+  {
+    "key": "327",
+    "original": "Rip the golden icon",
+    "translation": "撕开黄金图标",
+    "stage": 5
+  },
+  {
+    "key": "328",
+    "original": "All plants are locked at tier III\\nMinis are locked at maxed tier",
+    "translation": "所有植物锁定三阶\\n迷你植物锁定最高等级",
+    "stage": 5
+  },
+  {
+    "key": "329",
+    "original": "Society if Night Pirate Seas exist",
+    "translation": "如果海盗之夜存在的社会",
+    "stage": 5
+  },
+  {
+    "key": "330",
+    "original": "Protect the endangered plants",
+    "translation": "保护濒危的植物",
+    "stage": 5
+  },
+  {
+    "key": "331",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "332",
+    "original": "Protect the endangered plant",
+    "translation": "保护濒危的植物",
+    "stage": 5
+  },
+  {
+    "key": "333",
+    "original": "Reach 5000 points! MC spawns from sap every wave!",
+    "translation": "达到 5000 分! 说唱僵尸每波都会通过树脂生成!",
+    "stage": 5
+  },
+  {
+    "key": "334",
+    "original": "E \\nC \\nL",
+    "translation": "E \\nC \\nL",
+    "stage": 5
+  },
+  {
+    "key": "335",
+    "original": "Survive with 500 starting sun\\nBeware of Veteran Hunters!",
+    "translation": "在有 500 初始阳光的情况下存活下来\\n当心老练的猎人僵尸!",
+    "stage": 5
+  },
+  {
+    "key": "336",
+    "original": "Your planting capacity will be reduced by five every flag wave",
+    "translation": "你的植物容量每大波会减少五株",
+    "stage": 5
+  },
+  {
+    "key": "337",
+    "original": "Not my first level :)",
+    "translation": "不是我的第一关 :)",
+    "stage": 5
+  },
+  {
+    "key": "338",
+    "original": "Protect the endangered plant\\nZombies are at level 4 (x1.3 HP, x1.3 DPS, x1.03 speed)",
+    "translation": "保护濒危的植物\\n僵尸的等级为 4 (1.3 倍血量, 1.3 倍伤害, 1.03 倍速度)",
+    "stage": 5
+  },
+  {
+    "key": "339",
+    "original": "Survive with a special seed bank",
+    "translation": "使用特殊的种子库存活下来",
+    "stage": 5
+  },
+  {
+    "key": "340",
+    "original": "El Chips",
+    "translation": "El 芯片",
+    "stage": 5
+  },
+  {
+    "key": "341",
+    "original": "Protect the endangered plants\\nSurvive with the given plants",
+    "translation": "保护濒危的植物\\n使用给定的植物存活下来",
+    "stage": 5
+  },
+  {
+    "key": "342",
+    "original": "Kill enough zombies in the marked area to reach 11500 points!",
+    "translation": "在标记区域击杀足够多的僵尸以达到 11500 分!",
+    "stage": 5
+  },
+  {
+    "key": "343",
+    "original": "Welcome to dark land!",
+    "translation": "欢迎来到暗土!",
+    "stage": 5
+  },
+  {
+    "key": "344",
+    "original": "Protect the endangered plants",
+    "translation": "保护濒危的植物",
+    "stage": 5
+  },
+  {
+    "key": "345",
+    "original": "Plan your defense and defeat the zombies",
+    "translation": "建立起你的防线, 阻挡僵尸",
+    "stage": 5
+  },
+  {
+    "key": "346",
+    "original": "E C L I P S E",
+    "translation": "E C L I P S E",
+    "stage": 5
+  },
+  {
+    "key": "347",
+    "original": "Plant Moonflowers on Boost Tiles and protect their shields before the first flag wave\\nAll zombies are stronger during the eclipse\\nSunburn will follow the eclipse\\nSpend 5000 sun to break the statues before the final wave",
+    "translation": "在第一大波前在强化地砖上种满月光花并保护她们的护罩\\n在日食时所有僵尸都会变强\\n日食后随之而来的是日灼\\n在最后一波之前花费 5000 阳光打破雕像",
+    "stage": 5
+  },
+  {
+    "key": "348",
+    "original": "Bulls can charge multiple times and damage plants greatly upon impact!",
+    "translation": "牛可以多次冲锋, 并在撞击时对植物造成极大的伤害!",
+    "stage": 5
+  },
+  {
+    "key": "349",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "350",
+    "original": "Survive with the given plants",
+    "translation": "使用给定的植物存活下来",
+    "stage": 5
+  },
+  {
+    "key": "351",
+    "original": "Ayo it's the Dandelion!!!!",
+    "translation": "哎呦, 是蒲公英!!!!",
+    "stage": 5
+  },
+  {
+    "key": "352",
+    "original": "Survive the zombie attack with the given plants",
+    "translation": "使用给定的植物在僵尸的进攻中存活下来",
+    "stage": 5
+  },
+  {
+    "key": "353",
+    "original": "Where we droppin boys?",
+    "translation": "孩子们, 我们在哪里下车?",
+    "stage": 5
+  },
+  {
+    "key": "354",
+    "original": "Beat the level before the Ra Zombie eats your brains!\\nSurvive with a custom seedbank",
+    "translation": "在太阳神僵尸吃掉你的脑子之前通关\\n使用定制的种子库存活下来",
+    "stage": 5
+  },
+  {
+    "key": "355",
+    "original": "KEVINNGW808's Level Pack",
+    "translation": "KEVINNGW808 的关卡包",
+    "stage": 5
+  },
+  {
+    "key": "356",
+    "original": "Beat the level in under 8 minutes\\nAll seed packets have x1.5 recharge",
+    "translation": "在 8 分钟内通关\\n所有种子包将有 1.5 倍冷却时间",
+    "stage": 5
+  },
+  {
+    "key": "357",
+    "original": "Custom Level",
+    "translation": "自制关卡",
+    "stage": 5
+  },
+  {
+    "key": "358",
+    "original": "Survive with 500 starting sun\\nBeat the level in under 11 minutes\\nZombies are at level 4 (x1.3 HP, x1.3 DPS, x1.03 speed)",
+    "translation": "在有 500 初始阳光的情况下存活下来\\n在 11 分钟内通关\\n僵尸的等级为 4 (1.3 倍血量, 1.3 倍伤害, 1.03 倍速度)",
+    "stage": 5
+  },
+  {
+    "key": "359",
+    "original": "Freeze and Unfreeze are 2 steps of winning",
+    "translation": "冻结和解冻是获胜的两个步骤",
+    "stage": 5
+  },
+  {
+    "key": "360",
+    "original": "All seed packets have x0.75 recharge\\nSurvive with the given plants",
+    "translation": "所有种子包将有 0.75 倍冷却时间\\n使用给定的植物存活下来",
+    "stage": 5
+  },
+  {
+    "key": "361",
+    "original": "UUUUUUu",
+    "translation": "UUUUUUu",
+    "stage": 5
+  },
+  {
+    "key": "362",
+    "original": "go forward and back",
+    "translation": "来回移动",
+    "stage": 5
+  },
+  {
+    "key": "363",
+    "original": "Survive with 2000 starting sun",
+    "translation": "在有 2000 初始阳光的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "364",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "365",
+    "original": "Survive with the given plants",
+    "translation": "使用给定的植物存活下来",
+    "stage": 5
+  },
+  {
+    "key": "366",
+    "original": "All zombies will be killed on final wave\\nProtect the endangered plants\\nBeat the level with only 3 seed slots",
+    "translation": "最后一波时所有僵尸都会被击杀\\n保护濒危的植物\\n仅用 3 个卡槽通关",
+    "stage": 5
+  },
+  {
+    "key": "367",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "368",
+    "original": "Survive without the shovel",
+    "translation": "不用铲子存活下来",
+    "stage": 5
+  },
+  {
+    "key": "369",
+    "original": "Costum Level",
+    "translation": "自制关卡",
+    "stage": 5
+  },
+  {
+    "key": "370",
+    "original": "Play without the shovel\\nProtect the endangered plants",
+    "translation": "不用铲子游玩\\n保护濒危的植物",
+    "stage": 5
+  },
+  {
+    "key": "371",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "372",
+    "original": "Survive with the given plants",
+    "translation": "使用给定的植物存活下来",
+    "stage": 5
+  },
+  {
+    "key": "373",
+    "original": "E  C  L  I  S  E (Just get this over with)",
+    "translation": "E  C  L  I  S  E (你就忍了吧)",
+    "stage": 5
+  },
+  {
+    "key": "374",
+    "original": "Beat the level in under 4 minutes\\nHint: Use Spikerocks to kill ALL zombies!",
+    "translation": "在 4 分钟内通关\\n提示: 用钢地刺击杀所有僵尸!",
+    "stage": 5
+  },
+  {
+    "key": "375",
+    "original": "{PLAYER}'s suffering adventure",
+    "translation": "{PLAYER} 的受苦冒险",
+    "stage": 5
+  },
+  {
+    "key": "376",
+    "original": "Flag Zombies indicate that there will be \\\"Trains\\\" appearing in those lanes soon!\\nThe \\\"Train\\\" will destroy most plants in its path.\\nProtect the endangered plant",
+    "translation": "旗帜僵尸表明很快将有 \\\"火车\\\" 出现在这些路线!\\n\\\"火车\\\" 会摧毁沿途的大部分植物.\\n保护濒危的植物",
+    "stage": 5
+  },
+  {
+    "key": "377",
+    "original": "Custom Level",
+    "translation": "自制关卡",
+    "stage": 5
+  },
+  {
+    "key": "378",
+    "original": "Y  E  E  T",
+    "translation": "Y  E  E  T",
+    "stage": 5
+  },
+  {
+    "key": "379",
+    "original": "The Spikeweeds cannot be moved onto column 6, 7, 8 and 9\\nSurvive with the given plants and 800 starting sun",
+    "translation": "地刺不能被移动到第 6, 7, 8 , 9 列\\n在有 800 初始阳光情况下用给定的植物存活下来",
+    "stage": 5
+  },
+  {
+    "key": "380",
+    "original": "E \\nC \\nL",
+    "translation": "E \\nC \\nL",
+    "stage": 5
+  },
+  {
+    "key": "381",
+    "original": "Plan your defense and defeat the zombies\\nZombies are at level 4 (x1.3 HP, x1.3 DPS, x1.03 speed)",
+    "translation": "建立起你的防线, 阻挡僵尸\\n僵尸的等级为 4 (1.3 倍血量, 1.3 倍伤害, 1.03 倍速度)",
+    "stage": 5
+  },
+  {
+    "key": "382",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "383",
+    "original": "You get a Lily Pad every 20 seconds!",
+    "translation": "每隔20秒你会得到一株莲叶!",
+    "stage": 5
+  },
+  {
+    "key": "384",
+    "original": "Survive with the given plants",
+    "translation": "使用给定的植物存活下来",
+    "stage": 5
+  },
+  {
+    "key": "385",
+    "original": "Plants will be constantly spawning, make sure you shovel them fast enough to not break the limit",
+    "translation": "植物会持续生成, 要确保你铲的够快以至于不会超过限制",
+    "stage": 5
+  },
+  {
+    "key": "386",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "387",
+    "original": "Bug tiles will start activating continuosly",
+    "translation": "害虫陷阱将会持续触发",
+    "stage": 5
+  },
+  {
+    "key": "388",
+    "original": "Plant Spore-shrooms on all the marked tiles before the final wave",
+    "translation": "在最后一波前在标记的地砖上种满孢子菇",
+    "stage": 5
+  },
+  {
+    "key": "389",
+    "original": "500 sun will drop every wave\\nBeat the level in under 2 minutes\\nAll seed packets have no recharge",
+    "translation": "每一波都会掉落 500 阳光\\n在 2 分钟内通关\\n所有种子包不需要冷却",
+    "stage": 5
+  },
+  {
+    "key": "390",
+    "original": "smiley face",
+    "translation": "笑脸",
+    "stage": 5
+  },
+  {
+    "key": "391",
+    "original": "All plants have double recharge\\nProtect the endangered plants\\nSurvive with the given plants",
+    "translation": "所有种子包将有两倍冷却时间\\n保护濒危的植物\\n使用给定的植物存活下来",
+    "stage": 5
+  },
+  {
+    "key": "392",
+    "original": "This level was dedicated to {PLAYER}",
+    "translation": "这个关卡是献给 {PLAYER} 的",
+    "stage": 5
+  },
+  {
+    "key": "393",
+    "original": "All plants except for sun producers can only be planted in carts.",
+    "translation": "阳光生产植物之外的所有植物只能被种在矿车上.",
+    "stage": 5
+  },
+  {
+    "key": "394",
+    "original": "no way {PLAYER} you found this",
+    "translation": "不可能吧 {PLAYER}, 你找到了这个",
+    "stage": 5
+  },
+  {
+    "key": "395",
+    "original": "Push all endangered plants to the first column\\nProtect the endangered plants",
+    "translation": "将所有濒危的植物推到第一列\\n保护濒危的植物",
+    "stage": 5
+  },
+  {
+    "key": "396",
+    "original": "KEVINNGW808's Level Pack",
+    "translation": "KEVINNGW808 的关卡包",
+    "stage": 5
+  },
+  {
+    "key": "397",
+    "original": "H  Y  P  O  R  T  H  E  R  M  I  A",
+    "translation": "H  Y  P  O  R  T  H  E  R  M  I  A",
+    "stage": 5
+  },
+  {
+    "key": "398",
+    "original": "the !!",
+    "translation": "the !!",
+    "stage": 5
+  },
+  {
+    "key": "399",
+    "original": "Boombox Zombies are tougher and will permanently disable plants in a small area!",
+    "translation": "音响僵尸血更厚而且会永远眩晕一小范围内的植物!",
+    "stage": 5
+  },
+  {
+    "key": "400",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "401",
+    "original": "Survive while explosive graves appears",
+    "translation": "在有易爆的墓碑出现的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "402",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "403",
+    "original": "Protect the endangered plants\\nZombies are at level 5 (x1.4 HP, x1.4 DPS, x1.04 speed)",
+    "translation": "保护濒危的植物\\n僵尸的等级为 5 (1.4 倍血量, 1.4 倍伤害, 1.04 倍速度)",
+    "stage": 5
+  },
+  {
+    "key": "404",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "405",
+    "original": "Survive while sunburn happens",
+    "translation": "在日灼出现的情况下存活下来",
+    "stage": 5
+  },
+  {
+    "key": "406",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "407",
+    "original": "Survive with 500 starting sun\\nGrid items are at level 30 (x5.6 HP)",
+    "translation": "在有 500 初始阳光的情况下存活下来\\n障碍物的等级为 30 (5.6 倍血量)",
+    "stage": 5
+  },
+  {
+    "key": "408",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "409",
+    "original": "Grid items are at level 30 (x5.6 HP)",
+    "translation": "障碍物的等级为 30 (5.6 倍血量)",
+    "stage": 5
+  },
+  {
+    "key": "410",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "411",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "412",
+    "original": "Grid items are at level 10 (x2 HP)",
+    "translation": "障碍物的等级为 10 (2 倍血量)",
+    "stage": 5
+  },
+  {
+    "key": "413",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "414",
+    "original": "Survive with the given plants",
+    "translation": "使用给定的植物存活下来",
+    "stage": 5
+  },
+  {
+    "key": "415",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "416",
+    "original": "Zombies are at level 5 (x1.4 HP, x1.4 DPS, x1.04 speed)",
+    "translation": "僵尸的等级为 5 (1.4 倍血量, 1.4 倍伤害, 1.04 倍速度)",
+    "stage": 5
+  },
+  {
+    "key": "417",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "418",
+    "original": "Having too many of the same plants will stop them from appearing on the conveyor!",
+    "translation": "拥有过多的同一种植物会防止他们出现在传送带里!",
+    "stage": 5
+  },
+  {
+    "key": "419",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "420",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "421",
+    "original": "Survive the mighty Gargscallions!",
+    "translation": "在原始巨人前存活下来!",
+    "stage": 2
+  },
+  {
+    "key": "422",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "423",
+    "original": "Zombies are at level 7 (x1.7 HP, x1.6 DPS, x1.06 speed)\\nGrid items are at level 5 (x1.4 HP)",
+    "translation": "僵尸的等级为 7 (1.7 倍血量, 1.6 倍伤害, 1.06 倍速度)\\n障碍物的等级为 5 (1.4 倍血量)",
+    "stage": 5
+  },
+  {
+    "key": "424",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "425",
+    "original": "All seed packets recharge twice as fast!\\nGrid items are at level 10 (x2 HP)",
+    "translation": "所有种子包的冷却速度加快 2 倍!\\n障碍物的等级为 10 (2 倍血量)",
+    "stage": 5
+  },
+  {
+    "key": "426",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "427",
+    "original": "Survive with the given plants\\nSpend 2000 sun to break the statues before the final wave",
+    "translation": "使用给定的植物存活下来\\n在最后一波前花费 2000 阳光摧毁雕像",
+    "stage": 5
+  },
+  {
+    "key": "428",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "429",
+    "original": "Protect the endangered plants",
+    "translation": "保护濒危的植物",
+    "stage": 5
+  },
+  {
+    "key": "430",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "431",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "432",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "433",
+    "original": "Future zombies are immune to Caulipower!",
+    "translation": "未来僵尸免疫超能花菜!",
+    "stage": 5
+  },
+  {
+    "key": "434",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "435",
+    "original": "Plan your defense and defeat the zombies\\nZombies are at level 10 (x2 HP, x1.9 DPS, x1.09 speed)",
+    "translation": "建立起你的防线, 阻挡僵尸\\n僵尸的等级为 10 (2 倍血量, 1.9 倍伤害, 1.09 倍速度)",
+    "stage": 5
+  },
+  {
+    "key": "436",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "437",
+    "original": "Those statues will activate every flag from cheapest to most expensive one, spend 8500 sun to destroy them",
+    "translation": "那些雕像在每一大波会按从便宜到昂贵的顺序触发, 花费 8500 阳光以打破它们",
+    "stage": 5
+  },
+  {
+    "key": "438",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "439",
+    "original": "Plan your defense and defeat the zombies\\nZombies are at level 4 (x1.3 HP, x1.2 DPS, x1.03 speed)\\nGrid items are at level 7 (x1.7 HP)",
+    "translation": "建立起你的防线, 阻挡僵尸\\n僵尸的等级为 4 (1.3 倍血量, 1.2 倍伤害, 1.03 倍速度)\\n障碍物的等级为 7 (1.7 倍血量)",
+    "stage": 5
+  },
+  {
+    "key": "440",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "441",
+    "original": "Survive with 600 starting sun\\nProtect the endangered plants\\nZombies are at level 5 (x1.4 HP, x1.4 DPS, x1.04 speed)",
+    "translation": "在有 600 初始阳光的情况下存活下来\\n保护濒危的植物\\n僵尸的等级为 5 (1.4 倍血量, 1.4 倍伤害, 1.04 倍速度)",
+    "stage": 5
+  },
+  {
+    "key": "442",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "443",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "444",
+    "original": "Protect the endangered plants\\nZombies are at level 3 (x1.2 HP, x1.2 DPS, x1.02 speed)",
+    "translation": "保护濒危的植物\\n僵尸的等级为 3 (1.2 倍血量, 1.2 倍伤害, 1.02 倍速度)",
+    "stage": 5
+  },
+  {
+    "key": "445",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "446",
+    "original": "Zombies are at level 4 (x1.3 HP, x1.3 DPS, x1.03 speed)",
+    "translation": "僵尸的等级为 4 (1.3 倍血量, 1.3 倍伤害, 1.03 倍速度)",
+    "stage": 5
+  },
+  {
+    "key": "447",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "448",
+    "original": "Survive with the given plants",
+    "translation": "使用给定的植物存活下来",
+    "stage": 5
+  },
+  {
+    "key": "449",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "450",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "451",
+    "original": "Don't let the Nether Dodos get unfrozen",
+    "translation": "不要让幽冥渡渡鸟被冻住",
+    "stage": 5
+  },
+  {
+    "key": "452",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "453",
+    "original": "Zombies are at level 6 (x1.5 HP, x1.5 DPS, x1.05 speed)",
+    "translation": "僵尸的等级为 6 (1.5 倍血量, 1.5 倍伤害, 1.05 倍速度)",
+    "stage": 5
+  },
+  {
+    "key": "454",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "455",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "456",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "457",
+    "original": "Plan your defense and defeat the zombies\\nProtect the endangered plants\\nZombies are at level 4 (x1.3 HP, x1.3 DPS, x1.03 speed)",
+    "translation": "建立起你的防线, 阻挡僵尸\\n保护濒危的植物\\n僵尸的等级为 4 (1.3 倍血量, 1.3 倍伤害, 1.03 倍速度)",
+    "stage": 5
+  },
+  {
+    "key": "458",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "459",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "460",
+    "original": "Reach 5000 points! You do not need to defend your house this time.",
+    "translation": "达到 5000 分! 这次你不需要保护你的房子.",
+    "stage": 5
+  },
+  {
+    "key": "461",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "462",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "463",
+    "original": "Defeat 70 Adventurer Zombies",
+    "translation": "击杀 70 只冒险者僵尸",
+    "stage": 5
+  },
+  {
+    "key": "464",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "465",
+    "original": "Beat the level in under 8 minutes",
+    "translation": "在 8 分钟内通关",
+    "stage": 5
+  },
+  {
+    "key": "466",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "467",
+    "original": "Protect the endangered plant",
+    "translation": "保护濒危的植物",
+    "stage": 5
+  },
+  {
+    "key": "468",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "469",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "470",
+    "original": "Keep at least 8 potions for the final wave!",
+    "translation": "至少为最后一波保存 8 瓶毒药!",
+    "stage": 5
+  },
+  {
+    "key": "471",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "472",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "473",
+    "original": "Clear out all the zombies to win this level.",
+    "translation": "清除所有僵尸赢得这关.",
+    "stage": 5
+  },
+  {
+    "key": "474",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "475",
+    "original": "Don't let the zombies trample the runes!\\nMarked tiles denote where the runes will appear next.",
+    "translation": "不要让僵尸踩到符文!\\n标记的地砖表示符文接下来会出现在哪里.",
+    "stage": 5
+  },
+  {
+    "key": "476",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "477",
+    "original": "At flag waves, you'll get a chicken for each bombegranate seed on the lawn",
+    "translation": "每一大波, 在草坪上每块有石榴种子的地砖上都会生成一只鸡",
+    "stage": 5
+  },
+  {
+    "key": "478",
+    "original": "Defeat 25 Chickens!",
+    "translation": "击杀 25 只鸡!",
+    "stage": 5
+  },
+  {
+    "key": "479",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "480",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "481",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "482",
+    "original": "Bombe's seeds will explode and destroy everything around them!",
+    "translation": "爆炸石榴的种子会爆炸并且摧毁周围一切的东西!",
+    "stage": 5
+  },
+  {
+    "key": "483",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 5
+  },
+  {
+    "key": "484",
+    "original": "Zombies regenerate health over time!",
+    "translation": "僵尸会随着时间恢复血量!",
+    "stage": 5
+  },
+  {
+    "key": "485",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 1
+  },
+  {
+    "key": "486",
+    "original": "Plan your defense and defeat the zombies\\nZombies are at level 21 (x3.7 HP, x3 DPS, x1.3 speed)",
+    "translation": "建立起你的防线, 阻挡僵尸\\n僵尸的等级为 21 (3.7 倍血量, 3 倍伤害, 1.3 倍速度)",
+    "stage": 1
+  },
+  {
+    "key": "487",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 1
+  },
+  {
+    "key": "488",
+    "original": "seems familiar",
+    "translation": "似曾相识",
+    "stage": 1
+  },
+  {
+    "key": "489",
+    "original": "Survive with the given plants",
+    "translation": "使用给定的植物存活下来",
+    "stage": 1
+  },
+  {
+    "key": "490",
+    "original": "Reach the target score",
+    "translation": "达到目标分数",
+    "stage": 1
+  },
+  {
+    "key": "491",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 1
+  },
+  {
+    "key": "492",
+    "original": "Note to self: Do not do this again.",
+    "translation": "提醒自己: 不要再这样做了.",
+    "stage": 1
+  },
+  {
+    "key": "493",
+    "original": ":warpparty:",
+    "translation": ":混乱派对:",
+    "stage": 1
+  },
+  {
+    "key": "494",
+    "original": "S  U  N  K  I  S  S  E  D",
+    "translation": "S  U  N  K  I  S  S  E  D",
+    "stage": 1
+  },
+  {
+    "key": "495",
+    "original": "Spend MORE than 1000 sun in total to break the statues before the final wave. Three of these statues are real while the rest are fake. Even if the costs are fake, perhaps the sun may show you the way?",
+    "translation": "在最后一波前花费超过 1000 阳光摧毁雕像. 这些雕像中有三个是真的, 其余的都是假的. 即使费用不确定, 也许阳光可以给你指路?",
+    "stage": 1
+  },
+  {
+    "key": "496",
+    "original": "Most of the zombies will follow the path. You cannot plant on the path!",
+    "translation": "大部分僵尸会沿着这条路前进. 你不能在道路上种植!",
+    "stage": 1
+  },
+  {
+    "key": "497",
+    "original": "E  C  L  I  E  S",
+    "translation": "E  C  L  I  E  S",
+    "stage": 1
+  },
+  {
+    "key": "498",
+    "original": "Survive with most plants picked for you",
+    "translation": "在已经替你选择好了大多数植物的情况下存活下来",
+    "stage": 1
+  },
+  {
+    "key": "499",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 1
+  },
+  {
+    "key": "500",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 1
+  },
+  {
+    "key": "501",
+    "original": "Survive with only 4000 sun and a special seed bank",
+    "translation": "仅用 4000 阳光和特殊的种子库存活下来",
+    "stage": 1
+  },
+  {
+    "key": "502",
+    "original": "Made with 320 giga pixels",
+    "translation": "用320千兆像素制作",
+    "stage": 1
+  },
+  {
+    "key": "503",
+    "original": "Survive with a special seed bank",
+    "translation": "使用特殊的种子库存活下来",
+    "stage": 1
+  },
+  {
+    "key": "504",
+    "original": "Each shot costs 25 sun\\nBasic, Conehead, and Buckethead each requires 1, 2, and 3 shots respectively",
+    "translation": "每一发消费 25 阳光\\n普通, 路障, 和铁桶僵尸分别需要 1, 2, 3 发",
+    "stage": 1
+  },
+  {
+    "key": "505",
+    "original": "KEVINNGW808's Level Pack",
+    "translation": "KEVINNGW808 的关卡包",
+    "stage": 1
+  },
+  {
+    "key": "506",
+    "original": "Plant the Primal Potato Mine on the marked tile to kill the Chickens\\nChickens will spawn after the wave of Vegan Zombies",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "507",
+    "original": "KEVINNGW808's Level Pack",
+    "translation": "KEVINNGW808 的关卡包",
+    "stage": 1
+  },
+  {
+    "key": "508",
+    "original": "Big Imps have higher DPS and they are immune to fire, chill, and freeze",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "509",
+    "original": "E  C  L  0  0  0",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "510",
+    "original": "KEVINNGW808's Level Pack",
+    "translation": "KEVINNGW808 的关卡包",
+    "stage": 1
+  },
+  {
+    "key": "511",
+    "original": "Survive with the given plants",
+    "translation": "使用给定的植物存活下来",
+    "stage": 1
+  },
+  {
+    "key": "512",
+    "original": "Zombies will spawn on Shakeboard Tiles",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "513",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 1
+  },
+  {
+    "key": "514",
+    "original": "Protect the endangered plants",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "515",
+    "original": "Protect the endangered plant",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "516",
+    "original": "Survive with 500 starting sun\\nBeat the level in under 8 minutes",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "517",
+    "original": "KEVINNGW808's Level Pack",
+    "translation": "KEVINNGW808 的关卡包",
+    "stage": 1
+  },
+  {
+    "key": "518",
+    "original": "Survive a massive attack during Dark Ages' Sports Festival!\\nTip: 60 seconds preparation time",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "519",
+    "original": "Plant Strawbursts on the marked tiles before the final wave",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "520",
+    "original": "hello guys i like cheese",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "521",
+    "original": "Zombies are at level 6 (x1.5 HP, x1.5 DPS, x1.05 speed)",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "522",
+    "original": "Survive with the given plants",
+    "translation": "使用给定的植物存活下来",
+    "stage": 1
+  },
+  {
+    "key": "523",
+    "original": "Do not let any plant or zombie be on marked tiles",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "524",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 1
+  },
+  {
+    "key": "525",
+    "original": "Survive with 3000 starting sun",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "526",
+    "original": "Small town, indeed",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "527",
+    "original": "Survive with the given plants\\nSpend 1000 sun to break the statues before the final wave",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "528",
+    "original": "Warp Party!",
+    "translation": "混乱派对!",
+    "stage": 1
+  },
+  {
+    "key": "529",
+    "original": "Survive with 500 starting sun\\nZombies are at level 3 (x1.2 HP, x1.2 DPS, x1.02 speed)",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "530",
+    "original": "Survive with 500 starting sun",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "531",
+    "original": "This gonna to be fun",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "532",
+    "original": "Ew C L I S E",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "533",
+    "original": "It's sunset now, sun will drop slower and some shrooms will be awake.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "534",
+    "original": "E  C  L  I  P  S  E",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "535",
+    "original": "{PLAYER}'s trip to the sussy land",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "536",
+    "original": "Custom Level",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "537",
+    "original": "Survive with the given plants",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "538",
+    "original": "Survive without sun producers\\nEmpty barrels can give you extra sun",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "539",
+    "original": "KEVINNGW808's Level Pack",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "540",
+    "original": "Don't use Bombe trust me",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "541",
+    "original": "Survive with 2000 starting sun\\nSandstorm makes the zombies faster\\nSunburn makes the zombies immune to freeze and chill",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "542",
+    "original": "Survive with all the plants you can have\\nAll zombies occasionly become invincible!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "543",
+    "original": "Survive with all the plants you can have\\nAll zombies occasionly become invincible!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "544",
+    "original": "Beat the level in under 5.5 minutes\\nSurvive without lawnmowers",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "545",
+    "original": "Survive with only 0 sun",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "546",
+    "original": "Survive with 500 starting sun",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "547",
+    "original": "Destroy 12 Cannons before they explode!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "548",
+    "original": "Survive with only 5000 sun",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "549",
+    "original": "Survive with all the plants you can have",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "550",
+    "original": "Survive with all the plants you can have",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "551",
+    "original": "https://www.youtube.com/watch?v=DiVAw-fEWBs",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "552",
+    "original": "Lane 1 Sun-shroom buffs Zombie Toughness\\nLane 5 Sun-shroom buffs Zombie Speed\\nProtect at least 1 endangered plant",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "553",
+    "original": "if you use tier III snow or primal pea you suck",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "554",
+    "original": "Survive with a special seed bank. Barriers are key - set them up early.\"",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "555",
+    "original": "E C L I P S E",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "556",
+    "original": "Battle Bay Best Level",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "557",
+    "original": "Protect the endangered plants",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "558",
+    "original": "Zzz",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "559",
+    "original": "Survive with the given plants\\nProtect the endangered plants",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "560",
+    "original": "Bay BattlelttaB yaB",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "561",
+    "original": "Survive with a special seed bank\\nLet Nether Dodos eat Hypno-shrooms and protect them from other zombies",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "562",
+    "original": "Survive with the given plants",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "563",
+    "original": "Subscribe to my youtube channel plz",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "564",
+    "original": "Protect the endangered plant",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "565",
+    "original": "Survive with a special seed bank\\nProtect the endangered plants",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "566",
+    "original": "Keep all Gargantuars alive until the final wave",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "567",
+    "original": "Warning: Garganturar Primes will fire Bug Bot Imps onto Column 1!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "568",
+    "original": "Survive with a special seedbank",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "569",
+    "original": "Beat the level in under 8 minutes",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "570",
+    "original": "Survive with a special seed bank",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "571",
+    "original": "Move your minecart to the middle lane in order to plant!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "572",
+    "original": "Move your minecart to the top lane in order to plant!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "573",
+    "original": "Defeat all the zombies in under 7.5 minutes\\nDefeat zombies to get sun\\nGround zombies are teleported back to the beginning before they reach the house",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "574",
+    "original": "Defeat all the zombies in under 4.5 minutes\\nDefeat zombies to get sun\\nZombies are teleported back to the beginning before they reach the house",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "575",
+    "original": "Survive with the given plants",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "576",
+    "original": "Survive with the given plants",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "577",
+    "original": "Survive with the chosen plants and conveyor\\nPlants from the conveyor cost sun to plant!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "578",
+    "original": "Survive with the chosen plants and conveyor\\nPlants from the conveyor cost sun to plant!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "579",
+    "original": "Survive with all the plants you can have",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "580",
+    "original": "Survive with all the plants you can have",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "581",
+    "original": "pls no magni",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "582",
+    "original": "Throwback!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "583",
+    "original": "Survive while temporal cracks appear. Patch them with ground plants to stop the cracks!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "584",
+    "original": "Throwback!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "585",
+    "original": "Survive while temporal cracks appear. Patch them with ground plants to stop the cracks!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "586",
+    "original": "This level was made a long time ago",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "587",
+    "original": "Protect the endangered plants",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "588",
+    "original": "h",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "589",
+    "original": "Only plants of the corresponding color can be planted on Power Tiles of the same color.\\nIt's a special seed bank btw",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "590",
+    "original": "succ",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "591",
+    "original": "imp destroyer 2001",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "592",
+    "original": "Capture at least 20 Bull Riders with Toadstool.",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "593",
+    "original": "Survive with all the plants you can have\\nDestroy all the Tall-nuts before the final wave\\nPlay without the shovel",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "594",
+    "original": "Survive with all the plants you can have\\nDestroy all the Tall-nuts before the final wave\\nPlay without the shovel",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "595",
+    "original": "Survive in the ghost town while ghosts come from Necromancies!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "596",
+    "original": "S  U  C  C",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "597",
+    "original": "Survive while ghost zombies spawn from Necromancies!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "598",
+    "original": "E  C  L  I  S  S  S  S  E",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "599",
+    "original": "Hi! Protect the Flowers. Flower live, Flower happy. Btw we in the Dank Ages: *No Jank, Just Dank*",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "600",
+    "original": "S  U  C  C",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "601",
+    "original": "Zomboss's Pirate Captain has come after you with his pirate ship containing his famous coconut throwers. Time to bring out the big guns!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "602",
+    "original": "S  U  C  C",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "603",
+    "original": "Zomboss's Sun Snipers have come to destroy your lawn. Prepare for an onslaught of lasers!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "604",
+    "original": "Zomboss has sent the Melon Bros to retrieve your brains! Defeat them and their army or you'll experience an icy defeat!",
+    "translation": "",
+    "stage": 0
+  },
+  {
+    "key": "605",
+    "original": "Yeti sighting areas: Survivals and Endless Zones",
+    "translation": "",
+    "stage": 0
+  }
+]
