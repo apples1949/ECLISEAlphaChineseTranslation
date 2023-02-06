@@ -653,7 +653,7 @@
   {
     "key": "94",
     "original": "7-2: Duckwater",
-    "translation": "7-2: 过犹不及",
+    "translation": "7-2: 水中小鬼",
     "stage": 5,
     "context": "BEACH2"
   },
@@ -772,7 +772,7 @@
   {
     "key": "111",
     "original": "7-6: Board Confistication",
-    "translation": "7-6: 没收冲浪板",
+    "translation": "7-6: 冲浪板缴获",
     "stage": 5,
     "context": "BEACH6"
   },
@@ -1276,70 +1276,70 @@
   {
     "key": "183",
     "original": "Mini 1: A Peasized Shooter",
-    "translation": "Mini 1: 豌豆大小的射手",
+    "translation": "迷你传奇 1: 豌豆大小的射手",
     "stage": 5,
     "context": "CHALLENGES\\EPIC_MINI1"
   },
   {
     "key": "184",
     "original": "Mini 10: Graduation Day",
-    "translation": "Mini 10: 毕业典礼",
+    "translation": "迷你传奇 10: 毕业典礼",
     "stage": 5,
     "context": "CHALLENGES\\EPIC_MINI10"
   },
   {
     "key": "185",
     "original": "Mini 2: Mini Machine Gun",
-    "translation": "Mini 2: 迷你机枪",
+    "translation": "迷你传奇 2: 迷你机枪",
     "stage": 5,
     "context": "CHALLENGES\\EPIC_MINI2"
   },
   {
     "key": "186",
     "original": "Mini 3: Decent Sun Descendant",
-    "translation": "Mini 3: 像样的阳光后裔",
+    "translation": "迷你传奇 3: 像样的阳光后裔",
     "stage": 5,
     "context": "CHALLENGES\\EPIC_MINI3"
   },
   {
     "key": "187",
     "original": "Mini 4: Coordinated Power Sparkles",
-    "translation": "Mini 4: 协力之光",
+    "translation": "迷你传奇 4: 协力之光",
     "stage": 5,
     "context": "CHALLENGES\\EPIC_MINI4"
   },
   {
     "key": "188",
     "original": "Mini 5: The Winter Toddler",
-    "translation": "Mini 5: 冬季小宝贝",
+    "translation": "迷你传奇 5: 冬季小宝贝",
     "stage": 5,
     "context": "CHALLENGES\\EPIC_MINI5"
   },
   {
     "key": "189",
     "original": "Mini 6: Snow Gathering Foes",
-    "translation": "Mini 6: 积雪聚敌",
+    "translation": "迷你传奇 6: 积雪聚敌",
     "stage": 5,
     "context": "CHALLENGES\\EPIC_MINI6"
   },
   {
     "key": "190",
     "original": "Mini 7: Prime Potato Mine",
-    "translation": "Mini 7: 年轻气盛的土豆地雷",
+    "translation": "迷你传奇 7: 精英土豆地雷",
     "stage": 5,
     "context": "CHALLENGES\\EPIC_MINI7"
   },
   {
     "key": "191",
     "original": "Mini 8: Minsweeper",
-    "translation": "Mini 8: 小小清理者",
+    "translation": "迷你传奇 8: 小小清理者",
     "stage": 5,
     "context": "CHALLENGES\\EPIC_MINI8"
   },
   {
     "key": "192",
     "original": "Mini 9: Big Trouble Little Plants",
-    "translation": "Mini 9: 大麻烦小植物",
+    "translation": "迷你传奇 9: 大麻烦小植物",
     "stage": 5,
     "context": "CHALLENGES\\EPIC_MINI9"
   },
@@ -2193,7 +2193,7 @@
   {
     "key": "314",
     "original": "Objective: Escort - DT",
-    "translation": "任务: 护送蜻蜓 - DT",
+    "translation": "任务: 护送 - DT",
     "stage": 5,
     "context": "COMMUNITY\\DT_OBJECTIVE_ESCORT"
   },
@@ -2515,7 +2515,7 @@
   {
     "key": "360",
     "original": "Piece by Piece - Locke",
-    "translation": "循序渐进 - Locke",
+    "translation": "积少成多 - Locke",
     "stage": 5,
     "context": "COMMUNITY\\LOCKO_PIECEBYPIECE"
   },
@@ -2550,7 +2550,7 @@
   {
     "key": "365",
     "original": "The Freezer - Locke",
-    "translation": "酷寒冰库 - Locke",
+    "translation": "冰封 - Locke",
     "stage": 5,
     "context": "COMMUNITY\\LOCKO_THEFREEZER"
   },
@@ -4720,7 +4720,7 @@
   {
     "key": "675",
     "original": "20-1: Meta Jam",
-    "translation": "20-1: 金属合奏",
+    "translation": "20-1: 即兴切歌",
     "stage": 5,
     "context": "EIGHTIES11"
   },
@@ -4993,7 +4993,7 @@
   {
     "key": "714",
     "original": "19-2: Sudden Wall",
-    "translation": "19-2: 突现肉墙",
+    "translation": "19-2: 肉墙突现",
     "stage": 5,
     "context": "FUTURE12"
   },
@@ -5231,7 +5231,7 @@
   {
     "key": "748",
     "original": "7-2X: Duckwater",
-    "translation": "7-2X: 过犹不及",
+    "translation": "7-2X: 水中小鬼",
     "stage": 5,
     "context": "HARDCORE\\HARDCORE_BEACH2"
   },
@@ -5259,7 +5259,7 @@
   {
     "key": "752",
     "original": "7-6X: Board Confistication",
-    "translation": "7-6X: 没收冲浪板",
+    "translation": "7-6X: 冲浪板缴获",
     "stage": 5,
     "context": "HARDCORE\\HARDCORE_BEACH6"
   },
@@ -6701,28 +6701,28 @@
   {
     "key": "958",
     "original": "Dead End: Square Dancers",
-    "translation": "Dead End: 方阵舞者",
+    "translation": "穷途末路: 方阵舞者",
     "stage": 5,
     "context": "MINIGAMES\\DEADEND_3"
   },
   {
     "key": "959",
     "original": "Dead End: Drag Party",
-    "translation": "Dead End: 拖拽派对",
+    "translation": "穷途末路: 拖拽派对",
     "stage": 5,
     "context": "MINIGAMES\\DEADEND_4"
   },
   {
     "key": "960",
     "original": "Dead End: Back In Time",
-    "translation": "Dead End: 及时击退",
+    "translation": "穷途末路: 及时击退",
     "stage": 5,
     "context": "MINIGAMES\\DEADEND_5"
   },
   {
     "key": "961",
     "original": "Dead End: Living End",
-    "translation": "Dead End: 生不如死",
+    "translation": "穷途末路: 生不如死",
     "stage": 5,
     "context": "MINIGAMES\\DEADEND_6"
   },
@@ -9088,7 +9088,7 @@
   {
     "key": "1299",
     "original": "Get your pinatas here!",
-    "translation": "在这里收集你的皮纳塔!",
+    "translation": "在这里收集你的彩陶!",
     "stage": 5,
     "context": "WARP\\PARTY_REWARD"
   },

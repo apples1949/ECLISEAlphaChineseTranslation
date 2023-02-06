@@ -1,0 +1,1886 @@
+[
+  {
+    "key": "HARDCORE",
+    "original": "Gate",
+    "translation": "大门",
+    "stage": 5
+  },
+  {
+    "key": "BEACH1",
+    "original": "Gate",
+    "translation": "大门",
+    "stage": 5
+  },
+  {
+    "key": "BEACH2",
+    "original": "Survival",
+    "translation": "生存",
+    "stage": 5
+  },
+  {
+    "key": "BEACH9",
+    "original": "Fishy Business",
+    "translation": "渔业商机",
+    "stage": 5
+  },
+  {
+    "key": "BEACH10",
+    "original": "Fishy Encore",
+    "translation": "鱼地再战",
+    "stage": 5
+  },
+  {
+    "key": "BEACH11",
+    "original": "Dart Game",
+    "translation": "飞镖游戏",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY1",
+    "original": "Gate",
+    "translation": "大门",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY2",
+    "original": "Boxing Arena",
+    "translation": "拳击擂台",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY3",
+    "original": "Speed Surf",
+    "translation": "极速冲浪",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY4",
+    "original": "Nuclear Power",
+    "translation": "核平力量",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY5",
+    "original": "All Loud Attack",
+    "translation": "混响袭击",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY6",
+    "original": "Ancient Mausoleum",
+    "translation": "远古陵墓",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY7",
+    "original": "Riding Shotgun",
+    "translation": "装载机枪",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY8",
+    "original": "Hinder Timber",
+    "translation": "夹板阻碍",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY9",
+    "original": "Golden Balance",
+    "translation": "黄金平衡",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY10",
+    "original": "Frozone Layer",
+    "translation": "冻层",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY11",
+    "original": "Heat Wave",
+    "translation": "燥热波浪",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY12",
+    "original": "Debug Trap",
+    "translation": "调试陷阱",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY13",
+    "original": "Flamewalkers",
+    "translation": "烈焰行者",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY14",
+    "original": "Null & Void",
+    "translation": "空洞虚无",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY15",
+    "original": "Precipitation",
+    "translation": "大雨倾盆",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY16",
+    "original": "Rainbow Road",
+    "translation": "彩虹大道",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY17",
+    "original": "Stalk Shift",
+    "translation": "潜茎位移",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY18",
+    "original": "Wall Alignment",
+    "translation": "墙体摆放",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY19",
+    "original": "Bug Shield",
+    "translation": "害虫屏障",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY20",
+    "original": "Far Flung Future",
+    "translation": "远抛未来",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY21",
+    "original": "Ice Burn",
+    "translation": "冰封焚烧",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY22",
+    "original": "Macenaries",
+    "translation": "雇佣恐龙",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY23",
+    "original": "Mine Safety",
+    "translation": "土豆安危",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY24",
+    "original": "Mold Trap",
+    "translation": "霉菌陷阱",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY25",
+    "original": "Power Grid",
+    "translation": "能量方格",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY26",
+    "original": "Run 'n Gun",
+    "translation": "枪手跑酷",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY27",
+    "original": "Sonic Waves",
+    "translation": "音速袭击",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY28",
+    "original": "Summoning",
+    "translation": "召唤狂潮",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY29",
+    "original": "Tech Show",
+    "translation": "科技展览",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY30",
+    "original": "Chess",
+    "translation": "棋盘迷局",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY31",
+    "original": "Blasting Race",
+    "translation": "爆破竞赛",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY32",
+    "original": "Wild Battle",
+    "translation": "西部野战",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY33",
+    "original": "Melon Bros",
+    "translation": "超级西瓜兄弟",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY34",
+    "original": "Sun Snipers",
+    "translation": "阳光狙手",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY35",
+    "original": "Sea Skirmish",
+    "translation": "潮汐战役",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY36",
+    "original": "Lost Night",
+    "translation": "失落之夜",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY37",
+    "original": "Haunted Castle",
+    "translation": "闹鬼城堡",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY38",
+    "original": "Ghost Town",
+    "translation": "闹鬼城镇",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY39",
+    "original": "Basic Burster",
+    "translation": "基础炸药",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY40",
+    "original": "Rise of Darkness",
+    "translation": "暗夜复兴",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY41",
+    "original": "Golden Rain",
+    "translation": "黄金之雨",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY42",
+    "original": "Into the Forest",
+    "translation": "深入密林",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY43",
+    "original": "Prehistoric Temple",
+    "translation": "史前神殿",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY44",
+    "original": "Zombie Magnet",
+    "translation": "僵尸磁铁",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY45",
+    "original": "Defrostation",
+    "translation": "急速解冻",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY46",
+    "original": "Eye of Storm",
+    "translation": "风暴中心",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY47",
+    "original": "Lost in Time",
+    "translation": "时光迷失",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY48",
+    "original": "Mobile Battery",
+    "translation": "可动炮台",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY49",
+    "original": "Return to Sender",
+    "translation": "以牙还牙",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY50",
+    "original": "Sepia Apama",
+    "translation": "乌贼护罩",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY51",
+    "original": "Locked & Loaded",
+    "translation": "预选槽位",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY52",
+    "original": "All That Glitters",
+    "translation": "发光的不一定都是金子",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY53",
+    "original": "Sun Lock",
+    "translation": "阳光之锁",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY54",
+    "original": "Sun Reserves",
+    "translation": "阳光储备",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY55",
+    "original": "Catwalk",
+    "translation": "灵活猫步",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY56",
+    "original": "Fishy Chips",
+    "translation": "炸鱼薯条",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY57",
+    "original": "Avian Land",
+    "translation": "鸟禽登船",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY58",
+    "original": "Daredevil Speed",
+    "translation": "超胆侠之速",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY59",
+    "original": "Buggy Jungles",
+    "translation": "害虫丛林",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY60",
+    "original": "Magic Kingdom",
+    "translation": "魔法王国",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY61",
+    "original": "Rediscover Rhythm",
+    "translation": "节奏再现",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY62",
+    "original": "Dancing Queens",
+    "translation": "舞蹈皇后",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY63",
+    "original": "Truly Metal",
+    "translation": "正宗金属",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY64",
+    "original": "Juggler-naut",
+    "translation": "坚果杂耍",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY65",
+    "original": "Runes Conserve",
+    "translation": "符文保护",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY66",
+    "original": "Tomb Curses",
+    "translation": "陵墓诅咒",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY67",
+    "original": "[TWP]Burning Day",
+    "translation": "[TWP]灼热焦阳",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY68",
+    "original": "[TWP]Rainforest",
+    "translation": "[TWP]暴雨之林",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY69",
+    "original": "[TWP]Sea Fog",
+    "translation": "[TWP]深海迷雾",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY70",
+    "original": "[TWP]Snowday",
+    "translation": "[TWP]速冻冰雹",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY71",
+    "original": "Aim to Win",
+    "translation": "旨在桂冠",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY72",
+    "original": "Cannonship Battle",
+    "translation": "船炮战场",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY73",
+    "original": "Hooked In",
+    "translation": "上钩",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY74",
+    "original": "Split Grid",
+    "translation": "分裂方格",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY75",
+    "original": "Firepower",
+    "translation": "火焰力量",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY76",
+    "original": "Head Sniper",
+    "translation": "头号狙击手",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY77",
+    "original": "High Zap Voltages",
+    "translation": "高压电击",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY78",
+    "original": "Old Timey Railways",
+    "translation": "古老铁路",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY79",
+    "original": "Proteched Campsite",
+    "translation": "安全营地",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY80",
+    "original": "Speedy Problem",
+    "translation": "速度问题",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY81",
+    "original": "Zombie Smelter",
+    "translation": "僵尸熔炉",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY82",
+    "original": "Elec. Management",
+    "translation": "电击处理",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY83",
+    "original": "Seeds of Time",
+    "translation": "时光种子",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY84",
+    "original": "Speed Dance",
+    "translation": "极速舞蹈",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY85",
+    "original": "Square Island",
+    "translation": "方形大陆",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY86",
+    "original": "Strikethrough",
+    "translation": "删除线",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY87",
+    "original": "Twin Threat",
+    "translation": "双重威胁",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY88",
+    "original": "Feeling Blue",
+    "translation": "感到蓝受?",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY89",
+    "original": "Power of Love",
+    "translation": "爱的力量",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY90",
+    "original": "Concealed Storm",
+    "translation": "隐匿雪暴",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY91",
+    "original": "Seaside Sports",
+    "translation": "极限海边运动",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY92",
+    "original": "Moving Movers",
+    "translation": "可动滑块",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY93",
+    "original": "Sun Strike",
+    "translation": "阳光罢工",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY94",
+    "original": "Synth Serfs",
+    "translation": "魔音农奴",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY95",
+    "original": "Cave Rave",
+    "translation": "洞穴节奏",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY96",
+    "original": "Bug Thugs",
+    "translation": "害虫恶棍",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY97",
+    "original": "Real Marsh",
+    "translation": "正宗沼泽",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY98",
+    "original": "Unthawed Iceage",
+    "translation": "未化冰河",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY99",
+    "original": "HardCORE",
+    "translation": "超级硬核",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY100",
+    "original": "Haunted Highway",
+    "translation": "闹鬼高速",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY101",
+    "original": "Herd Protection",
+    "translation": "牧群保护",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY102",
+    "original": "Sheep Force",
+    "translation": "绵羊之力",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY103",
+    "original": "Honey Trap",
+    "translation": "甜蜜陷阱",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY104",
+    "original": "Discharge Field",
+    "translation": "漏电场地",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY105",
+    "original": "Fata Zomgana",
+    "translation": "幻影危机",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY106",
+    "original": "Fissure Blister",
+    "translation": "土地裂缝",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY107",
+    "original": "Meta Force",
+    "translation": "变化之力",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY108",
+    "original": "Plaques",
+    "translation": "斑块瘟疫",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY109",
+    "original": "Raid Leader",
+    "translation": "冲锋陷阵",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY110",
+    "original": "Safe Harbour",
+    "translation": "安全港湾",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY111",
+    "original": "Wild Dancer",
+    "translation": "狂野舞者",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY112",
+    "original": "Land Owner",
+    "translation": "大地领主",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY113",
+    "original": "Psycha Path",
+    "translation": "断魂小路",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY114",
+    "original": "Flying Troubles",
+    "translation": "空中麻烦",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY115",
+    "original": "Rainbow Raid",
+    "translation": "彩虹突袭",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY116",
+    "original": "Air Boarder",
+    "translation": "极速飞行",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY117",
+    "original": "Flipper Flop",
+    "translation": "海狸扑腾",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY118",
+    "original": "VIP",
+    "translation": "V.I.P",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY119",
+    "original": "Northern Night",
+    "translation": "北极之夜",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY120",
+    "original": "Nether's Gate",
+    "translation": "下界之门",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY121",
+    "original": "Deflection",
+    "translation": "行径偏移",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY122",
+    "original": "Healing Skill",
+    "translation": "治疗技艺",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY123",
+    "original": "Broken Line",
+    "translation": "断层",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY124",
+    "original": "Friendly Fire",
+    "translation": "友伤",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY125",
+    "original": "Friendly Nether",
+    "translation": "友善的幽冥渡渡?",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY126",
+    "original": "Golden Shovel",
+    "translation": "黄金铲子",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY127",
+    "original": "IaO",
+    "translation": "laO",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY128",
+    "original": "Power Source",
+    "translation": "能力之源",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY129",
+    "original": "Playground",
+    "translation": "草莓乐园",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY130",
+    "original": "Artillery",
+    "translation": "炮兵维修",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY131",
+    "original": "Bowlin'",
+    "translation": "保龄球特殊日",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY132",
+    "original": "Dino Tamer",
+    "translation": "驯龙高手",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY133",
+    "original": "Elite Squad",
+    "translation": "精英部队",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY134",
+    "original": "Emergency Button",
+    "translation": "紧急按钮",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY135",
+    "original": "Explosive Trap",
+    "translation": "爆炸陷阱",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY136",
+    "original": "Flashbang",
+    "translation": "闪光弹",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY137",
+    "original": "Infested Jungle",
+    "translation": "瘟疫丛林",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY138",
+    "original": "Piece by Piece",
+    "translation": "积少成多",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY139",
+    "original": "Powered Rails",
+    "translation": "蓄能矿车",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY140",
+    "original": "Rootten Web",
+    "translation": "根深蒂固",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY141",
+    "original": "Spicy Ice",
+    "translation": "火辣冰雕",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY142",
+    "original": "Swinging Night",
+    "translation": "摇摆之夜",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY143",
+    "original": "The Freezer",
+    "translation": "冰封",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY144",
+    "original": "The Painter",
+    "translation": "妙手丹青",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY145",
+    "original": "Tidal Waves",
+    "translation": "潮汐溺尸",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY146",
+    "original": "Unholy Cruzade",
+    "translation": "邪恶十字军",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY147",
+    "original": "Zombie Tamer",
+    "translation": "驯尸高手",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY148",
+    "original": "Objective: Escort",
+    "translation": "任务: 护送",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY149",
+    "original": "Night Running",
+    "translation": "夜晚狂奔",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY150",
+    "original": "Troublesome Ladies",
+    "translation": "麻烦女士",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY151",
+    "original": "Controlled Fire",
+    "translation": "火力控制",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY152",
+    "original": "Angry Seeds",
+    "translation": "愤怒的种子",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY153",
+    "original": "Gravebuster Reclaim",
+    "translation": "墓地开垦",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY154",
+    "original": "Botanical Cheats",
+    "translation": "植物欺诈",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY155",
+    "original": "Cherrys Mausoleum",
+    "translation": "樱桃陵墓",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY156",
+    "original": "Hot Baiting",
+    "translation": "火辣引诱",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY157",
+    "original": "BIG Trouble",
+    "translation": "巨型麻烦制造者",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY158",
+    "original": "Amphibian Hunters",
+    "translation": "两栖捕手",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY159",
+    "original": "Dragonflies",
+    "translation": "龙蝇",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY160",
+    "original": "Future Cruzade",
+    "translation": "未来十字军",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY161",
+    "original": "Medieval Taxing",
+    "translation": "中世纪税收",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY162",
+    "original": "The Freezer II",
+    "translation": "冰封 II",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY163",
+    "original": "Cold Blacklist",
+    "translation": "冰封黑名单",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY164",
+    "original": "Grim Fate",
+    "translation": "残酷命运",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY165",
+    "original": "Rune Protection",
+    "translation": "符文保护",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY166",
+    "original": "Copycat",
+    "translation": "冒牌货",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY167",
+    "original": "Fallen in Line",
+    "translation": "紧随其后",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY168",
+    "original": "Red Popsicles",
+    "translation": "红色冰棒",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY169",
+    "original": "DoN",
+    "translation": "DoN",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY170",
+    "original": "Sunrise",
+    "translation": "晨曦",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY171",
+    "original": "Sunset",
+    "translation": "晚霞",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY172",
+    "original": "Fried Signal",
+    "translation": "电击信号",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY173",
+    "original": "Wallmakers",
+    "translation": "高墙铸造者",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY174",
+    "original": "Lending Hand",
+    "translation": "帮一手",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY175",
+    "original": "Bulldozer",
+    "translation": "红色推土机",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY176",
+    "original": "Flame Spreader",
+    "translation": "火焰传播者",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY177",
+    "original": "Cold Racers",
+    "translation": "酷寒竞速者",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY178",
+    "original": "Big Balloon Blast",
+    "translation": "巨型气球爆破",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY179",
+    "original": "Grass Keeper",
+    "translation": "草坪管家",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY180",
+    "original": "Frontline Ambush",
+    "translation": "前线伏击",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY181",
+    "original": "Road Spikes",
+    "translation": "路刺",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY182",
+    "original": "SpD",
+    "translation": "SpD",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY183",
+    "original": "Teeter Tides",
+    "translation": "摇晃潮汐",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY184",
+    "original": "Bitedown",
+    "translation": "咬下",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY185",
+    "original": "Amber Embers",
+    "translation": "琥珀余烬",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY186",
+    "original": "Torchbite Caves",
+    "translation": "火灼洞穴",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY187",
+    "original": "Hololight",
+    "translation": "全息碎影",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY188",
+    "original": "Sun Stall",
+    "translation": "阳光拖延",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY189",
+    "original": "Obliteration",
+    "translation": "操作: 抹杀",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY190",
+    "original": "Coldheart Icicle",
+    "translation": "寒心冰柱",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY191",
+    "original": "Fire Balance",
+    "translation": "火焰平衡",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY192",
+    "original": "Sky Strike",
+    "translation": "空袭",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY193",
+    "original": "Beware!",
+    "translation": "当心食人花!",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY194",
+    "original": "Neptunian",
+    "translation": "海神惊喜",
+    "stage": 5
+  },
+  {
+    "key": "COMMUNITY195",
+    "original": "Air Attack",
+    "translation": "空中攻击",
+    "stage": 5
+  },
+  {
+    "key": "COWBOY1",
+    "original": "Gate",
+    "translation": "大门",
+    "stage": 5
+  },
+  {
+    "key": "COWBOY2",
+    "original": "Survival",
+    "translation": "生存",
+    "stage": 5
+  },
+  {
+    "key": "COWBOY3",
+    "original": "The Old Queens",
+    "translation": "年老皇后",
+    "stage": 5
+  },
+  {
+    "key": "COWBOY4",
+    "original": "Crossing Field",
+    "translation": "交叉领域",
+    "stage": 5
+  },
+  {
+    "key": "COWBOY5",
+    "original": "Lightning Scanner",
+    "translation": "闪电扫描仪",
+    "stage": 5
+  },
+  {
+    "key": "COWBOY6",
+    "original": "Cosmic Club",
+    "translation": "宇宙级乡村俱乐部",
+    "stage": 5
+  },
+  {
+    "key": "DARK1",
+    "original": "Gate",
+    "translation": "大门",
+    "stage": 5
+  },
+  {
+    "key": "DARK2",
+    "original": "Knighty Night",
+    "translation": "骑士之夜",
+    "stage": 5
+  },
+  {
+    "key": "DARK3",
+    "original": "Blind Spot",
+    "translation": "盲点",
+    "stage": 5
+  },
+  {
+    "key": "DARK4",
+    "original": "Elemental Counter",
+    "translation": "元素计数者",
+    "stage": 5
+  },
+  {
+    "key": "DARK5",
+    "original": "Survival",
+    "translation": "生存",
+    "stage": 5
+  },
+  {
+    "key": "DINO1",
+    "original": "Gate",
+    "translation": "大门",
+    "stage": 5
+  },
+  {
+    "key": "DINO2",
+    "original": "Battle No-Brain",
+    "translation": "无脑之战",
+    "stage": 5
+  },
+  {
+    "key": "DINO3",
+    "original": "Touchdown",
+    "translation": "接触传染",
+    "stage": 5
+  },
+  {
+    "key": "DINO4",
+    "original": "Dino Dynasty",
+    "translation": "恐龙王朝",
+    "stage": 5
+  },
+  {
+    "key": "DINO5",
+    "original": "Survival",
+    "translation": "生存",
+    "stage": 5
+  },
+  {
+    "key": "EGYPT1",
+    "original": "Gate",
+    "translation": "大门",
+    "stage": 5
+  },
+  {
+    "key": "EGYPT2",
+    "original": "Gate",
+    "translation": "大门",
+    "stage": 5
+  },
+  {
+    "key": "EGYPT3",
+    "original": "Gate",
+    "translation": "大门",
+    "stage": 5
+  },
+  {
+    "key": "EGYPT4",
+    "original": "Survival",
+    "translation": "生存",
+    "stage": 5
+  },
+  {
+    "key": "EIGHTIES1",
+    "original": "Gate",
+    "translation": "大门",
+    "stage": 5
+  },
+  {
+    "key": "EIGHTIES2",
+    "original": "Survival",
+    "translation": "生存",
+    "stage": 5
+  },
+  {
+    "key": "EIGHTIES3",
+    "original": "Rainbow Redempt",
+    "translation": "彩虹救赎",
+    "stage": 5
+  },
+  {
+    "key": "EIGHTIES4",
+    "original": "Escalation Game",
+    "translation": "升级游戏",
+    "stage": 5
+  },
+  {
+    "key": "EIGHTIES5",
+    "original": "Simulation Band",
+    "translation": "虚拟乐队",
+    "stage": 5
+  },
+  {
+    "key": "EIGHTIES6",
+    "original": "Big Stage",
+    "translation": "登台表演",
+    "stage": 5
+  },
+  {
+    "key": "FUTURE1",
+    "original": "Gate",
+    "translation": "大门",
+    "stage": 5
+  },
+  {
+    "key": "FUTURE2",
+    "original": "Survival",
+    "translation": "生存",
+    "stage": 5
+  },
+  {
+    "key": "FUTURE3",
+    "original": "The Armory",
+    "translation": "军火库",
+    "stage": 5
+  },
+  {
+    "key": "FUTURE4",
+    "original": "Time Creator",
+    "translation": "时间创造者",
+    "stage": 5
+  },
+  {
+    "key": "FUTURE5",
+    "original": "Hypno-tech",
+    "translation": "魅惑科技",
+    "stage": 5
+  },
+  {
+    "key": "FUTURE6",
+    "original": "Chain Block",
+    "translation": "起重机",
+    "stage": 5
+  },
+  {
+    "key": "FUTURE7",
+    "original": "The Killzone",
+    "translation": "屠戮区",
+    "stage": 5
+  },
+  {
+    "key": "ICEAGE1",
+    "original": "Gate",
+    "translation": "大门",
+    "stage": 5
+  },
+  {
+    "key": "ICEAGE2",
+    "original": "Frozen Threat",
+    "translation": "冰冻威胁",
+    "stage": 5
+  },
+  {
+    "key": "ICEAGE3",
+    "original": "Bubbling Floor",
+    "translation": "冒泡地面",
+    "stage": 5
+  },
+  {
+    "key": "ICEAGE4",
+    "original": "Skeleton",
+    "translation": "微小骨架",
+    "stage": 5
+  },
+  {
+    "key": "ICEAGE5",
+    "original": "Wind Shield",
+    "translation": "防风罩",
+    "stage": 5
+  },
+  {
+    "key": "ICEAGE6",
+    "original": "Survival",
+    "translation": "生存",
+    "stage": 5
+  },
+  {
+    "key": "LOSTCITY1",
+    "original": "Gate",
+    "translation": "大门",
+    "stage": 5
+  },
+  {
+    "key": "LOSTCITY2",
+    "original": "Gate",
+    "translation": "大门",
+    "stage": 5
+  },
+  {
+    "key": "LOSTCITY3",
+    "original": "Swift Trampler",
+    "translation": "迅捷践踏者",
+    "stage": 5
+  },
+  {
+    "key": "LOSTCITY4",
+    "original": "Plague of Forest",
+    "translation": "丛林瘟疫",
+    "stage": 5
+  },
+  {
+    "key": "LOSTCITY5",
+    "original": "Survival",
+    "translation": "生存",
+    "stage": 5
+  },
+  {
+    "key": "MODERN1",
+    "original": "Gate",
+    "translation": "大门",
+    "stage": 5
+  },
+  {
+    "key": "MODERN2",
+    "original": "TICKDOWN",
+    "translation": "倒计时",
+    "stage": 5
+  },
+  {
+    "key": "MODERN3",
+    "original": "Survival: Garg",
+    "translation": "生存: 巨人盛宴",
+    "stage": 5
+  },
+  {
+    "key": "MODERN4",
+    "original": "Survival: Escalation",
+    "translation": "生存: 阳光积攒",
+    "stage": 5
+  },
+  {
+    "key": "MODERN5",
+    "original": "Survival: Column",
+    "translation": "生存: 柱状混乱",
+    "stage": 5
+  },
+  {
+    "key": "PIRATE1",
+    "original": "Gate",
+    "translation": "大门",
+    "stage": 5
+  },
+  {
+    "key": "PIRATE2",
+    "original": "The Stocks",
+    "translation": "库存储备",
+    "stage": 5
+  },
+  {
+    "key": "PIRATE3",
+    "original": "Battle Bay",
+    "translation": "海湾战争",
+    "stage": 5
+  },
+  {
+    "key": "PIRATE4",
+    "original": "Survival",
+    "translation": "生存",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING1",
+    "original": "Gate",
+    "translation": "大门",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING2",
+    "original": "Botanical 1",
+    "translation": "植物反击 1",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING3",
+    "original": "Botanical 2",
+    "translation": "植物反击 2",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING4",
+    "original": "Botanical 3",
+    "translation": "植物反击 3",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING5",
+    "original": "Botanical 4",
+    "translation": "植物反击 4",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING6",
+    "original": "Overleft 1",
+    "translation": "隔山打牛 1",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING7",
+    "original": "Overleft 2",
+    "translation": "隔山打牛 2",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING8",
+    "original": "Overleft 3",
+    "translation": "隔山打牛 3",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING9",
+    "original": "Overleft 4",
+    "translation": "隔山打牛 4",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING10",
+    "original": "Overleft 5",
+    "translation": "隔山打牛 5",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING11",
+    "original": "Origin 1",
+    "translation": "原版 1",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING12",
+    "original": "Origin 2",
+    "translation": "原版 2",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING13",
+    "original": "Origin 3",
+    "translation": "原版 3",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING14",
+    "original": "Origin 4",
+    "translation": "原版 4",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING15",
+    "original": "[DE]Pirate Package",
+    "translation": "[DE]海盗包裹",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING16",
+    "original": "[DE]Blockback",
+    "translation": "[DE]两面包夹",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING17",
+    "original": "[DE]Square Dancers",
+    "translation": "[DE]方阵舞者",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING18",
+    "original": "[DE]Drag Party",
+    "translation": "[DE]拖拽派对",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING19",
+    "original": "[DE]Back in Time",
+    "translation": "[DE]及时击退",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING20",
+    "original": "[DE]Living End",
+    "translation": "[DE]生不如死",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING21",
+    "original": "Bowling Party 1",
+    "translation": "保龄球派对 1",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING22",
+    "original": "Bowling Party 2",
+    "translation": "保龄球派对 2",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING23",
+    "original": "Bowling Party 3",
+    "translation": "保龄球派对 3",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING24",
+    "original": "Bowling Party 4",
+    "translation": "保龄球派对 4",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING25",
+    "original": "Bowling Party 5",
+    "translation": "保龄球派对 5",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING26",
+    "original": "Bowling Party 6",
+    "translation": "保龄球派对 6",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING27",
+    "original": "Bowling Party 7",
+    "translation": "保龄球派对 7",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING28",
+    "original": "Bowling Party 8",
+    "translation": "保龄球派对 8",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING29",
+    "original": "Bowling Party 9",
+    "translation": "保龄球派对 9",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING30",
+    "original": "Bowling Party X",
+    "translation": "保龄球派对 X",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING31",
+    "original": "Invisi-ghoul",
+    "translation": "隐形食脑者",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING32",
+    "original": "[IG]Nerve Spikes",
+    "translation": "[IG]神经刺痛",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING33",
+    "original": "[IG]Tenttinus",
+    "translation": "[IG]隐形帐篷",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING34",
+    "original": "[IG]Wild Shots",
+    "translation": "[IG]荒野枪手",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING35",
+    "original": "[IG]Ghost Race",
+    "translation": "[IG]亡灵赛跑",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING36",
+    "original": "[IG]Cold War",
+    "translation": "[IG]酷寒战争",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING37",
+    "original": "Plant Puzzle 1",
+    "translation": "移花接木 1",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING38",
+    "original": "Plant Puzzle 2",
+    "translation": "移花接木 2",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING39",
+    "original": "Plant Puzzle 3",
+    "translation": "移花接木 3",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING40",
+    "original": "Plant Puzzle 4",
+    "translation": "移花接木 4",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING41",
+    "original": "Plant Puzzle 5",
+    "translation": "移花接木 5",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING42",
+    "original": "Plant Puzzle 6",
+    "translation": "移花接木 6",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING43",
+    "original": "Plant Puzzle 7",
+    "translation": "移花接木 7",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING44",
+    "original": "Plant Puzzle 8",
+    "translation": "移花接木 8",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING45",
+    "original": "Mini 1",
+    "translation": "迷你传奇 1",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING46",
+    "original": "Mini 2",
+    "translation": "迷你传奇 2",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING47",
+    "original": "Mini 3",
+    "translation": "迷你传奇 3",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING48",
+    "original": "Mini 4",
+    "translation": "迷你传奇 4",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING49",
+    "original": "Mini 5",
+    "translation": "迷你传奇 5",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING50",
+    "original": "Mini 6",
+    "translation": "迷你传奇 6",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING51",
+    "original": "Mini 7",
+    "translation": "迷你传奇 7",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING52",
+    "original": "Mini 8",
+    "translation": "迷你传奇 8",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING53",
+    "original": "Mini 9",
+    "translation": "迷你传奇 9",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING54",
+    "original": "Mini 10",
+    "translation": "迷你传奇 10",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING55",
+    "original": "Trespassers Law",
+    "translation": "闯入者法律",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING56",
+    "original": "Predator Profession",
+    "translation": "捕食职业",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING57",
+    "original": "Jar Collection",
+    "translation": "药瓶收藏",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING58",
+    "original": "Joint A Ray",
+    "translation": "电路连接",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING59",
+    "original": "Seed Collection",
+    "translation": "种子收集",
+    "stage": 5
+  },
+  {
+    "key": "TRAINING60",
+    "original": "Solar Angel",
+    "translation": "阳光天使",
+    "stage": 5
+  }
+]

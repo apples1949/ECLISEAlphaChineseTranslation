@@ -1,0 +1,800 @@
+[
+  {
+    "key": "1",
+    "original": "A huge flock of Parrots is coming!",
+    "translation": "一大群鹦鹉要来了!",
+    "stage": 5
+  },
+  {
+    "key": "2",
+    "original": "Air Raid!",
+    "translation": "空袭!",
+    "stage": 5
+  },
+  {
+    "key": "3",
+    "original": "Area change incoming!",
+    "translation": "区域变更来袭!",
+    "stage": 5
+  },
+  {
+    "key": "4",
+    "original": "Barrade!",
+    "translation": "桶头来袭!",
+    "stage": 5
+  },
+  {
+    "key": "5",
+    "original": "Barrel Roll!",
+    "translation": "木桶滚动!",
+    "stage": 5
+  },
+  {
+    "key": "6",
+    "original": "Berry Bursters!",
+    "translation": "草莓爆破器!",
+    "stage": 5
+  },
+  {
+    "key": "7",
+    "original": "Bomb Shower!",
+    "translation": "炸弹倾盆!",
+    "stage": 5
+  },
+  {
+    "key": "8",
+    "original": "Boss Spawn!",
+    "translation": "Boss登场!",
+    "stage": 5
+  },
+  {
+    "key": "9",
+    "original": "Bot Swarm!",
+    "translation": "机器虫灾!",
+    "stage": 5
+  },
+  {
+    "key": "10",
+    "original": "Bug Swarm!",
+    "translation": "机器虫灾!",
+    "stage": 5
+  },
+  {
+    "key": "11",
+    "original": "Bug Thug!",
+    "translation": "害虫恶棍!",
+    "stage": 5
+  },
+  {
+    "key": "12",
+    "original": "BUGGY ARISE",
+    "translation": "害虫突袭",
+    "stage": 5
+  },
+  {
+    "key": "13",
+    "original": "Butter Overgrown!",
+    "translation": "黄油过度生长!",
+    "stage": 5
+  },
+  {
+    "key": "14",
+    "original": "Cannonball!",
+    "translation": "炮弹!",
+    "stage": 5
+  },
+  {
+    "key": "15",
+    "original": "Charming Hits!",
+    "translation": "迷人打击!",
+    "stage": 5
+  },
+  {
+    "key": "16",
+    "original": "Constant Parachute Rain!",
+    "translation": "持续的空袭!",
+    "stage": 5
+  },
+  {
+    "key": "17",
+    "original": "Constant Sun Focant!",
+    "translation": "持续出现的阳光窃贼!",
+    "stage": 5
+  },
+  {
+    "key": "18",
+    "original": "Crescendo!",
+    "translation": "音乐高潮!",
+    "stage": 5
+  },
+  {
+    "key": "19",
+    "original": "Dark Magic!",
+    "translation": "黑魔法!",
+    "stage": 5
+  },
+  {
+    "key": "20",
+    "original": "DarkMagic!",
+    "translation": "黑魔法!",
+    "stage": 5
+  },
+  {
+    "key": "21",
+    "original": "Dodo Attack!",
+    "translation": "渡渡鸟袭击!",
+    "stage": 5
+  },
+  {
+    "key": "22",
+    "original": "Domainator!",
+    "translation": "支配者!",
+    "stage": 5
+  },
+  {
+    "key": "23",
+    "original": "Double Time!",
+    "translation": "双倍时间!",
+    "stage": 5
+  },
+  {
+    "key": "24",
+    "original": "Double Wave!",
+    "translation": "双波来袭!",
+    "stage": 5
+  },
+  {
+    "key": "25",
+    "original": "Elimination Incoming!",
+    "translation": "容量即将缩减!",
+    "stage": 5
+  },
+  {
+    "key": "26",
+    "original": "Elimination!",
+    "translation": "容量缩减!",
+    "stage": 5
+  },
+  {
+    "key": "27",
+    "original": "Even more Low Tide!!!",
+    "translation": "甚至更多的退潮!!!",
+    "stage": 5
+  },
+  {
+    "key": "28",
+    "original": "FINAL WAVE",
+    "translation": "最后一波",
+    "stage": 5
+  },
+  {
+    "key": "29",
+    "original": "Game Over!",
+    "translation": "游戏结束!",
+    "stage": 5
+  },
+  {
+    "key": "30",
+    "original": "GameOver!",
+    "translation": "游戏结束!",
+    "stage": 5
+  },
+  {
+    "key": "31",
+    "original": "Gargscallions!",
+    "translation": "巨人小队!",
+    "stage": 5
+  },
+  {
+    "key": "32",
+    "original": "Ghost Fire!",
+    "translation": "鬼火!",
+    "stage": 5
+  },
+  {
+    "key": "33",
+    "original": "Ghost Raid!",
+    "translation": "幽灵突袭!",
+    "stage": 5
+  },
+  {
+    "key": "34",
+    "original": "Glow Snow!",
+    "translation": "发光的雪!",
+    "stage": 5
+  },
+  {
+    "key": "35",
+    "original": "helpme",
+    "translation": "帮帮我",
+    "stage": 5
+  },
+  {
+    "key": "36",
+    "original": "Here comes the train!",
+    "translation": "火车来了!",
+    "stage": 5
+  },
+  {
+    "key": "37",
+    "original": "High Quality Music!",
+    "translation": "高质量音乐!",
+    "stage": 5
+  },
+  {
+    "key": "38",
+    "original": "Icy Low Tide!",
+    "translation": "冰冷退潮!",
+    "stage": 5
+  },
+  {
+    "key": "39",
+    "original": "Island Hoppers!",
+    "translation": "海岛舞者!",
+    "stage": 5
+  },
+  {
+    "key": "40",
+    "original": "It's not that easy (:",
+    "translation": "没有那么简单 (:",
+    "stage": 5
+  },
+  {
+    "key": "41",
+    "original": "Jet Squad!",
+    "translation": "喷射器小队!",
+    "stage": 5
+  },
+  {
+    "key": "42",
+    "original": "Last Dodo Attack!",
+    "translation": "最后的渡渡鸟袭击!",
+    "stage": 5
+  },
+  {
+    "key": "43",
+    "original": "LEVEL 1",
+    "translation": "第1关",
+    "stage": 5
+  },
+  {
+    "key": "44",
+    "original": "LEVEL 10",
+    "translation": "第10关",
+    "stage": 5
+  },
+  {
+    "key": "45",
+    "original": "LEVEL 2",
+    "translation": "第2关",
+    "stage": 5
+  },
+  {
+    "key": "46",
+    "original": "LEVEL 3",
+    "translation": "第3关",
+    "stage": 5
+  },
+  {
+    "key": "47",
+    "original": "LEVEL 4",
+    "translation": "第4关",
+    "stage": 5
+  },
+  {
+    "key": "48",
+    "original": "LEVEL 5",
+    "translation": "第5关",
+    "stage": 5
+  },
+  {
+    "key": "49",
+    "original": "LEVEL 6",
+    "translation": "第6关",
+    "stage": 5
+  },
+  {
+    "key": "50",
+    "original": "LEVEL 7",
+    "translation": "第7关",
+    "stage": 5
+  },
+  {
+    "key": "51",
+    "original": "LEVEL 8",
+    "translation": "第8关",
+    "stage": 5
+  },
+  {
+    "key": "52",
+    "original": "LEVEL 9",
+    "translation": "第9关",
+    "stage": 5
+  },
+  {
+    "key": "53",
+    "original": "Long Blaster!",
+    "translation": "超远爆破者!",
+    "stage": 5
+  },
+  {
+    "key": "54",
+    "original": "Low Dive!",
+    "translation": "浅潜者!",
+    "stage": 5
+  },
+  {
+    "key": "55",
+    "original": "Low Tide",
+    "translation": "退潮",
+    "stage": 5
+  },
+  {
+    "key": "56",
+    "original": "Low Tide!",
+    "translation": "退潮!",
+    "stage": 5
+  },
+  {
+    "key": "57",
+    "original": "Low Tide!??!?!??",
+    "translation": "退潮!??!?!??",
+    "stage": 5
+  },
+  {
+    "key": "58",
+    "original": "Lowest Tide!",
+    "translation": "大退潮!",
+    "stage": 5
+  },
+  {
+    "key": "59",
+    "original": "Lv1 cleared! ...Meh.",
+    "translation": "第1关通过! ...呵.",
+    "stage": 5
+  },
+  {
+    "key": "60",
+    "original": "Lv10 cleared! I'm SERIOUSLY impressed.",
+    "translation": "第10关通过! 我真的很佩服.",
+    "stage": 5
+  },
+  {
+    "key": "61",
+    "original": "Lv2 cleared! ...Easy peezy.",
+    "translation": "第2关通过! ...小菜一碟.",
+    "stage": 5
+  },
+  {
+    "key": "62",
+    "original": "Lv3 cleared! Nice!",
+    "translation": "第3关通过! 不错!",
+    "stage": 5
+  },
+  {
+    "key": "63",
+    "original": "Lv4 cleared! Good!",
+    "translation": "第4关通过! 还行!",
+    "stage": 5
+  },
+  {
+    "key": "64",
+    "original": "Lv5 cleared! Great job!",
+    "translation": "第5关通过! 干得漂亮!",
+    "stage": 5
+  },
+  {
+    "key": "65",
+    "original": "Lv6 cleared! Excellent!",
+    "translation": "第6关通过! 妙极了!",
+    "stage": 5
+  },
+  {
+    "key": "66",
+    "original": "Lv7 cleared! Wow, GG!",
+    "translation": "第7关通过! 哇, 玩的真好!",
+    "stage": 5
+  },
+  {
+    "key": "67",
+    "original": "Lv8 cleared! Extraodinary!!",
+    "translation": "第8关通过! 超乎寻常!!",
+    "stage": 5
+  },
+  {
+    "key": "68",
+    "original": "Lv9 cleared! UNBELIEVABLE!!!",
+    "translation": "第9关通过! 难以置信!!!",
+    "stage": 5
+  },
+  {
+    "key": "69",
+    "original": "Meateor!",
+    "translation": "燧石流星雨!",
+    "stage": 5
+  },
+  {
+    "key": "70",
+    "original": "Meateors!",
+    "translation": "燧石流星雨!",
+    "stage": 5
+  },
+  {
+    "key": "71",
+    "original": "More Low Tide!",
+    "translation": "更多的退潮!",
+    "stage": 5
+  },
+  {
+    "key": "72",
+    "original": "Necromancy!",
+    "translation": "亡灵返乡!",
+    "stage": 5
+  },
+  {
+    "key": "73",
+    "original": "No durians allowed on the train!",
+    "translation": "火车上不准带榴莲!",
+    "stage": 5
+  },
+  {
+    "key": "74",
+    "original": "No more ice wind!",
+    "translation": "再也没有冰风了!",
+    "stage": 5
+  },
+  {
+    "key": "75",
+    "original": "No Tide!",
+    "translation": "没有潮汐了!",
+    "stage": 5
+  },
+  {
+    "key": "76",
+    "original": "Octo-mancy!",
+    "translation": "章鱼返乡!",
+    "stage": 5
+  },
+  {
+    "key": "77",
+    "original": "One wave of Under-Dancers!",
+    "translation": "一波地底舞者!",
+    "stage": 5
+  },
+  {
+    "key": "78",
+    "original": "Open Dimension!",
+    "translation": "维度张开!",
+    "stage": 5
+  },
+  {
+    "key": "79",
+    "original": "Overgrown!",
+    "translation": "过度生长!",
+    "stage": 5
+  },
+  {
+    "key": "80",
+    "original": "OVERLEFT binding execute!",
+    "translation": "大量隔山打牛者即将登场!",
+    "stage": 5
+  },
+  {
+    "key": "81",
+    "original": "Pad-Spawn!",
+    "translation": "莲叶生成!",
+    "stage": 5
+  },
+  {
+    "key": "82",
+    "original": "Parachute Rain!",
+    "translation": "空袭!",
+    "stage": 5
+  },
+  {
+    "key": "83",
+    "original": "Permament Powered Frost Wind!",
+    "translation": "永久的强化霜风!",
+    "stage": 5
+  },
+  {
+    "key": "84",
+    "original": "Permanent Bot Swarm!",
+    "translation": "永久的机器虫灾!",
+    "stage": 5
+  },
+  {
+    "key": "85",
+    "original": "Permanent Cannonballs!",
+    "translation": "永久的炮弹!",
+    "stage": 5
+  },
+  {
+    "key": "86",
+    "original": "Permanent Under-dancers!",
+    "translation": "永久的地底舞者!",
+    "stage": 5
+  },
+  {
+    "key": "87",
+    "original": "Prolonggggging Meateor!",
+    "translation": "超超超远的燧石流星雨!",
+    "stage": 5
+  },
+  {
+    "key": "88",
+    "original": "Prolonging Meateor!",
+    "translation": "超远的燧石流星雨!",
+    "stage": 5
+  },
+  {
+    "key": "89",
+    "original": "Punishment!",
+    "translation": "惩罚!",
+    "stage": 5
+  },
+  {
+    "key": "90",
+    "original": "Quadruple Wave!",
+    "translation": "四波来袭!",
+    "stage": 5
+  },
+  {
+    "key": "91",
+    "original": "Quake Spawn!",
+    "translation": "地震生成!",
+    "stage": 5
+  },
+  {
+    "key": "92",
+    "original": "Rading Imp",
+    "translation": "小鬼倾盆",
+    "stage": 5
+  },
+  {
+    "key": "93",
+    "original": "Railroad Switch!",
+    "translation": "铁路改道!",
+    "stage": 5
+  },
+  {
+    "key": "94",
+    "original": "Rainbow Bomb!",
+    "translation": "彩虹炸弹!",
+    "stage": 5
+  },
+  {
+    "key": "95",
+    "original": "Rainbow Row!",
+    "translation": "彩虹大道!",
+    "stage": 5
+  },
+  {
+    "key": "96",
+    "original": "Rapscallions!",
+    "translation": "恶棍小队!",
+    "stage": 5
+  },
+  {
+    "key": "97",
+    "original": "Rapscalliooooooooooooooons!!!",
+    "translation": "恶棍小队队队队队队队!!!",
+    "stage": 5
+  },
+  {
+    "key": "98",
+    "original": "Ready the Cannons!",
+    "translation": "准备好大炮!",
+    "stage": 5
+  },
+  {
+    "key": "99",
+    "original": "Runes Spawn!",
+    "translation": "符文生成!",
+    "stage": 5
+  },
+  {
+    "key": "100",
+    "original": "Rush Hour Approaching!",
+    "translation": "高峰时刻即将来临!",
+    "stage": 5
+  },
+  {
+    "key": "101",
+    "original": "Setting Up Camp",
+    "translation": "搭好帐篷",
+    "stage": 5
+  },
+  {
+    "key": "102",
+    "original": "Shake Board!",
+    "translation": "场地震动!",
+    "stage": 5
+  },
+  {
+    "key": "103",
+    "original": "Shield check!",
+    "translation": "屏障检查!",
+    "stage": 5
+  },
+  {
+    "key": "104",
+    "original": "Shooting Star!",
+    "translation": "流星!",
+    "stage": 5
+  },
+  {
+    "key": "105",
+    "original": "Snorkel Invade!",
+    "translation": "潜水僵尸入侵!",
+    "stage": 5
+  },
+  {
+    "key": "106",
+    "original": "Snowball Fight!",
+    "translation": "打雪仗!",
+    "stage": 5
+  },
+  {
+    "key": "107",
+    "original": "Squidy Low Tide!",
+    "translation": "鱿鱼退潮!",
+    "stage": 5
+  },
+  {
+    "key": "108",
+    "original": "Sun Burn!",
+    "translation": "日灼!",
+    "stage": 5
+  },
+  {
+    "key": "109",
+    "original": "Sun Focant!",
+    "translation": "阳光窃贼!",
+    "stage": 5
+  },
+  {
+    "key": "110",
+    "original": "Sunrise!",
+    "translation": "日出!",
+    "stage": 5
+  },
+  {
+    "key": "111",
+    "original": "Sunset!",
+    "translation": "日落!",
+    "stage": 5
+  },
+  {
+    "key": "112",
+    "original": "Surf's Up!",
+    "translation": "冲浪开始了!",
+    "stage": 5
+  },
+  {
+    "key": "113",
+    "original": "Surf-tide!",
+    "translation": "冲浪潮汐!",
+    "stage": 5
+  },
+  {
+    "key": "114",
+    "original": "The Captain is Here...",
+    "translation": "船长来了...",
+    "stage": 5
+  },
+  {
+    "key": "115",
+    "original": "The Final Wild Rush is incoming!",
+    "translation": "最后的狂野冲锋要来了!",
+    "stage": 5
+  },
+  {
+    "key": "116",
+    "original": "Tidal Wave!",
+    "translation": "潮汐溺尸!",
+    "stage": 5
+  },
+  {
+    "key": "117",
+    "original": "Tough Heads!",
+    "translation": "硬家伙!",
+    "stage": 5
+  },
+  {
+    "key": "118",
+    "original": "Train Attack!",
+    "translation": "火车袭击!",
+    "stage": 5
+  },
+  {
+    "key": "119",
+    "original": "Triple Wave!",
+    "translation": "三波来袭!",
+    "stage": 5
+  },
+  {
+    "key": "120",
+    "original": "TURBO SPEED!",
+    "translation": "涡轮加速!",
+    "stage": 5
+  },
+  {
+    "key": "121",
+    "original": "UNDEAD CHICKENS!",
+    "translation": "不死鸡!",
+    "stage": 5
+  },
+  {
+    "key": "122",
+    "original": "Underdancer?",
+    "translation": "地底舞者?",
+    "stage": 5
+  },
+  {
+    "key": "123",
+    "original": "Under-dancers!",
+    "translation": "地底舞者!",
+    "stage": 5
+  },
+  {
+    "key": "124",
+    "original": "Under-dancers?",
+    "translation": "地底舞者?",
+    "stage": 5
+  },
+  {
+    "key": "125",
+    "original": "Underpianist!",
+    "translation": "地底钢琴家!",
+    "stage": 5
+  },
+  {
+    "key": "126",
+    "original": "Underpianists!",
+    "translation": "地底钢琴家!",
+    "stage": 5
+  },
+  {
+    "key": "127",
+    "original": "Unwanted Guest!",
+    "translation": "不速之客!",
+    "stage": 5
+  },
+  {
+    "key": "128",
+    "original": "Warning: Massive amount of graves coming!",
+    "translation": "警告: 大量的坟墓即将到来!",
+    "stage": 5
+  },
+  {
+    "key": "129",
+    "original": "Weed Spray!",
+    "translation": "除草喷雾!",
+    "stage": 5
+  },
+  {
+    "key": "130",
+    "original": "Wild Rush is incoming! Prepare your Puff Shrooms!",
+    "translation": "狂野冲锋要来了! 准备好你的小喷菇!",
+    "stage": 5
+  },
+  {
+    "key": "131",
+    "original": "Wild Rush!",
+    "translation": "狂野冲锋!",
+    "stage": 5
+  },
+  {
+    "key": "132",
+    "original": "Wild Rush!!!!!",
+    "translation": "狂野冲锋!!!!!",
+    "stage": 5
+  },
+  {
+    "key": "133",
+    "original": "Wild Rush?",
+    "translation": "狂野冲锋?",
+    "stage": 5
+  }
+]

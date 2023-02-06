@@ -91,7 +91,7 @@
 91,17-7: Balloon Boon Bay,17-7: 气球爆破湾
 92,17-8: Focus Course,17-8: 聚焦流程
 93,17-9: Aisle Of Attention,17-9: 警戒之路
-94,7-2: Duckwater,7-2: 过犹不及
+94,7-2: Duckwater,7-2: 水中小鬼
 95,17-10: The Fishy Floor,17-10: 鱼腥之地
 96,[BEACH_LEVEL_NAME],[BEACH_LEVEL_NAME]
 97,[BEACH_LEVEL_NAME],[BEACH_LEVEL_NAME]
@@ -108,7 +108,7 @@
 108,[BEACH_LEVEL_NAME],[BEACH_LEVEL_NAME]
 109,7-4: Floating Ground,7-4: 漂浮于地
 110,7-5: Wave Controller,7-5: 驯浪高手
-111,7-6: Board Confistication,7-6: 没收冲浪板
+111,7-6: Board Confistication,7-6: 冲浪板缴获
 112,7-7: Squid Uprising,7-7: 章鱼暴动
 113,7-8: Banana Bonanza,7-8: 香蕉旺季
 114,7-9: Slip Hazard,7-9: 疏漏之危
@@ -180,16 +180,16 @@
 180,ICS-7: Hiber Nation,ICS-7: 冬眠国度
 181,ICS-8: Stop Motion,ICS-8: 停止前进
 182,ICS-9: Frozen Flesh,ICS-9: 冻肉
-183,Mini 1: A Peasized Shooter,Mini 1: 豌豆大小的射手
-184,Mini 10: Graduation Day,Mini 10: 毕业典礼
-185,Mini 2: Mini Machine Gun,Mini 2: 迷你机枪
-186,Mini 3: Decent Sun Descendant,Mini 3: 像样的阳光后裔
-187,Mini 4: Coordinated Power Sparkles,Mini 4: 协力之光
-188,Mini 5: The Winter Toddler,Mini 5: 冬季小宝贝
-189,Mini 6: Snow Gathering Foes,Mini 6: 积雪聚敌
-190,Mini 7: Prime Potato Mine,Mini 7: 年轻气盛的土豆地雷
-191,Mini 8: Minsweeper,Mini 8: 小小清理者
-192,Mini 9: Big Trouble Little Plants,Mini 9: 大麻烦小植物
+183,Mini 1: A Peasized Shooter,迷你传奇 1: 豌豆大小的射手
+184,Mini 10: Graduation Day,迷你传奇 10: 毕业典礼
+185,Mini 2: Mini Machine Gun,迷你传奇 2: 迷你机枪
+186,Mini 3: Decent Sun Descendant,迷你传奇 3: 像样的阳光后裔
+187,Mini 4: Coordinated Power Sparkles,迷你传奇 4: 协力之光
+188,Mini 5: The Winter Toddler,迷你传奇 5: 冬季小宝贝
+189,Mini 6: Snow Gathering Foes,迷你传奇 6: 积雪聚敌
+190,Mini 7: Prime Potato Mine,迷你传奇 7: 精英土豆地雷
+191,Mini 8: Minsweeper,迷你传奇 8: 小小清理者
+192,Mini 9: Big Trouble Little Plants,迷你传奇 9: 大麻烦小植物
 193,MD-D1: Modern Day,MD-D1: 现代白天
 194,MD-N5: Sukhbir,MD-N5: 僵尸嚎叫
 195,MD-N1: Modern Night,MD-N1: 现代夜晚
@@ -311,7 +311,7 @@
 311,The Macenaries - DT,雇佣恐龙 - DT
 312,Mine Safety - DT,土豆安危 - DT
 313,Mold Trap - DT,霉菌陷阱 - DT
-314,Objective: Escort - DT,任务: 护送蜻蜓 - DT
+314,Objective: Escort - DT,任务: 护送 - DT
 315,The Power Grid - DT,能量方格 - DT
 316,Raid Leader - DT,冲锋陷阵 - DT
 317,Run n' Gun - DT,枪手跑酷 - DT
@@ -357,12 +357,12 @@
 357,Explosive Trap - Locke,爆炸陷阱 - Locke
 358,Flashbangs - Locke,闪光弹 - Locke
 359,Infested Jungle - Locke,瘟疫丛林 - Locke
-360,Piece by Piece - Locke,循序渐进 - Locke
+360,Piece by Piece - Locke,积少成多 - Locke
 361,Powered Rails - Locke,蓄能矿车 - Locke
 362,Rootten Web - Locke,根深蒂固 - Locke
 363,Spicy Ice - Locke,火辣冰雕 - Locke
 364,Swinging Night - Locke,摇摆之夜 - Locke
-365,The Freezer - Locke,酷寒冰库 - Locke
+365,The Freezer - Locke,冰封 - Locke
 366,The Painter - Locke,妙手丹青 - Locke
 367,Tidal Waves - Locke,潮汐溺尸 - Locke
 368,Unholy Cruzade - Locke,邪恶十字军 - Locke
@@ -672,7 +672,7 @@
 672,"Play chapter 11 instead, dummy.","去玩第11章吧, 小傻瓜."
 673,10-1: Eighties Empire,10-1: 八零帝国
 674,10-10: The Neon Nightclub,10-10: 霓虹夜总会
-675,20-1: Meta Jam,20-1: 金属合奏
+675,20-1: Meta Jam,20-1: 即兴切歌
 676,20-2: Bubble Wrap Popper,20-2: 气泡爆破
 677,20-3: Draft Dance,20-3: 穿堂舞蹈
 678,20-4: Air Spill,20-4: 气罐
@@ -711,7 +711,7 @@
 711,9-1: Future Tense,9-1: 未来时态
 712,9-10: Tech Terror,9-10: 科技恐惧
 713,19-1: Food Chain,19-1: 食物链
-714,19-2: Sudden Wall,19-2: 突现肉墙
+714,19-2: Sudden Wall,19-2: 肉墙突现
 715,19-3: Future Dancing Zombie,19-3: 未来舞王僵尸
 716,19-4: Trip To The Sun,19-4: 阳光之旅
 717,19-5: Tackle Engine,19-5: 铲球引擎
@@ -745,11 +745,11 @@
 745,9-9: Cone Station,9-9: 锥形停车场
 746,7-1X: Sandy Shores,7-1X: 傍海沙滩
 747,7-10X: Fear of the Deep Sea,7-10: 深海之惧
-748,7-2X: Duckwater,7-2X: 过犹不及
+748,7-2X: Duckwater,7-2X: 水中小鬼
 749,7-3X: Sub Urgents,7-3X: 水下告急
 750,7-4X: Floating Ground,7-4X: 漂浮于地
 751,7-5X: Wave Controller,7-5X: 驯浪高手
-752,7-6X: Board Confistication,7-6X: 没收冲浪板
+752,7-6X: Board Confistication,7-6X: 冲浪板缴获
 753,7-7X: Squid Uprising,7-7X: 章鱼暴动
 754,7-8X: Banana Bonanza,7-8X: 香蕉旺季
 755,7-9X: Slip Hazard,7-9X: 疏漏之危
@@ -955,10 +955,10 @@
 955,Cryosiege (easy) - EnderallyGolem,冰晶封锁 (简单) - EnderallyGolem
 956,Dead End: A Pirate Package,穷途末路: 海盗包裹
 957,Dead End: Blockback,穷途末路: 两面包夹
-958,Dead End: Square Dancers,Dead End: 方阵舞者
-959,Dead End: Drag Party,Dead End: 拖拽派对
-960,Dead End: Back In Time,Dead End: 及时击退
-961,Dead End: Living End,Dead End: 生不如死
+958,Dead End: Square Dancers,穷途末路: 方阵舞者
+959,Dead End: Drag Party,穷途末路: 拖拽派对
+960,Dead End: Back In Time,穷途末路: 及时击退
+961,Dead End: Living End,穷途末路: 生不如死
 962,The Encroucher,入侵者
 963,The Encroucher (easy),入侵者 (简单)
 964,Garliquor,恶臭大蒜
@@ -1296,7 +1296,7 @@
 1296,0-3: Tutorial,0-3: 教程
 1297,[TUTORIAL_LEVEL_NAME],[TUTORIAL_LEVEL_NAME]
 1298,0-2: Tutorial,0-2: 教程
-1299,Get your pinatas here!,在这里收集你的皮纳塔!
+1299,Get your pinatas here!,在这里收集你的彩陶!
 1300,WP-1: Hard Pass,WP-1: 艰难险阻
 1301,WP-10: Gravebuster Reclamation - Locke,WP-10: 墓地开垦 - Locke
 1302,WP-100: Gargantuar Blast - Pyrodosic,WP-100: 巨人爆破 - Pyrodosic

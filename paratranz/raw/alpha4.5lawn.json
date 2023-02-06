@@ -72,14 +72,14 @@
   {
     "key": "ACHIEVEMENT_99_UNDEAD_BALLOONS_TITLE",
     "original": "99 Undead Balloons",
-    "translation": "99个不死气球",
+    "translation": "99只不死气球",
     "stage": 5,
     "context": "11"
   },
   {
     "key": "ACHIEVEMENT_BASH_POTATO_DESC",
     "original": "Defeat 7 zombies with a single Primal Potato Mine",
-    "translation": "用一个原始土豆地雷击杀 7 只僵尸",
+    "translation": "用一株原始土豆地雷击杀 7 只僵尸",
     "stage": 5,
     "context": "12"
   },
@@ -121,7 +121,7 @@
   {
     "key": "ACHIEVEMENT_DOWN_WITH_THE_SICKNESS_DESC",
     "original": "Have a contagious zombie spread poison to 5 other zombies",
-    "translation": "让一个中毒的僵尸传毒到其他 5 只僵尸身上",
+    "translation": "让一只中毒的僵尸传染到其他 5 只僵尸身上",
     "stage": 5,
     "context": "18"
   },
@@ -142,7 +142,7 @@
   {
     "key": "ACHIEVEMENT_HOT_OFF_THE_PRESSES_TITLE",
     "original": "Hot Off the Presses",
-    "translation": "\\\"热点\\\"新闻",
+    "translation": "\\\"热点\\\" 新闻",
     "stage": 5,
     "context": "21"
   },
@@ -870,7 +870,7 @@
   {
     "key": "ADVICE_NOT_ENOUGH_SUN",
     "original": "You need to collect more sun to plant that!",
-    "translation": "你需要收集更多的阳光来种植它!",
+    "translation": "你需要收集更多的阳光来种植那个!",
     "stage": 5,
     "context": "125"
   },
@@ -2641,7 +2641,7 @@
   {
     "key": "BANANA_DESCRIPTION",
     "original": "{KEYWORD}Usage: {STAT}tap to arm, tap on target tile to fire\\r\\n{KEYWORD}Tiering Unlock: {STAT}Banana Bonanza 6\\r\\n\\r\\n{FLAVOR}It's important to avoid stereotyping as much as possible. Stereotypes are often flat-out wrong. And also hurtful. But honestly ... Banana Launcher is TOTALLY bananas.",
-    "translation": "{KEYWORD}用法: {STAT}点击一次瞄准, 再点击一次发射\\r\\n{KEYWORD}阶级解锁: {STAT}BNN-6\\r\\n\\r\\n{FLAVOR}尽量避免刻板印象很重要. 因为这些刻板印象很多时候根本不正确, 而且还很伤人. 但是...香蕉火箭炮确实是香蕉.",
+    "translation": "{KEYWORD}用法: {STAT}点击一次瞄准, 再点击一次发射\\r\\n{KEYWORD}阶级解锁: {STAT}BNN-6\\r\\n\\r\\n{FLAVOR}尽量避免刻板印象很重要. 因为这些刻板印象很多时候根本不正确, 而且还很伤人. 但是 ... 香蕉火箭炮确实是香蕉.",
     "stage": 5,
     "context": "378"
   },
@@ -2725,7 +2725,7 @@
   {
     "key": "BLOOMERANG_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}stuns zombies for 0.15s upon hit\\r\\n{KEYWORD}Tiering Unlock: {STAT}Night Ancient Egypt 4\\r\\n\\r\\n{FLAVOR}As the first new member to your home defense team, Bloomerang enjoys long walkabouts with his friend, Koala Bear, and listening to his Bob Barley albums out back.",
-    "translation": "{KEYWORD}特点: {STAT}每一击都会使僵尸定身 0.15 秒\\r\\n{KEYWORD}阶级解锁: {STAT}AE-4\\r\\n\\r\\n{FLAVOR}作为为你保卫房子的第一个新成员, 回旋镖射手喜欢和他的朋友考拉熊一起长时间散步, 并在后面听他的鲍勃·巴利专辑.",
+    "translation": "{KEYWORD}特点: {STAT}每一击都会使僵尸定身0.15秒\\r\\n{KEYWORD}阶级解锁: {STAT}AE-4\\r\\n\\r\\n{FLAVOR}作为为你保卫房子的第一个新成员, 回旋镖射手喜欢和他的朋友考拉熊一起长时间散步, 并在后面听他的鲍勃·巴利专辑.",
     "stage": 5,
     "context": "390"
   },
@@ -3124,7 +3124,7 @@
   {
     "key": "BOWLINGBULB_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}can only detect targets 3 tiles in front\\r\\n{KEYWORD}Tiering Unlock: {STAT}Night Jurassic Marsh 1\\r\\n\\r\\n{FLAVOR}Guess which team has won the League Championship for five years running now? Team Bowling Bulb, that's who. They are on a ROLL. You and your pals think you got what it takes to stop 'em? Yeah, sure. Keep dreamin, bub.",
-    "translation": "{KEYWORD}特点: {STAT}前方3x1范围内有僵尸才会攻击\\r\\n{KEYWORD}阶级解锁: {STAT}JM-1\\r\\n\\r\\n{FLAVOR}猜猜哪个队直到现在蝉联五次冠军? 没错,就是保龄泡泡队. 他们现在如日中天. 你和你的队友以为可以有什么办法打败他们吗? 呵呵, 继续做梦去吧, 伙计.",
+    "translation": "{KEYWORD}特点: {STAT}前方3x1范围内有僵尸才会攻击\\r\\n{KEYWORD}阶级解锁: {STAT}JM-1\\r\\n\\r\\n{FLAVOR}猜猜哪个队直到现在蝉联五次冠军? 没错, 就是保龄泡泡队. 他们现在如日中天. 你和你的队友以为可以有什么办法打败他们吗? 呵呵, 继续做梦去吧, 伙计.",
     "stage": 5,
     "context": "447"
   },
@@ -3229,7 +3229,7 @@
   {
     "key": "CABBAGEPULT_DESCRIPTION",
     "original": "{FLAVOR}Cabbage-pult received his doctorate in pulting from Harvest University. He knows a thing or two about launching his way to the top. He also makes a mean soup.",
-    "translation": "{FLAVOR}卷心菜投手在丰收大学获得了博士学位. 它不仅对如何登顶略知一二, 还能做一道难吃的汤.",
+    "translation": "{FLAVOR}卷心菜投手在丰收大学获得了博士学位. 他对如何登顶略知一二. 他还做了一道难吃的汤.",
     "stage": 5,
     "context": "462"
   },
@@ -3257,7 +3257,7 @@
   {
     "key": "CACTUS_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}can only detect targets in a 4x3 area in front\\r\\n{KEYWORD}Special: {STAT}hides into the ground when there's a zombie nearby\\r\\n\\r\\n{FLAVOR}Things have really changed for Cactus lately. Book deals, movies, truck show appearances... she's just trying to focus on staying humble and launching thorns like always.",
-    "translation": "{KEYWORD}特点: {STAT}前方4x3范围内有僵尸才会攻击\\r\\n{KEYWORD}特点: {STAT}僵尸靠近时缩进地里\\r\\n\\r\\n{FLAVOR}仙人掌最近真的发生了变化. 交易图书, 电影, 卡车表演... 她只是想像往常一样专注于保持谦逊和发起挑战.",
+    "translation": "{KEYWORD}特点: {STAT}前方4x3范围内有僵尸才会攻击\\r\\n{KEYWORD}特点: {STAT}僵尸靠近时缩进地里\\r\\n\\r\\n{FLAVOR}仙人掌最近真的发生了变化. 交易图书, 电影, 卡车表演... 她只是想像往常一样专注于保持谦逊和发射尖刺.",
     "stage": 5,
     "context": "466"
   },
@@ -3719,7 +3719,7 @@
   {
     "key": "CHARDGUARD_DESCRIPTION",
     "original": "{FLAVOR}You might remember Chard Guard from his days in the WWF (that's World Wrestling Foliage). When he was in the ring - boy-oh-boy - he was something to behold! His moves! His style! His attitude! The crowd loved him. He was quite the star for a while there. Sure, those days are behind him. But if you watch carefully, when Chard Guard is fighting zombies, you'll see him use the wrestling move he made famous. The ol' Knock 'Em Dead maneuver - it gets 'em every time.",
-    "translation": "{FLAVOR}你也许还记得WWF里 (那是世界蔬叶摔角大赛) 甜菜护卫的闪光时代. 当时他获得 \\\"男仔中的男仔\\\"金腰带, 那真的是嗨翻全场, 万众瞩目! 他的动作! 他的战风! 他的气势! 大家爱死他了. 那个时候他确实是人气明星. 当然, 那也已经是之前的事情了. 但是如今如果你仔细观察, 当甜菜护卫和僵尸战斗的时候, 你会看到他使用的正是看家招式 - 摔跤动作. 称之为\\\"一击入魂\\\"的秘技 - 真是百用百中.",
+    "translation": "{FLAVOR}你也许还记得WWF里 (那是世界蔬叶摔角大赛) 甜菜护卫的闪光时代. 当时他获得 \\\"男仔中的男仔\\\" 金腰带, 那真的是嗨翻全场, 万众瞩目! 他的动作! 他的战风! 他的气势! 大家爱死他了. 那个时候他确实是人气明星. 当然, 那也已经是之前的事情了. 但是如今如果你仔细观察, 当甜菜护卫和僵尸战斗的时候, 你会看到他使用的正是看家招式 - 摔跤动作. 称之为 \\\"一击入魂\\\" 的秘技 - 真是百用百中.",
     "stage": 5,
     "context": "532"
   },
@@ -3866,7 +3866,7 @@
   {
     "key": "CITRON_DESCRIPTION",
     "original": "{KEYWORD}Tiering Unlock: {STAT}Ci-Tron 3\\r\\n\\r\\n{FLAVOR}As the owner and primary user of \\Vitamin C-U-Later\\\" 20-hour energy shots, Citron is always on and always ready for action. \\\"Let's make this happen!!\\\"\"",
-    "translation": "{KEYWORD}阶级解锁: {STAT}CTR-3\\r\\n\\r\\n{FLAVOR}作为维它命\\\"C-U-Later\\\" 的原始用户, 充能柚子总是随时准备着行动. \\\"让我们开始吧!!\\\"\"",
+    "translation": "{KEYWORD}阶级解锁: {STAT}CTR-3\\r\\n\\r\\n{FLAVOR}作为 \\\"维它命 C-U-Later\\\" 的原始用户, 充能柚子总是随时准备着行动. \\\"让我们开始吧!!\\\"",
     "stage": 5,
     "context": "553"
   },
@@ -4013,7 +4013,7 @@
   {
     "key": "COLDSNAPDRAGON_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}immune to frost\\r\\n\\r\\n{FLAVOR}Cold Snapdragon gets chilly when anyone brings up his cousin Snapdragon. \\We just view temperature very differently, and I'd really rather not discuss it,\\\" he says. Yikes.\"",
-    "translation": "{KEYWORD}特点: {STAT}免疫冰冻\\r\\n\\r\\n{FLAVOR}当有人提到他堂兄火龙草的时候, 冰龙草就会浑身散发出寒意. \\\"我们对温度的概念很不一样, 我不想讨论这个. \\\"他说. 哎呀.",
+    "translation": "{KEYWORD}特点: {STAT}免疫冰冻\\r\\n\\r\\n{FLAVOR}当有人提到他堂兄火龙草的时候, 冰龙草就会浑身散发出寒意. \\\"我们对温度的概念很不一样, 我不想讨论这个.\\\" 他说. 哎呀.",
     "stage": 5,
     "context": "574"
   },
@@ -4174,7 +4174,7 @@
   {
     "key": "CONTAINMINT_DESCRIPTION",
     "original": "{KEYWORD}Contain-mint Family Plants:\\r\\n{STAT}Blover\\r\\n{STAT}Dazey Chain\\r\\n{STAT}Draftodil\\r\\n{STAT}Grave Buster\\r\\n{STAT}Hurrikale\\r\\n{STAT}Magnet-shroom\\r\\n{STAT}Olive Pit\\r\\n{STAT}Sap-fling\\r\\n{STAT}Spring Bean\\r\\n{STAT}Stallia\\r\\n{STAT}Stunion\\r\\n{FLAVOR}\\Go easy, there,\\\" says Contain-mint. \\\"No need to be in such a rush all the time. Movement is totally overrated.\\\"\"",
-    "translation": "{KEYWORD}牵制薄荷家族植物:\\r\\n{STAT}三叶草\\r\\n{STAT}迷乱雏菊束\\r\\n{STAT}气流水仙\\r\\n{STAT}墓碑吞噬者\\r\\n{STAT}飓风甘蓝\\r\\n{STAT}磁力菇\\r\\n{STAT}油橄榄坑\\r\\n{STAT}树脂投手\\r\\n{STAT}弹簧豆\\r\\n{STAT}大丽花\\r\\n{STAT}眩晕洋葱\\r\\n{FLAVOR}\\\"放轻松,\\\" 限制薄荷说. \\\"没必要那么急. 有的时候, 慢功才能出细活.\\\"",
+    "translation": "{KEYWORD}牵制薄荷家族植物:\\r\\n{STAT}三叶草\\r\\n{STAT}迷乱雏菊\\r\\n{STAT}气流水仙\\r\\n{STAT}墓碑吞噬者\\r\\n{STAT}飓风甘蓝\\r\\n{STAT}磁力菇\\r\\n{STAT}油橄榄坑\\r\\n{STAT}树脂投手\\r\\n{STAT}弹簧豆\\r\\n{STAT}大丽花\\r\\n{STAT}眩晕洋葱\\r\\n{FLAVOR}\\\"放轻松,\\\" 限制薄荷说. \\\"没必要那么急. 有的时候, 慢功才能出细活.\\\"",
     "stage": 5,
     "context": "597"
   },
@@ -5280,7 +5280,7 @@
   {
     "key": "DANDELION_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}reacts to Hurrikale, releasing a barrage of seeds but will take a while to regenerate\\r\\n\\r\\n{FLAVOR}\\Look,\\\" says Dandelion, shaking his head. \\\"I'm not a leprechaun and I'm not a genie. You can blow my seeds off all you want, but I can't make your wish come true. I don't even know how that rumor got started.\\\"\"",
-    "translation": "{KEYWORD}特点: {STAT}飓风甘蓝可以让蒲公英释放大量种子炸弹, 但需要一段时间恢复\\r\\n\\r\\n{FLAVOR}\\\"看吧,\\\" 蒲公英摇着头说. \\\"我不是什么妖精, 也不是精灵. 你可以把我的种子吹掉, 但我没法让你的愿望成真. 我甚至不知道这个谣言是怎么开始的.\\\"\"",
+    "translation": "{KEYWORD}特点: {STAT}飓风甘蓝可以让蒲公英释放大量种子炸弹, 但需要一段时间恢复\\r\\n\\r\\n{FLAVOR}\\\"看吧,\\\" 蒲公英摇着头说. \\\"我不是什么妖精, 也不是精灵. 你可以把我的种子吹掉, 但我没法让你的愿望成真. 我甚至不知道这个谣言是怎么开始的.\\\"",
     "stage": 5,
     "context": "755"
   },
@@ -5910,14 +5910,14 @@
   {
     "key": "DAZEYCHAIN_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}release a stalling puff of gas at each stage\\r\\n\\r\\n{FLAVOR}Whenever they sneeze, nobody really knows whether it's their allergies to pollens acting up again, or they have an actual cold. Either way, others try to stay away because no one wants a face full of petals, making Spring Dazey Chain's least favorite season.",
-    "translation": "{KEYWORD}特点: {STAT}每进入一个阶段释放一次失速紫雾\\r\\n\\r\\n{FLAVOR}每当他们打喷嚏时, 没有人知道他们是花粉过敏发作了, 还是他们感冒了. 不论怎么样, 人们都试图远离他, 因为没人想要一脸的花粉, 这使春天成为眩晕雏菊最讨厌的季节.",
+    "translation": "{KEYWORD}特点: {STAT}每进入一个阶段释放一次失速紫雾\\r\\n\\r\\n{FLAVOR}每当他们打喷嚏时, 没有人知道他们是花粉过敏发作了, 还是他们感冒了. 不论怎么样, 人们都试图远离他, 因为没人想要一脸的花粉, 这使春天成为迷乱雏菊最讨厌的季节.",
     "stage": 5,
     "context": "845"
   },
   {
     "key": "DAZEYCHAIN_DESCRIPTION_HEADER",
     "original": "Dazey Chains fire multiple stalling petals around themselves. They also grow to become more powerful after firing enough petals.",
-    "translation": "眩晕雏菊会在他的周围发射能够减速僵尸的花瓣. 当发射足够多的花瓣之后就会变得更强.",
+    "translation": "迷乱雏菊会在他的周围发射能够减速僵尸的花瓣. 当发射足够多的花瓣之后就会变得更强.",
     "stage": 5,
     "context": "846"
   },
@@ -6106,7 +6106,7 @@
   {
     "key": "DEFEAT_BLOCKHEAD_REPEATABLE_DESC",
     "original": "Their headgear is simply too geometric!",
-    "translation": "它们的头饰简直不要太几何了!",
+    "translation": "他们的头饰简直不要太几何了!",
     "stage": 5,
     "context": "873"
   },
@@ -6120,7 +6120,7 @@
   {
     "key": "DEFEAT_BOOMBOX_REPEATABLE_DESC",
     "original": "Their emotions are too raw, too honest!",
-    "translation": "它们的情感太原始, 太诚实了!",
+    "translation": "他们的情感太原始, 太诚实了!",
     "stage": 5,
     "context": "875"
   },
@@ -6134,7 +6134,7 @@
   {
     "key": "DEFEAT_BREAKDANCER_REPEATABLE_DESC",
     "original": "Their fly moves are simply intolerable!",
-    "translation": "它们的飞行动作真让人难受!",
+    "translation": "他们的飞行动作真让人难受!",
     "stage": 5,
     "context": "877"
   },
@@ -6169,7 +6169,7 @@
   {
     "key": "DEFEAT_BUG_REPEATABLE_TITLE",
     "original": "Defeat Bug Zombies!",
-    "translation": "击杀昆虫僵尸!",
+    "translation": "击杀飞虫僵尸!",
     "stage": 5,
     "context": "882"
   },
@@ -6330,7 +6330,7 @@
   {
     "key": "DEFEAT_DARK_BUCKETHEAD_SCHEDULED_DESC",
     "original": "They'll never be knights with low-tier equipment like that!",
-    "translation": "它们永远不会成为那种只有低级装备的骑士!",
+    "translation": "他们永远不会成为那种只有低级装备的骑士!",
     "stage": 5,
     "context": "905"
   },
@@ -6358,7 +6358,7 @@
   {
     "key": "DEFEAT_DARK_GARGANTUAR_REPEATABLE_DESC",
     "original": "Their big stone hammers are clumsy and all too effective!",
-    "translation": "它们的大石锤笨拙但有效!",
+    "translation": "他们的大石锤笨拙但有效!",
     "stage": 5,
     "context": "909"
   },
@@ -6372,7 +6372,7 @@
   {
     "key": "DEFEAT_DARK_IMP_SCHEDULED_DESC",
     "original": "These monks ain't funky! Except for their smell.",
-    "translation": "这些僧侣一点都不时髦! 除了它们的气味.",
+    "translation": "这些僧侣一点都不时髦! 除了他们的气味.",
     "stage": 5,
     "context": "911"
   },
@@ -6729,7 +6729,7 @@
   {
     "key": "DEFEAT_FUTURE_GARGANTUAR_REPEATABLE_TITLE",
     "original": "Defeat Gargantuar Prime Zombies!",
-    "translation": "击杀未来巨人僵尸!",
+    "translation": "击杀精英巨人僵尸!",
     "stage": 5,
     "context": "962"
   },
@@ -7079,7 +7079,7 @@
   {
     "key": "DEFEAT_MODERN_BASICS_SCHEDULED_DESC",
     "original": "Their contemporary crimes may not be countenanced!",
-    "translation": "它们在当代犯下的罪行可不会得到包容!",
+    "translation": "他们在当代犯下的罪行可不会得到包容!",
     "stage": 5,
     "context": "1012"
   },
@@ -7121,7 +7121,7 @@
   {
     "key": "DEFEAT_MODERN_GARGANTUAR_SCHEDULED_DESC",
     "original": "They're really just big softies. Make sure they know that.",
-    "translation": "他们真的就只是一群大软蛋. 让它们瞧瞧自己有几斤几两.",
+    "translation": "他们真的就只是一群大软蛋. 让他们瞧瞧自己有几斤几两.",
     "stage": 5,
     "context": "1018"
   },
@@ -7191,7 +7191,7 @@
   {
     "key": "DEFEAT_PIANO_REPEATABLE_DESC",
     "original": "They can't even read sheet music!",
-    "translation": "它们连乐谱都看不懂!",
+    "translation": "他们连乐谱都看不懂!",
     "stage": 5,
     "context": "1028"
   },
@@ -7513,7 +7513,7 @@
   {
     "key": "DEFEAT_WIZARD_REPEATABLE_DESC",
     "original": "Their dark transformative powers must not be abided!",
-    "translation": "绝不能容忍它们的黑暗变形术!",
+    "translation": "绝不能容忍他们的黑暗变形术!",
     "stage": 5,
     "context": "1074"
   },
@@ -7786,7 +7786,7 @@
   {
     "key": "DINONIP_DESCRIPTION",
     "original": "{KEYWORD}Usage: {STAT}affects all dinosaurs in a lane\\r\\n{FLAVOR}Perfume-shrooms emit a pure, concentrated mist of aerosolized love.",
-    "translation": "{KEYWORD}用途: {STAT}影响一整行的恐龙\\r\\n{FLAVOR}香水蘑菇会放出纯净浓缩的爱情之雾",
+    "translation": "{KEYWORD}用途: {STAT}影响一整行的恐龙\\r\\n{FLAVOR}香水菇会放出纯净浓缩的爱情之雾",
     "stage": 5,
     "context": "1113"
   },
@@ -7919,7 +7919,7 @@
   {
     "key": "DUSKLOBBER_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}powered Dusk Lobbers lob buds down 3 lanes instead\\r\\n{KEYWORD}Special: {STAT}can't be eaten by most zombies\\r\\n{KEYWORD}Special: {STAT}immune to frost\\r\\n{KEYWORD}Tiering Unlock: {STAT}The Concealment 3\\r\\n\\r\\n{FLAVOR}Lobbing comes easily to Dusk Lobber, but that's only because she's had extensive training and really enjoys parabolas.",
-    "translation": "{KEYWORD}特点: {STAT}被强化的幽暮投手可以向三条路同时发动攻击\\r\\n{KEYWORD}特点: {STAT}不会被僵尸啃食(会被砸击, 碾压)\\r\\n{KEYWORD}特点: {STAT}免疫冰冻\\r\\n{KEYWORD}Tiering Unlock: {STAT}The Concealment 3\\r\\n\\r\\n{FLAVOR}投掷东西对幽暮投手来说再容易不过, 但这仅仅是因为她接受了大量的训练, 并且非常喜欢抛物线.",
+    "translation": "{KEYWORD}特点: {STAT}被强化的幽暮投手可以向三条路同时发动攻击\\r\\n{KEYWORD}特点: {STAT}不会被僵尸啃食 (会被砸击, 碾压)\\r\\n{KEYWORD}特点: {STAT}免疫冰冻\\r\\n{KEYWORD} 阶级解锁: {STAT}SDL-3\\r\\n\\r\\n{FLAVOR}投掷东西对幽暮投手来说再容易不过, 但这仅仅是因为她接受了大量的训练, 并且非常喜欢抛物线.",
     "stage": 5,
     "context": "1132"
   },
@@ -8248,7 +8248,7 @@
   {
     "key": "ELECTRICCURRANT_TOOLTIP",
     "original": "Creates electric fences & zaps eating zombies",
-    "translation": "制造电场并电击啃食它的僵尸",
+    "translation": "制造电场并电击啃食他的僵尸",
     "stage": 5,
     "context": "1179"
   },
@@ -8290,14 +8290,14 @@
   {
     "key": "ELECTRICPEASHOOTER_DESCRIPTION",
     "original": "{FLAVOR}As the latest member of the Electric Family, he's all about puns and jokes. But in battle, he's all serious and concentrated. To him, their resistance is futile, and they'd better be shocked about his ability. But, at the end of the day, he just wants to get back to his ohm sweet home, eat some light snacks and learn watt are the current jokes.",
-    "translation": "{FLAVOR}作为电系家族的最新成员, 他热衷于双关语和笑话. 但在战斗中, 他非常认真专注. 对他来说, 僵尸的反抗是徒劳的, 他们最好对他的能力感到震惊. 但是, 在一天结束时, 他只想回到它甜蜜的家, 吃一些电力零食, 学习一些电流笑话.",
+    "translation": "{FLAVOR}作为电系家族的最新成员, 他热衷于双关语和笑话. 但在战斗中, 他非常认真专注. 对他来说, 僵尸的反抗是徒劳的, 他们最好对他的能力感到震惊. 但是, 在一天结束时, 他只想回到他甜蜜的家, 吃一些电力零食, 学习一些电流笑话.",
     "stage": 5,
     "context": "1185"
   },
   {
     "key": "ELECTRICPEASHOOTER_DESCRIPTION_HEADER",
     "original": "Electric Peas fire pea-like orbs that zap all nearby zombies until they collide.",
-    "translation": "电能豌豆发射像豌豆一样的电球, 摧毁附近所有僵尸, 直到它们发生碰撞.",
+    "translation": "电能豌豆发射像豌豆一样的电球, 摧毁附近所有僵尸, 直到他们发生碰撞.",
     "stage": 5,
     "context": "1186"
   },
@@ -8325,7 +8325,7 @@
   {
     "key": "EMPEA_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}also stops all zombies faster than 160% speed\\r\\n{KEYWORD}Special: {STAT}cannot be imitated\\r\\n\\r\\n{FLAVOR}Has grown tired of people lazily calling him E.M. Pea. \\There's a C and H there for a reason people! And I've got the stone to prove it!\\\"\"",
-    "translation": "{KEYWORD}特点: {STAT}还能停止所有速度超过160%的僵尸\\r\\n{KEYWORD}特点: {STAT}不能被模仿\\r\\n\\r\\n{FLAVOR}他已经厌倦了人们叫他E.M.Pea. 明明后面还有个C和H! 我有足够的证据来证明这一点!\"",
+    "translation": "{KEYWORD}特点: {STAT}还能停止所有速度超过160%的僵尸\\r\\n{KEYWORD}特点: {STAT}不能被模仿\\r\\n\\r\\n{FLAVOR}他已经厌倦了人们叫他 E.M.Pea. \\\"明明后面还有个 C 和 H! 我有足够的证据来证明这一点!\\\"",
     "stage": 5,
     "context": "1190"
   },
@@ -8801,21 +8801,21 @@
   {
     "key": "ENDURIAN_DESCRIPTION",
     "original": "{KEYWORD}Tiering Unlock: {STAT}Night Wild West 2\\r\\n\\r\\n{FLAVOR}\\When other plants talk about me, they say I'm too gruff. They say I'm difficult to approach, that I'm afraid to let others get too close to me. Also, I smell terrible,\\\" said Endurian. But deep down inside, he knows that he's so much more than that. He's also short-tempered.\"",
-    "translation": "{KEYWORD}阶级解锁: {STAT}WW-2\\r\\n\\r\\n{FLAVOR}\\\"当别人提到我的时候, 他们说我太难以接近了, 因为我总是很害怕别人的接近. 并且, 我的气味有点难闻. \\\"榴莲这么说着. 但是实际上, 他知道它比自己说的更糟糕: 他的脾气非常暴躁.",
+    "translation": "{KEYWORD}阶级解锁: {STAT}WW-2\\r\\n\\r\\n{FLAVOR}\\\"当别人提到我的时候, 他们说我太难以接近了, 因为我总是很害怕别人的接近. 并且, 我的气味有点难闻.\\\" 榴莲这么说着. 但是实际上, 他知道他比自己说的更糟糕: 他的脾气也非常暴躁.",
     "stage": 5,
     "context": "1258"
   },
   {
     "key": "ENDURIAN_DESCRIPTION_HEADER",
     "original": "Endurians are defensive plants that deal damage to zombies attacking them.",
-    "translation": "榴莲阻挡并伤害靠近它的僵尸.",
+    "translation": "榴莲阻挡并伤害靠近他的僵尸.",
     "stage": 5,
     "context": "1259"
   },
   {
     "key": "ENDURIAN_TOOLTIP",
     "original": "Defends while dealing damage to zombies attacking it.",
-    "translation": "阻挡并伤害靠近它的僵尸.",
+    "translation": "阻挡并伤害靠近他的僵尸.",
     "stage": 5,
     "context": "1260"
   },
@@ -8899,7 +8899,7 @@
   {
     "key": "ESCAPEROOT_DESCRIPTION",
     "original": "{KEYWORD}Usage: {STAT}tap Escape Root and another plant to swap them\\r\\n{STAT}NOTE: {STAT}cannot swap with endangered plants\\r\\n\\r\\n{FLAVOR}The other plants put on a big surprise party for Escape Root last week, but he did his thing and suddenly it was a surprise party... FOR THEM!",
-    "translation": "{KEYWORD}用途: {STAT} 点击逃脱树根和另一个植物并交换他们\\r\\n{STAT}注意: {STAT}无法与濒危的植物交换\\r\\n\\r\\n{FLAVOR}上周, 其它植物为逃脱树根举办了一场充满惊喜的派对, 但逃脱树根使用了它的能力, 于是突然间又多了场惊喜派对... 但惊喜对象是其它植物!",
+    "translation": "{KEYWORD}用途: {STAT} 点击逃脱树根和另一个植物并交换他们\\r\\n{STAT}注意: {STAT}无法与濒危的植物交换\\r\\n\\r\\n{FLAVOR}上周, 其他植物为逃脱树根举办了一场充满惊喜的派对, 但逃脱树根使用了他的能力, 于是突然间又多了场惊喜派对... 但惊喜对象是其他植物!",
     "stage": 5,
     "context": "1272"
   },
@@ -8927,7 +8927,7 @@
   {
     "key": "ESCAPEROOT_SOS_DESCRIPTION",
     "original": "{KEYWORD}Usage: {STAT}tap Escape Root and another plant to swap them\\r\\n{STAT}NOTE: {STAT}cannot swap with endangered plants\\r\\n\\r\\n{FLAVOR}The other plants put on a big surprise party for Escape Root last week, but he did his thing and suddenly it was a surprise party... FOR THEM!",
-    "translation": "{KEYWORD}用途: {STAT} 点击逃脱树根和另一个植物并交换他们\\r\\n{STAT}注意: {STAT}无法与濒危的植物交换\\r\\n\\r\\n{FLAVOR}上周, 其它植物为逃脱树根举办了一场充满惊喜的派对, 但逃脱树根使用了它的能力, 于是突然间又多了场惊喜派对... 但惊喜对象是其它植物!",
+    "translation": "{KEYWORD}用途: {STAT} 点击逃脱树根和另一个植物并交换他们\\r\\n{STAT}注意: {STAT}无法与濒危的植物交换\\r\\n\\r\\n{FLAVOR}上周, 其他植物为逃脱树根举办了一场充满惊喜的派对, 但逃脱树根使用了他的能力, 于是突然间又多了场惊喜派对... 但惊喜对象是其他植物!",
     "stage": 5,
     "context": "1276"
   },
@@ -9011,7 +9011,7 @@
   {
     "key": "EXPLODEONUT_DESCRIPTION",
     "original": "{FLAVOR}\\I was once the champion of the League Championship in bowling, that was five years ago...\\\", says Explode-O-Nut, \\\"and then, the Bulb team from the Northern Shores showed up. I kept trying, harder and harder\\\", but all that effort got him nowhere near to them. \\\"We haven't really talked much since we met each other. They are good kids, though\\\".\"",
-    "translation": "{FLAVOR}我曾经是保龄球锦标赛冠军, 但那是五年前的事了... 爆炸坚果说, \\\"在那之后, 北海岸的保龄泡泡团队出现了. 我一直在努力, 越来越努力, 但所有的努力都让我离它们更远. 自从我们认识之后, 我们就没怎么说话了. 不过他们是好孩子.\\\"",
+    "translation": "{FLAVOR}我曾经是保龄球锦标赛冠军, 但那是五年前的事了... 爆炸坚果说, \\\"在那之后, 北海岸的保龄泡泡团队出现了. 我一直在努力, 越来越努力, 但所有的努力都让我离他们更远. 自从我们认识之后, 我们就没怎么说话了. 不过他们是好孩子.\\\"",
     "stage": 5,
     "context": "1288"
   },
@@ -9487,7 +9487,7 @@
   {
     "key": "FIREPEASHOOTER_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}has a chance to shoot plasma peas that do more damage\\r\\n{KEYWORD}Special: {STAT}immune to frost, warms nearby plants\\r\\n{KEYWORD}Tiering Unlock: {STAT}Spring Season 5\\r\\n\\r\\n{FLAVOR}Fire Pea knows that what she does looks exciting. But working with an open flame is serious and, more importantly, dangerous business.  That's why, in her spare time, she talks to children about the importance of fire safety. \\I'm a trained professional,\\\" she explains. \\\"Don't try this at home, kids.\\\" \"",
-    "translation": "{KEYWORD}特点: {STAT}有概率发射伤害更高的蓝火豌豆\\r\\n{KEYWORD}特点: {STAT}免疫冰冻, 温暖周围的植物\\r\\n{KEYWORD}阶级解锁: {STAT}SPB-5\\r\\n\\r\\n{FLAVOR}火焰豌豆射手清楚当她激动起来会是什么样子. 但是和 \\\"喷火\\\" 打交道可不是闹着玩的, 更重要的是, 这是危险的工作. 所以她闲暇时, 总是对孩子们说用火安全. \\\"我受过专业的训练.\\\" 她解释说, \\\"孩子们, 别在家里玩火.\\\"\"",
+    "translation": "{KEYWORD}特点: {STAT}有概率发射伤害更高的蓝火豌豆\\r\\n{KEYWORD}特点: {STAT}免疫冰冻, 温暖周围的植物\\r\\n{KEYWORD}阶级解锁: {STAT}SPB-5\\r\\n\\r\\n{FLAVOR}火焰豌豆射手清楚当她激动起来会是什么样子. 但是和 \\\"喷火\\\" 打交道可不是闹着玩的, 更重要的是, 这是危险的工作. 所以她闲暇时, 总是对孩子们说用火安全. \\\"我受过专业的训练.\\\" 她解释说, \\\"孩子们, 别在家里玩火.\\\"",
     "stage": 5,
     "context": "1356"
   },
@@ -9655,7 +9655,7 @@
   {
     "key": "GARLIC_DESCRIPTION_HEADER",
     "original": "Garlics divert zombies that ate them into other lanes.",
-    "translation": "大蒜把啃食它的僵尸驱赶到相邻路.",
+    "translation": "大蒜把啃食他的僵尸驱赶到相邻路.",
     "stage": 5,
     "context": "1380"
   },
@@ -9711,7 +9711,7 @@
   {
     "key": "GHOSTPEPPER_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}immune to frost\\r\\n{KEYWORD}Special: {STAT}can hover above ground or water and phase through a few grid items\\r\\n{KEYWORD}Tiering Unlock: {STAT}Night Lost City 14\\r\\n\\r\\n{FLAVOR}You might not know it looking at her, but Ghost Pepper didn't always wear that white sheet everywhere she went. She first put it on as a lark for a Halloween party one year. Everyone else had these elaborate costumes, and she thought it would be funny to dress like a plain ol' ghost. But she fell in love with that costume. It spoke to her. She'd found her calling.",
-    "translation": "{KEYWORD}特点: {STAT}免疫冰冻\\r\\n{KEYWORD}特点: {STAT}能够在地面货水面上悬浮, 并且能够恐吓一整行僵尸\\r\\n{KEYWORD}解锁阶级: {STAT}LC-14\\r\\n{FLAVOR}看她的样子你可能不知道, 但幽灵辣椒并不是走到哪里都穿着白色床单. 她第一次戴上它是为了参加一年的万圣节派对. 其他人都穿了精心准备的服装, 但她觉得穿的像一个普通的鬼魂会很有趣. 但她爱上了这张床单. 它和她说话了. 她找到了自己的使命.",
+    "translation": "{KEYWORD}特点: {STAT}免疫冰冻\\r\\n{KEYWORD}特点: {STAT}能够在地面货水面上悬浮, 并且能够恐吓一整行僵尸\\r\\n{KEYWORD}解锁阶级: {STAT}LC-14\\r\\n\\r\\n{FLAVOR}看着她的样子, 你可能没有多少印象, 幽灵甜椒并不是次次穿着那条白床单逛遍每一处. 她第一次穿上它是在一年的万圣节派对上. 其他人都身着精致的节日服装, 而她觉得穿得像个普通的鬼魂会很有意思. 但她从那以后爱上了那套服装. 她与那件服装坠入了爱河, 她似乎找到了她自己的使命.",
     "stage": 5,
     "context": "1388"
   },
@@ -9753,7 +9753,7 @@
   {
     "key": "GLOOMVINE_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}can't be eaten by most zombies\\r\\n\\r\\n{FLAVOR}Despite their gloomy exterior, Burple Bloom are not really a shadow plant, and it irks them whenever people asked about their \\siblings\\\". The whole shadow family annoys them greatly anyway and they will stay as far away from them as possible.\"",
-    "translation": "{KEYWORD}特点: {STAT}不会被大多数僵尸吃掉\\r\\n\\r\\n{FLAVOR}尽管他们外表阴郁, 但他们并不是真正的暗影植物, 每当人们问起他们的 \"兄弟姐妹\" 时, 他们都会感到厌烦. 只要有人把他和暗影家族相提并论都让他们大为恼火, 他们会尽可能地远离那些家伙. ",
+    "translation": "{KEYWORD}特点: {STAT}不会被大多数僵尸吃掉\\r\\n\\r\\n{FLAVOR}尽管他们外表阴郁, 但他们并不是真正的暗影植物, 每当人们问起他们的 \\\"兄弟姐妹\\\" 时, 他们都会感到厌烦. 只要有人把他和暗影家族相提并论都让他们大为恼火, 他们会尽可能地远离那些家伙.",
     "stage": 5,
     "context": "1394"
   },
@@ -9781,7 +9781,7 @@
   {
     "key": "GOLDBLOOM_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}cannot be imitated\\r\\n\\r\\n{FLAVOR}\\Your botanists were so preoccupied with whether they could,\\\" says Gold Bloom, about nothing and to nobody in particular, \\\"they didn't stop to think if they should.\\\"\"",
-    "translation": "{KEYWORD}特点: {STAT}不能被模仿\\r\\n\\r\\n{FLAVOR}\"你们的植物学家如此全神贯注的研究他们是否可以这样做\" 黄金蓓蕾说, 不关任何事, 也不针对任何人, \"他们没有停下来想一想他们是否应该这样做.\"",
+    "translation": "{KEYWORD}特点: {STAT}不能被模仿\\r\\n\\r\\n{FLAVOR}\\\"你们的植物学家如此全神贯注的研究他们是否可以这样做,\\\" 黄金蓓蕾说, 不关任何事, 也不针对任何人, \\\"他们没有停下来想一想他们是否应该这样做.\\\"",
     "stage": 5,
     "context": "1398"
   },
@@ -9809,7 +9809,7 @@
   {
     "key": "GOLDLEAF_DESCRIPTION",
     "original": "{FLAVOR}\\For a small initial investment, you too can generate huge sun,\\\" says Gold Leaf. She's a firm believer in solar markets.\"",
-    "translation": "{FLAVOR}\"一笔小小的投资, 也能换来巨大的收获.\" 黄金叶说. 因为她是太阳能市场的坚定信徒.",
+    "translation": "{FLAVOR}\\\"一笔小小的投资, 也能换来巨大的收获.\\\" 黄金叶说. 因为她是太阳能市场的坚定信徒.",
     "stage": 5,
     "context": "1402"
   },
@@ -9914,7 +9914,7 @@
   {
     "key": "GRAPESHOT_DESCRIPTION",
     "original": "{FLAVOR}\\Spa-BOOM!\\\" enthuses Grapeshot. \\\"You like that? I got a million of 'em! Wa-POW!  Buh-BLAM! Za-... um... Ker-... hmmm... Okay, I guess I've only got the three.\\\"\"",
-    "translation": "{FLAVOR}\\\"啪, 轰! \\\" 爆裂葡萄热情似火. \\\"你喜欢这声儿吗? 我有上百种爆炸声音! 哇, 砰! 蚌, 砰! 炸... 额... 吭... 呃呃呃... 好吧, 我只有三种这样的声音.\\\"",
+    "translation": "{FLAVOR}\\\"啪, 轰!\\\" 爆裂葡萄热情似火. \\\"你喜欢这声儿吗? 我有上百种爆炸声音! 哇, 砰! 蚌, 砰! 炸... 额... 吭... 呃呃呃... 好吧, 我只有三种这样的声音.\\\"",
     "stage": 5,
     "context": "1417"
   },
@@ -9942,7 +9942,7 @@
   {
     "key": "GRAVEBUSTER_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}deals damage to nearby grid items when finished\\r\\n{KEYWORD}Special: {STAT}can be planted on water\\r\\n{KEYWORD}Tiering Unlock: {STAT}Daytime Dark Ages 6\\r\\n\\r\\n{FLAVOR}He may appear spiky or ill-tempered, but Grave Buster just wants to give you a big hug. Unless you're a puppy. He's terrified of those.",
-    "translation": "{KEYWORD}特点: {STAT}吃完后对附近的障碍物造成伤害\\r\\n{KEYWORD}特点: {STAT}可以种在水上\\r\\n{KEYWORD}阶级解锁: {STAT}DA-6\\r\\n\\r\\n{FLAVOR}尽管看上去外表凶恶, 脾气暴躁, 但噬碑藤其实只是想给你个温柔的拥抱. 除非你是一只小狗. 没错, 它怕狗.",
+    "translation": "{KEYWORD}特点: {STAT}吃完后对附近的障碍物造成伤害\\r\\n{KEYWORD}特点: {STAT}可以种在水上\\r\\n{KEYWORD}阶级解锁: {STAT}DA-6\\r\\n\\r\\n{FLAVOR}尽管看上去外表凶恶, 脾气暴躁, 但噬碑藤其实只是想给你个温柔的拥抱. 除非你是一只小狗. 没错, 他怕狗.",
     "stage": 5,
     "context": "1421"
   },
@@ -10019,7 +10019,7 @@
   {
     "key": "GUACODILE_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}can be planted on water\\r\\n\\r\\n{FLAVOR}Ask Guacodile to tell you a little bit about himself and he'll give you a wry smile. \\I'm a Guacodile. I've got a bite like a bear trap. Heck, I've been known to walk on water. I'm pretty much the whole enchilada.\\\" Yeah, the guy is a bit of a braggart but he's good at what he does.\"",
-    "translation": "{KEYWORD}特点: {STAT}可以种在水上\\r\\n\\r\\n{FLAVOR}问起鳄梨自己的事情, 他就会呵呵道: \\\"我是一只鳄梨. 我的咬合力就像捕熊器一样. 见鬼, 人们说我能在水上漂. 我基本上就是整个墨西哥卷饼. \\\"是的, 这家伙有点吹牛, 但他擅长他的工作.",
+    "translation": "{KEYWORD}特点: {STAT}可以种在水上\\r\\n\\r\\n{FLAVOR}问起鳄梨自己的事情, 他就会呵呵道: \\\"我是一只鳄梨. 我的咬合力就像捕熊器一样. 见鬼, 人们说我能在水上漂. 我基本上就是整个墨西哥卷饼.\\\" 是的, 这家伙有点吹牛, 但他擅长他的工作.",
     "stage": 5,
     "context": "1432"
   },
@@ -10054,7 +10054,7 @@
   {
     "key": "GUMNUT_DESCRIPTION_HEADER",
     "original": "Gumnuts pop sticky gum onto zombies, pinning them in place and causing them to block other zombies behind them.",
-    "translation": "粘液桉果会把粘稠的口香糖粘在僵尸身上, 让它们定在原地, 挡住身后的其他僵尸.",
+    "translation": "粘液桉果会把粘稠的口香糖粘在僵尸身上, 让他们定在原地, 挡住身后的其他僵尸.",
     "stage": 5,
     "context": "1437"
   },
@@ -10166,7 +10166,7 @@
   {
     "key": "HOCUS_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}attack with one big pellet from the front when planted on other columns\\r\\n\\r\\n{FLAVOR}Being a magician and doing actual magic are things some simple-minded people can never truly grasp, and Chrocus HATES those people. He and Witch Hazel bond over this fact, and god bless anyone who invokes both of their ires - they will never find one whole pair of socks ever again.",
-    "translation": "{KEYWORD}特点: {STAT}每次传送时会同时造成伤害\\r\\n\\r\\n{FLAVOR}\\\"仔细看.\\\" 魔术番红花说: \\\"我袖子里藏有任何东西吗? 我有袖子吗? 没有吧? 那么, 准备好, 我会永远摧毁你那对于空间位置 - 古朴而又过时的观念!!!\\\"",
+    "translation": "{KEYWORD}特点: {STAT}每次传送时会同时造成伤害\\r\\n\\r\\n{FLAVOR}作为一个魔术师, 做真正的魔术是一些头脑简单的人永远无法真正理解的事情, 而藏红花讨厌这些人. 他和金缕梅女巫对这一事实感同身受, 上帝保佑任何召唤他们两个兄弟的人 - 他们再也找不到一整双袜子了.",
     "stage": 5,
     "context": "1453"
   },
@@ -10194,7 +10194,7 @@
   {
     "key": "HOLLYKNIGHT_DESCRIPTION",
     "original": "{KEYWORD}Usage: {STAT}tap to arm, tap on target tile to fire\\r\\n{KEYWORD}{STAT}Note: {STAT}Holly leaves cannot be revived with Intensive Carrot\\r\\n\\r\\n{FLAVOR}Holly Barrier would like to advise folks not to eat his berries. \\It's rude to eat somebody's berries without asking,\\\" he says. \\\"In addition, they are highly toxic.\\\"\"",
-    "translation": "{KEYWORD}用途: {STAT}点击一次瞄准, 再点击一次发射\\r\\n{KEYWORD}{STAT}注意: {STAT}冬青叶不响应复活萝卜\\r\\n\\r\\n{FLAVOR}冬青骑士建议大家不要吃它的浆果. 他说, \\\"不经询问就吃别人的浆果是不礼貌的. 另外, 他们是剧毒的. \\\"",
+    "translation": "{KEYWORD}用途: {STAT}点击一次瞄准, 再点击一次发射\\r\\n{KEYWORD}{STAT}注意: {STAT}冬青叶不响应复活萝卜\\r\\n\\r\\n{FLAVOR}冬青骑士建议大家不要吃他的浆果. 他说: \\\"不经询问就吃别人的浆果是不礼貌的. 另外, 他们是剧毒的.\\\"",
     "stage": 5,
     "context": "1457"
   },
@@ -10369,7 +10369,7 @@
   {
     "key": "HYPNOSHROOM_DESCRIPTION",
     "original": "{FLAVOR}Hypno-shroom has no trouble persuading zombies to fight on behalf of the plants. But he has yet to convince one to cluck like a chicken. \\One day,\\\" he says. \\\"One day.\\\"\"",
-    "translation": "{FLAVOR}魅惑菇很容易就能说服僵尸为植物而战, 但它却还没能让任何一只僵尸误以为自身是只鸡并咯咯叫. \\\"会有那么一天的,\\\" 它说, \\\"一定会有那么一天的.\\\"",
+    "translation": "{FLAVOR}魅惑菇很容易就能说服僵尸为植物而战, 但他却还没能让任何一只僵尸误以为自身是只鸡并咯咯叫. \\\"会有那么一天的,\\\" 他说, \\\"一定会有那么一天的.\\\"",
     "stage": 5,
     "context": "1482"
   },
@@ -10383,7 +10383,7 @@
   {
     "key": "HYPNOSHROOM_TOOLTIP",
     "original": "Hypnotizes zombies that eat it",
-    "translation": "魅惑吃完它的僵尸",
+    "translation": "魅惑吃完他的僵尸",
     "stage": 5,
     "context": "1484"
   },
@@ -10474,7 +10474,7 @@
   {
     "key": "ICEBURG_DESCRIPTION_HEADER",
     "original": "Iceberg Lettuces freeze zombies when stepped on.",
-    "translation": "冰冻生菜可以冰冻踩到它的僵尸",
+    "translation": "冰冻生菜可以冰冻踩到她的僵尸",
     "stage": 5,
     "context": "1497"
   },
@@ -10488,7 +10488,7 @@
   {
     "key": "ICEBURG_TOOLTIP",
     "original": "Freezes zombies that step on it",
-    "translation": "冰冻踩到它的僵尸",
+    "translation": "冰冻踩到她的僵尸",
     "stage": 5,
     "context": "1499"
   },
@@ -10565,7 +10565,7 @@
   {
     "key": "IDENTITY_RECONCILIATION_WARNING_TEXT",
     "original": "Are you sure you would like to proceed with this identity? This will be the permanent identity associated with you. All Arena Winstreak, Arena League, and Adventure progress will be lost on other identities.",
-    "translation": "你确定想要用这个身份来进行游戏吗?一旦确认,这个身份将会永远和您绑定.其它身份的竞技场连胜数,竞技场段位,甚至冒险进度都将会永远丢失.",
+    "translation": "你确定想要用这个身份来进行游戏吗? 一旦确认, 这个身份将会永远和您绑定. 其他身份的竞技场连胜数, 竞技场段位, 甚至冒险进度都将会永远丢失.",
     "stage": 5,
     "context": "1510"
   },
@@ -10628,14 +10628,14 @@
   {
     "key": "IMPPEAR_DESCRIPTION",
     "original": "\\r\\n{FLAVOR}Imp Pear impairs zombies. Of course, Imps don't appreciate this characterization, but who cares?",
-    "translation": "\\r\\n{FLAVOR}小鬼梨可以让僵尸变弱. 当然, 小鬼僵尸才不喜欢这种设定. 不过... 谁管它们啊.",
+    "translation": "\\r\\n{FLAVOR}小鬼梨可以让僵尸变弱. 当然, 小鬼僵尸才不喜欢这种设定. 不过... 谁管他们啊.",
     "stage": 5,
     "context": "1519"
   },
   {
     "key": "IMPPEAR_DESCRIPTION_HEADER",
     "original": "When zombies eat Imp Pears, they become Imps. When Imps eat Imp Pears, they are destroyed, releasing stunning gas.",
-    "translation": "吃了小鬼梨的僵尸会变成小鬼僵尸.而如果小鬼僵尸吃了小鬼梨,它们会释放肠气并死亡.",
+    "translation": "吃了小鬼梨的僵尸会变成小鬼僵尸. 而如果小鬼僵尸吃了小鬼梨, 他们会释放肠气并死亡.",
     "stage": 5,
     "context": "1520"
   },
@@ -10810,7 +10810,7 @@
   {
     "key": "INTENSIVECARROT_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}can be planted on water\\r\\n\\r\\n{FLAVOR}\\How do I revive defeated plants?\\\" asks Intensive Carrot. \\\"In a word: vitamins. Vitamins and sorcery.\\\"\"",
-    "translation": "{KEYWORD}特点: {STAT}可以种在水上\\r\\n\\r\\n{FLAVOR}\\\"我怎么复活死去的植物? \\\"复活萝卜问道. \\\"简单来说, 就是用维生素. 维生素加上魔法.\\\"",
+    "translation": "{KEYWORD}特点: {STAT}可以种在水上\\r\\n\\r\\n{FLAVOR}\\\"我怎么复活死去的植物?\\\" 复活萝卜问道. \\\"简单来说, 就是用维生素. 维生素加上魔法.\\\"",
     "stage": 5,
     "context": "1545"
   },
@@ -10838,7 +10838,7 @@
   {
     "key": "JACKOLANTERN_DESCRIPTION",
     "original": "{KEYWORD}Usage: {STAT}tap for a single flame burst for 10s\\r\\n{KEYWORD}Special: {STAT}immune to frost, warms nearby plants\\r\\n{KEYWORD}{STAT}Note: {STAT}tap and hold will extinguish his flame more quickly\\r\\n\\r\\n{FLAVOR}\\Boo! Mwah-ha-ha-haaaaah,\\\" opines Jack O' Lantern. Oh, yes. Things and stuff are scheduled to be seriously spooky when he's around. Count on it.\"",
-    "translation": "{KEYWORD}用途: {STAT}点击一下以喷射火焰, 持续10秒\\r\\n{KEYWORD}特点: {STAT}免疫冰冻, 温暖周围的植物\\r\\n{KEYWORD}{STAT}注意: {STAT}点击再长按会快速熄火\\r\\n\\r\\n{FLAVOR}\\\"蹦! 哇-哈-哈-哈!\\\", 杰克南瓜灯说. 哦, 是的. 他在的时候, 事情都被安排得很诡异. 相信我.",
+    "translation": "{KEYWORD}用途: {STAT}点击一下以喷射火焰, 持续10秒\\r\\n{KEYWORD}特点: {STAT}免疫冰冻, 温暖周围的植物\\r\\n{KEYWORD}{STAT}注意: {STAT}点击再长按会快速熄火\\r\\n\\r\\n{FLAVOR}\\\"蹦! 哇-哈-哈-哈,\\\" 杰克南瓜灯说. 哦, 是的. 他在的时候, 事情都被安排得很诡异. 相信我.",
     "stage": 5,
     "context": "1549"
   },
@@ -10866,7 +10866,7 @@
   {
     "key": "JALAPENO_DESCRIPTION",
     "original": "{FLAVOR}This jalapeno is one spicy character by day and The Macrame Vigilante by night. You might be wondering what his secret weapon is... it's knots.",
-    "translation": "\"{FLAVOR}在白天它是火爆辣椒, 夜晚它将变身成为超级英雄 - 缝纫侠. 他的绝招是打蝴蝶结.",
+    "translation": "{FLAVOR}在白天它是火爆辣椒, 夜晚他将变身成为超级英雄 - 缝纫侠. 他的绝招是... 打蝴蝶结.",
     "stage": 5,
     "context": "1553"
   },
@@ -11636,7 +11636,7 @@
   {
     "key": "KERNELPULT_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}50% chance to fling butter which immobilizes zombies for 4s\\r\\n{KEYWORD}Tiering Unlock: {STAT}Daytime Dark Ages 3\\r\\n\\r\\n{FLAVOR}While working as an usher at the local movieplex, he saw \\Fried Green Tomatoes\\\" and found his higher calling. He packed up his husks, his kernels, his butter, and enlisted.\"",
-    "translation": "{KEYWORD}特点: {STAT}有50%概率投出定身僵尸4秒的黄油\\r\\n{KEYWORD}阶级解锁: {STAT}DA-3\\r\\n\\r\\n{FLAVOR}玉米投手原来是电影院的引座员, 不过自从看了 \\\"油炸绿番茄\\\" 这个电影后, 他发现自己是天生演戏的料, 于是他带着它的黄油和玉米粒, 向演艺圈进军.",
+    "translation": "{KEYWORD}特点: {STAT}有50%概率投出定身僵尸4秒的黄油\\r\\n{KEYWORD}阶级解锁: {STAT}DA-3\\r\\n\\r\\n{FLAVOR}玉米投手原来是电影院的引座员, 不过自从看了 \\\"油炸绿番茄\\\" 这个电影后, 他发现自己是天生演戏的料, 于是他带着他的黄油和玉米粒, 向演艺圈进军.",
     "stage": 5,
     "context": "1663"
   },
@@ -11713,7 +11713,7 @@
   {
     "key": "LASER_BEAN_DESCRIPTION",
     "original": "{KEYWORD}Tiering Unlock: {STAT}High AP Berry 5\\r\\n\\r\\n{FLAVOR}After a laser eye surgery had gone horribly right, Laser Bean gained a sense of purpose and a new-found affinity for competitive staring contests.",
-    "translation": "{KEYWORD}阶级解锁: {STAT}EBL-5\\r\\n\\r\\n{FLAVOR}经过了激光眼科手术后, 它获得了不可思议的能力. 现在激光豆拥有了强大的能量, 以及不眨眼游戏中的压倒性实力.",
+    "translation": "{KEYWORD}阶级解锁: {STAT}EBL-5\\r\\n\\r\\n{FLAVOR}经过了激光眼科手术后, 他获得了不可思议的能力. 现在激光豆拥有了强大的能量, 以及不眨眼游戏中的压倒性实力.",
     "stage": 5,
     "context": "1674"
   },
@@ -11986,7 +11986,7 @@
   {
     "key": "LIGHTNINGREED_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}can be planted on top of other plants\\r\\n{KEYWORD}Tiering Unlock: {STAT}Daytime Dark Ages 17\\r\\n\\r\\n{FLAVOR}This may come as a shock, but Lightning Reed has a serious passion for ham radio. His call sign is El3ctric H1ccup. You can tune in every Tuesday to hear him read the classics to elderly plants. This week: Seeds and Sensibility.",
-    "translation": "{KEYWORD}特点: {STAT}可以种在其他植物上\\r\\n{KEYWORD}阶级解锁: {STAT}DA-17\\r\\n\\r\\n{FLAVOR}这可能有些令人吃惊. 闪电芦苇是业余无线电的热衷者. 它的呼号是\\\"El3ctric H1ccup\\\". 每周二你可以在调频收听到它给年纪大的植物们朗读经典. 本周主题: 理智的种子与情感.",
+    "translation": "{KEYWORD}特点: {STAT}可以种在其他植物上\\r\\n{KEYWORD}阶级解锁: {STAT}DA-17\\r\\n\\r\\n{FLAVOR}这可能会让人感到震惊, 但是闪电芦苇对无线电收音机怀有强烈的热情. 他的呼叫信号是 \\\"El3ctric H1ccup\\\". 你可以在每个星期二收听他为老植物朗读经典读物. 本周朗读的主题: 种子与感性.",
     "stage": 5,
     "context": "1713"
   },
@@ -13036,7 +13036,7 @@
   {
     "key": "MAGNETSHROOM_DESCRIPTION",
     "original": "{FLAVOR}Despite his unusual appearance, Magnet-shroom doesn't have a problem attracting girlfriends. But he does have a problem keeping them. It's the same thing every time. In the end, they always find him too clingy.",
-    "translation": "{FLAVOR}虽然磁力菇外形奇特, 但是对找女朋友完全没有影响. 可真谈了恋爱却都维持不长, 每个姑娘都因为同一个理由和它分手: 太粘人.",
+    "translation": "{FLAVOR}虽然磁力菇外形奇特, 但是对找女朋友完全没有影响. 可真谈了恋爱却都维持不长, 每个姑娘都因为同一个理由和他分手: 太粘人.",
     "stage": 5,
     "context": "1863"
   },
@@ -13064,7 +13064,7 @@
   {
     "key": "MAGNIFYINGGRASS_DESCRIPTION",
     "original": "{KEYWORD}Usage: {STAT}tap to spend sun for an attack\\r\\n{KEYWORD}Special: {STAT}immune to frost\\r\\n{KEYWORD}Tiering Unlock: {STAT}Not available yet\\r\\n\\r\\n{FLAVOR}Magnifying Grass understands the inherent power of a rainbow. Beneath her stoic features she takes great joy in delivering radiant multicolored destruction to the zombie horde.",
-    "translation": "{KEYWORD}用法: {STAT}点击消耗一定阳光发动攻击\\r\\n{KEYWORD}特点: {STAT}免疫冰冻\\r\\n{KEYWORD}阶级解锁: {STAT}暂未开放\\r\\n\\r\\n{FLAVOR}棱镜草知道如何运用隐藏在彩虹中的无穷能量. 在它冷峻的面孔下, 驱动五彩缤纷的辐射对抗僵尸大军使它获得巨大的享受与满足.",
+    "translation": "{KEYWORD}用法: {STAT}点击消耗一定阳光发动攻击\\r\\n{KEYWORD}特点: {STAT}免疫冰冻\\r\\n{KEYWORD}阶级解锁: {STAT}暂未开放\\r\\n\\r\\n{FLAVOR}棱镜草知道如何运用隐藏在彩虹中的无穷能量. 在她冷峻的面孔下, 驱动五彩缤纷的辐射对抗僵尸大军使她获得巨大的享受与满足.",
     "stage": 5,
     "context": "1867"
   },
@@ -13253,7 +13253,7 @@
   {
     "key": "MELONPULT_DESCRIPTION",
     "original": "{KEYWORD}Tiering Unlock: {STAT}Secret Level 8\\r\\n\\r\\n{FLAVOR}\\Everyone says my head looks like a melon,\\\" said the middle child of the Pult family, \\\"and they would be right.\\\" Don't ask him if he's seedless or not though, it offends him and frankly it's none of your business.\"",
-    "translation": "{KEYWORD}阶级解锁: {STAT}S-8\\r\\n\\r\\n{FLAVOR}\\\"人人都说我的头长得像个西瓜\\\", 投手家族的二把手说. \\\"可能是真的吧.\\\" 千万别问它是不是无籽西瓜, 这冒犯了他,坦白说,这不关你的事.",
+    "translation": "{KEYWORD}阶级解锁: {STAT}S-8\\r\\n\\r\\n{FLAVOR}\\\"人人都说我的头长得像个西瓜\\\", 投手家族的二把手说. \\\"可能是真的吧.\\\" 千万别问他是不是无籽西瓜, 这冒犯了他, 坦白说, 这不关你的事.",
     "stage": 5,
     "context": "1894"
   },
@@ -13344,7 +13344,7 @@
   {
     "key": "MISSILETOE_DESCRIPTION",
     "original": "{KEYWORD}Usage: {STAT}tap to arm, tap on target tile to fire\\r\\n{KEYWORD}Special: {STAT}immune to frost\\r\\n\\r\\n{FLAVOR}Other plants often make fun of her, because she doesn't really have any toes despite her name being \\Missile Toe\\\". THAT makes her a bit mad... so she took vengeance, in her own way - by hanging herself up as an ornament right above the door during last year's Christmas party. After mortifying several couples and a zombie, she was sure that others wouldn't mess with her again.\"",
-    "translation": "{KEYWORD}用法: {STAT}点击一次瞄准, 再点击一次发射\\r\\n{KEYWORD}特点: {STAT}免疫冰冻\\r\\n\\r\\n{FLAVOR}其它植物经常取笑她, 因为尽管她的另一个名字叫 \\\"导弹脚趾\"\\, 但她实际上没有脚趾. 这让她有点生气... 因此, 她以自己的方式复仇 - 在去年的圣诞派对上, 她把自己挂在门上作为装饰品. 在羞辱了几对夫妇和一只僵尸之后, 她确信其它人不会再惹她了.",
+    "translation": "{KEYWORD}用法: {STAT}点击一次瞄准, 再点击一次发射\\r\\n{KEYWORD}特点: {STAT}免疫冰冻\\r\\n\\r\\n{FLAVOR}其他植物经常取笑她, 因为尽管她的另一个名字叫 \\\"导弹脚趾\\\", 但她实际上没有脚趾. 这让她有点生气... 因此, 她以自己的方式复仇 - 在去年的圣诞派对上, 她把自己挂在门上作为装饰品. 在羞辱了几对情侣和一只僵尸之后, 她确信其他人不会再惹她了.",
     "stage": 5,
     "context": "1907"
   },
@@ -13883,7 +13883,7 @@
   {
     "key": "MTX_PVZ_6",
     "original": "10 Premium Pinatas Plant of the Week 2",
-    "translation": "10 高级彩陶 - 本周植物 2",
+    "translation": "10 高级彩陶 本周植物 2",
     "stage": 5,
     "context": "1984"
   },
@@ -13897,7 +13897,7 @@
   {
     "key": "MTX_PVZ_61",
     "original": "Lawn of Doom Pinata",
-    "translation": "末日草坪捆绑包",
+    "translation": "末日草坪彩陶",
     "stage": 5,
     "context": "1986"
   },
@@ -14016,7 +14016,7 @@
   {
     "key": "MTX_PVZ_78",
     "original": "Power Lily Bundle",
-    "translation": "能量花捆绑包",
+    "translation": "能量百合捆绑包",
     "stage": 5,
     "context": "2003"
   },
@@ -14394,7 +14394,7 @@
   {
     "key": "NARRATIVE_ALMANAC_FIND_MORE_6",
     "original": "{SAY}It will cycle between tier 1, 2 and 3: 1 -> 2 -> 3 -> 1 -> 2 -> 3...",
-    "translation": "{SAY}它们将会在一, 二, 三阶里面循还: 1 -> 2 -> 3 -> 1 -> 2 -> 3...",
+    "translation": "{SAY}它将会在一, 二, 三阶里面循还: 1 -> 2 -> 3 -> 1 -> 2 -> 3...",
     "stage": 5,
     "context": "2057"
   },
@@ -14576,7 +14576,7 @@
   {
     "key": "NARRATIVE_BEACH4_INTRO_4",
     "original": "{SAY:crazydave}So... time to declare this the \\Floating Zone\\\"?\"",
-    "translation": "{SAY:crazydave}那么... 是时候宣称这里是 \"悬浮区\" 了?",
+    "translation": "{SAY:crazydave}那么... 是时候宣称这里是 \\\"悬浮区\\\" 了?",
     "stage": 5,
     "context": "2083"
   },
@@ -16746,7 +16746,7 @@
   {
     "key": "NARRATIVE_DARK1_INTRO_6",
     "original": "{SAY:winnie}Puff-shroom will be an excellent ally here as it is free.",
-    "translation": "{SAY:winnie}小喷菇将是一个很好的盟友, 因为它是免费的.",
+    "translation": "{SAY:winnie}小喷菇将是一个很好的盟友, 因为是免费的.",
     "stage": 5,
     "context": "2393"
   },
@@ -27344,7 +27344,7 @@
   {
     "key": "NARRATIVE_LOSTCITY27_INTRO_3",
     "original": "{SAY:winnie}I detected that these Bugs might be imposters, mimicking as regular Bug Zombies.",
-    "translation": "{SAY:winnie}我发现这些虫子可能是冒牌货, 它们会模仿普通的昆虫僵尸.",
+    "translation": "{SAY:winnie}我发现这些虫子可能是冒牌货, 它们会模仿普通的飞虫僵尸.",
     "stage": 5,
     "context": "3907"
   },
@@ -30340,7 +30340,7 @@
   {
     "key": "PARSNIP_DESCRIPTION",
     "original": "{KEYWORD}Weakness: {STAT}cannot attack zombies too close to him\\r\\n{KEYWORD}Special: {STAT}can be planted on water\\r\\n\\r\\n{FLAVOR}Being a crab means he doesn't have much to do most of the time. Sure, he enjoys loafing around the beach and burying himself under the sand, but with his giant claws for hands, he can't really do much without tearing everything into pieces. Still, he tried, and while making a scrapbook for him and his friends seems impossible without him snipping every image, he's glad that he finally found a hobby he can enjoy.",
-    "translation": "{KEYWORD}弱点: {STAT}不能攻击太近的目标\\r\\n{KEYWORD}特点: {STAT}可以种在水上\\r\\n\\r\\n{FLAVOR}作为一只螃蟹, 意味着它大部分时间没有太多事情要做. 当然, 它喜欢在沙滩上闲逛, 把自己埋在沙子下, 但凭借它巨大的爪子, 如果不把一切撕成碎片, 它什么也做不了. 尽管如此, 它还是尝试了, 如果它没有剪下每一张照片, 那么为它和朋友制作剪贴簿似乎是不可能的, 但它很高兴自己终于找到了一个可以享受的爱好.",
+    "translation": "{KEYWORD}弱点: {STAT}不能攻击太近的目标\\r\\n{KEYWORD}特点: {STAT}可以种在水上\\r\\n\\r\\n{FLAVOR}作为一只螃蟹, 意味着他大部分时间没有太多事情要做. 当然, 他喜欢在沙滩上闲逛, 把自己埋在沙子下, 但凭借他巨大的爪子, 如果不把一切撕成碎片, 他什么也做不了. 尽管如此, 他还是尝试了, 如果他没有剪下每一张照片, 那么为他和朋友制作剪贴簿似乎是不可能的, 但他很高兴自己终于找到了一个可以享受的爱好.",
     "stage": 5,
     "context": "4335"
   },
@@ -30431,7 +30431,7 @@
   {
     "key": "PEANUT_DESCRIPTION",
     "original": "{FLAVOR}Peanut knows that some folks have an aversion to him. He tries to be sensitive to their concerns and give them the space they need. Still, he can't help but miss the good old days - back when he was the most popular nut around.",
-    "translation": "{FLAVOR}花生知道有些人对它挺\\\"过敏\\\". 它试着了解它们的顾虑,并且给予对方足够的空间. 即便如此, 它仍然会情不自禁地怀念以前的时光-回到那个人人爱花生的时代.",
+    "translation": "{FLAVOR}花生知道有些人对他挺 \\\"过敏\\\". 他试着了解它们的顾虑, 并且给予对方足够的空间. 即便如此, 他仍然会情不自禁地怀念以前的时光 - 回到那个人人爱花生的时代.",
     "stage": 5,
     "context": "4348"
   },
@@ -30529,7 +30529,7 @@
   {
     "key": "MINIPEASHOOTER_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}can be planted on top of other plants\\r\\n\\r\\n{FLAVOR}\\So basically, I'm very small.\\\"\"",
-    "translation": "{KEYWORD}特点: {STAT}可以种在其他植物上\\r\\n\\r\\n{FLAVOR}\\\"所以一般来说, 我很小.\\\"\"",
+    "translation": "{KEYWORD}特点: {STAT}可以种在其他植物上\\r\\n\\r\\n{FLAVOR}\\\"所以一般来说, 我很小.\\\"",
     "stage": 5,
     "context": "4362"
   },
@@ -30590,13 +30590,6 @@
     "context": "4370"
   },
   {
-    "key": "PEPPERMINT_DESCRIPTION_HEADER\"",
-    "original": "Pepper-mints set off lane-wide bursts of flame when planted and provide a temporary boost to all Pepper-mint Family plants on the lawn.",
-    "translation": "火辣薄荷在种植后会在整片草坪上燃起火焰, 并暂时加强草坪上所有的火辣薄荷家族植物.",
-    "stage": 5,
-    "context": "4371"
-  },
-  {
     "key": "PEPPERMINT_TOOLTIP",
     "original": "Boosts fire plants",
     "translation": "强化火焰植物",
@@ -30613,7 +30606,7 @@
   {
     "key": "PEPPERPULT_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}immune to frost, warms nearby plants\\r\\n\\r\\n{FLAVOR}Some say Pepper-pult is a hot head. Some find his fiery disposition off-putting. But the truth is, he's just very focused and determined. He loves what he does. He appreciates everything he has. \\I came from the weedy side of the lawn,\\\" Pepper-pult explains. \\\"I worked hard to pull myself up by my roots. I'm a self-made pepper and I don't take a single thing for granted.\\\"\"",
-    "translation": "{KEYWORD}特点: {STAT}免疫冰冻, 温暖周围的植物\\r\\n\\r\\n{FLAVOR}有人说, 甜椒投手有点容易头脑发热. 有些人觉得他暴躁的性格令人反感. 但事实是, 他只是比较专注和执着而已. 他爱他所做的事情. 他感谢自己拥有的一切. \\\"我来自草坪的野草区,\\\" 甜椒投手解释. \\\"我努力扎根令自己立足. 我是一个自力更生的辣椒, 我认为任何事都不是理所当然的.\\\"",
+    "translation": "{KEYWORD}特点: {STAT}免疫冰冻, 温暖周围的植物\\r\\n\\r\\n{FLAVOR}有人说, 甜椒投手有点容易头脑发热. 有些人觉得他暴躁的性格令人反感. 但事实是, 他只是比较专注和执着而已. 他爱他所做的事情. 他感谢自己拥有的一切. \\\"我来自草坪的野草区,\\\" 甜椒投手解释. \\\"我努力扎根令自己立足. 我是一个自力更生的甜椒, 我认为任何事都不是理所当然的.\\\"",
     "stage": 5,
     "context": "4374"
   },
@@ -30648,7 +30641,7 @@
   {
     "key": "PERFUMESHROOM_DESCRIPTION",
     "original": "{KEYWORD}Tiering Unlock: {STAT}Night Jurassic Marsh 16\\r\\n\\r\\n{FLAVOR}Perfume-shrooms emit a pure, concentrated mist of aerosolized love.",
-    "translation": "{KEYWORD}阶级解锁: {STAT}JM-16\\r\\n\\r\\n{FLAVOR}香水蘑菇会放出纯净浓缩的爱情之雾.",
+    "translation": "{KEYWORD}阶级解锁: {STAT}JM-16\\r\\n\\r\\n{FLAVOR}香水菇会放出纯净浓缩的爱情之雾.",
     "stage": 5,
     "context": "4379"
   },
@@ -31635,14 +31628,14 @@
   {
     "key": "POISONPEASHOOTER_DESCRIPTION",
     "original": "\\r\\n{FLAVOR}Goo Peashooter is a goopy shooter. See? See how that works? It's a play on words. Words are often playful, folks!",
-    "translation": "\\r\\n{FLAVOR}他是黏液豌豆射手, 而不是\\\"粘\\\"液豌豆射手. 看到了吗? 看到了吗? 语言这东西真的很博大精深!",
+    "translation": "\\r\\n{FLAVOR}他是黏液豌豆射手, 而不是 \\\"粘\\\" 液豌豆射手. 看到了吗? 看到了吗? 语言这东西真的很博大精深!",
     "stage": 5,
     "context": "4520"
   },
   {
     "key": "POISONPEASHOOTER_DESCRIPTION_HEADER",
     "original": "Goo Peashooters shoot poison peas at zombies, poisoning them as well as slowing them down.",
-    "translation": "黏液豌豆射手可以向僵尸发射毒豌豆, 让它们中毒并受到毒缓效果.",
+    "translation": "黏液豌豆射手可以向僵尸发射毒豌豆, 让他们中毒并受到毒缓效果.",
     "stage": 5,
     "context": "4521"
   },
@@ -31663,7 +31656,7 @@
   {
     "key": "POKRA_DESCRIPTION",
     "original": "\\r\\n{FLAVOR}Pokra's scrappy, she's a fighter, she's not afraid to jab below the belt to get the job done. She won't, because that would be cheating, but she's not afraid to. \\Just so we're clear,\\\" she says with a resolute glint in her eye.\"",
-    "translation": "\\r\\n{FLAVOR}戳击秋葵魄力十足. 她是个能打的斗士, 为了赢得胜利, 她毫不惧怕使用些肮脏卑鄙的手段来痛击她的对手, 但她不会这样做, 因为她不想藐视规则. 但她用得起, 也丝毫不会畏惧. \\\"先把话挑明了才行, \\\"她一边说着, 眼角边闪着坚毅的亮光.",
+    "translation": "\\r\\n{FLAVOR}戳击秋葵魄力十足. 她是个能打的斗士, 为了赢得胜利, 她毫不惧怕使用些肮脏卑鄙的手段来痛击她的对手, 但她不会这样做, 因为她不想藐视规则. 但她用得起, 也丝毫不会畏惧. \\\"先把话挑明了才行,\\\" 她一边说着, 眼角边闪着坚毅的亮光.",
     "stage": 5,
     "context": "4524"
   },
@@ -31789,7 +31782,7 @@
   {
     "key": "POWERPLANT_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}cannot be imitated\\r\\n{KEYWORD}Tiering Unlock: {STAT}Not available yet\\r\\n\\r\\n{FLAVOR}DJ Tile Turnip changed dance floors with his underground hit \\Turnip the Beet.\\\" What's his latest mix? When he lays it down, you'll feel the power.\"",
-    "translation": "{KEYWORD}特点: {STAT}不能被模仿\\r\\n{KEYWORD}阶级解锁: {STAT}暂未开放\\r\\n\\r\\n{FLAVOR}DJ瓷砖萝卜用它的热门地下歌曲\\\"Turnip the Beet\\\"改变了舞池. 他最新的专辑是什么? 当他将它发售时, 你就会感受到能量.",
+    "translation": "{KEYWORD}特点: {STAT}不能被模仿\\r\\n{KEYWORD}阶级解锁: {STAT}暂未开放\\r\\n\\r\\n{FLAVOR}DJ瓷砖萝卜用它的热门地下歌曲 \\\"Turnip the Beet\\\" 改变了舞池. 他最新的专辑是什么? 当他将它发售时, 你就会感受到能量.",
     "stage": 5,
     "context": "4542"
   },
@@ -32244,7 +32237,7 @@
   {
     "key": "PRIMALWALLNUT_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}takes 200 damage from a smash instead of being crushed instantly\\r\\n\\r\\n{FLAVOR}\\Grunt,\\\" explains Primal Wall-nut. \\\"Grunt oog grunt-grunt,\\\" he goes on to say. \\\"Ook-urg grunty grunt grunt,\\\" he concludes. A nut of many opinions, is Primal Wall-nut.\"",
-    "translation": "{KEYWORD}特点: {STAT}将巨人僵尸的每次砸击转化为 200 伤害\\r\\n\\r\\n{FLAVOR}\\\"咕哝\\\", 原始坚果墙解释道, \\\"咕哝哝咕哝咕哝, \\\"然后他还接着说\\\"好的, 咕哝咕哝咕哝, \\\"他总结道. 原始坚果墙确实是个拥有很多观点的坚果呢.",
+    "translation": "{KEYWORD}特点: {STAT}将巨人僵尸的每次砸击转化为 200 伤害\\r\\n\\r\\n{FLAVOR}\\\"咕哝,\\\" 原始坚果墙解释道, \\\"咕哝哝咕哝咕哝,\\\" 然后他还接着说 \\\"好的, 咕哝咕哝咕哝,\\\" 他总结道. 原始坚果墙确实是个拥有很多观点的坚果呢.",
     "stage": 5,
     "context": "4607"
   },
@@ -32762,7 +32755,7 @@
   {
     "key": "PUFFSHROOM_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}only available at night time\\r\\n\\r\\n{FLAVOR}Puff-shroom is hip to all the latest social networks. He loves to surf Sporebook, FungusedIn and ShroomstaGram. But sometimes he misses the simple camaraderie of a good ol' fashioned Lawn Area Network party.",
-    "translation": "{KEYWORD}特点: {STAT}只能在夜晚使用\\r\\n\\r\\n{FLAVOR}小喷菇是最近社交网络的网红. 他喜欢运动书籍, 真菌素以及蘑菇图表. 但是他有时怀念那时候在草坪网络聚会上的简单友情.",
+    "translation": "{KEYWORD}特点: {STAT}只能在夜晚使用\\r\\n\\r\\n{FLAVOR}小喷菇喜欢所有时下最流行的社交网络. 他沉迷于 \\\"孢子书\\\", \\\"领菇\\\" 和 \\\"菇片墙\\\" 中. 但是他有时会怀念老式草坪上网络聚会的简单友情.",
     "stage": 5,
     "context": "4681"
   },
@@ -33119,7 +33112,7 @@
   {
     "key": "PVINE_DESCRIPTION_HEADER",
     "original": "Pea Vines planted on top of Appease-mint Family plants provide a significant damage boost to those plants.",
-    "translation": "当豌豆藤蔓种在豌豆薄荷家族植物身上时, 会给它们提供巨大增益.",
+    "translation": "当豌豆藤蔓种在豌豆薄荷家族植物身上时, 会给他们提供巨大增益.",
     "stage": 5,
     "context": "4732"
   },
@@ -35492,7 +35485,7 @@
   {
     "key": "REDSTINGER_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}only works on two leftmost columns, is defensive otherwise\\r\\n{KEYWORD}Tiering Unlock: {STAT}Cells of the Sun 5\\r\\n\\r\\n{FLAVOR}Flexibility is of key importance to Red Stinger. \\I do stretching exercises every morning,\\\" he says. \\\"It's important to stay mentally and physically nimble.\\\"\"",
-    "translation": "{KEYWORD}特点: {STAT}在最左两列为攻击形态, 其它地方均为防御形态\\r\\n{KEYWORD}阶级解锁: {STAT}SNB-5\\r\\n\\r\\n{FLAVOR}对于红针花来说灵活柔韧性是极其重要的关键. \\\"我确确实实每天早上都作拉伸练习,\\\" 他说. \\\"这对精神与肉体时刻保持灵敏反应十分重要.\\\"",
+    "translation": "{KEYWORD}特点: {STAT}在最左两列为攻击形态, 其他地方均为防御形态\\r\\n{KEYWORD}阶级解锁: {STAT}SNB-5\\r\\n\\r\\n{FLAVOR}对于红针花来说灵活柔韧性是极其重要的关键. \\\"我确确实实每天早上都作拉伸练习,\\\" 他说. \\\"这对精神与肉体时刻保持灵敏反应十分重要.\\\"",
     "stage": 5,
     "context": "5071"
   },
@@ -35506,7 +35499,7 @@
   {
     "key": "REDSTINGER_TOOLTIP",
     "original": "Fires petals when close to home and becomes defensive otherwise",
-    "translation": "靠近房子时全力进攻, 其它地方龟缩防守",
+    "translation": "靠近房子时全力进攻, 其他地方龟缩防守",
     "stage": 5,
     "context": "5073"
   },
@@ -36339,7 +36332,7 @@
   {
     "key": "RIFT_TITLE_TEXT_47",
     "original": "Sprouting Nonsense",
-    "translation": "\\\"槲\\\"说八道",
+    "translation": "\\\"槲\\\" 说八道",
     "stage": 5,
     "context": "5192"
   },
@@ -37347,7 +37340,7 @@
   {
     "key": "SHADOWPEASHOOTER_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}fires piercing, slowing bolts when powered\\r\\n{KEYWORD}Special: {STAT}hides and swallows zombies that approach\\r\\n\\r\\n{FLAVOR}\\Phoot,\\\" Shadow Peashooter says, emitting a shadowy, ah, hmmm, I guess you could call it a pea, at a distant zombie. \\\"Uph!\\\" gasps the zombie in evident surprise. There's a lot going on under the surface between these two.\"",
-    "translation": "{KEYWORD}特点: {STAT}被增强后发射可以穿透并减速的射线.\\r\\n{KEYWORD}特点: {STAT}僵尸接近时, 隐匿于地下, 并把它拖入虚空.\\r\\n\\r\\n{FLAVOR}暗影豌豆射手 \\\"呼\\\" 地一声, 吐出了一枚暗影... 豌豆...? 好吧... 可能对于远处的僵尸来说那玩意儿确实是豌豆吧. \\\"唔! \\\" 僵尸惊讶地倒抽了一口气. 看来他俩在地下有很多事情可以好好交流一下了.",
+    "translation": "{KEYWORD}特点: {STAT}被增强后发射可以穿透并减速的射线.\\r\\n{KEYWORD}特点: {STAT}僵尸接近时, 隐匿于地下, 并把它拖入虚空.\\r\\n\\r\\n{FLAVOR}暗影豌豆射手 \\\"呼\\\" 地一声, 吐出了一枚暗影... 豌豆...? 好吧... 可能对于远处的僵尸来说那玩意儿确实是豌豆吧. \\\"唔!\\\" 僵尸惊讶地倒抽了一口气. 看来他俩在地下有很多事情可以好好交流一下了.",
     "stage": 5,
     "context": "5336"
   },
@@ -37459,7 +37452,7 @@
   {
     "key": "SHRINKINGVIOLET_DESCRIPTION_HEADER",
     "original": "Shrinking Violets instantly shrink zombies in an area upon contact, forcing them to take more damage and reducing the bite damage they inflict.",
-    "translation": "缩小紫罗兰在被接触后会立即缩小周围的僵尸, 使它们收到更多的伤害, 并减少它们造成的啃食伤害.",
+    "translation": "缩小紫罗兰在被接触后会立即缩小周围的僵尸, 使他们收到更多的伤害, 并减少他们造成的啃食伤害.",
     "stage": 5,
     "context": "5352"
   },
@@ -37564,7 +37557,7 @@
   {
     "key": "SNAPPEA_DESCRIPTION",
     "original": "\\r\\n{FLAVOR}\\I'm a picky eater, I'll admit it,\\\" admits Snap Pea casually. \\\"I'll eat a zombie, no problem, but there's just something about heads. I feel like they're looking at me.\\\"\"",
-    "translation": "\\r\\n{FLAVOR}大嘴豌豆说:\\\"好吧, 我承认, 我确实有点挑食. 我是喜欢吃僵尸, 没问题, 但它们的脑袋就让我感觉挺不适的. 感觉就像是它们在盯着我看一样.\\\"",
+    "translation": "\\r\\n{FLAVOR}大嘴豌豆说: \\\"好吧, 我承认, 我确实有点挑食. 我是喜欢吃僵尸, 没问题, 但他们的脑袋就让我感觉挺不适的. 感觉就像是他们在盯着我看一样.\\\"",
     "stage": 5,
     "context": "5367"
   },
@@ -37592,7 +37585,7 @@
   {
     "key": "SNOWPEA_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}has splash chill at Tier 2 and freeze at Tier 3\\r\\n{KEYWORD}Special: {STAT}immune to frost\\r\\n{KEYWORD}Tiering Unlock: {STAT}Night Lost City 8\\r\\n\\r\\n{FLAVOR}As a professional table tennis player, in the off-season he also enjoys skiing, playing the bongos, and spelunking.",
-    "translation": "{KEYWORD}特点: {STAT}2阶能造成范围冷却, 3阶能造成范围冰冻\\r\\n{KEYWORD}特点: {STAT}免疫冰冻\\r\\n{KEYWORD}阶级解锁: {STAT}LC-8\\r\\n\\r\\n{FLAVOR}作为一个专业乒乓球运动员, 在比赛淡季里它也喜欢滑雪, 玩邦戈鼓和洞穴探险.",
+    "translation": "{KEYWORD}特点: {STAT}2阶能造成范围冷却, 3阶能造成范围冰冻\\r\\n{KEYWORD}特点: {STAT}免疫冰冻\\r\\n{KEYWORD}阶级解锁: {STAT}LC-8\\r\\n\\r\\n{FLAVOR}作为一个专业乒乓球运动员, 在比赛淡季里他也喜欢滑雪, 玩邦戈鼓和洞穴探险.",
     "stage": 5,
     "context": "5371"
   },
@@ -37627,7 +37620,7 @@
   {
     "key": "UNUSED_46_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}can only detect targets 4 tiles in front\\r\\n{KEYWORD}Special: {STAT}can be planted on top of other plants\\r\\n\\r\\n{FLAVOR}Having committed several hate crimes on multiple counties, states and interstates, Mini Snow Pea was banned from 47 different countries, 108 different timelines and left a really bad image of blue-type plants all year round. \\It's not a hate crime if you enjoy doing it!\\\" she said.\"",
-    "translation": "{KEYWORD}特点: {STAT}只能探测前方四格内的僵尸\\r\\n{KEYWORD}特点: {STAT}可以种在其他植物上\\r\\n\\r\\n{FLAVOR}迷你寒冰豌豆在好几个省, 市, 县犯下了几起仇恨犯罪, 在47个国家, 以及108和不同时间线被禁止, 常年给蓝色植物留下不好的印象. \\\"如果你喜欢这样做那就不是仇恨犯罪啦\\\" 她说.",
+    "translation": "{KEYWORD}特点: {STAT}只能探测前方四格内的僵尸\\r\\n{KEYWORD}特点: {STAT}可以种在其他植物上\\r\\n\\r\\n{FLAVOR}迷你寒冰豌豆在好几个省, 市, 县犯下了几起仇恨犯罪, 在47个国家, 以及108个不同的时间线禁止入境, 常年给蓝色植物留下不好的印象. \\\"如果你喜欢这样做那就不是仇恨犯罪啦\\\" 她说.",
     "stage": 5,
     "context": "5376"
   },
@@ -37655,7 +37648,7 @@
   {
     "key": "SOLARTOMATO_DESCRIPTION",
     "original": "{FLAVOR}Solar Tomato wishes folks would just stop and enjoy the sunshine sometimes. \\Stop,\\\" she says. \\\"Enjoy the sunshine. I said stop! Hold it right there! Don't move! I MEAN IT!!!\\\"\"",
-    "translation": "{FLAVOR}阳光番茄希望大家能够时常驻足享受从天空中洒下的缕缕阳光. \\\"停! \\\"她说. \\\"享受那阳光! 我说了, 停下来! 就给我停在那儿不准动! 不! 准! 动!!!\\\"",
+    "translation": "{FLAVOR}阳光番茄希望大家能够时常驻足享受从天空中洒下的缕缕阳光. \\\"停!\\\" 她说. \\\"享受那阳光! 我说了, 停下来! 就给我停在那儿不准动! 不! 准! 动!!!\\\"",
     "stage": 5,
     "context": "5380"
   },
@@ -37683,7 +37676,7 @@
   {
     "key": "SPEARMINT_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}immune to frost\\r\\n\\r\\n{FLAVOR}Everyone sees her as a mysterious cone-shaped creature from the coldest isles. Some believe she is from another planet, while others even suspect that there's a giant body hiding underneath. \\Haha! I enjoy being a mystery. Isn't it fun to do the most basic thing and then hide away, leaving them juggling all their conspiracies about me?\\\" ...and there she disappeared again, leaving behind a flash and why did we come to this sand field again?\"",
-    "translation": "{KEYWORD}特点: {STAT}免疫冰冻\\r\\n\\r\\n{FLAVOR}每个人都把她视作来自最寒冷的地方的神秘锥形生物. 有的人认为她来自另一个星球, 另外一部分人甚至怀疑她在地下有巨大的身体. \\\"哈哈! 我喜欢做一个神秘者. 做最基本的事然后隐藏起来, 任由他们讨论我的阴谋论不是很有趣吗? \\\" ...然后她又消失了, 留下一瞬残影 - 为什么我们再次来到这片沙地?",
+    "translation": "{KEYWORD}特点: {STAT}免疫冰冻\\r\\n\\r\\n{FLAVOR}每个人都把她视作来自最寒冷的地方的神秘锥形生物. 有的人认为她来自另一个星球, 另外一部分人甚至怀疑她在地下有巨大的身体. \\\"哈哈! 我喜欢做一个神秘者. 做最基本的事然后隐藏起来, 任由他们讨论我的阴谋论不是很有趣吗?\\\" ...然后她又消失了, 留下一瞬残影 - 为什么我们再次来到这片沙地?",
     "stage": 5,
     "context": "5384"
   },
@@ -37781,7 +37774,7 @@
   {
     "key": "SPLITPEA_DESCRIPTION",
     "original": "{FLAVOR}\\It's my turn with the eyebrows,\\\" said Frontie. \\\"Fine, we'll split them,\\\" said Backie. Sprouted two minutes apart, their eyebrow war is eternal.\"",
-    "translation": "{FLAVOR}前面的头说:\\\" 轮到我用眉毛了,\\\" 后面的头说: \\\"那只好一人一半了.\\\" 虽然出生就差两分钟, 可眉毛争夺战的硝烟永难停息.",
+    "translation": "{FLAVOR}前面的头说: \\\"轮到我用眉毛了,\\\" 后面的头说: \\\"那只好一人一半了.\\\" 虽然出生就差两分钟, 可眉毛争夺战的硝烟永难停息.",
     "stage": 5,
     "context": "5398"
   },
@@ -37816,7 +37809,7 @@
   {
     "key": "SPORESHROOM_DESCRIPTION",
     "original": "{FLAVOR}\\My favorite arithmetic operation?\\\" wonders Spore-shroom. \\\"I guess I'd have to say, um, addition. Hang on, no... multiplication.\\\"\"",
-    "translation": "{FLAVOR}\\\"我最喜欢的运算方法? \\\" 孢子菇自言自语道, \\\"我想我有必要说, 嗯, 加法. 等等, 不对... 是乘法.\\\"",
+    "translation": "{FLAVOR}\\\"我最喜欢的运算方法?\\\" 孢子菇自言自语道, \\\"我想我有必要说, 嗯, 加法. 等等, 不对... 是乘法.\\\"",
     "stage": 5,
     "context": "5403"
   },
@@ -39979,7 +39972,7 @@
   {
     "key": "STORE_FEATURE_PLANT_CURRENT_PROFILE",
     "original": "Did you like this plant?  Add it to your garden to cheese out zombies!",
-    "translation": "你喜欢这株植物吗? 把它编入到你的花园一起对抗僵尸吧!",
+    "translation": "你喜欢这株植物吗? 让它加入到你的花园一起对抗僵尸吧!",
     "stage": 5,
     "context": "5712"
   },
@@ -40035,7 +40028,7 @@
   {
     "key": "STORE_MULTI_CATEGORY_INTRO",
     "original": "The {COUNT} seed packets are an assortment of:",
-    "translation": "包含的 {COUNT} 包种子是以下植物的组合:",
+    "translation": "这 {COUNT} 份种子包包括:",
     "stage": 5,
     "context": "5720"
   },
@@ -40378,7 +40371,7 @@
   {
     "key": "STORE_WWF_LINK",
     "original": "About our WWF partnership",
-    "translation": "关于我们和\\\"世界自然基金会\\\"的合作",
+    "translation": "关于我们和 \\\"世界自然基金会\\\" 的合作",
     "stage": 5,
     "context": "5769"
   },
@@ -40392,7 +40385,7 @@
   {
     "key": "STRAWBURST_DESCRIPTION",
     "original": "{KEYWORD}Usage: {STAT}tap to fire\\r\\n{KEYWORD}Weakness: {STAT}self explode while armed if taken any damage\\r\\n{KEYWORD}Tiering Unlock: {STAT}Brawl Trusts 3\\r\\n\\r\\n{FLAVOR} \\Big is good,\\\" says Strawburst. \\\"Though small's pretty choice as well. And you should never discount medium. I just like sizes, really.\\\"\"",
-    "translation": "\"{KEYWORD}用途: {STAT}点击发射\\r\\n{KEYWORD}弱点: {STAT}装弹时受到伤害时自爆\\r\\n{KEYWORD}阶级解锁: {STAT}STR-3\\r\\n\\r\\n{FLAVOR}\\\"越大越好,\\\" 爆浆草莓说. \\\"不过小也有小的好处. 而且你绝对不能低估中等大小的威力. 我就是很喜欢各种不同大小而已, 真的.\\\"",
+    "translation": "{KEYWORD}用途: {STAT}点击发射\\r\\n{KEYWORD}弱点: {STAT}装弹时受到伤害时自爆\\r\\n{KEYWORD}阶级解锁: {STAT}STR-3\\r\\n\\r\\n{FLAVOR}\\\"越大越好,\\\" 爆浆草莓说. \\\"不过小也有小的好处. 而且你绝对不能低估中等大小的威力. 我就是很喜欢各种不同大小而已, 真的.\\\"",
     "stage": 5,
     "context": "5771"
   },
@@ -40427,7 +40420,7 @@
   {
     "key": "STUNION_DESCRIPTION",
     "original": "{FLAVOR}Oh sure, everyone knows Stunion as the battle-hardened warrior with the potent breath. But he's so much more than that. He's an accomplished pianist. He speaks five languages fluently. Heck, he's the leader of a Cub Shallots group in his spare time. Dude's got layers. Go on, peel 'em back. You'll see.",
-    "translation": "{FLAVOR}哦, 当然, 每个人都知道眩晕洋葱作为战士以它强大的气团在战场上驰骋多年. 但他可远不止这点本事. 他是一个多才多艺的钢琴家. 他会说五种流利的语言. 哎呀, 他在业余时间还是青葱年少组织的组长. 这位老兄层次很多哦. 来吧, 一层层剥开. 你会看到的.",
+    "translation": "{FLAVOR}哦, 当然, 每个人都知道眩晕洋葱作为战士以他强大的气团在战场上驰骋多年. 但他可远不止这点本事. 他是一个多才多艺的钢琴家. 他会说五种流利的语言. 哎呀, 他在业余时间还是青葱年少组织的组长. 这位老兄层次很多哦. 来吧, 一层层剥开. 你会看到的.",
     "stage": 5,
     "context": "5776"
   },
@@ -40518,7 +40511,7 @@
   {
     "key": "SUNFLOWER_DESCRIPTION",
     "original": "{FLAVOR}After the release of her first major YouTuber video \\Zombies On Your Lawn,\\\" Sunflower's YouTuber channel has been bursting with fun. She is currently putting the final touches on her reality show TV pitch \\\"Sunflower Thinks She Can Dance.\\\"\"",
-    "translation": "{FLAVOR}在YouTuBe上发布了她的第一个视频 \\\"有僵尸在你的草坪上\\\" 之后, 向日葵的频道可以说是如日中天. 目前, 她正在为自己的真植秀节目 \\\"向日葵炫舞秀\\\" 做最后的润色.",
+    "translation": "{FLAVOR}在 YouTuBe 上发布了她的第一个视频 \\\"有僵尸在你的草坪上\\\" 之后, 向日葵的频道可以说是如日中天. 目前, 她正在为自己的真植秀节目 \\\"向日葵炫舞秀\\\" 做最后的润色.",
     "stage": 5,
     "context": "5789"
   },
@@ -40644,21 +40637,21 @@
   {
     "key": "SWEETPOTATO_DESCRIPTION",
     "original": "{FLAVOR}Sweet Potato really is as sweet as she looks. Her favorite animal is the unicorn. Her favorite color is (and this is a direct quote) \\all the colors of the rainbow.\\\" When she writes the letter \\\"i\\\", she draws a little heart where the dot belongs. Frankly, if it were anyone else, this amount of syrup would be sickening. But on her, well, it just seems right.\"",
-    "translation": "{FLAVOR}甜薯就像她看起来那样甜. 她最喜欢的动物是独角兽. 按她的原话说她最喜欢的颜色则是 \\\"彩虹的所有颜色\\\". 当她写字母 \\\" i \\\" 的时候, 她喜欢把点画成一颗心的形状. 坦白来讲, 对别人来说她的甜度简直无法忍受. 但是对她来讲, 这只是刚刚好而已.",
+    "translation": "{FLAVOR}甜薯就像她看起来那样甜. 她最喜欢的动物是独角兽. 按她的原话说她最喜欢的颜色则是 \\\"彩虹的所有颜色\\\". 当她写字母 \\\"i\\\" 的时候, 她喜欢把点画成一颗心的形状. 坦白来讲, 对别人来说她的甜度简直无法忍受. 但是对她来讲, 这只是刚刚好而已.",
     "stage": 5,
     "context": "5807"
   },
   {
     "key": "SWEETPOTATO_DESCRIPTION_HEADER",
     "original": "Sweet Potatoes attract zombies from other lanes when they are close by.",
-    "translation": "当僵尸接近甜薯时, 它们会被吸引到甜薯的那行.",
+    "translation": "当僵尸接近甜薯时, 他们会被吸引到甜薯的那行.",
     "stage": 5,
     "context": "5808"
   },
   {
     "key": "SWEETPOTATO_TOOLTIP",
     "original": "Attracts zombies from other lanes when they are close",
-    "translation": "在邻近的僵尸靠近时, 吸引它们至该行",
+    "translation": "在邻近的僵尸靠近时, 吸引他们至该行",
     "stage": 5,
     "context": "5809"
   },
@@ -40672,7 +40665,7 @@
   {
     "key": "SYNC_DATA_INFO",
     "original": "\\By registering your account, your player data will be merged across available player IDs to ensure all progress across devices and platforms is kept. You can also force sync your data for your current player ID to ensure you are up-to-date with what is stored on our servers.\\r\\nTo see your current player IDs, go to Settings -> Download Preferences.\\\"\"",
-    "translation": "注册账号后, 你的玩家数据将与可用的玩家 ID 合并, 以确保不同设备, 平台的所有进度都能够保持统一. 你也可以强制同步当前玩家 ID 的数据, 以确保当前使用的数据是服务器上最新的.\\r\\n若要查看当前的玩家 ID, 请转到\\\"设置\\\"->\\\"下载首选项\\\"",
+    "translation": "注册账号后, 你的玩家数据将与可用的玩家 ID 合并, 以确保不同设备, 平台的所有进度都能够保持统一. 你也可以强制同步当前玩家 ID 的数据, 以确保当前使用的数据是服务器上最新的.\\r\\n若要查看当前的玩家 ID, 请转到 \\\"设置\\\" -> \\\"下载首选项\\\".",
     "stage": 5,
     "context": "5811"
   },
@@ -40938,7 +40931,7 @@
   {
     "key": "TANGLEKELP_DESCRIPTION_HEADER",
     "original": "Tangle Kelp are aquatic plants that pull the first zombie that approaches them underwater.",
-    "translation": "缠绕海带是一株水生植物, 可以把靠近它的第一只僵尸拖下水.",
+    "translation": "缠绕海带是一株水生植物, 可以把靠近他的第一只僵尸拖下水.",
     "stage": 5,
     "context": "5849"
   },
@@ -41778,7 +41771,7 @@
   {
     "key": "UPDATE_DOWNLOADED_BODY",
     "original": "Update data has downloaded. Press OK to apply patch.",
-    "translation": "更新数据已下载. 请点击\\\"好的\\\"来应用补丁.",
+    "translation": "更新数据已下载. 请点击 \\\"好的\\\" 来应用补丁.",
     "stage": 5,
     "context": "5969"
   },
@@ -41792,7 +41785,7 @@
   {
     "key": "UPDATE_FIRST_TIME_USER_DOWNLOADED_BODY",
     "original": "Data for the full game has downloaded. Press OK to apply patch or CANCEL to continue playing the initial levels with lower resolution art.",
-    "translation": "完整版游戏的数据已下载完成. 请点击\\\"好的\\\"来应用补丁, 或者点击\\\"取消\\\"来继续以低画质游玩初始关卡.",
+    "translation": "完整版游戏的数据已下载完成. 请点击 \\\"好的\\\" 来应用补丁, 或者点击 \\\"取消\\\" 来继续以低画质游玩初始关卡.",
     "stage": 5,
     "context": "5971"
   },
@@ -41806,7 +41799,7 @@
   {
     "key": "UPDATE_REQUIRED_BODY",
     "original": "Update required. Press OK to download update now.",
-    "translation": "需要更新数据. 请点击\\\"好的\\\"立即更新.",
+    "translation": "需要更新数据. 请点击 \\\"好的\\\" 立即更新.",
     "stage": 5,
     "context": "5973"
   },
@@ -42632,7 +42625,7 @@
   {
     "key": "WASABIWHIP_DESCRIPTION_HEADER",
     "original": "Wasabi Whips lash out with their flaming whips, delivering whuppings to zombies both in front and behind.",
-    "translation": "炙鞭山葵可以挥舞它的燃烧鞭, 攻击前后僵尸.",
+    "translation": "炙鞭山葵可以挥舞他的燃烧鞭, 攻击前后僵尸.",
     "stage": 5,
     "context": "6091"
   },
@@ -42723,7 +42716,7 @@
   {
     "key": "WINTERMELON_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}immune to frost\\r\\n\\r\\n{FLAVOR}You may recognize Winter Melon's voice from such incredible documentaries as \\It's Cold Up Here,\\\" \\\"Ice Bingo,\\\" and \\\"Surfin' Swedes.\\\"\"",
-    "translation": "{KEYWORD}特点: {STAT}免疫冰冻\\r\\n\\r\\n{FLAVOR}你可以从 \\\"这上面很冷\\\", \\\"冰宾戈\\\", 和 \\\"冲浪的瑞典人\\\" 等令人难以置信的纪录片中认出冰西瓜的声音.",
+    "translation": "{KEYWORD}特点: {STAT}免疫冰冻\\r\\n\\r\\n{FLAVOR}你可以从 \\\"这上面很冷\\\", \\\"冰上宾果游戏\\\", 和 \\\"冲浪的瑞典人\\\" 等令人难以置信的纪录片中认出冰西瓜的声音.",
     "stage": 5,
     "context": "6104"
   },
@@ -42793,21 +42786,21 @@
   {
     "key": "WITCHHAZEL",
     "original": "Witch Hazel",
-    "translation": "金缕梅",
+    "translation": "金缕梅女巫",
     "stage": 5,
     "context": "6114"
   },
   {
     "key": "WITCHHAZEL_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}targets Wizard Zombies first\\r\\n\\r\\n{FLAVOR}As one of the most powerful magic users in the Plant Kingdom, she's often chosen to participate in the magical duels between plants and zombies. She's not really too stable though - as she's known for quickly snapping at other plants. She also enjoys petting any cat within her sight... and talk shows, for some reason. Is that a Witch thing?",
-    "translation": "{KEYWORD}特点: {STAT}优先锁定巫师僵尸\\r\\n\\r\\n{FLAVOR}作为植物王国中最强大的魔法使用者之一, 她经常被选中参加植物和僵尸之间的魔法决斗. 不过, 她并不太稳定 - 因为她以快速捕捉其它植物而闻名. 她还喜欢抚摸她视线范围内的任何猫... 和脱口秀节目. 女巫也干那种事吗?",
+    "translation": "{KEYWORD}特点: {STAT}优先锁定巫师僵尸\\r\\n\\r\\n{FLAVOR}作为植物王国中最强大的魔法使用者之一, 她经常被选中参加植物和僵尸之间的魔法决斗. 不过, 她并不太稳定 - 因为她以快速捕捉其他植物而闻名. 她还喜欢抚摸她视线范围内的任何猫... 和脱口秀节目. 女巫也干那种事吗?",
     "stage": 5,
     "context": "6115"
   },
   {
     "key": "WITCHHAZEL_DESCRIPTION_HEADER",
     "original": "Witch Hazels use magical sorcery to transform zombies into other plants.",
-    "translation": "金缕梅可以使用魔法巫术把僵尸变成其他植物.",
+    "translation": "金缕梅女巫可以使用魔法巫术把僵尸变成其他植物.",
     "stage": 5,
     "context": "6116"
   },
@@ -42863,7 +42856,7 @@
   {
     "key": "WORLDMAP_EVENT_BEGHOULED_BEYOND_DEFAULT_TITLE",
     "original": "Swap your way to a better world in the Beghouled Beyond event!",
-    "translation": "迷阵锦标赛, \\\"换\\\"出新乐趣!",
+    "translation": "迷阵锦标赛, \\\"换\\\" 出新乐趣!",
     "stage": 5,
     "context": "6124"
   },
@@ -42884,7 +42877,7 @@
   {
     "key": "WORLDMAP_EVENT_LOD_BEACH1_HERE_TITLE",
     "original": "Ride the waves of new zombies.",
-    "translation": "来看看新僵尸吧! 别\\\"浪\\\"哦",
+    "translation": "来看看新僵尸吧! 别 \\\"浪\\\" 哦.",
     "stage": 5,
     "context": "6127"
   },
@@ -43227,7 +43220,7 @@
   {
     "key": "WORLDMAP_EVENT_LOD_HALLOWEEN_WITCHHAZEL_TITLE",
     "original": "Witch Hazel is here! Egad!",
-    "translation": "金缕梅在此! 真的!",
+    "translation": "金缕梅女巫在此! 真的!",
     "stage": 5,
     "context": "6176"
   },
@@ -43535,7 +43528,7 @@
   {
     "key": "WORLDMAP_EVENT_LOD_HOLIDAY_SUMMERNIGHTS_DESC",
     "original": "Summer Nights event is on with hot parties.",
-    "translation": "\\\"仲夏夜\\\"活动怎能没有热辣的盛宴!",
+    "translation": "\\\"仲夏夜\\\" 活动怎能没有热辣的盛宴!",
     "stage": 5,
     "context": "6220"
   },
@@ -43549,7 +43542,7 @@
   {
     "key": "WORLDMAP_EVENT_LOD_HOLIDAY_SUMMERNIGHTS_EXPLODEONUT_TITLE",
     "original": "The nut with the extra CRUNCH!",
-    "translation": "这个坚果\\\"炸\\\"得很酥脆!",
+    "translation": "这个坚果 \\\"炸\\\" 得很酥脆!",
     "stage": 5,
     "context": "6222"
   },
@@ -43661,7 +43654,7 @@
   {
     "key": "WORLDMAP_EVENT_LOD_ICEAGE1_TEASER_TITLE",
     "original": "Chill out with a sneak peek of Frostbite Caves.",
-    "translation": "躲进寒霜洞穴, \\\"冷静\\\"一下.",
+    "translation": "躲进寒霜洞穴, \\\"冷静\\\" 一下.",
     "stage": 5,
     "context": "6238"
   },
@@ -43899,7 +43892,7 @@
   {
     "key": "WORLDMAP_EVENT_LOD_SPRING_EGG_TITLE",
     "original": "Play Eggbreaker in today's garden party.",
-    "translation": "在今天的花园派对游玩\\\"破蛋者\\\"吧!",
+    "translation": "在今天的花园派对游玩 \\\"破蛋者\\\" 吧!",
     "stage": 5,
     "context": "6272"
   },
@@ -44452,14 +44445,14 @@
   {
     "key": "WORLD_PREVIEW_DESCRIPTION_DARK",
     "original": "Bring out your undead to the year 948! Harvest mushrooms in the dark of knight and get medieval on zombies from the days of yore!",
-    "translation": "与僵尸一起来到如尸般腐臭的 948 年! 在这儿, 无处不笼罩着黑暗骑士的阴霾. 你将在这儿获得蘑菇, 在来自\\\"往日岁月\\\"的僵尸进攻下走过中世纪!",
+    "translation": "与僵尸一起来到如尸般腐臭的948年! 在这儿, 无处不笼罩着黑暗骑士的阴霾. 你将在这儿获得蘑菇, 在来自 \\\"往日岁月\\\" 的僵尸进攻下走过中世纪!",
     "stage": 5,
     "context": "6351"
   },
   {
     "key": "WORLD_PREVIEW_DESCRIPTION_DINO",
     "original": "The ground thunders under the awful feet of terrible lizards! Dinosaurs prowl the past, provoking prehistoric zombies into a frenzy of ancient antipathy!",
-    "translation": "\\\"轰! 轰! \\\" ,那是史前巨蜥脚步落在地上的声音. 周围是凶猛的恐龙在徘徊, 连僵尸也在原始的欲望下变得更为疯狂.",
+    "translation": "\\\"轰! 轰!\\\", 那是史前巨蜥脚步落在地上的声音. 周围是凶猛的恐龙在徘徊, 连僵尸也在原始的欲望下变得更为疯狂.",
     "stage": 5,
     "context": "6352"
   },
@@ -44487,7 +44480,7 @@
   {
     "key": "WORLD_PREVIEW_DESCRIPTION_ICEAGE",
     "original": "Explore the frozen wastes of prehistory and chill out with the coolest zombies ever. Beware the winds or your plants will be frozen veggies.",
-    "translation": "探索史前的冰冻废墟, 与最\\\"冷酷\\\"的僵尸一起\\\"冷静\\\"下来. 小心吹来的寒风! 它能把你的植物冻成冰块!",
+    "translation": "探索史前的冰冻废墟, 与最 \\\"冷酷\\\" 的僵尸一起 \\\"冷静\\\" 下来. 小心吹来的寒风! 它能把你的植物冻成冰块!",
     "stage": 5,
     "context": "6356"
   },
@@ -44830,7 +44823,7 @@
   {
     "key": "XSHOT_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}hovers above ground or water\\r\\n\\r\\n{FLAVOR}Sometimes Rotobaga hears the other plants gossiping about each other. \\Did you notice that so-and-so has been putting on weight?\\\" they might say. Or, \\\"I hear that so-and-so is dating so-and-so. Can you believe it?\\\"  But Rotobaga isn't the kind of plant to engage in idle gossip. She's not interested in talking about anyone behind their leaves. She does her best to just rise above it.\"",
-    "translation": "{KEYWORD}特点: {STAT}可以种在水上\\r\\n\\r\\n{FLAVOR}有时, 旋转芜菁会听到其他植物互相八卦. \\\"你注意到某某的体重在增加吗?\\\" 他们可能会说. 或者 \\\"听说某某正在和某某约会. 你能相信吗?\\\" 但旋转芜菁不是那种闲言碎语的植物. 她不想在背后谈论任何人. 她只是尽全力超越它.",
+    "translation": "{KEYWORD}特点: {STAT}可以种在水上\\r\\n\\r\\n{FLAVOR}有时候旋转芜菁会听到植物们互相八卦. \\\"你注意到没? 某某某发胖了.\\\" 他们还会说, 像这样的话题: \\\"我听说某某某正在和某某某约会, 你能相信吗?\\\" 但是旋转芜菁不是这种爱八卦的类型. 对于在别人背后议论八卦, 她更有兴趣事情是尽力超越别人.",
     "stage": 5,
     "context": "6405"
   },
@@ -45313,7 +45306,7 @@
   {
     "key": "ZOMBIE_BEACH_FEM_DESCRIPTION",
     "original": "{FLAVOR}Is it weird that we haven't seen any female zombies before? Some say yes. Some say no. Either way, Bikini Zombie is used to breaking new ground. She's not afraid to go where no woman zombie has gone before. You could call her a pioneer. You could call her a hero.",
-    "translation": "{FLAVOR}在之前我们从未看到过女性僵尸, 是不是很奇怪? 有人说是的. 有人说不是. 不管怎样, 比基尼僵尸开辟了新局面. 她不惧怕到以前没有女性僵尸涉足的地方. 她可以称为先驱者. 也可以称为英雄.",
+    "translation": "{FLAVOR}在之前我们从未看到过女性僵尸, 是不是很奇怪? 有人说是的. 有人说不是. 不管怎样, 比基尼僵尸开辟了新局面. 她不惧怕到以前没有女性僵尸涉足的地方. 她可以称为先驱者, 也可以称为英雄.",
     "stage": 5,
     "context": "6474"
   },
@@ -45838,7 +45831,7 @@
   {
     "key": "ZOMBIE_COWBOY_ARMOR4_DESCRIPTION_HEADER",
     "original": "Cart-head Zombie's cart-shaped chapeau provides extra-wheeled head protection.",
-    "translation": "矿车僵尸的矿车为它提供了额外的头部防御.",
+    "translation": "矿车僵尸的矿车为他提供了额外的头部防御.",
     "stage": 5,
     "context": "6549"
   },
@@ -45873,14 +45866,14 @@
   {
     "key": "ZOMBIE_COWBOY_FLAG_VETERAN_DESCRIPTION",
     "original": "{FLAVOR}Arrows point to the brain on Cowboy Rally's Flag, as if to say, \\Hey, everyone, I would like to emphasize this image.\\\" It's canny design.\"",
-    "translation": "{FLAVOR}瞧, 有两个箭头在指着它旗帜上的脑子, 仿佛是在说: \\\"嘿! 看到这个脑子了吗! 我在强调它哦! \\\" 这个设计很棒吧.",
+    "translation": "{FLAVOR}瞧, 有两个箭头在指着它旗帜上的脑子, 仿佛是在说: \\\"嘿! 看到这个脑子了吗! 我在强调它哦!\\\" 这个设计很棒吧.",
     "stage": 5,
     "context": "6554"
   },
   {
     "key": "ZOMBIE_COWBOY_FLAG_VETERAN_DESCRIPTION_HEADER",
     "original": "Cowboy Rally Zombie marks the appearance of a sizable stampede of zombies.",
-    "translation": "牛仔集结僵尸和它的旗帜象征着超大波的僵尸即将来袭.",
+    "translation": "牛仔集结僵尸和他的旗帜象征着超大波的僵尸即将来袭.",
     "stage": 5,
     "context": "6555"
   },
@@ -45915,7 +45908,7 @@
   {
     "key": "ZOMBIE_DARK_DESCRIPTION",
     "original": "{FLAVOR}Someone shouted, \\Bring out your undead!\\\" And then Peasant Zombie found himself here. He simply doesn't remember anything that happened before that.\"",
-    "translation": "{FLAVOR}只听到了一句: \\\"亡灵, 接受召唤吧! \\\", 随后, 农民僵尸就发现自己来到了这个地方. 而在此前的所有记忆, 他怎么想也想不起来了.",
+    "translation": "{FLAVOR}只听到了一句: \\\"亡灵, 接受召唤吧!\\\", 随后, 农民僵尸就发现自己来到了这个地方. 而在此前的所有记忆, 他怎么想也想不起来了.",
     "stage": 5,
     "context": "6560"
   },
@@ -45957,7 +45950,7 @@
   {
     "key": "ZOMBIE_DARK_ARMOR2_DESCRIPTION",
     "original": "{FLAVOR}None of the other zombies seem to understand just how versatile Buckethead Peasant's choice of headwear is. Sure, his bucket makes for a great battle helmet. But just last night, he cooked a truly divine brain stew in it. And next time you see his band, check out what he's using for a kick drum.",
-    "translation": "{FLAVOR}其它僵尸才不会明白他头上那个桶有多么万能. 首先, 它在战场上可以用作一个结实的头盔. 而就在昨晚, 它才刚刚被用来炖了一桶神圣的脑子. 对了, 下次铁桶农民僵尸开始演奏的时候, 注意一下他把什么当作鼓了.",
+    "translation": "{FLAVOR}其他僵尸才不会明白他头上那个桶有多么万能. 首先, 它在战场上可以用作一个结实的头盔. 而就在昨晚, 它才刚刚被用来炖了一桶神圣的脑子. 对了, 下次铁桶农民僵尸开始演奏的时候, 注意一下他把什么当作鼓了.",
     "stage": 5,
     "context": "6566"
   },
@@ -46174,7 +46167,7 @@
   {
     "key": "ZOMBIE_DINO_ARMOR1_DESCRIPTION_HEADER",
     "original": "Cones, or old leftover horns bundled together with string so that they look sort of like a cone, provide some middling protection.",
-    "translation": "或许是路障, 或许是老旧的龙角捆在一起, 一切都是为了让这玩意儿更像圆锥体, 它能提供中等防御.",
+    "translation": "路障, 或者说是用老旧的龙角捆在一起让这东西更像圆锥体的玩意儿, 能提供中等防御.",
     "stage": 5,
     "context": "6597"
   },
@@ -46391,14 +46384,14 @@
   {
     "key": "ZOMBIE_DISCO_MECH",
     "original": "Disco-tron 3000",
-    "translation": "迪斯科机 3000",
+    "translation": "迪斯科机3000",
     "stage": 5,
     "context": "6628"
   },
   {
     "key": "ZOMBIE_DISCO_MECH_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}resistant to chill, stalling perfume, stun and poison\\r\\n{KEYWORD}Special: {STAT}immune to all knockbacks and butter\\r\\n\\r\\n{FLAVOR}After some initial problems with the sideburn suspension system, the Disco-tron 3000 went on to become the shufflin' dance-bot of doom it is today.",
-    "translation": "{KEYWORD}特点: {STAT}免疫冷却, 失速, 眩晕和中毒\\r\\n{KEYWORD}特点: {STAT}免疫所有击退和黄油\\r\\n\\r\\n{FLAVOR}在解决了侧燃悬挂系统引发的一些问题之后, 迪斯科机 3000仍是目前为止最为恐怖的毁灭舞步机器人.",
+    "translation": "{KEYWORD}特点: {STAT}免疫冷却, 失速, 眩晕和中毒\\r\\n{KEYWORD}特点: {STAT}免疫所有击退和黄油\\r\\n\\r\\n{FLAVOR}在解决了侧燃悬挂系统引发的一些问题之后, 迪斯科机3000仍是目前为止最为恐怖的毁灭舞步机器人.",
     "stage": 5,
     "context": "6629"
   },
@@ -46419,7 +46412,7 @@
   {
     "key": "ZOMBIE_EGYPT_GARGANTUAR_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}crushes plants with sarcophagus\\r\\n{KEYWORD}Special: {STAT}launches Imp Mummy when damaged\\r\\n\\r\\n{FLAVOR}True fact #1: The pyramids were built in an attempt to make Mummified Gargantuar seem small. It didn't work. True fact #2: The Sphinx isn't missing its nose... that is the face of... Gargantuar.",
-    "translation": "{KEYWORD}特点: {STAT}用石棺砸扁植物\\r\\n{KEYWORD}特点: {STAT}在受到一定伤害后扔出小鬼木乃伊\\r\\n\\r\\n{FLAVOR}冷知识#1: 木乃伊巨人僵尸其实是用来衬托金字塔有多大的, 虽然好像没啥用. 冷知识#2: 狮身人面像其实并没有失去鼻子, 那其实是...巨人僵尸的.",
+    "translation": "{KEYWORD}特点: {STAT}用石棺砸扁植物\\r\\n{KEYWORD}特点: {STAT}在受到一定伤害后扔出小鬼木乃伊\\r\\n\\r\\n{FLAVOR}冷知识#1: 木乃伊巨人僵尸其实是用来衬托金字塔有多大的, 虽然好像没啥用. 冷知识#2: 狮身人面像其实并没有失去鼻子, 那其实是... 巨人僵尸的.",
     "stage": 5,
     "context": "6632"
   },
@@ -46818,7 +46811,7 @@
   {
     "key": "ZOMBIE_FOOTBALL_MECH_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}resistant to chill, stalling perfume, stun and poison\\r\\n{KEYWORD}Special: {STAT}immune to light knockbacks, freeze and butter\\r\\n\\r\\n{FLAVOR}Now past his prime, Mecha-Football Zombie is ready to be put back into the game. Until he gets some brains, concussions aren't a concern.",
-    "translation": "{KEYWORD}Special: {STAT}对冷却, 失速, 眩晕和中毒有抗性\\r\\n{KEYWORD}Special: {STAT}对轻微击退, 冰冻和黄油免疫\\r\\n\\r\\n{FLAVOR}尽管他的黄金时代已然过去, 机甲橄榄球僵尸时刻准备着回到比赛当中. 即便是脑震荡也无法阻碍他赢得一些脑子.",
+    "translation": "{KEYWORD}特点: {STAT}对冷却, 失速, 眩晕和中毒有抗性\\r\\n{KEYWORD}特点: {STAT}对轻微击退, 冰冻和黄油免疫\\r\\n\\r\\n{FLAVOR}尽管他的黄金时代已然过去, 机甲橄榄球僵尸时刻准备着回到比赛当中. 即便是脑震荡也无法阻碍他赢得一些脑子.",
     "stage": 5,
     "context": "6689"
   },
@@ -46881,7 +46874,7 @@
   {
     "key": "ZOMBIE_FUTURE_ARMOR2_DESCRIPTION",
     "original": "{FLAVOR}Other zombies call him old-fashioned for being nostalgic for the year 2008.  It was a simpler time when brains were brains, zombies were zombies, and those punk plants kept to themselves.",
-    "translation": "{FLAVOR}因为怀念2008年的那些日子, 其它僵尸都称他为老古董. 啊, 那个时候, 一切都是如此单纯, 脑子就是脑子, 僵尸就是僵尸, 而那些植物, 还是一如既往的植物.",
+    "translation": "{FLAVOR}因为怀念2008年的那些日子, 其他僵尸都称他为老古董. 啊, 那个时候, 一切都是如此单纯, 脑子就是脑子, 僵尸就是僵尸, 而那些植物, 还是一如既往的植物.",
     "stage": 5,
     "context": "6698"
   },
@@ -46958,28 +46951,28 @@
   {
     "key": "ZOMBIE_FUTURE_GARGANTUAR",
     "original": "Gargantuar Prime",
-    "translation": "擎天巨人僵尸",
+    "translation": "精英巨人僵尸",
     "stage": 5,
     "context": "6709"
   },
   {
     "key": "ZOMBIE_FUTURE_GARGANTUAR_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}crushes plants with arms\\r\\n{KEYWORD}Special: {STAT}randomly burns tiles with laser eyes\\r\\n{KEYWORD}Special: {STAT}launches 2 Bug Bots when damaged\\r\\n{KEYWORD}Special: {STAT}resistant to chill, stalling perfume, stun and poison\\r\\n{KEYWORD}Special: {STAT}immune to all knockbacks and freeze\\r\\n\\r\\n{FLAVOR}The imp pilots of the Gargantuar Prime series are handpicked by Dr. Zomboss himself. They are the imp elite.  The small, the mean, and the fearless! But mostly the ones who can drive a stick shift.",
-    "translation": "{KEYWORD}特点: {STAT}用自己的胳膊砸扁植物\\r\\n{KEYWORD}特点: {STAT}激光眼随机扫射地面\\r\\n{KEYWORD}特点: {STAT}受到一定伤害后扔出两个机器蛛虫\\r\\n{KEYWORD}特点: {STAT}对冷却, 失速, 眩晕和中毒有抗性\\r\\n{KEYWORD}特点: {STAT}免疫所有击退和冰冻\\r\\n\\r\\n{FLAVOR}擎天巨人僵尸驾驶位上的小鬼僵尸是由僵王博士亲自挑选的. 他们是小鬼中的精英. 既小, 又卑鄙, 还无所畏惧! 但其实只是大多数僵尸都进不去驾驶室.",
+    "translation": "{KEYWORD}特点: {STAT}用自己的胳膊砸扁植物\\r\\n{KEYWORD}特点: {STAT}激光眼随机扫射地面\\r\\n{KEYWORD}特点: {STAT}受到一定伤害后扔出两个机械蛛虫\\r\\n{KEYWORD}特点: {STAT}对冷却, 失速, 眩晕和中毒有抗性\\r\\n{KEYWORD}特点: {STAT}免疫所有击退和冰冻\\r\\n\\r\\n{FLAVOR}精英巨人僵尸驾驶位上的小鬼僵尸是由僵王博士亲自挑选的. 他们是小鬼中的精英. 既小, 又卑鄙, 还无所畏惧! 但其实只是大多数僵尸都进不去驾驶室.",
     "stage": 5,
     "context": "6710"
   },
   {
     "key": "ZOMBIE_FUTURE_GARGANTUAR_DESCRIPTION_HEADER",
     "original": "Has it all: heavy armor, laser eyes, smashing arms, and Bug Bot deployment system.",
-    "translation": "这个机器无所不能: 重型盔甲, 激光眼, 粉碎一切的手臂, 还有机器蛛虫部署系统. 样样精通.",
+    "translation": "这个机器无所不能: 重型盔甲, 激光眼, 粉碎一切的手臂, 还有机械蛛虫部署系统. 样样精通.",
     "stage": 5,
     "context": "6711"
   },
   {
     "key": "ZOMBIE_FUTURE_IMP",
     "original": "Bug Bot Imp",
-    "translation": "机器蛛虫小鬼僵尸",
+    "translation": "机械蛛虫小鬼僵尸",
     "stage": 5,
     "context": "6712"
   },
@@ -47182,7 +47175,7 @@
   {
     "key": "ZOMBIE_GENERAL_ZMECH_PHASE3_DESCRIPTION_HEADER",
     "original": "Deploys a set of summoning and teleportation technologies to harass, damage and otherwise imperil plants on the board.",
-    "translation": "利用召唤与传送技术来袭扰, 破坏或用其它方式危及场上植物.",
+    "translation": "利用召唤与传送技术来袭扰, 破坏或用其他方式危及场上植物.",
     "stage": 5,
     "context": "6741"
   },
@@ -47938,7 +47931,7 @@
   {
     "key": "ZOMBIE_MODERN_NEWSPAPER_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}immune to chill\\r\\n\\r\\n{FLAVOR}You can't really blame him for getting so upset; he was THIS close to finishing the crossword (23 down was \\Brains.\\\")\"",
-    "translation": "{KEYWORD}特点: {STAT}免疫冷却\\r\\n\\r\\n{FLAVOR}你真不能怪他那么沮丧, 它就差那么一点点就能完成那个填字游戏了 (23号纵行是\\\"Brains\\\".)",
+    "translation": "{KEYWORD}特点: {STAT}免疫冷却\\r\\n\\r\\n{FLAVOR}你真不能怪他那么沮丧, 他就差那么一点点就能完成那个填字游戏了 (23号纵行是 \\\"Brains\\\".)",
     "stage": 5,
     "context": "6849"
   },
@@ -48148,7 +48141,7 @@
   {
     "key": "ZOMBIE_PELICAN_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}immune to butter\\r\\n\\r\\n{FLAVOR}The Pelican Zombie upgraded from the Seagull Zombie and has no regrets. No egrets, either. Just a pelican.",
-    "translation": "{KEYWORD}特点: {STAT}免疫黄油\\r\\n\\r\\n{FLAVOR}鹈鹕僵尸是海鸥僵尸的升级版, 毕竟乌鹊南飞, 虽然没有乌鹊, 因为他就是个鹈鹕.",
+    "translation": "{KEYWORD}特点: {STAT}免疫黄油\\r\\n\\r\\n{FLAVOR}鹈鹕僵尸是海鸥僵尸的升级版, 毕竟乌鹊南飞, 虽然没有乌鹊, 因为它就是个鹈鹕.",
     "stage": 5,
     "context": "6879"
   },
@@ -48169,7 +48162,7 @@
   {
     "key": "ZOMBIE_PHARAOH_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}armor cannot be pierced by poison and certain instants\\r\\n{KEYWORD}Special: {STAT}moves like a hungry zombie once free\\r\\n{KEYWORD}Special: {STAT}resistant to chill, freeze, stalling perfume and butter\\r\\n\\r\\n{FLAVOR}The second cousin once removed of King Rot, he rose to power with his disappearing sarcophagus act, but met his untimely end in an unfortunate goat accident. His tale is told in great detail on the back of his sarcophagus, which no one will ever see.",
-    "translation": "{KEYWORD}Special: {STAT}石棺免疫毒和灰烬植物的穿甲伤害\\r\\n{KEYWORD}Special: {STAT}石棺被打破后会如饥饿的僵尸般行动\\r\\n{KEYWORD}Special: {STAT}对冷却, 冰冻, 失速和黄油有抗性.\\r\\n\\r\\n{FLAVOR}在罗特国王的第二个堂兄被撤职后, 他凭借 \\\"消失的石棺法案\\\" 取得了权力. 但在一次出行中, 他不幸被山羊撞下悬崖, 早早地结束了自己年轻的生命. 他的所有故事都记录在他的石棺后面, 但似乎没有任何人能看到.",
+    "translation": "{KEYWORD}特点: {STAT}石棺免疫毒和灰烬植物的穿甲伤害\\r\\n{KEYWORD}特点: {STAT}石棺被打破后会如饥饿的僵尸般行动\\r\\n{KEYWORD}特点: {STAT}对冷却, 冰冻, 失速和黄油有抗性.\\r\\n\\r\\n{FLAVOR}在罗特国王的第二个堂兄被撤职后, 他凭借 \\\"消失的石棺法案\\\" 取得了权力. 但在一次出行中, 他不幸被山羊撞下悬崖, 早早地结束了自己年轻的生命. 他的所有故事都记录在他的石棺后面, 但似乎没有任何人能看到.",
     "stage": 5,
     "context": "6882"
   },
@@ -48218,7 +48211,7 @@
   {
     "key": "ZOMBIE_PIRATE_ARMOR1_DESCRIPTION",
     "original": "{FLAVOR}Conehead Pirate is a simple zombie. When asked what his favorite dish is, he'd think for a moment, straighten his ascot, and say, \\Rrurrarrbrains.\\\" Perhaps he could borrow a cup, neighbor?\"",
-    "translation": "{FLAVOR}路障海盗只是一只平凡的僵尸. 当你问他最喜欢的菜是什么时, 他会想很长一段时间, 然后整理一下他的领带, 然后说: \\\"液体脑子.\\\" 邻居, 他能从你这里借一杯吗?",
+    "translation": "{FLAVOR}路障海盗只是一只平凡的僵尸. 当你问他最喜欢的菜是什么时, 他会想很长一段时间, 然后整理一下他的领带, 然后说: \\\"脑 - 浆.\\\" 邻居, 他能从你这里借一杯吗?",
     "stage": 5,
     "context": "6889"
   },
@@ -48442,7 +48435,7 @@
   {
     "key": "ZOMBIE_PIRATE_IMP_DESCRIPTION",
     "original": "{FLAVOR}He was a bootblack, with a side trade as a pickpocket on the streets of London, but all he stole were oversized footwear. \\Time to steal some booty!\\\" was his catchphrase.\"",
-    "translation": "{FLAVOR}他是一个擦皮鞋的, 兼职伦敦街扒手, 但是他偷的都是大号的鞋子. 他的口头禅是 \\\"是时候偷些战利鞋了! \\\".",
+    "translation": "{FLAVOR}他是一个擦皮鞋的, 兼职伦敦街扒手, 但是他偷的都是大号的鞋子. 他的口头禅是 \\\"是时候偷些战利鞋了!\\\".",
     "stage": 5,
     "context": "6921"
   },
@@ -48463,7 +48456,7 @@
   {
     "key": "ZOMBIE_PONCHO_DESCRIPTION",
     "original": "{FLAVOR}There are three things that he hates the most. One, losing his most prized possession - his grate. The poncho is there just to protect it from getting rusty. Two, losing his mechanical horse. Three, being compared with his brother. Seriously - he's not the one who eats plants like there's no tomorrow.",
-    "translation": "{FLAVOR}有三件事是他最痛恨的. 第一, 失去他最珍贵的财产 - 他的炉排. 那件披风只是为了保护他不生锈. 第二, 失去他的机械马. 三, 被人拿来和他的哥哥比较. 说真的 - 他不是那个像没有明天一样吃植物的人.",
+    "translation": "{FLAVOR}有三件事是他最痛恨的. 第一, 失去他最珍贵的财产 - 他的炉排. 那件披风只是为了保护他不生锈. 第二, 失去他的机械马. 第三, 被人拿来和他的哥哥比较. 说真的 - 他不是那个像没有明天一样吃植物的人.",
     "stage": 5,
     "context": "6924"
   },
@@ -48540,7 +48533,7 @@
   {
     "key": "ZOMBIE_ROMAN_ARMOR1_DESCRIPTION_HEADER",
     "original": "A traffic cone made of marble provides some protection.",
-    "translation": "一个由大理石制成的路障为它提供了一些保护.",
+    "translation": "一个由大理石制成的路障为他提供了一些保护.",
     "stage": 5,
     "context": "6935"
   },
@@ -48596,7 +48589,7 @@
   {
     "key": "ZOMBIE_ROMAN_ARMOR4_DESCRIPTION",
     "original": "Bust Head Zombie belongs in museum with a big sign that says something like, \\WARNING: THIS IS A ZOMBIE!\\\"\"",
-    "translation": "半身像僵尸应当被放置在博物馆内, 并且有一个大标语, 上面写着\\\"警告: 这是一只僵尸! \\\"",
+    "translation": "半身像僵尸应当被放置在博物馆内, 并且有一个大标语, 上面写着 \\\"警告: 这是一只僵尸!\\\"",
     "stage": 5,
     "context": "6943"
   },
@@ -48631,7 +48624,7 @@
   {
     "key": "ZOMBIE_ROMAN_DESCRIPTION",
     "original": "He's not sure what \\decimate\\\" means. \"",
-    "translation": "他并不明白\\\"十一抽杀\\\"是什么意思.",
+    "translation": "他并不明白 \\\"十一抽杀\\\" 是什么意思.",
     "stage": 5,
     "context": "6948"
   },
@@ -48680,7 +48673,7 @@
   {
     "key": "ZOMBIE_ROMAN_GARGANTUAR_DESCRIPTION_HEADER",
     "original": "Wears a helmet. Throws an imp AND a net. Just a real piece of work.",
-    "translation": "戴着头盔. 可以扔出一只小鬼僵尸和一张网. 这是他\\\"僵\\\"生的意义.",
+    "translation": "戴着头盔. 可以扔出一只小鬼僵尸和一张网. 这是他 \\\"僵\\\" 生的意义.",
     "stage": 5,
     "context": "6955"
   },
@@ -48715,7 +48708,7 @@
   {
     "key": "ZOMBIE_ROMAN_IMP_DESCRIPTION",
     "original": "Like all Zombie Imps, Roman Imp keeps turning up where you least want him.",
-    "translation": "和其它小鬼僵尸不一样, 罗马小鬼僵尸总是会出现在你最不希望他出现的时候.",
+    "translation": "和其他小鬼僵尸不一样, 罗马小鬼僵尸总是会出现在你最不希望他出现的时候.",
     "stage": 5,
     "context": "6960"
   },
@@ -48862,7 +48855,7 @@
   {
     "key": "ZOMBIE_TOMB_RAISER_DESCRIPTION",
     "original": "{FLAVOR}He dreams about playing fetch, running for the brains. He loves burying himself in the yard, and is not yet indoor trained. He's still looking for his tail.",
-    "translation": "{FLAVOR}他十分享受抛脑子游戏. 他也常常在尚未完成 \\\"坐下\\\" \\\"握手\\\" 训练前跑到在院子里挖坑. 他始终在寻找自己的尾巴.",
+    "translation": "{FLAVOR}他十分享受抛脑子游戏. 他也常常在尚未完成 \\\"坐下\\\", \\\"握手\\\" 训练前跑到在院子里挖坑. 他始终在寻找自己的尾巴.",
     "stage": 5,
     "context": "6981"
   },
@@ -49156,7 +49149,7 @@
   {
     "key": "ZOMBIE_WEST_BULL_VETERAN_DESCRIPTION",
     "original": "{FLAVOR}\\Legend\\\" perhaps overstates Rodeo Legend Zombie's status in the rodeo world. Don't tell him that, though, unless you're desperate to hear an hour-long tirade about calf-roping.\"",
-    "translation": "{FLAVOR}\\\"传奇\\\" 这个词可能夸大了传奇斗牛僵尸在世界牛仔竞技比赛中的地位. 不过, 不要跟他说, 除非你非常想听他一个小时的长篇大论.\"",
+    "translation": "{FLAVOR}\\\"传奇\\\" 这个词可能夸大了传奇斗牛僵尸在世界牛仔竞技比赛中的地位. 不过, 不要跟他说, 除非你非常想听他一个小时的长篇大论.",
     "stage": 5,
     "context": "7023"
   },
@@ -49331,7 +49324,7 @@
   {
     "key": "ZOMBIE_ZCORP_FLAG_DESCRIPTION_HEADER",
     "original": "The flag is a tremendous way to create brand awareness while also indicating a lot more zombies are about to appear and eat your brains.",
-    "translation": "它的旗子可以很好地宣传它们的品牌, 同时也表明更多的僵尸即将出现, 想要吃掉你的脑子.",
+    "translation": "他的旗子可以很好地宣传它们的品牌, 同时也表明更多的僵尸即将出现, 想要吃掉你的脑子.",
     "stage": 5,
     "context": "7048"
   },
@@ -49747,5 +49740,12 @@
     "translation": "ZPS奖励:",
     "stage": 5,
     "context": "7107"
+  },
+  {
+    "key": "PEPPERMINT_DESCRIPTION_HEADER",
+    "original": "Pepper-mints set off lane-wide bursts of flame when planted and provide a temporary boost to all Pepper-mint Family plants on the lawn.",
+    "translation": "火辣薄荷在种植后会在整片草坪上燃起火焰, 并暂时加强草坪上所有的火辣薄荷家族植物.",
+    "stage": 5,
+    "context": "4371"
   }
 ]

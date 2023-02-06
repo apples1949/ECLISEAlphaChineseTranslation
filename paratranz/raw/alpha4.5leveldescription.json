@@ -20,7 +20,7 @@
   {
     "key": "4",
     "original": "Spend 3000 sun to break the statues before the final wave",
-    "translation": "在最后一波之前花费 3000 阳光打破雕像",
+    "translation": "在最后一波之前花费 3000 阳光摧毁雕像",
     "stage": 5
   },
   {
@@ -188,7 +188,7 @@
   {
     "key": "32",
     "original": "Survive with 800 starting sun\\nSpend 3000 sun to break the statues before the final wave",
-    "translation": "在有 800 初始阳光的情况下存活下来\\n在最后一波之前花费 3000 阳光打破雕像",
+    "translation": "在有 800 初始阳光的情况下存活下来\\n在最后一波之前花费 3000 阳光摧毁雕像",
     "stage": 5
   },
   {
@@ -398,7 +398,7 @@
   {
     "key": "67",
     "original": "Spend 5000 sun to break the statues before the final wave",
-    "translation": "在最后一波之前花费 5000 阳光打破雕像",
+    "translation": "在最后一波之前花费 5000 阳光摧毁雕像",
     "stage": 5
   },
   {
@@ -1052,7 +1052,7 @@
   {
     "key": "176",
     "original": "Spend 3000 sun to break the statues before the final wave",
-    "translation": "在最后一波之前花费 3000 阳光打破雕像",
+    "translation": "在最后一波之前花费 3000 阳光摧毁雕像",
     "stage": 5
   },
   {
@@ -1257,7 +1257,7 @@
     "key": "210",
     "original": "Don't touch the loli.",
     "translation": "不要碰萝莉.",
-    "stage": 2
+    "stage": 5
   },
   {
     "key": "211",
@@ -1406,7 +1406,7 @@
   {
     "key": "235",
     "original": "Spend 5000 sun to break the statues before the final wave",
-    "translation": "在最后一波之前花费 5000 阳光打破雕像",
+    "translation": "在最后一波之前花费 5000 阳光摧毁雕像",
     "stage": 5
   },
   {
@@ -1454,7 +1454,7 @@
   {
     "key": "243",
     "original": "Spend 3000 sun to break the statues before the final wave",
-    "translation": "在最后一波之前花费 3000 阳光打破雕像",
+    "translation": "在最后一波之前花费 3000 阳光摧毁雕像",
     "stage": 5
   },
   {
@@ -1604,8 +1604,8 @@
   {
     "key": "268",
     "original": "Throwback!",
-    "translation": "返祖!",
-    "stage": 2
+    "translation": "回到过去!",
+    "stage": 5
   },
   {
     "key": "269",
@@ -1616,7 +1616,7 @@
   {
     "key": "270",
     "original": "Throwback!",
-    "translation": "返祖!",
+    "translation": "回到过去!",
     "stage": 5
   },
   {
@@ -1628,7 +1628,7 @@
   {
     "key": "272",
     "original": "Throwback!",
-    "translation": "返祖!",
+    "translation": "回到过去!",
     "stage": 5
   },
   {
@@ -1640,7 +1640,7 @@
   {
     "key": "274",
     "original": "Throwback!",
-    "translation": "返祖!",
+    "translation": "回到过去!",
     "stage": 5
   },
   {
@@ -2078,7 +2078,7 @@
   {
     "key": "347",
     "original": "Plant Moonflowers on Boost Tiles and protect their shields before the first flag wave\\nAll zombies are stronger during the eclipse\\nSunburn will follow the eclipse\\nSpend 5000 sun to break the statues before the final wave",
-    "translation": "在第一大波前在强化地砖上种满月光花并保护她们的护罩\\n在日食时所有僵尸都会变强\\n日食后随之而来的是日灼\\n在最后一波之前花费 5000 阳光打破雕像",
+    "translation": "在第一大波前在强化地砖上种满月光花并保护她们的护罩\\n在日食时所有僵尸都会变强\\n日食后随之而来的是日灼\\n在最后一波之前花费 5000 阳光摧毁雕像",
     "stage": 5
   },
   {
@@ -2522,8 +2522,8 @@
   {
     "key": "421",
     "original": "Survive the mighty Gargscallions!",
-    "translation": "在原始巨人前存活下来!",
-    "stage": 2
+    "translation": "在强大的巨人小队前存活下来!",
+    "stage": 5
   },
   {
     "key": "422",
@@ -2702,7 +2702,7 @@
   {
     "key": "451",
     "original": "Don't let the Nether Dodos get unfrozen",
-    "translation": "不要让幽冥渡渡鸟被冻住",
+    "translation": "不要让幽冥渡渡鸟被解冻",
     "stage": 5
   },
   {
@@ -2907,726 +2907,726 @@
     "key": "485",
     "original": "Warp Party!",
     "translation": "混乱派对!",
-    "stage": 1
+    "stage": 5
   },
   {
     "key": "486",
     "original": "Plan your defense and defeat the zombies\\nZombies are at level 21 (x3.7 HP, x3 DPS, x1.3 speed)",
     "translation": "建立起你的防线, 阻挡僵尸\\n僵尸的等级为 21 (3.7 倍血量, 3 倍伤害, 1.3 倍速度)",
-    "stage": 1
+    "stage": 5
   },
   {
     "key": "487",
     "original": "Warp Party!",
     "translation": "混乱派对!",
-    "stage": 1
+    "stage": 5
   },
   {
     "key": "488",
     "original": "seems familiar",
     "translation": "似曾相识",
-    "stage": 1
+    "stage": 5
   },
   {
     "key": "489",
     "original": "Survive with the given plants",
     "translation": "使用给定的植物存活下来",
-    "stage": 1
+    "stage": 5
   },
   {
     "key": "490",
     "original": "Reach the target score",
     "translation": "达到目标分数",
-    "stage": 1
+    "stage": 5
   },
   {
     "key": "491",
     "original": "Warp Party!",
     "translation": "混乱派对!",
-    "stage": 1
+    "stage": 5
   },
   {
     "key": "492",
     "original": "Note to self: Do not do this again.",
     "translation": "提醒自己: 不要再这样做了.",
-    "stage": 1
+    "stage": 5
   },
   {
     "key": "493",
     "original": ":warpparty:",
     "translation": ":混乱派对:",
-    "stage": 1
+    "stage": 5
   },
   {
     "key": "494",
     "original": "S  U  N  K  I  S  S  E  D",
     "translation": "S  U  N  K  I  S  S  E  D",
-    "stage": 1
+    "stage": 5
   },
   {
     "key": "495",
     "original": "Spend MORE than 1000 sun in total to break the statues before the final wave. Three of these statues are real while the rest are fake. Even if the costs are fake, perhaps the sun may show you the way?",
     "translation": "在最后一波前花费超过 1000 阳光摧毁雕像. 这些雕像中有三个是真的, 其余的都是假的. 即使费用不确定, 也许阳光可以给你指路?",
-    "stage": 1
+    "stage": 5
   },
   {
     "key": "496",
     "original": "Most of the zombies will follow the path. You cannot plant on the path!",
     "translation": "大部分僵尸会沿着这条路前进. 你不能在道路上种植!",
-    "stage": 1
+    "stage": 5
   },
   {
     "key": "497",
     "original": "E  C  L  I  E  S",
     "translation": "E  C  L  I  E  S",
-    "stage": 1
+    "stage": 5
   },
   {
     "key": "498",
     "original": "Survive with most plants picked for you",
     "translation": "在已经替你选择好了大多数植物的情况下存活下来",
-    "stage": 1
+    "stage": 5
   },
   {
     "key": "499",
     "original": "Warp Party!",
     "translation": "混乱派对!",
-    "stage": 1
+    "stage": 5
   },
   {
     "key": "500",
     "original": "Warp Party!",
     "translation": "混乱派对!",
-    "stage": 1
+    "stage": 5
   },
   {
     "key": "501",
     "original": "Survive with only 4000 sun and a special seed bank",
     "translation": "仅用 4000 阳光和特殊的种子库存活下来",
-    "stage": 1
+    "stage": 5
   },
   {
     "key": "502",
     "original": "Made with 320 giga pixels",
     "translation": "用320千兆像素制作",
-    "stage": 1
+    "stage": 5
   },
   {
     "key": "503",
     "original": "Survive with a special seed bank",
     "translation": "使用特殊的种子库存活下来",
-    "stage": 1
+    "stage": 5
   },
   {
     "key": "504",
     "original": "Each shot costs 25 sun\\nBasic, Conehead, and Buckethead each requires 1, 2, and 3 shots respectively",
     "translation": "每一发消费 25 阳光\\n普通, 路障, 和铁桶僵尸分别需要 1, 2, 3 发",
-    "stage": 1
+    "stage": 5
   },
   {
     "key": "505",
     "original": "KEVINNGW808's Level Pack",
     "translation": "KEVINNGW808 的关卡包",
-    "stage": 1
+    "stage": 5
   },
   {
     "key": "506",
     "original": "Plant the Primal Potato Mine on the marked tile to kill the Chickens\\nChickens will spawn after the wave of Vegan Zombies",
-    "translation": "",
-    "stage": 0
+    "translation": "在标记的地砖上种原始土豆地雷来杀鸡\\n鸡会在素食者僵尸出现后的一波生成",
+    "stage": 5
   },
   {
     "key": "507",
     "original": "KEVINNGW808's Level Pack",
     "translation": "KEVINNGW808 的关卡包",
-    "stage": 1
+    "stage": 5
   },
   {
     "key": "508",
     "original": "Big Imps have higher DPS and they are immune to fire, chill, and freeze",
-    "translation": "",
-    "stage": 0
+    "translation": "大型小鬼有更高的伤害而且他们免疫火焰, 冷却, 和冰冻",
+    "stage": 5
   },
   {
     "key": "509",
     "original": "E  C  L  0  0  0",
-    "translation": "",
-    "stage": 0
+    "translation": "E  C  L  0  0  0",
+    "stage": 5
   },
   {
     "key": "510",
     "original": "KEVINNGW808's Level Pack",
     "translation": "KEVINNGW808 的关卡包",
-    "stage": 1
+    "stage": 5
   },
   {
     "key": "511",
     "original": "Survive with the given plants",
     "translation": "使用给定的植物存活下来",
-    "stage": 1
+    "stage": 5
   },
   {
     "key": "512",
     "original": "Zombies will spawn on Shakeboard Tiles",
-    "translation": "",
-    "stage": 0
+    "translation": "僵尸会在震动的地砖上生成",
+    "stage": 5
   },
   {
     "key": "513",
     "original": "Warp Party!",
     "translation": "混乱派对!",
-    "stage": 1
+    "stage": 5
   },
   {
     "key": "514",
     "original": "Protect the endangered plants",
-    "translation": "",
-    "stage": 0
+    "translation": "保护濒危的植物",
+    "stage": 5
   },
   {
     "key": "515",
     "original": "Protect the endangered plant",
-    "translation": "",
-    "stage": 0
+    "translation": "保护濒危的植物",
+    "stage": 5
   },
   {
     "key": "516",
     "original": "Survive with 500 starting sun\\nBeat the level in under 8 minutes",
-    "translation": "",
-    "stage": 0
+    "translation": "在有 500 初始阳光的情况下存活下来\\n在 8 分钟内通关",
+    "stage": 5
   },
   {
     "key": "517",
     "original": "KEVINNGW808's Level Pack",
     "translation": "KEVINNGW808 的关卡包",
-    "stage": 1
+    "stage": 5
   },
   {
     "key": "518",
     "original": "Survive a massive attack during Dark Ages' Sports Festival!\\nTip: 60 seconds preparation time",
-    "translation": "",
-    "stage": 0
+    "translation": "在黑暗时代的运动会的大规模进攻中存活下来!\\n提示: 60 秒准备时间",
+    "stage": 5
   },
   {
     "key": "519",
     "original": "Plant Strawbursts on the marked tiles before the final wave",
-    "translation": "",
-    "stage": 0
+    "translation": "在最后一波前在标记的地砖上种满爆浆草莓",
+    "stage": 5
   },
   {
     "key": "520",
     "original": "hello guys i like cheese",
-    "translation": "",
-    "stage": 0
+    "translation": "伙计们你们好我喜欢奶酪",
+    "stage": 5
   },
   {
     "key": "521",
     "original": "Zombies are at level 6 (x1.5 HP, x1.5 DPS, x1.05 speed)",
-    "translation": "",
-    "stage": 0
+    "translation": "僵尸的等级为 6 (1.5 倍血量, 1.5 倍伤害, 1.05 倍速度)",
+    "stage": 5
   },
   {
     "key": "522",
     "original": "Survive with the given plants",
     "translation": "使用给定的植物存活下来",
-    "stage": 1
+    "stage": 5
   },
   {
     "key": "523",
     "original": "Do not let any plant or zombie be on marked tiles",
-    "translation": "",
-    "stage": 0
+    "translation": "不要让任何植物或僵尸在标记的地砖上",
+    "stage": 5
   },
   {
     "key": "524",
     "original": "Warp Party!",
     "translation": "混乱派对!",
-    "stage": 1
+    "stage": 5
   },
   {
     "key": "525",
     "original": "Survive with 3000 starting sun",
-    "translation": "",
-    "stage": 0
+    "translation": "在有 3000 初始阳光的情况下存活下来",
+    "stage": 5
   },
   {
     "key": "526",
     "original": "Small town, indeed",
-    "translation": "",
-    "stage": 0
+    "translation": "的确是小镇",
+    "stage": 5
   },
   {
     "key": "527",
     "original": "Survive with the given plants\\nSpend 1000 sun to break the statues before the final wave",
-    "translation": "",
-    "stage": 0
+    "translation": "使用给定的植物存活下来\\n在最后一波前花费 1000 阳光摧毁雕像",
+    "stage": 5
   },
   {
     "key": "528",
     "original": "Warp Party!",
     "translation": "混乱派对!",
-    "stage": 1
+    "stage": 5
   },
   {
     "key": "529",
     "original": "Survive with 500 starting sun\\nZombies are at level 3 (x1.2 HP, x1.2 DPS, x1.02 speed)",
-    "translation": "",
-    "stage": 0
+    "translation": "在有 500 初始阳光的情况下存活下来\\n僵尸的等级为 3 (1.2 倍血量, 1.2 倍伤害, 1.02 倍速度)",
+    "stage": 5
   },
   {
     "key": "530",
     "original": "Survive with 500 starting sun",
-    "translation": "",
-    "stage": 0
+    "translation": "在有 500 初始阳光的情况下存活下来",
+    "stage": 5
   },
   {
     "key": "531",
     "original": "This gonna to be fun",
-    "translation": "",
-    "stage": 0
+    "translation": "这将会很有趣",
+    "stage": 5
   },
   {
     "key": "532",
     "original": "Ew C L I S E",
-    "translation": "",
-    "stage": 0
+    "translation": "Ew C L I S E",
+    "stage": 5
   },
   {
     "key": "533",
     "original": "It's sunset now, sun will drop slower and some shrooms will be awake.",
-    "translation": "",
-    "stage": 0
+    "translation": "现在是日落时分, 阳光会掉得慢一些, 一些蘑菇将会醒来.",
+    "stage": 5
   },
   {
     "key": "534",
     "original": "E  C  L  I  P  S  E",
-    "translation": "",
-    "stage": 0
+    "translation": "E  C  L  I  P  S  E",
+    "stage": 5
   },
   {
     "key": "535",
     "original": "{PLAYER}'s trip to the sussy land",
-    "translation": "",
-    "stage": 0
+    "translation": "{PLAYER} 的可疑土地之旅",
+    "stage": 5
   },
   {
     "key": "536",
     "original": "Custom Level",
-    "translation": "",
-    "stage": 0
+    "translation": "自制关卡",
+    "stage": 5
   },
   {
     "key": "537",
     "original": "Survive with the given plants",
-    "translation": "",
-    "stage": 0
+    "translation": "使用给定的植物存活下来",
+    "stage": 5
   },
   {
     "key": "538",
     "original": "Survive without sun producers\\nEmpty barrels can give you extra sun",
-    "translation": "",
-    "stage": 0
+    "translation": "在没有阳光生产植物的情况下存活下来\\n空桶会给你额外的阳光",
+    "stage": 5
   },
   {
     "key": "539",
     "original": "KEVINNGW808's Level Pack",
-    "translation": "",
-    "stage": 0
+    "translation": "KEVINNGW808 的关卡包",
+    "stage": 5
   },
   {
     "key": "540",
     "original": "Don't use Bombe trust me",
-    "translation": "",
-    "stage": 0
+    "translation": "相信我不要用爆炸石榴",
+    "stage": 5
   },
   {
     "key": "541",
     "original": "Survive with 2000 starting sun\\nSandstorm makes the zombies faster\\nSunburn makes the zombies immune to freeze and chill",
-    "translation": "",
-    "stage": 0
+    "translation": "在有 2000 初始阳光的情况下存活下来\\n沙尘暴会使僵尸速度加快\\n日灼使僵尸免疫冷却和冰冻",
+    "stage": 5
   },
   {
     "key": "542",
     "original": "Survive with all the plants you can have\\nAll zombies occasionly become invincible!",
-    "translation": "",
-    "stage": 0
+    "translation": "在所有植物可用的情况下存活下来\\n所有僵尸会偶尔无敌!",
+    "stage": 5
   },
   {
     "key": "543",
     "original": "Survive with all the plants you can have\\nAll zombies occasionly become invincible!",
-    "translation": "",
-    "stage": 0
+    "translation": "在所有植物可用的情况下存活下来\\n所有僵尸会偶尔无敌!",
+    "stage": 5
   },
   {
     "key": "544",
     "original": "Beat the level in under 5.5 minutes\\nSurvive without lawnmowers",
-    "translation": "",
-    "stage": 0
+    "translation": "在 5.5 分钟内通关\\n在没有小推车的情况下存活下来",
+    "stage": 5
   },
   {
     "key": "545",
     "original": "Survive with only 0 sun",
-    "translation": "",
-    "stage": 0
+    "translation": "仅用 0 阳光存活下来",
+    "stage": 5
   },
   {
     "key": "546",
     "original": "Survive with 500 starting sun",
-    "translation": "",
-    "stage": 0
+    "translation": "在有 500 初始阳光的情况下存活下来",
+    "stage": 5
   },
   {
     "key": "547",
     "original": "Destroy 12 Cannons before they explode!",
-    "translation": "",
-    "stage": 0
+    "translation": "在自爆之前摧毁掉 12 个小鬼炮!",
+    "stage": 5
   },
   {
     "key": "548",
     "original": "Survive with only 5000 sun",
-    "translation": "",
-    "stage": 0
+    "translation": "仅用 5000 阳光存活下来",
+    "stage": 5
   },
   {
     "key": "549",
     "original": "Survive with all the plants you can have",
-    "translation": "",
-    "stage": 0
+    "translation": "在所有植物可用的情况下存活下来",
+    "stage": 5
   },
   {
     "key": "550",
     "original": "Survive with all the plants you can have",
-    "translation": "",
-    "stage": 0
+    "translation": "在所有植物可用的情况下存活下来",
+    "stage": 5
   },
   {
     "key": "551",
     "original": "https://www.youtube.com/watch?v=DiVAw-fEWBs",
-    "translation": "",
-    "stage": 0
+    "translation": "https://www.youtube.com/watch?v=DiVAw-fEWBs",
+    "stage": 5
   },
   {
     "key": "552",
     "original": "Lane 1 Sun-shroom buffs Zombie Toughness\\nLane 5 Sun-shroom buffs Zombie Speed\\nProtect at least 1 endangered plant",
-    "translation": "",
-    "stage": 0
+    "translation": "一路的阳光菇增加僵尸的血量\\n五路的阳光菇增加僵尸的速度\\n保护至少 1 株濒危的植物",
+    "stage": 5
   },
   {
     "key": "553",
     "original": "if you use tier III snow or primal pea you suck",
-    "translation": "",
-    "stage": 0
+    "translation": "如果你用三阶原始或者寒冰豌豆那你真差劲",
+    "stage": 5
   },
   {
     "key": "554",
     "original": "Survive with a special seed bank. Barriers are key - set them up early.\"",
-    "translation": "",
-    "stage": 0
+    "translation": "使用特殊的种子库存活下来. 桶是关键 - 早点安排好.",
+    "stage": 5
   },
   {
     "key": "555",
     "original": "E C L I P S E",
-    "translation": "",
-    "stage": 0
+    "translation": "E C L I P S E",
+    "stage": 5
   },
   {
     "key": "556",
     "original": "Battle Bay Best Level",
-    "translation": "",
-    "stage": 0
+    "translation": "海湾战争是最好的关卡",
+    "stage": 5
   },
   {
     "key": "557",
     "original": "Protect the endangered plants",
-    "translation": "",
-    "stage": 0
+    "translation": "保护濒危的植物",
+    "stage": 5
   },
   {
     "key": "558",
     "original": "Zzz",
-    "translation": "",
-    "stage": 0
+    "translation": "Zzz",
+    "stage": 5
   },
   {
     "key": "559",
     "original": "Survive with the given plants\\nProtect the endangered plants",
-    "translation": "",
-    "stage": 0
+    "translation": "使用给定的植物存活下来\\n保护濒危的植物",
+    "stage": 5
   },
   {
     "key": "560",
     "original": "Bay BattlelttaB yaB",
-    "translation": "",
-    "stage": 0
+    "translation": "Bay BattlelttaB yaB",
+    "stage": 5
   },
   {
     "key": "561",
     "original": "Survive with a special seed bank\\nLet Nether Dodos eat Hypno-shrooms and protect them from other zombies",
-    "translation": "",
-    "stage": 0
+    "translation": "使用特殊的种子库存活下来\\n让幽冥渡渡鸟吃掉魅惑菇并且保护他们不被别的僵尸吃掉",
+    "stage": 5
   },
   {
     "key": "562",
     "original": "Survive with the given plants",
-    "translation": "",
-    "stage": 0
+    "translation": "使用给定的植物存活下来",
+    "stage": 5
   },
   {
     "key": "563",
     "original": "Subscribe to my youtube channel plz",
-    "translation": "",
-    "stage": 0
+    "translation": "关注我的油管频道吧求你了",
+    "stage": 5
   },
   {
     "key": "564",
     "original": "Protect the endangered plant",
-    "translation": "",
-    "stage": 0
+    "translation": "保护濒危的植物",
+    "stage": 5
   },
   {
     "key": "565",
     "original": "Survive with a special seed bank\\nProtect the endangered plants",
-    "translation": "",
-    "stage": 0
+    "translation": "使用特殊的种子库存活下来\\n保护濒危的植物",
+    "stage": 5
   },
   {
     "key": "566",
     "original": "Keep all Gargantuars alive until the final wave",
-    "translation": "",
-    "stage": 0
+    "translation": "让所有巨人僵尸活到最后一波",
+    "stage": 5
   },
   {
     "key": "567",
     "original": "Warning: Garganturar Primes will fire Bug Bot Imps onto Column 1!",
-    "translation": "",
-    "stage": 0
+    "translation": "警告: 精英巨人僵尸会将机械蛛虫小鬼发射到第 1 列!",
+    "stage": 5
   },
   {
     "key": "568",
     "original": "Survive with a special seedbank",
-    "translation": "",
-    "stage": 0
+    "translation": "使用特殊的种子库存活下来",
+    "stage": 5
   },
   {
     "key": "569",
     "original": "Beat the level in under 8 minutes",
-    "translation": "",
-    "stage": 0
+    "translation": "在 8 分钟内通关",
+    "stage": 5
   },
   {
     "key": "570",
     "original": "Survive with a special seed bank",
-    "translation": "",
-    "stage": 0
+    "translation": "使用特殊的种子库存活下来",
+    "stage": 5
   },
   {
     "key": "571",
     "original": "Move your minecart to the middle lane in order to plant!",
-    "translation": "",
-    "stage": 0
+    "translation": "只有将矿车移动到中间那一路才能种植植物!",
+    "stage": 5
   },
   {
     "key": "572",
     "original": "Move your minecart to the top lane in order to plant!",
-    "translation": "",
-    "stage": 0
+    "translation": "只有将矿车移动到一路才能种植植物!",
+    "stage": 5
   },
   {
     "key": "573",
     "original": "Defeat all the zombies in under 7.5 minutes\\nDefeat zombies to get sun\\nGround zombies are teleported back to the beginning before they reach the house",
-    "translation": "",
-    "stage": 0
+    "translation": "在 7.5 分钟内击杀所有的僵尸\\n击杀僵尸以获得阳光\\n地面僵尸抵达房子之前会被传送到起点",
+    "stage": 5
   },
   {
     "key": "574",
     "original": "Defeat all the zombies in under 4.5 minutes\\nDefeat zombies to get sun\\nZombies are teleported back to the beginning before they reach the house",
-    "translation": "",
-    "stage": 0
+    "translation": "在 4.5 分钟内击杀所有的僵尸\\n击杀僵尸以获得阳光\\n僵尸抵达房子之前会被传送到起点",
+    "stage": 5
   },
   {
     "key": "575",
     "original": "Survive with the given plants",
-    "translation": "",
-    "stage": 0
+    "translation": "使用给定的植物存活下来",
+    "stage": 5
   },
   {
     "key": "576",
     "original": "Survive with the given plants",
-    "translation": "",
-    "stage": 0
+    "translation": "使用给定的植物存活下来",
+    "stage": 5
   },
   {
     "key": "577",
     "original": "Survive with the chosen plants and conveyor\\nPlants from the conveyor cost sun to plant!",
-    "translation": "",
-    "stage": 0
+    "translation": "使用选定的和传送带给的植物存活下来\\n传送带给的植物需要花费阳光才能种植!",
+    "stage": 5
   },
   {
     "key": "578",
     "original": "Survive with the chosen plants and conveyor\\nPlants from the conveyor cost sun to plant!",
-    "translation": "",
-    "stage": 0
+    "translation": "使用选定的和传送带给的植物存活下来\\n传送带给的植物需要花费阳光才能种植!",
+    "stage": 5
   },
   {
     "key": "579",
     "original": "Survive with all the plants you can have",
-    "translation": "",
-    "stage": 0
+    "translation": "在所有植物可用的情况下存活下来",
+    "stage": 5
   },
   {
     "key": "580",
     "original": "Survive with all the plants you can have",
-    "translation": "",
-    "stage": 0
+    "translation": "在所有植物可用的情况下存活下来",
+    "stage": 5
   },
   {
     "key": "581",
     "original": "pls no magni",
-    "translation": "",
-    "stage": 0
+    "translation": "请不要用棱镜草",
+    "stage": 5
   },
   {
     "key": "582",
     "original": "Throwback!",
-    "translation": "",
-    "stage": 0
+    "translation": "回到过去!",
+    "stage": 5
   },
   {
     "key": "583",
     "original": "Survive while temporal cracks appear. Patch them with ground plants to stop the cracks!",
-    "translation": "",
-    "stage": 0
+    "translation": "在时间裂缝出现的情况下存活下来. 用地面植物补上裂缝!",
+    "stage": 5
   },
   {
     "key": "584",
     "original": "Throwback!",
-    "translation": "",
-    "stage": 0
+    "translation": "回到过去!",
+    "stage": 5
   },
   {
     "key": "585",
     "original": "Survive while temporal cracks appear. Patch them with ground plants to stop the cracks!",
-    "translation": "",
-    "stage": 0
+    "translation": "在时间裂缝出现的情况下存活下来. 用地面植物补上裂缝!",
+    "stage": 5
   },
   {
     "key": "586",
     "original": "This level was made a long time ago",
-    "translation": "",
-    "stage": 0
+    "translation": "这个关卡很久之前就做好了",
+    "stage": 5
   },
   {
     "key": "587",
     "original": "Protect the endangered plants",
-    "translation": "",
-    "stage": 0
+    "translation": "保护濒危的植物",
+    "stage": 5
   },
   {
     "key": "588",
     "original": "h",
-    "translation": "",
-    "stage": 0
+    "translation": "h",
+    "stage": 5
   },
   {
     "key": "589",
     "original": "Only plants of the corresponding color can be planted on Power Tiles of the same color.\\nIt's a special seed bank btw",
-    "translation": "",
-    "stage": 0
+    "translation": "只有相应颜色的植物才能种植在相同颜色的能量地砖上.\\n同时要使用独特的种子库",
+    "stage": 5
   },
   {
     "key": "590",
     "original": "succ",
-    "translation": "",
-    "stage": 0
+    "translation": "succ",
+    "stage": 5
   },
   {
     "key": "591",
     "original": "imp destroyer 2001",
-    "translation": "",
-    "stage": 0
+    "translation": "小鬼破坏者2001",
+    "stage": 5
   },
   {
     "key": "592",
     "original": "Capture at least 20 Bull Riders with Toadstool.",
-    "translation": "",
-    "stage": 0
+    "translation": "用金蟾菇捕捉至少 20 只骑牛小鬼.",
+    "stage": 5
   },
   {
     "key": "593",
     "original": "Survive with all the plants you can have\\nDestroy all the Tall-nuts before the final wave\\nPlay without the shovel",
-    "translation": "",
-    "stage": 0
+    "translation": "在所有植物可用的情况下存活下来\\n在最后一波前摧毁所有的高坚果\\n不用铲子游玩",
+    "stage": 5
   },
   {
     "key": "594",
     "original": "Survive with all the plants you can have\\nDestroy all the Tall-nuts before the final wave\\nPlay without the shovel",
-    "translation": "",
-    "stage": 0
+    "translation": "在所有植物可用的情况下存活下来\\n在最后一波前摧毁所有的高坚果\\n不用铲子游玩",
+    "stage": 5
   },
   {
     "key": "595",
     "original": "Survive in the ghost town while ghosts come from Necromancies!",
-    "translation": "",
-    "stage": 0
+    "translation": "当鬼魂会通过亡灵返乡出现时, 在鬼城存活下来!",
+    "stage": 5
   },
   {
     "key": "596",
     "original": "S  U  C  C",
-    "translation": "",
-    "stage": 0
+    "translation": "S  U  C  C",
+    "stage": 5
   },
   {
     "key": "597",
     "original": "Survive while ghost zombies spawn from Necromancies!",
-    "translation": "",
-    "stage": 0
+    "translation": "当僵尸通过亡灵返乡事件生成时存活下来!",
+    "stage": 5
   },
   {
     "key": "598",
     "original": "E  C  L  I  S  S  S  S  E",
-    "translation": "",
-    "stage": 0
+    "translation": "E  C  L  I  S  S  S  S  E",
+    "stage": 5
   },
   {
     "key": "599",
     "original": "Hi! Protect the Flowers. Flower live, Flower happy. Btw we in the Dank Ages: *No Jank, Just Dank*",
-    "translation": "",
-    "stage": 0
+    "translation": "你好! 保护花朵. 花活着, 花快乐. 顺便说一下, 我们在阴湿时代: *不是犯蠢, 就是阴湿*",
+    "stage": 5
   },
   {
     "key": "600",
     "original": "S  U  C  C",
-    "translation": "",
-    "stage": 0
+    "translation": "S  U  C  C",
+    "stage": 5
   },
   {
     "key": "601",
     "original": "Zomboss's Pirate Captain has come after you with his pirate ship containing his famous coconut throwers. Time to bring out the big guns!",
-    "translation": "",
-    "stage": 0
+    "translation": "僵王博士的海盗船长带着他的海盗船来追杀你了, 船里有他著名的椰子投掷者. 是时候拿出大枪了!",
+    "stage": 5
   },
   {
     "key": "602",
     "original": "S  U  C  C",
-    "translation": "",
-    "stage": 0
+    "translation": "S  U  C  C",
+    "stage": 5
   },
   {
     "key": "603",
     "original": "Zomboss's Sun Snipers have come to destroy your lawn. Prepare for an onslaught of lasers!",
-    "translation": "",
-    "stage": 0
+    "translation": "僵王博士的阳光狙击手来破坏你的草坪了. 准备好迎接激光的猛攻吧!",
+    "stage": 5
   },
   {
     "key": "604",
     "original": "Zomboss has sent the Melon Bros to retrieve your brains! Defeat them and their army or you'll experience an icy defeat!",
-    "translation": "",
-    "stage": 0
+    "translation": "僵王博士派西瓜兄弟来取走你的脑子了! 打败他们和他们的军队, 否则你将经历一次冰冷的失败!",
+    "stage": 5
   },
   {
     "key": "605",
     "original": "Yeti sighting areas: Survivals and Endless Zones",
-    "translation": "",
-    "stage": 0
+    "translation": "雪人目击区域: 生存模式和无尽地带",
+    "stage": 5
   }
 ]

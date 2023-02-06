@@ -639,7 +639,7 @@
   {
     "key": "community\\DT_OBJECTIVE_ESCORT.json",
     "original": " Objective: Escort - DT ",
-    "translation": "任务: 护送蜻蜓 - DT",
+    "translation": "任务: 护送 - DT",
     "stage": 5,
     "context": "92"
   },
@@ -926,7 +926,7 @@
   {
     "key": "community\\LOCKO_PIECEBYPIECE.json",
     "original": " Piece by Piece - Lock O ",
-    "translation": "循序渐进 - Lock O",
+    "translation": "积少成多 - Lock O",
     "stage": 5,
     "context": "133"
   },
@@ -968,7 +968,7 @@
   {
     "key": "community\\LOCKO_THEFREEZER.json",
     "original": " The Freezer - Lock O ",
-    "translation": "冰柜 - Lock O",
+    "translation": "冰封 - Lock O",
     "stage": 5,
     "context": "139"
   },
@@ -2284,7 +2284,7 @@
   {
     "key": "Future12.json",
     "original": " 19-2: Sudden Wall ",
-    "translation": "19-2: 突现肉墙",
+    "translation": "19-2: 肉墙突现",
     "stage": 5,
     "context": "327"
   },
@@ -3124,7 +3124,7 @@
   {
     "key": "Modern0.json",
     "original": " You Shall Not Pass! ...... jk ",
-    "translation": "你不应该通过! ... 开个玩笑",
+    "translation": "你不应该通过! ...... 开个玩笑",
     "stage": 5,
     "context": "447"
   },

@@ -89,7 +89,7 @@ community\dt_macenaries.json, The Macenaries - DT ,雇佣恐龙 - DT
 community\dt_minesafety.json, Mine Safety - DT ,土豆安危 - DT
 community\dt_moldtrap.json, Mold Trap - DT ,霉菌陷阱 - DT
 community\dt_multiply.json, Multiplying Problem - DT ,增殖问题 - DT
-community\DT_OBJECTIVE_ESCORT.json, Objective: Escort - DT ,任务: 护送蜻蜓 - DT
+community\DT_OBJECTIVE_ESCORT.json, Objective: Escort - DT ,任务: 护送 - DT
 community\dt_powergrid.json, The Power Grid - DT ,能量方格 - DT
 community\DT_RAIDLEADER.json, Raid Leader - DT ,冲锋陷阵 - DT
 community\dt_runngun.json, Run n' Gun - DT ,枪手跑酷 - DT
@@ -130,13 +130,13 @@ community\LOCKO_EMERGENCYBUTTON.json, The Emergency Button - Lock O ,紧急按�
 community\LOCKO_EXPLOSIVETRAP.json, Explosive Trap - Lock O ,爆炸陷阱 - Lock O
 community\LOCKO_FLASHBANG.json, Flashbangs - Lock O ,闪光弹 - Lock O
 community\LOCKO_INFESTEDJUNGLE.json, Infested Jungle - Lock O ,瘟疫丛林 - Lock O
-community\LOCKO_PIECEBYPIECE.json, Piece by Piece - Lock O ,循序渐进 - Lock O
+community\LOCKO_PIECEBYPIECE.json, Piece by Piece - Lock O ,积少成多 - Lock O
 community\LOCKO_POWEREDRAILS.json, Powered Rails - Lock O ,蓄能矿车 - Lock O
 community\LOCKO_ROOTTENWEB.json, Rootten Web - Lock O ,根深蒂固 - Lock O
 community\LOCKO_ROYALTROUBLES.json, Royal Troubles - Lock O ,皇家麻烦 - Lock O
 community\LOCKO_SPICYICE.json, Spicy Ice - Lock O ,火辣冰雕 - Lock O
 community\LOCKO_SWINGINGNIGHT.json, Swinging Night - Lock O ,摇摆之夜 - Lock O
-community\LOCKO_THEFREEZER.json, The Freezer - Lock O ,冰柜 - Lock O
+community\LOCKO_THEFREEZER.json, The Freezer - Lock O ,冰封 - Lock O
 community\LOCKO_THEPAINTER.json, The Painter - Lock O ,妙手丹青 - Lock O
 community\LOCKO_TIDALWAVES.json, Tidal Waves - Lock O ,潮汐溺尸 - Lock O
 community\LOCKO_TOTHEWATER.json, To the Water! - Lock O ,抛向大海! - Lock O
@@ -324,7 +324,7 @@ Future_DangerRoom_B.json, [DANGER_ROOM_FUTURE_LEVEL_NAME] ,[DANGER_ROOM_FUTURE_L
 Future0.json, Check the Travel Log! ,查看一下旅行原木吧!
 Future1.json, 9-1: Future Tense ,9-1: 未来时态
 Future11.json, 19-1: Empowerage ,19-1: 超能时代
-Future12.json, 19-2: Sudden Wall ,19-2: 突现肉墙
+Future12.json, 19-2: Sudden Wall ,19-2: 肉墙突现
 Future13.json, 19-3: Future Dancing Zombie ,19-3: 未来舞蹈僵尸
 Future14.json, 19-4: Hypno-tech ,19-4: 魅惑科技
 Future16.json, 19-6: Mobile Bunker ,19-6: 移动推土机
@@ -444,7 +444,7 @@ minigames\wallbreaker.json, Wall Breaker ,高墙拆除者
 minigames\wallbreaker_easy.json, Wall Breaker (easy) ,高墙拆除者 (简单)
 Modern_DangerRoom_A.json, [DANGER_ROOM_MODERN_LEVEL_NAME] ,[DANGER_ROOM_MODERN_LEVEL_NAME]
 Modern_DangerRoom_B.json, [DANGER_ROOM_MODERN_LEVEL_NAME] ,[DANGER_ROOM_MODERN_LEVEL_NAME]
-Modern0.json, You Shall Not Pass! ...... jk ,你不应该通过! ... 开个玩笑
+Modern0.json, You Shall Not Pass! ...... jk ,你不应该通过! ...... 开个玩笑
 Pirate_DangerRoom_A.json, [DANGER_ROOM_PIRATE_LEVEL_NAME] ,[DANGER_ROOM_PIRATE_LEVEL_NAME]
 Pirate_DangerRoom_B.json, [DANGER_ROOM_PIRATE_LEVEL_NAME] ,[DANGER_ROOM_PIRATE_LEVEL_NAME]
 Pirate_DangerRoom_C.json, [DANGER_ROOM_PIRATE_LEVEL_NAME] ,[DANGER_ROOM_PIRATE_LEVEL_NAME]
