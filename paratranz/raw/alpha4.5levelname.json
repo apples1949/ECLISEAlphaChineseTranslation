@@ -1171,7 +1171,7 @@
   {
     "key": "168",
     "original": "EBL-2: Sniper Network",
-    "translation": "EBL-2: 狙击网络",
+    "translation": "EBL-2: 狙击电网",
     "stage": 5,
     "context": "CHALLENGES\\EPIC_ELECTRICBLUEBERRY2"
   },
@@ -1192,7 +1192,7 @@
   {
     "key": "171",
     "original": "EBL-5: Frictional Power",
-    "translation": "EBL-5: 摩擦力",
+    "translation": "EBL-5: 摩擦起电",
     "stage": 5,
     "context": "CHALLENGES\\EPIC_ELECTRICBLUEBERRY5"
   },

@@ -476,7 +476,7 @@ CALENDAR_STREAK_RETENTION_TITLE,Calendar Streak At Risk,连续签到要中断了
 CALENDAR_TIMER_REWARD_LABEL,Reward,奖励还剩
 CALENDAR_TITLE_WEEKLY_STREAK,7-Day Streak,七天连签
 CALENDAR_TITLE_WEEKLY_WELCOME,Welcome to the Garden,欢迎来到花园
-CALENDAR_UNLOCK_DESCRIPTION,#NAME?,#NAME?
+CALENDAR_UNLOCK_DESCRIPTION,
 CALENDAR_UNLOCK_TITLE,You've unlocked the Daily Calendar!,你解锁了签到功能!
 CAMEL_MINIGAME_TUTORIAL_1,Tap on a zombie to flip its panel,"点击任意一只僵尸, 翻转他手里的卡牌!"
 CAMEL_MINIGAME_TUTORIAL_2,Great! Now tap on another one,干得漂亮! 现在试试点击另一个
@@ -608,7 +608,7 @@ CONVERSION_KEY_DESCRIPTION,Your progress and rewards have been preserved. Your u
 CONVERSION_KEY_TITLE,Key Gates Demolished!,钥匙门已拆除!
 CONVERSION_REWARDS_DESCRIPTION,Updating your progress has given you new rewards!\r\n\r\nDetails are available in the Almanac.,你因为更新了进度而获得了一些奖励!\r\n\r\n去图鉴里看看吧!
 CONVERSION_REWARDS_TITLE,New Rewards!,新的奖励!
-CONVERSION_SPLASH_DESCRIPTION,#NAME?,#NAME?
+CONVERSION_SPLASH_DESCRIPTION,
 CONVERSION_SPLASH_TITLE,Now Featuring: New Map!,隆重推出: 新地图!
 CONVERSION_STARS_DESCRIPTION,Your progress and rewards have been preserved. Plant costumes have been awarded to you for the extra Stars you've earned.\r\n\r\n{COSTUME_AMT} New Costumes!,你的进度和奖励已被保留. 你获得的额外星星奖励了植物服装.\r\n\r\n{COSTUME_AMT} 个新装扮!
 CONVERSION_STARS_TITLE,Star Gates Demolished!,星星门已拆除!
@@ -3777,7 +3777,7 @@ NARRATIVE_JOUST_UNLOCK_1,"{NPC_ENTER:crazydaveicon}{NPC_ENTER:winnieicon}{SAY:wi
 NARRATIVE_JOUST_UNLOCK_2,{EXCITED:crazydaveicon}Arena?! That sounds like an arborena of gardening warfare!,{EXCITED:crazydaveicon}竞技场?! 这似乎成功地让我们在这场花园大战中停下了脚步!
 NARRATIVE_JOUST_UNLOCK_3,{SAY:winnieicon}Arena will allow us to demonstrate our planting prowess for prestige and prizes.,{SAY:winnieicon}竞技场能让我们展示自己的种植能力来获得奖励.
 NARRATIVE_JOUST_UNLOCK_4,{SAY:crazydaveicon}That's a lot of peas! That's how I know it's good.,{SAY:crazydaveicon}豌豆真多! 我从这里就可以知道这很棒了.
-NARRATIVE_LOD_BIG_REWARD_INTRO_1,{NPC_ENTER:crazydave}You are truly amazing! Most deserving of the name... Senor Pinata!,"{NPC_ENTER:crazydave}小东西真别致! \""超级陶罐\""也不是浪得虚名的嘛!"
+NARRATIVE_LOD_BIG_REWARD_INTRO_1,{NPC_ENTER:crazydave}You are truly amazing! Most deserving of the name... Senor Pinata!,"{NPC_ENTER:crazydave}小东西真别致! \""超级陶罐\"" 也不是浪得虚名的嘛!"
 NARRATIVE_LOD_BIG_REWARD_INTRO_2,{PLAYFUL:crazydave}Have you seen my taco Senor Pinata? It was about this big...,{PLAYFUL:crazydave}你可曾见过我的玉米卷超级陶罐吗? 它大概这么大...
 NARRATIVE_LOD_BIG_REWARD_INTRO_3,{NPC_ENTER:winnie}{TIRED}That's it. Please disrupt this anomaly before User Dave gets too attached.,{NPC_ENTER:winnie}{TIRED}够了. 请在戴夫过于着魔之前打破这次异常.
 NARRATIVE_LOD_LEVEL_INTRO_1,"{NPC_ENTER:winnie}{TIRED}User Dave, this does not look like a party.","{NPC_ENTER:winnie}{TIRED}戴夫, 这看起来并不像一个派对."
@@ -4262,7 +4262,7 @@ NETWORK_ISSUE_DESCRIPTION_CLOUDCONNECTION_IOS,We could not verify your cloud con
 NETWORK_ISSUE_DESCRIPTION_DISCONNECTED,We were unable to connect to the server.  Please try again sometime later.,无法连接服务器.请稍后再来试试.
 NETWORK_ISSUE_DESCRIPTION_INVALIDDATA,"Sorry, it looks like there's a network data issue. Arg! Click to exit Arena.","抱歉,似乎有一些网络数据问题.呃!点击退出竞技场."
 NETWORK_ISSUE_DESCRIPTION_TIMEOUT,"An internet connection is required to play Arena. Please connect to the internet and \Retry\"" to try again, or \""Exit\"" to leave Arena.""","游玩竞技场需要互联网连接. 请在连接到互联网后点击 \""重试\"" 以再次尝试, 或点击 \""退出\"" 离开竞技场."
-NETWORK_ISSUE_DESCRIPTION_TIMEOUT_ENDLEVEL,"Your internet connection has been lost. Tap \Exit\"" to continue (your reward streak may be lost).""","已丢失互联网连接.点击\""退出\""以继续(你可能会失去连胜奖励)."
+NETWORK_ISSUE_DESCRIPTION_TIMEOUT_ENDLEVEL,"Your internet connection has been lost. Tap \Exit\"" to continue (your reward streak may be lost).""","已丢失互联网连接.点击 \""退出\"" 以继续 (你可能会失去连胜奖励)."
 NETWORK_ISSUE_DESCRIPTION_TOURNAMENTEXPIRED,The current tournament has expired!  Return to collect your winnings!,当前赛程已经终止了!快返回领取你的奖励吧!
 NETWORK_ISSUE_TITLE_CLOUDCONNECTION,Disconnected,连接已断开
 NETWORK_ISSUE_TITLE_CLOUDCONNECTION_ANDROID,"Sorry, it looks like there's a network data issue.","抱歉,网络数据似乎有亿点问题."
@@ -5715,7 +5715,7 @@ STORE_ITEM_CLAIMED,CLAIMED,已获得
 STORE_LIMIT_TAG,{NUMBER} LEFT,还剩 {NUMBER}
 STORE_MERCH_LINK,"BUY T-SHIRTS, TOYS & MORE","购买 T 恤衫, 玩具和更多产品"
 STORE_MINI_STORE_HEADER,Super Fresh Deals!,超新鲜交易!
-STORE_MORE_TAG,#NAME?,#NAME?
+STORE_MORE_TAG,
 STORE_MULTI_CATEGORY_INTRO,The {COUNT} seed packets are an assortment of:,这 {COUNT} 份种子包包括:
 STORE_MULTI_COMMON_PCT,Common {PERCENT}%,{PERCENT}% 普通植物
 STORE_MULTI_COSTUME,
@@ -6926,7 +6926,7 @@ ZOMBIE_PROSPECTOR,Prospector Zombie,淘金僵尸
 ZOMBIE_PROSPECTOR_DESCRIPTION,"{KEYWORD}Special: {STAT}appears on the left side of the lawn after dynamite explodes\r\n\r\n{FLAVOR}\There once was a zombie who got old, spending all his days looking for gold.  'Til one day in the rain, he finally ate brains... and, wait, where's his other shoe?\"" ""","{KEYWORD}特点: {STAT}雷管爆炸时可以出现在草坪的另一端\r\n\r\n{FLAVOR}\""从前有只僵尸, 整天都在找金子, 一直找到老. 终于, 他在一个雨天吃到了脑子... 等等, 他的另一只鞋呢?\"""
 ZOMBIE_PROSPECTOR_DESCRIPTION_HEADER,Launches over your defenses when his fuse burns down.,雷管的引线烧尽时会越过你的防线.
 ZOMBIE_RA,Ra Zombie,太阳神僵尸
-ZOMBIE_RA_DESCRIPTION,"{FLAVOR}Ra Zombie isn't actually named after the Sun God Ra, though that's a common mistake. He just likes to say \Ra\"" a lot.""","{FLAVOR}太阳神僵尸虽然叫 \""太阳神\"". 但他和\ ""太阳神·拉\"" 并没有任何关系. 他只是经常 \""拉拉拉\"" 地叫. 并且喜欢太阳罢了."
+ZOMBIE_RA_DESCRIPTION,"{FLAVOR}Ra Zombie isn't actually named after the Sun God Ra, though that's a common mistake. He just likes to say \Ra\"" a lot.""","{FLAVOR}太阳神僵尸虽然叫 \""太阳神\"". 但他和 \""太阳神·拉\"" 并没有任何关系. 他只是经常 \""拉拉拉\"" 地叫. 并且喜欢太阳罢了."
 ZOMBIE_RA_DESCRIPTION_HEADER,"Tries to steal sun, just for safe keeping.","尝试偷走你的阳光, 但只是好好保存."
 ZOMBIE_ROMAN,Roman Zombie,罗马僵尸
 ZOMBIE_ROMAN_ARMOR1,Roman Conehead,罗马路障僵尸

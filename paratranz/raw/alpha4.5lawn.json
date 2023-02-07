@@ -3347,9 +3347,9 @@
   },
   {
     "key": "CALENDAR_UNLOCK_DESCRIPTION",
-    "original": "#NAME?",
+    "original": "",
     "translation": "#NAME?",
-    "stage": 5,
+    "stage": -1,
     "context": "479"
   },
   {
@@ -4271,9 +4271,9 @@
   },
   {
     "key": "CONVERSION_SPLASH_DESCRIPTION",
-    "original": "#NAME?",
+    "original": "",
     "translation": "#NAME?",
-    "stage": 5,
+    "stage": -1,
     "context": "611"
   },
   {
@@ -26455,7 +26455,7 @@
   {
     "key": "NARRATIVE_LOD_BIG_REWARD_INTRO_1",
     "original": "{NPC_ENTER:crazydave}You are truly amazing! Most deserving of the name... Senor Pinata!",
-    "translation": "{NPC_ENTER:crazydave}小东西真别致! \\\"超级陶罐\\\"也不是浪得虚名的嘛!",
+    "translation": "{NPC_ENTER:crazydave}小东西真别致! \\\"超级陶罐\\\" 也不是浪得虚名的嘛!",
     "stage": 5,
     "context": "3780"
   },
@@ -29850,7 +29850,7 @@
   {
     "key": "NETWORK_ISSUE_DESCRIPTION_TIMEOUT_ENDLEVEL",
     "original": "Your internet connection has been lost. Tap \\Exit\\\" to continue (your reward streak may be lost).\"",
-    "translation": "已丢失互联网连接.点击\\\"退出\\\"以继续(你可能会失去连胜奖励).",
+    "translation": "已丢失互联网连接.点击 \\\"退出\\\" 以继续 (你可能会失去连胜奖励).",
     "stage": 5,
     "context": "4265"
   },
@@ -40020,9 +40020,9 @@
   },
   {
     "key": "STORE_MORE_TAG",
-    "original": "#NAME?",
+    "original": "",
     "translation": "#NAME?",
-    "stage": 5,
+    "stage": -1,
     "context": "5719"
   },
   {
@@ -48498,7 +48498,7 @@
   {
     "key": "ZOMBIE_RA_DESCRIPTION",
     "original": "{FLAVOR}Ra Zombie isn't actually named after the Sun God Ra, though that's a common mistake. He just likes to say \\Ra\\\" a lot.\"",
-    "translation": "{FLAVOR}太阳神僵尸虽然叫 \\\"太阳神\\\". 但他和\\ \"太阳神·拉\\\" 并没有任何关系. 他只是经常 \\\"拉拉拉\\\" 地叫. 并且喜欢太阳罢了.",
+    "translation": "{FLAVOR}太阳神僵尸虽然叫 \\\"太阳神\\\". 但他和 \\\"太阳神·拉\\\" 并没有任何关系. 他只是经常 \\\"拉拉拉\\\" 地叫. 并且喜欢太阳罢了.",
     "stage": 5,
     "context": "6930"
   },
