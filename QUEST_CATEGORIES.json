@@ -17,7 +17,7 @@
 				"Name": "Minigames",
 				"QuestTabCategory": "Minigames",
 				"QuestCategories": [ "Minigames" ],
-				"TabLabel": "MINIGAMES",
+				"TabLabel": "[QUEST_TAB_LABEL_MINIGAMES]",
 				"TabImageType": "normal",
 				"TabSelectedImage": "IMAGE_UI_STORE_PLANTSTAB_ACTIVE",
 				"TabUnselectedImage": "IMAGE_UI_STORE_PLANTSTAB_DOWN"
@@ -29,7 +29,7 @@
 				"Name": "CommunityLevels",
 				"QuestTabCategory": "CommunityLevels",
 				"QuestCategories": [ "Community" ],
-				"TabLabel": "COMMUNITY",
+				"TabLabel": "[QUEST_TAB_LABEL_COMMUNITY]",
 				"TabImageType": "normal",
 				"TabSelectedImage": "IMAGE_UI_STORE_SPROUTSTAB_ACTIVE",
 				"TabUnselectedImage": "IMAGE_UI_STORE_SPROUTSTAB_DOWN"
@@ -41,7 +41,7 @@
 				"Name": "ChallengeQuests",
 				"QuestTabCategory": "ChallengeQuests",
 				"QuestCategories": [ "Challenges" ],
-				"TabLabel": "CHALLENGES",
+				"TabLabel": "[QUEST_TAB_LABEL_CHALLENGES]",
 				"TabImageType": "normal",
 				"TabSelectedImage": "IMAGE_UI_STORE_UPGRADESTAB_ACTIVE",
 				"TabUnselectedImage": "IMAGE_UI_STORE_UPGRADESTAB_DOWN"
@@ -53,7 +53,7 @@
 				"Name": "LiveQuests",
 				"QuestTabCategory": "LiveQuests",
 				"QuestCategories": [ "Live" ],
-				"TabLabel": "LIVE",
+				"TabLabel": "[QUEST_TAB_LABEL_LIVE]",
 				"TabImageType": "normal",
 				"TabSelectedImage": "IMAGE_UI_STORE_GEMSTAB_ACTIVE",
 				"TabUnselectedImage": "IMAGE_UI_STORE_GEMSTAB_DOWN"
@@ -65,7 +65,7 @@
 				"Name": "EpicQuests",
 				"QuestTabCategory": "EpicQuests",
 				"QuestCategories": [ "Epic" ],
-				"TabLabel": "SPECIAL",
+				"TabLabel": "[QUEST_TAB_LABEL_SPECIAL]",
 				"TabImageType": "normal",
 				"TabSelectedImage": "IMAGE_UI_STORE_PINATASTAB_ACTIVE",
 				"TabUnselectedImage": "IMAGE_UI_STORE_PINATASTAB_DOWN"
@@ -77,7 +77,7 @@
 				"Name": "SpineQuests",
 				"QuestTabCategory": "SpineQuests",
 				"QuestCategories": [ "Tutorial", "Egypt", "Pirate", "Cowboy", "UnlockWorld", "Future", "Dark", "Beach", "IceAge", "LostCity", "Eighties", "Dino", "Modern", "PremiumPlant" ],
-				"TabLabel": "ADVENTURE",
+				"TabLabel": "[QUEST_TAB_LABEL_ADVENTURE]",
 				"TabImageType": "normal",
 				"TabSelectedImage": "IMAGE_UI_STORE_COINSTAB_ACTIVE",
 				"TabUnselectedImage": "IMAGE_UI_STORE_COINSTAB_DOWN"

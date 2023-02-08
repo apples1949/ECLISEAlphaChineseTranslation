@@ -1,0 +1,182 @@
+[
+  {
+    "key": "?PLANTALMANACDATA1",
+    "original": "AREA",
+    "translation": "[STAT_AREA]",
+    "stage": 5
+  },
+  {
+    "key": "PLANTALMANACDATA2",
+    "original": "ATTACK COOLDOWN",
+    "translation": "攻击间隔",
+    "stage": 5
+  },
+  {
+    "key": "PLANTALMANACDATA3",
+    "original": "BULB REGEN TIME",
+    "translation": "泡泡再生时间",
+    "stage": 5
+  },
+  {
+    "key": "PLANTALMANACDATA4",
+    "original": "BUTTER DAMAGE",
+    "translation": "黄油伤害",
+    "stage": 5
+  },
+  {
+    "key": "PLANTALMANACDATA5",
+    "original": "CHILL DURATION",
+    "translation": "冷却持续时间",
+    "stage": 5
+  },
+  {
+    "key": "PLANTALMANACDATA6",
+    "original": "FLAME RECHARGE TIME",
+    "translation": "火焰冷却时间",
+    "stage": 5
+  },
+  {
+    "key": "PLANTALMANACDATA7",
+    "original": "GROW TIME",
+    "translation": "生长时间",
+    "stage": 5
+  },
+  {
+    "key": "PLANTALMANACDATA8",
+    "original": "HIT RATE",
+    "translation": "攻击频率",
+    "stage": 5
+  },
+  {
+    "key": "PLANTALMANACDATA9",
+    "original": "KNOCKBACK DISTANCE (TILES)",
+    "translation": "击退距离 (格)",
+    "stage": 5
+  },
+  {
+    "key": "PLANTALMANACDATA10",
+    "original": "LIFE TIME",
+    "translation": "存在时间",
+    "stage": 5
+  },
+  {
+    "key": "PLANTALMANACDATA11",
+    "original": "MELEE RANGE (TILES)",
+    "translation": "近战攻击范围 (格)",
+    "stage": 5
+  },
+  {
+    "key": "PLANTALMANACDATA12",
+    "original": "PLANT TRANSFORMATION",
+    "translation": "产生植物",
+    "stage": 5
+  },
+  {
+    "key": "PLANTALMANACDATA13",
+    "original": "PROJECTILE LIFE TIME",
+    "translation": "紫泡存在时间",
+    "stage": 5
+  },
+  {
+    "key": "PLANTALMANACDATA14",
+    "original": "PROJECTILE RANGE (TILES)",
+    "translation": "导弹攻击范围 (格)",
+    "stage": 5
+  },
+  {
+    "key": "PLANTALMANACDATA15",
+    "original": "RANGE (TILES)",
+    "translation": "攻击范围 (格)",
+    "stage": 5
+  },
+  {
+    "key": "PLANTALMANACDATA16",
+    "original": "SUN PER HP",
+    "translation": "每滴生命值索取阳光",
+    "stage": 5
+  },
+  {
+    "key": "PLANTALMANACDATA17",
+    "original": "SUN PRODUCTION (PER STAGE)",
+    "translation": "阳光产量 (每个阶段)",
+    "stage": 5
+  },
+  {
+    "key": "PLANTALMANACDATA18",
+    "original": "ZAP COOLDOWN (SECONDS)",
+    "translation": "电击间隔 (秒)",
+    "stage": 5
+  },
+  {
+    "key": "PLANTALMANACDATA19",
+    "original": "3x3 -- 5x5 -- FULL BOARD",
+    "translation": "3x3 -- 5x5 -- 全屏",
+    "stage": 5
+  },
+  {
+    "key": "PLANTALMANACDATA20",
+    "original": "Full Board",
+    "translation": "全屏",
+    "stage": 5
+  },
+  {
+    "key": "PLANTALMANACDATA21",
+    "original": "Multi-Lane",
+    "translation": "多线路",
+    "stage": 5
+  },
+  {
+    "key": "PLANTALMANACDATA22",
+    "original": "NA/NA -- 160/NA -- 120/240",
+    "translation": "无/无 -- 160/无 -- 120/240",
+    "stage": 5
+  },
+  {
+    "key": "PLANTALMANACDATA23",
+    "original": "SOLAR TOMATO -- MOONFLOWER I -- INFI-NUT II",
+    "translation": "阳光番茄 -- 一阶月光花 -- 二阶全息坚果",
+    "stage": 5
+  },
+  {
+    "key": "PLANTALMANACDATA24",
+    "original": "Variable",
+    "translation": "可变",
+    "stage": 5
+  },
+  {
+    "key": "QUESTCATEGORIES1",
+    "original": "MINIGAMES",
+    "translation": "迷你游戏",
+    "stage": 5
+  },
+  {
+    "key": "QUESTCATEGORIES2",
+    "original": "COMMUNITY",
+    "translation": "社区关卡",
+    "stage": 5
+  },
+  {
+    "key": "QUESTCATEGORIES3",
+    "original": "CHALLENGES",
+    "translation": "挑战关卡",
+    "stage": 5
+  },
+  {
+    "key": "QUESTCATEGORIES4",
+    "original": "LIVE",
+    "translation": "在线关卡",
+    "stage": 5
+  },
+  {
+    "key": "QUESTCATEGORIES5",
+    "original": "SPECIAL",
+    "translation": "特殊关卡",
+    "stage": 5
+  },
+  {
+    "key": "QUESTCATEGORIES6",
+    "original": "ADVENTURE",
+    "translation": "世界关卡",
+    "stage": 5
+  }
+]

@@ -514,7 +514,7 @@
 						"StatNameAlias": "ATTACK COOLDOWN",
 						"StatType": "firerate",
 						"StatValue": "firerate0",
-						"TypeStringID": "ATTACK COOLDOWN",
+						"TypeStringID": "[STAT_ATTACK_COOLDOWN]",
 						"ValueStringID": "0.33"
 					}, {
 						"LevelToUnlock": "0",
@@ -522,7 +522,7 @@
 						"StatNameAlias": "Range",
 						"StatType": "range",
 						"StatValue": "close",
-						"TypeStringID": "RANGE (TILES)",
+						"TypeStringID": "[STAT_RANGE_TILES]",
 						"ValueStringID": "1.5"
 					} ],
 				"TypeName": "bonkchoy"
@@ -687,7 +687,7 @@
 						"StatNameAlias": "Butter Damage",
 						"StatType": "damage",
 						"StatValue": "damage1",
-						"TypeStringID": "BUTTER DAMAGE",
+						"TypeStringID": "[STAT_BUTTER_DAMAGE]",
 						"ValueStringID": "40"
 					}, {
 						"LevelToUnlock": "0",
@@ -805,7 +805,7 @@
 						"StatNameAlias": "SHOT COOLDOWN",
 						"StatType": "firerate",
 						"StatValue": "firerate0",
-						"TypeStringID": "ATTACK COOLDOWN",
+						"TypeStringID": "[STAT_ATTACK_COOLDOWN]",
 						"ValueStringID": "0.75"
 					} ],
 				"TypeName": "spikeweed"
@@ -978,7 +978,7 @@
 						"StatNameAlias": "Knockback Dist",
 						"StatType": "special",
 						"StatValue": "special_knockback",
-						"TypeStringID": "KNOCKBACK DISTANCE (TILES)",
+						"TypeStringID": "[STAT_KNOCKBACK_DISTANCE_TILES]",
 						"ValueStringID": "3.2"
 					} ],
 				"TypeName": "springbean"
@@ -1033,7 +1033,7 @@
 						"StatNameAlias": "SHOT COOLDOWN",
 						"StatType": "firerate",
 						"StatValue": "firerate0",
-						"TypeStringID": "ATTACK COOLDOWN",
+						"TypeStringID": "[STAT_ATTACK_COOLDOWN]",
 						"ValueStringID": "0.375"
 					} ],
 				"TypeName": "spikerock"
@@ -1873,7 +1873,7 @@
 						"StatNameAlias": "Sun Production",
 						"StatType": "sunprod",
 						"StatValue": "sunprod_variable",
-						"TypeStringID": "SUN PRODUCTION (PER STAGE)",
+						"TypeStringID": "[STAT_SUN_PRODUCTION_PER_STAGE]",
 						"ValueStringID": "25/50/75"
 					}, {
 						"LevelToUnlock": "0",
@@ -1889,8 +1889,8 @@
 						"StatNameAlias": "Grow Time",
 						"StatType": "sunprod",
 						"StatValue": "sunprod_variable",
-						"TypeStringID": "GROW TIME",
-						"ValueStringID": "NA/NA -- 160/NA -- 120/240"
+						"TypeStringID": "[STAT_SPECIAL_GROW]",
+						"ValueStringID": "[STAT_SPECIAL_GROW_SUNSHROOM]"
 					} ],
 				"TypeName": "sunshroom"
 			}
@@ -1960,7 +1960,7 @@
 						"StatNameAlias": "Range",
 						"StatType": "range",
 						"StatValue": "3tiles",
-						"TypeStringID": "RANGE (TILES)",
+						"TypeStringID": "[STAT_RANGE_TILES]",
 						"ValueStringID": "3"
 					} ],
 				"TypeName": "puffshroom"
@@ -2023,7 +2023,7 @@
 						"StatNameAlias": "Range",
 						"StatType": "range",
 						"StatValue": "1by4",
-						"TypeStringID": "RANGE (TILES)",
+						"TypeStringID": "[STAT_RANGE_TILES]",
 						"ValueStringID": "5"
 					} ],
 				"TypeName": "fumeshroom"
@@ -2062,7 +2062,7 @@
 						"StatNameAlias": "Sun Production Rate",
 						"StatType": "damage",
 						"StatValue": "damage0",
-						"TypeStringID": "SUN PER HP",
+						"TypeStringID": "[STAT_SUN_PER_HP]",
 						"ValueStringID": "0.24"
 					}, {
 						"LevelToUnlock": "0",
@@ -2290,7 +2290,7 @@
 						"StatNameAlias": "Bulb Regen Time",
 						"StatType": "special",
 						"StatValue": "variable",
-						"TypeStringID": "BULB REGEN TIME",
+						"TypeStringID": "[STAT_BULB_REGEN_TIME]",
 						"ValueStringID": "3.5"
 					} ],
 				"TypeName": "bowlingbulb"
@@ -2612,7 +2612,7 @@
 						"StatNameAlias": "Range",
 						"StatType": "range",
 						"StatValue": "close",
-						"TypeStringID": "RANGE (TILES)",
+						"TypeStringID": "[STAT_RANGE_TILES]",
 						"ValueStringID": "2"
 					} ],
 				"TypeName": "stunion"
@@ -2848,7 +2848,7 @@
 						"StatNameAlias": "ATTACK COOLDOWN",
 						"StatType": "firerate",
 						"StatValue": "firerate0",
-						"TypeStringID": "ATTACK COOLDOWN",
+						"TypeStringID": "[STAT_ATTACK_COOLDOWN]",
 						"ValueStringID": ""
 					} ],
 				"TypeName": "endurian"
@@ -3068,7 +3068,7 @@
 						"StatNameAlias": "SHOT COOLDOWN",
 						"StatType": "firerate",
 						"StatValue": "firerate0",
-						"TypeStringID": "ATTACK COOLDOWN",
+						"TypeStringID": "[STAT_ATTACK_COOLDOWN]",
 						"ValueStringID": "0.25"
 					} ],
 				"TypeName": "celerystalker"
@@ -3107,8 +3107,8 @@
 						"StatNameAlias": "Range",
 						"StatType": "area",
 						"StatValue": "3by3",
-						"TypeStringID": "AREA",
-						"ValueStringID": "3x3 -- 5x5 -- FULL BOARD"
+						"TypeStringID": "[STAT_AREA]",
+						"ValueStringID": "[STAT_AREA_THYMEWARP]"
 					} ],
 				"TypeName": "thymewarp"
 			}
@@ -3264,7 +3264,7 @@
 						"StatNameAlias": "Knockback Distance",
 						"StatType": "special",
 						"StatValue": "special_knockback",
-						"TypeStringID": "KNOCKBACK DISTANCE (TILES)",
+						"TypeStringID": "[STAT_KNOCKBACK_DISTANCE_TILES]",
 						"ValueStringID": "1"
 					} ],
 				"TypeName": "primalpeashooter"
@@ -3452,7 +3452,7 @@
 						"StatNameAlias": "Radius",
 						"StatType": "area",
 						"StatValue": "3by3",
-						"TypeStringID": "AREA",
+						"TypeStringID": "[STAT_AREA]",
 						"ValueStringID": "1x1 -- 3x3 -- 5x5"
 					} ],
 				"TypeName": "primalpotatomine"
@@ -3570,7 +3570,7 @@
 						"StatNameAlias": "Range",
 						"StatType": "range",
 						"StatValue": "straight",
-						"TypeStringID": "MELEE RANGE (TILES)",
+						"TypeStringID": "[STAT_MELEE_RANGE_TILES]",
 						"ValueStringID": "1"
 					}, {
 						"LevelToUnlock": "0",
@@ -3837,7 +3837,7 @@
 						"StatNameAlias": "Zap Cooldown",
 						"StatType": "damage",
 						"StatValue": "damage2",
-						"TypeStringID": "ZAP COOLDOWN (SECONDS)",
+						"TypeStringID": "[STAT_ZAP_COOLDOWN_SECONDS]",
 						"ValueStringID": "0.23 -- 0.16 -- 0.12"
 					} ],
 				"TypeName": "electriccurrant"
@@ -4008,7 +4008,7 @@
 						"StatNameAlias": "Range",
 						"StatType": "range",
 						"StatValue": "close",
-						"TypeStringID": "RANGE (TILES)",
+						"TypeStringID": "[STAT_RANGE_TILES]",
 						"ValueStringID": "1.5"
 					} ],
 				"TypeName": "squash"
@@ -4063,7 +4063,7 @@
 						"StatNameAlias": "Firing Rate",
 						"StatType": "firerate",
 						"StatValue": "firerate0",
-						"TypeStringID": "HIT RATE",
+						"TypeStringID": "[STAT_HIT_RATE]",
 						"ValueStringID": "0.25"
 					} ],
 				"TypeName": "torchwood"
@@ -4314,7 +4314,7 @@
 						"StatNameAlias": "Range",
 						"StatType": "range",
 						"StatValue": "close",
-						"TypeStringID": "RANGE (TILES)",
+						"TypeStringID": "[STAT_RANGE_TILES]",
 						"ValueStringID": "1"
 					} ],
 				"TypeName": "chomper"
@@ -4385,7 +4385,7 @@
 						"StatNameAlias": "PROJECTILE DIST",
 						"StatType": "range",
 						"StatValue": "close",
-						"TypeStringID": "PROJECTILE RANGE (TILES)",
+						"TypeStringID": "[STAT_PROJECTILE_RANGE_TILES]",
 						"ValueStringID": "5.6 -- 5.0 -- 4.4"
 					}, {
 						"LevelToUnlock": "0",
@@ -4448,7 +4448,7 @@
 						"StatNameAlias": "Life Time",
 						"StatType": "damage",
 						"StatValue": "damage3",
-						"TypeStringID": "LIFE TIME",
+						"TypeStringID": "[STAT_LIFE_TIME]",
 						"ValueStringID": "30"
 					}, {
 						"LevelToUnlock": "0",
@@ -4865,7 +4865,7 @@
 						"StatNameAlias": "Range",
 						"StatType": "range",
 						"StatValue": "close",
-						"TypeStringID": "RANGE (TILES)",
+						"TypeStringID": "[STAT_RANGE_TILES]",
 						"ValueStringID": "4"
 					} ],
 				"TypeName": "toadstool"
@@ -4936,7 +4936,7 @@
 						"StatNameAlias": "Grow Time",
 						"StatType": "damage",
 						"StatValue": "damage0",
-						"TypeStringID": "GROW TIME",
+						"TypeStringID": "STAT_SPECIAL_GROW",
 						"ValueStringID": "5/10/15 -- 4/7/13 -- 3/5/10"
 					}, {
 						"LevelToUnlock": "0",
@@ -4945,7 +4945,7 @@
 						"StatType": "area",
 						"StatValue": "3by3",
 						"TypeStringID": "[STAT_AREA]",
-						"ValueStringID": "Variable"
+						"ValueStringID": "[STAT_AREA_VARIABLE]"
 					} ],
 				"TypeName": "strawburst"
 			}
@@ -5117,7 +5117,7 @@
 						"StatNameAlias": "SHOT COOLDOWN",
 						"StatType": "firerate",
 						"StatValue": "firerate0",
-						"TypeStringID": "FLAME RECHARGE TIME",
+						"TypeStringID": "[STAT_FLAME_RECHARGE_TIME]",
 						"ValueStringID": "30"
 					}, {
 						"LevelToUnlock": "0",
@@ -5290,7 +5290,7 @@
 						"StatNameAlias": "Radius",
 						"StatType": "area",
 						"StatValue": "3by3",
-						"TypeStringID": "AREA",
+						"TypeStringID": "[STAT_AREA]",
 						"ValueStringID": "1x1 -- 1x1 -- 3x3"
 					} ],
 				"TypeName": "shrinkingviolet"
@@ -5713,8 +5713,8 @@
 						"StatNameAlias": "Transform",
 						"StatType": "firerate",
 						"StatValue": "firerate0",
-						"TypeStringID": "PLANT TRANSFORMATION",
-						"ValueStringID": "SOLAR TOMATO -- MOONFLOWER I -- INFI-NUT II"
+						"TypeStringID": "[STAT_PLANT_TRANSFORMATION]",
+						"ValueStringID": "[STAT_PLANT_TRANSFORMATION_WITCHHAZEL]"
 					}, {
 						"LevelToUnlock": "0",
 						"StatName": "Range",
@@ -5722,7 +5722,7 @@
 						"StatType": "range",
 						"StatValue": "multilane",
 						"TypeStringID": "[STAT_RANGE]",
-						"ValueStringID": "Multi-Lane"
+						"ValueStringID": "[STAT_RANGE_MULTI_LANE]"
 					} ],
 				"TypeName": "witchhazel"
 			}
@@ -5784,7 +5784,7 @@
 						"StatNameAlias": "Range",
 						"StatType": "range",
 						"StatValue": "close",
-						"TypeStringID": "RANGE (TILES)",
+						"TypeStringID": "[STAT_RANGE_TILES]",
 						"ValueStringID": "1"
 					} ],
 				"TypeName": "parsnip"
@@ -5950,7 +5950,7 @@
 						"StatType": "range",
 						"StatValue": "fullboard",
 						"TypeStringID": "[STAT_RANGE]",
-						"ValueStringID": "Full Board"
+						"ValueStringID": "[STAT_AREA_FULL_BOAED]"
 					} ],
 				"TypeName": "caulipower"
 			}
@@ -6114,7 +6114,7 @@
 						"StatNameAlias": "Knockback",
 						"StatType": "damage",
 						"StatValue": "damage0",
-						"TypeStringID": "KNOCKBACK DISTANCE (TILES)",
+						"TypeStringID": "[STAT_KNOCKBACK_DISTANCE_TILES]",
 						"ValueStringID": "1 -- 3 -- 1"
 					}, {
 						"LevelToUnlock": "0",
@@ -6483,7 +6483,7 @@
 						"StatNameAlias": "CHILL DURATION",
 						"StatType": "damage",
 						"StatValue": "damage0",
-						"TypeStringID": "CHILL DURATION",
+						"TypeStringID": "[STAT_SPECIAL_CHILL]",
 						"ValueStringID": "0.95"
 					} ],
 				"TypeName": "spearmint"
@@ -6743,7 +6743,7 @@
 						"StatNameAlias": "Knockback Dist",
 						"StatType": "damage",
 						"StatValue": "damage0",
-						"TypeStringID": "KNOCKBACK DISTANCE (TILES)",
+						"TypeStringID": "[STAT_KNOCKBACK_DISTANCE_TILES]",
 						"ValueStringID": ""
 					}, {
 						"LevelToUnlock": "0",
@@ -7036,7 +7036,7 @@
 						"StatNameAlias": "Proj. Life Time",
 						"StatType": "damage",
 						"StatValue": "damage2",
-						"TypeStringID": "PROJECTILE LIFE TIME",
+						"TypeStringID": "[STAT_PROJECTILE_LIFE_TIME]",
 						"ValueStringID": "180"
 					}, {
 						"LevelToUnlock": "0",
