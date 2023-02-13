@@ -303,7 +303,7 @@
   {
     "key": "ACHIEVEMENT_TERROR_REDACTYLED_DESC",
     "original": "Use a Perfume-shroom on a Pterodactyl carrying a zombie towards your house",
-    "translation": "对一只抓着僵尸朝你家飞行的翼龙使用香水蘑菇",
+    "translation": "对一只抓着僵尸朝你家飞行的翼龙使用香水菇",
     "stage": 5,
     "context": "44"
   },
@@ -737,7 +737,7 @@
   {
     "key": "ADVICE_GOTO_MINIGAMES",
     "original": "Check out Vasebreaker!",
-    "translation": "查看一下砸罐子模式吧!",
+    "translation": "查看一下破罐者模式吧!",
     "stage": 5,
     "context": "106"
   },
@@ -1675,7 +1675,7 @@
   {
     "key": "ALOE_TOOLTIP",
     "original": "Heals rightward plant; overheals surrounding plants when planted",
-    "translation": "治愈右侧的植物; 种植时治愈周围的植物",
+    "translation": "治疗右侧的植物; 种植时过量治疗周围的植物",
     "stage": 5,
     "context": "240"
   },
@@ -10166,14 +10166,14 @@
   {
     "key": "HOCUS_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}attack with one big pellet from the front when planted on other columns\\r\\n\\r\\n{FLAVOR}Being a magician and doing actual magic are things some simple-minded people can never truly grasp, and Chrocus HATES those people. He and Witch Hazel bond over this fact, and god bless anyone who invokes both of their ires - they will never find one whole pair of socks ever again.",
-    "translation": "{KEYWORD}特点: {STAT}每次传送时会同时造成伤害\\r\\n\\r\\n{FLAVOR}作为一个魔术师, 做真正的魔术是一些头脑简单的人永远无法真正理解的事情, 而藏红花讨厌这些人. 他和金缕梅女巫对这一事实感同身受, 上帝保佑任何召唤他们两个兄弟的人 - 他们再也找不到一整双袜子了.",
+    "translation": "{KEYWORD}特点: {STAT}当种植在其他列时, 用一个大子弹从正面攻击\\r\\n\\r\\n{FLAVOR}作为一个魔术师, 做真正的魔术是一些头脑简单的人永远无法真正理解的事情, 而藏红花讨厌这些人. 他和金缕梅女巫对这一事实感同身受, 上帝保佑任何召唤他们两个兄弟的人 - 他们再也找不到一整双袜子了.",
     "stage": 5,
     "context": "1453"
   },
   {
     "key": "HOCUS_DESCRIPTION_HEADER",
     "original": "Chrocuses attack zombies from behind with 13 pellets when planted on two leftmost columns.",
-    "translation": "魔术番红花可以使用魔法, 将离你房子最近的僵尸送回草坪的最右侧.",
+    "translation": "当种植在最左边的两列时, 魔术番红花从后面用13个子弹攻击僵尸.",
     "stage": 5,
     "context": "1454"
   },
@@ -13414,7 +13414,7 @@
   {
     "key": "MODE_NAME_VASEBREAKER",
     "original": "Vasebreaker",
-    "translation": "砸罐子",
+    "translation": "破罐者",
     "stage": 5,
     "context": "1917"
   },
@@ -29717,7 +29717,7 @@
   {
     "key": "NARRATIVE_VASEBREAKER_10-1_INTRO_4",
     "original": "{EXCITED:crazydave}Are they stunned by our dancing prowess?",
-    "translation": "{EXCITED:crazydave}它们是被我们的舞蹈迷晕了吗?",
+    "translation": "{EXCITED:crazydave}他们是被我们的舞蹈迷晕了吗?",
     "stage": 5,
     "context": "4246"
   },
@@ -29948,7 +29948,7 @@
   {
     "key": "NIGHTSHADE_DESCRIPTION",
     "original": "{KEYWORD}Special: {STAT}regrows leaves and has a ranged attack when powered\\r\\n{KEYWORD}Special: {STAT}can't be eaten by most zombies\\r\\n{KEYWORD}Special: {STAT}immune to frost\\r\\n{KEYWORD}Tiering Unlock: {STAT}The Concealment 1\\r\\n\\r\\n{FLAVOR}For Nightshade, stabbing is a duty and a privilege. He comes from a long line of ardent stabbers, and his family counts three kings, four ambassadors and a president as among those proudly stabbed around.",
-    "translation": "{KEYWORD}特点: {STAT}可以恢复叶子, 被强化时能进行远程攻击\\r\\n{KEYWORD}特点: {STAT}不会被啃食\\r\\n{KEYWORD}特点: {STAT}免疫冰冻\\r\\n{KEYWORD}阶级解锁: {STAT}SDL-1\\r\\n\\r\\n{FLAVOR}对暗影龙葵来说, 刺杀是一项责任和特权. 他出身于一个狂热的刺手世家, 在他的家族中, 有三位国王, 四位大使和一位总统被骄傲地刺杀的记录.",
+    "translation": "{KEYWORD}特点: {STAT}可以恢复叶子, 被强化时能进行远程攻击\\r\\n{KEYWORD}特点: {STAT}不会被啃食\\r\\n{KEYWORD}特点: {STAT}免疫冰冻\\r\\n{KEYWORD}阶级解锁: {STAT}SDL-1\\r\\n\\r\\n{FLAVOR}对暗影龙葵来说, 刺杀是一项责任和特权. 他出身于一个狂热的刺手世家, 在他的家族中, 有刺杀三位国王, 四位大使和一位总统的骄傲记录.",
     "stage": 5,
     "context": "4279"
   },
@@ -30431,7 +30431,7 @@
   {
     "key": "PEANUT_DESCRIPTION",
     "original": "{FLAVOR}Peanut knows that some folks have an aversion to him. He tries to be sensitive to their concerns and give them the space they need. Still, he can't help but miss the good old days - back when he was the most popular nut around.",
-    "translation": "{FLAVOR}花生知道有些人对他挺 \\\"过敏\\\". 他试着了解它们的顾虑, 并且给予对方足够的空间. 即便如此, 他仍然会情不自禁地怀念以前的时光 - 回到那个人人爱花生的时代.",
+    "translation": "{FLAVOR}花生知道有些人对他挺 \\\"过敏\\\". 他试着了解他们的顾虑, 并且给予对方足够的空间. 即便如此, 他仍然会情不自禁地怀念以前的时光 - 回到那个人人爱花生的时代.",
     "stage": 5,
     "context": "4348"
   },
@@ -42576,7 +42576,7 @@
   {
     "key": "WARNING_SNOWSTORM",
     "original": "Snowstorm!",
-    "translation": "沙尘暴!",
+    "translation": "暴风雪!",
     "stage": 5,
     "context": "6084"
   },

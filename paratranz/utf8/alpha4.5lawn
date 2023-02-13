@@ -41,7 +41,7 @@ ACHIEVEMENT_SHOVEL_OFF_DESC,Complete a level where Excavator Zombie shovels no p
 ACHIEVEMENT_SHOVEL_OFF_HEADER,Shovel Off,铲掉
 ACHIEVEMENT_SPAWN_CAMPING_DESC,Clear a level where 3 Imp Porters have established camps,在 3 只脚夫小鬼僵尸放置了帐篷的情况下通关
 ACHIEVEMENT_SPAWN_CAMPING_HEADER,Spawn Camping,堵门
-ACHIEVEMENT_TERROR_REDACTYLED_DESC,Use a Perfume-shroom on a Pterodactyl carrying a zombie towards your house,对一只抓着僵尸朝你家飞行的翼龙使用香水蘑菇
+ACHIEVEMENT_TERROR_REDACTYLED_DESC,Use a Perfume-shroom on a Pterodactyl carrying a zombie towards your house,对一只抓着僵尸朝你家飞行的翼龙使用香水菇
 ACHIEVEMENT_TERROR_REDACTYLED_HEADER,Terror Redactyled,削除恐惧
 ACHIEVEMENT_TIME_TRAVELER_DESC,Complete a level where each of your plants comes from a different world,使用来自不同世界的植物完成一关
 ACHIEVEMENT_TIME_TRAVELER_TITLE,Time Traveler,时空旅行者
@@ -103,7 +103,7 @@ ADVICE_ESCAPEROOT_CANT_SWAP_PLANTFOODED_PLANTS,Escape Roots can't swap a plant u
 ADVICE_ESCAPEROOT_CANT_SWAP_THIS_PLANT,Escape Roots can't swap with that plant.,逃脱树根不能与这个植物交换.
 ADVICE_GET_MORE_STARS,More Stars are unlocked! Replay levels to get them!,更多星星已解锁! 重玩关卡来获得它们!
 ADVICE_GOTO_ALMANAC,Check out the Almanac!,查看一下图鉴吧!
-ADVICE_GOTO_MINIGAMES,Check out Vasebreaker!,查看一下砸罐子模式吧!
+ADVICE_GOTO_MINIGAMES,Check out Vasebreaker!,查看一下破罐者模式吧!
 ADVICE_GOTO_QUESTS,Check out the Travel Log!,查看一下旅行原木吧!
 ADVICE_GOTO_STORE,Visit Crazy Dave's Twiddydinkies!,查看疯狂戴夫的花哨小玩意儿!
 ADVICE_GOTO_UNIVERSE_VIEW,You finished Egypt! Tap the Universe Button!,你通关了埃及! 点击宇宙按钮!
@@ -237,7 +237,7 @@ ALMANAC_ZOMBIES,ZOMBIES,僵尸
 ALOE,Aloe,芦荟
 ALOE_DESCRIPTION,"{KEYWORD}Special: {STAT}overheals up to double the maximum HP\r\n{KEYWORD}Special: {STAT}starts healing when the plant in front has 75% HP left\r\n\r\n{FLAVOR}Aloe likes to soothe. He likes to alleviate, he likes to restore, he likes to mend. But don't ask him to revive. He's touchy about revival.","{KEYWORD}特点: {STAT}顶多过量治疗到原来的两倍血量\r\n{KEYWORD}特点: {STAT}当前方的植物生命值低于75%时开始为其治疗\r\n\r\n{FLAVOR}芦荟喜欢安慰. 他喜欢缓和, 他喜欢恢复, 他喜欢痊愈. 但不要跟他提复活. 他对复活很敏感."
 ALOE_DESCRIPTION_HEADER,Aloes heal injured plants to their immediate right. They also overheal surrounding plants upon being planted.,芦荟可以治愈在他们右边受伤的植物. 他们在种植时也会治愈周围的植物.
-ALOE_TOOLTIP,Heals rightward plant; overheals surrounding plants when planted,治愈右侧的植物; 种植时治愈周围的植物
+ALOE_TOOLTIP,Heals rightward plant; overheals surrounding plants when planted,治疗右侧的植物; 种植时过量治疗周围的植物
 APPEASEMINT,Appease-mint,豌豆薄荷
 APPEASEMINT_DESCRIPTION,"{KEYWORD}Appease-mint Family Plants:\r\n{STAT}Bowling Bulb\r\n{STAT}Dandelion\r\n{STAT}Pea Pod\r\n{STAT}Peashooter\r\n{STAT}Pea Vine\r\n{STAT}Primal Peashooter\r\n{STAT}Red Stinger\r\n{STAT}Repeater\r\n{STAT}Rotobaga\r\n{STAT}Starfruit\r\n{STAT}Split Pea\r\n{STAT}Threepeater\r\n{STAT}Torchwood\r\n{STAT}Tumbleweed\r\n{FLAVOR}Appease-mint takes great umbrage at the notion that he might back down from a fight. \Yes, my name is 'Appease-mint,' but that has more to do with my affinity towards peas than any disinclination to stand up for my beliefs. Rescind your vile calumny this instant, lest I compose a blistering letter of outrage!\""""","{KEYWORD}豌豆薄荷家族植物:\r\n{STAT}保龄泡泡\r\n{STAT}蒲公英\r\n{STAT}豌豆荚\r\n{STAT}豌豆射手\r\n{STAT}豌豆藤蔓\r\n{STAT}原始豌豆射手\r\n{STAT}红针花\r\n{STAT}双发豌豆\r\n{STAT}旋转芜菁\r\n{STAT}星星果\r\n{STAT}裂荚豌豆\r\n{STAT}三线豌豆\r\n{STAT}火炬树桩\r\n{STAT}风滚草\r\n{FLAVOR}一想到有人说他很逗, 豌豆薄荷就会很生气. \""没错, 我的名字是叫 '豌豆薄荷', 但不是因为我很 '逗' 啊, 这俩字都不一样! 所以, 现在请收回你的诽谤, 免得我对你写一封更加愤怒的控诉信!\"""
 APPEASEMINT_DESCRIPTION_HEADER,Appease-mints fire a volley of huge peas that break into smaller peas and provide a temporary boost to all Appease-mint Family plants on the lawn.,"豌豆薄荷可以喷出许多能破裂成小豌豆的大豌豆, 并暂时加强草坪上所有豌豆薄荷家族的植物."
@@ -1450,8 +1450,8 @@ HEADBUTTER_TOOLTIP,Bashes and butters zombies,"猛击前方或后方的僵尸, �
 HEAVY_WATERING_DESCRIPTION,Seed packet refresh time reduced {NUMBER}%!,种子包冷却时间减少 {NUMBER} %
 HIDE_LAWN,HIDE LAWN,隐藏草坪
 HOCUS,Chrocus,魔术番红花
-HOCUS_DESCRIPTION,"{KEYWORD}Special: {STAT}attack with one big pellet from the front when planted on other columns\r\n\r\n{FLAVOR}Being a magician and doing actual magic are things some simple-minded people can never truly grasp, and Chrocus HATES those people. He and Witch Hazel bond over this fact, and god bless anyone who invokes both of their ires - they will never find one whole pair of socks ever again.","{KEYWORD}特点: {STAT}每次传送时会同时造成伤害\r\n\r\n{FLAVOR}作为一个魔术师, 做真正的魔术是一些头脑简单的人永远无法真正理解的事情, 而藏红花讨厌这些人. 他和金缕梅女巫对这一事实感同身受, 上帝保佑任何召唤他们两个兄弟的人 - 他们再也找不到一整双袜子了."
-HOCUS_DESCRIPTION_HEADER,Chrocuses attack zombies from behind with 13 pellets when planted on two leftmost columns.,"魔术番红花可以使用魔法, 将离你房子最近的僵尸送回草坪的最右侧."
+HOCUS_DESCRIPTION,"{KEYWORD}Special: {STAT}attack with one big pellet from the front when planted on other columns\r\n\r\n{FLAVOR}Being a magician and doing actual magic are things some simple-minded people can never truly grasp, and Chrocus HATES those people. He and Witch Hazel bond over this fact, and god bless anyone who invokes both of their ires - they will never find one whole pair of socks ever again.","{KEYWORD}特点: {STAT}当种植在其他列时, 用一个大子弹从正面攻击\r\n\r\n{FLAVOR}作为一个魔术师, 做真正的魔术是一些头脑简单的人永远无法真正理解的事情, 而藏红花讨厌这些人. 他和金缕梅女巫对这一事实感同身受, 上帝保佑任何召唤他们两个兄弟的人 - 他们再也找不到一整双袜子了."
+HOCUS_DESCRIPTION_HEADER,Chrocuses attack zombies from behind with 13 pellets when planted on two leftmost columns.,"当种植在最左边的两列时, 魔术番红花从后面用13个子弹攻击僵尸."
 HOCUS_TOOLTIP,Attacks zombies from behind when close to home,将离房子最近的僵尸送回草坪的最右侧
 HOLLYKNIGHT,Holly Barrier,冬青屏障
 HOLLYKNIGHT_DESCRIPTION,"{KEYWORD}Usage: {STAT}tap to arm, tap on target tile to fire\r\n{KEYWORD}{STAT}Note: {STAT}Holly leaves cannot be revived with Intensive Carrot\r\n\r\n{FLAVOR}Holly Barrier would like to advise folks not to eat his berries. \It's rude to eat somebody's berries without asking,\"" he says. \""In addition, they are highly toxic.\""""","{KEYWORD}用途: {STAT}点击一次瞄准, 再点击一次发射\r\n{KEYWORD}{STAT}注意: {STAT}冬青叶不响应复活萝卜\r\n\r\n{FLAVOR}冬青骑士建议大家不要吃他的浆果. 他说: \""不经询问就吃别人的浆果是不礼貌的. 另外, 他们是剧毒的.\"""
@@ -1914,7 +1914,7 @@ IZOMBIE_DANGER_ROOM_NAME,"I, Zombie",我是僵尸
 COMMUNITY_DANGER_ROOM_NAME,Community Endless Zone,社区无尽地带
 MODERN_LEVEL_NAME,Modern Day - Day {LEVEL_NUMBER},现代年华 - 第 {LEVEL_NUMBER} 天
 MODE_NAME_BEGHOULED,Beghouled,宝石迷阵
-MODE_NAME_VASEBREAKER,Vasebreaker,砸罐子
+MODE_NAME_VASEBREAKER,Vasebreaker,破罐者
 MOONFLOWER,Moonflower,月光花
 MOONFLOWER_DESCRIPTION,{KEYWORD}Special: {STAT}produces 25 more sun for each adjacent Moonflower\r\n{KEYWORD}Special: {STAT}can't be eaten by most zombies\r\n{KEYWORD}Special: {STAT}immune to frost\r\n{KEYWORD}Tiering Unlock: {STAT}The Concealment 6\r\n\r\n{FLAVOR}Moonflower is a fierce collaborator. She'll collaborate with anything. She'd collaborate with a table if she could.,"{KEYWORD}特点: {STAT}周围每多一株相邻的月光花多产生25阳光\r\n{KEYWORD}特点: {STAT}不会被大多数僵尸啃食\r\n{KEYWORD}特点: {STAT}免疫冰冻\r\n{KEYWORD}阶级解锁: {STAT}SDL-6\r\n\r\n{FLAVOR}月光花是一个很厉害的合作者. 她会与任何合作者之间达成很好的默契, 如果条件允许, 她甚至会和一张桌子合作."
 MOONFLOWER_DESCRIPTION_HEADER,Moonflowers radiate a glow that powers up adjacent Shadow plants.,月光花散发的光芒可以强化周围的暗影植物.
@@ -4243,7 +4243,7 @@ NARRATIVE_VASEBREAKER_8-2_INTRO_3,{EXCITED:winnie}This only activates for ONE zo
 NARRATIVE_VASEBREAKER_10-1_INTRO_1,{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Wowzers! Is it time for another dance party?,{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}哇哦! 又是舞蹈派对时间了?
 NARRATIVE_VASEBREAKER_10-1_INTRO_2,"{SAY:winnie}Yes, User Dave. It seems that jams will still be available for these Vasebreakers.","{SAY:winnie}是的, 戴夫. 看起来rap音乐在破罐者里也是有效的."
 NARRATIVE_VASEBREAKER_10-1_INTRO_3,"{EXCITED:winnie}In this one, there are hidden traps stunning the zombies once underneath the vases.","{EXCITED:winnie}在这一关中, 罐子底下有隐藏的陷阱, 它们可以暂时停止僵尸行动一次."
-NARRATIVE_VASEBREAKER_10-1_INTRO_4,{EXCITED:crazydave}Are they stunned by our dancing prowess?,{EXCITED:crazydave}它们是被我们的舞蹈迷晕了吗?
+NARRATIVE_VASEBREAKER_10-1_INTRO_4,{EXCITED:crazydave}Are they stunned by our dancing prowess?,{EXCITED:crazydave}他们是被我们的舞蹈迷晕了吗?
 NARRATIVE_VASEBREAKER_10-1_INTRO_5,{EXCITED:winnie}Highly unlikely.,{EXCITED:winnie}显然不是.
 NARRATIVE_ZEN_GARDEN_INTRO_TUTORIAL_SPEED_UP_1,{NPC_ENTER:winnie}Use your gems to speed up the progress like last time.,{NPC_ENTER:winnie}像上次一样使用钻石来加速进程.
 NARRATIVE_ZEN_GARDEN_INTRO_TUTORIAL_WELCOME_1,{NPC_ENTER:winnie}{EXCITED}Zen Garden is not just for growing plants for coins.,{NPC_ENTER:winnie}{EXCITED}禅境花园不只是用来获得硬币的.
@@ -4276,7 +4276,7 @@ NEW_USER,NEW USER,新用户
 NEXT_CHALLENGE_BUTTON,NEXT CHALLENGE,下一个挑战
 NEXT_STAR_BUTTON,NEXT STAR,下一颗星星
 NIGHTSHADE,Nightshade,暗影龙葵
-NIGHTSHADE_DESCRIPTION,"{KEYWORD}Special: {STAT}regrows leaves and has a ranged attack when powered\r\n{KEYWORD}Special: {STAT}can't be eaten by most zombies\r\n{KEYWORD}Special: {STAT}immune to frost\r\n{KEYWORD}Tiering Unlock: {STAT}The Concealment 1\r\n\r\n{FLAVOR}For Nightshade, stabbing is a duty and a privilege. He comes from a long line of ardent stabbers, and his family counts three kings, four ambassadors and a president as among those proudly stabbed around.","{KEYWORD}特点: {STAT}可以恢复叶子, 被强化时能进行远程攻击\r\n{KEYWORD}特点: {STAT}不会被啃食\r\n{KEYWORD}特点: {STAT}免疫冰冻\r\n{KEYWORD}阶级解锁: {STAT}SDL-1\r\n\r\n{FLAVOR}对暗影龙葵来说, 刺杀是一项责任和特权. 他出身于一个狂热的刺手世家, 在他的家族中, 有三位国王, 四位大使和一位总统被骄傲地刺杀的记录."
+NIGHTSHADE_DESCRIPTION,"{KEYWORD}Special: {STAT}regrows leaves and has a ranged attack when powered\r\n{KEYWORD}Special: {STAT}can't be eaten by most zombies\r\n{KEYWORD}Special: {STAT}immune to frost\r\n{KEYWORD}Tiering Unlock: {STAT}The Concealment 1\r\n\r\n{FLAVOR}For Nightshade, stabbing is a duty and a privilege. He comes from a long line of ardent stabbers, and his family counts three kings, four ambassadors and a president as among those proudly stabbed around.","{KEYWORD}特点: {STAT}可以恢复叶子, 被强化时能进行远程攻击\r\n{KEYWORD}特点: {STAT}不会被啃食\r\n{KEYWORD}特点: {STAT}免疫冰冻\r\n{KEYWORD}阶级解锁: {STAT}SDL-1\r\n\r\n{FLAVOR}对暗影龙葵来说, 刺杀是一项责任和特权. 他出身于一个狂热的刺手世家, 在他的家族中, 有刺杀三位国王, 四位大使和一位总统的骄傲记录."
 NIGHTSHADE_DESCRIPTION_HEADER,Nightshades are shadow plants that stab zombies when unpowered.,暗影龙葵是暗影植物且在非暗影状态下刺击僵尸.
 NIGHTSHADE_TOOLTIP,Stabs zombies; regrows leaves and has ranged attack when powered,"刺击僵尸, 在暗影状态下会恢复叶子"
 NOTIFICATION_CHANNEL_CHEAT_DESCRIPTION,Turn on Cheats notifications,开启辅助程序推送通知
@@ -4345,7 +4345,7 @@ PATCH_VERIFICATION_FAILED,Downloaded content may have been corrupted. Updated co
 PAUSED_HEADER,PAUSED,暂 停
 PAUSE_MENU_BONUS_PREFIX,Bonus Objective: ,奖励目标:
 PEANUT,Peanut,花生
-PEANUT_DESCRIPTION,"{FLAVOR}Peanut knows that some folks have an aversion to him. He tries to be sensitive to their concerns and give them the space they need. Still, he can't help but miss the good old days - back when he was the most popular nut around.","{FLAVOR}花生知道有些人对他挺 \""过敏\"". 他试着了解它们的顾虑, 并且给予对方足够的空间. 即便如此, 他仍然会情不自禁地怀念以前的时光 - 回到那个人人爱花生的时代."
+PEANUT_DESCRIPTION,"{FLAVOR}Peanut knows that some folks have an aversion to him. He tries to be sensitive to their concerns and give them the space they need. Still, he can't help but miss the good old days - back when he was the most popular nut around.","{FLAVOR}花生知道有些人对他挺 \""过敏\"". 他试着了解他们的顾虑, 并且给予对方足够的空间. 即便如此, 他仍然会情不自禁地怀念以前的时光 - 回到那个人人爱花生的时代."
 PEANUT_DESCRIPTION_HEADER,Peanuts block zombies and shoot peanuts flying at random angle.,"阻挡僵尸, 并向随机角度发射花生."
 PEANUT_TOOLTIP,Blocks zombies and shoots peanuts flying at random angle,"阻挡僵尸, 并向随机角度发射花生"
 PEAPOD,Pea Pod,豌豆荚
@@ -6080,7 +6080,7 @@ WARNING_PARACHUTERAIN,Parachute Rain!,空袭!
 WARNING_RAIDINGPARTY,Raiding Party!,登船派对!
 WARNING_SANDSTORM,Sandstorm!,沙尘暴!
 WARNING_SAPSPAWN,Sap Spawn!,树脂召唤!
-WARNING_SNOWSTORM,Snowstorm!,沙尘暴!
+WARNING_SNOWSTORM,Snowstorm!,暴风雪!
 WARNING_SPIDERRAIN,Bot Swarm!,机器虫灾!
 WARNING_STANDARD_1,Ready...,准备...
 WARNING_STANDARD_2,Set...,开始...

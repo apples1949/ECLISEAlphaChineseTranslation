@@ -4344,7 +4344,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "EPIC_QUEST_BOWLING_REAL_STEP_10",
-							"QuestName": "[QUEST_EPIC_QUEST_BOWLING_REAL_STEP_10_QUESTNAME]
+							"QuestName": "[QUEST_EPIC_QUEST_BOWLING_REAL_STEP_10_QUESTNAME]",
 							"LevelName": "minigames/bowling_10",
 							"Priority": "Primary"
 						}
@@ -4687,7 +4687,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_MEATSHIELD_RETAKE_STEP_2",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/meatshield",
 							"Priority": "Primary"
@@ -4728,7 +4728,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_GASSY_HORROR_STEP_2",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/gassy_horror",
 							"Priority": "Primary"
@@ -4769,7 +4769,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_GARLIQUOR_STEP_2",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/garliquor",
 							"Priority": "Primary"
@@ -4810,7 +4810,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_PARROTROUSLE_STEP_2",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/parrotrousle",
 							"Priority": "Primary"
@@ -4851,7 +4851,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_CRYOSIEGE_STEP_2",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/cryosiege",
 							"Priority": "Primary"
@@ -4892,7 +4892,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_SOLARBANK_STEP_2",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/solarbank",
 							"Priority": "Primary"
@@ -4933,7 +4933,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_SLEEPWALKERS_STEP_2",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/sleepwalkers",
 							"Priority": "Primary"
@@ -4974,7 +4974,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_OBJECT_STEP_2",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/object",
 							"Priority": "Primary"
@@ -5015,7 +5015,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_MEGA_COUNTDOWN_STEP_2",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/mega_countdown",
 							"Priority": "Primary"
@@ -5056,7 +5056,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_SOLAR_QUEST_STEP_2",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/solar_quest",
 							"Priority": "Primary"
@@ -5097,7 +5097,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_GOOD_FARMER_STEP_2",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/good_farmer",
 							"Priority": "Primary"
@@ -5138,7 +5138,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_LILY_RECLAMATION_STEP_2",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/lily_reclamation",
 							"Priority": "Primary"
@@ -5179,7 +5179,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_SHIPPER_STEP_2",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/shipper",
 							"Priority": "Primary"
@@ -5220,7 +5220,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_TIME_CRACK_STEP_2",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/time_crack",
 							"Priority": "Primary"
@@ -5261,7 +5261,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_MISS_PLACES_STEP_2",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/miss_places",
 							"Priority": "Primary"
@@ -5302,7 +5302,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_NUTSHELL_STEP_2",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/nutshell",
 							"Priority": "Primary"
@@ -5343,7 +5343,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_LILYLAND_STEP_2",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/lilyland",
 							"Priority": "Primary"
@@ -5384,7 +5384,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_PINK_PARAMOUNT_STEP_2",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/pink_paramount",
 							"Priority": "Primary"
@@ -5425,7 +5425,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_GOLDCAPTURE_STEP_2",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/goldcapture",
 							"Priority": "Primary"
@@ -5466,7 +5466,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_WALLBREAKER_STEP_2",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/wallbreaker",
 							"Priority": "Primary"
@@ -5507,7 +5507,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_PLOT_FLIP_STEP_2",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/plot_flip",
 							"Priority": "Primary"
@@ -5548,7 +5548,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_SPLIT_DECISION_STEP_2",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/split_decision",
 							"Priority": "Primary"
@@ -5589,7 +5589,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_ENCROUCHER_STEP_2",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_NORMAL_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/encroucher",
 							"Priority": "Primary"
@@ -5621,7 +5621,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_BOTANICAL_REAL_STEP_1",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/botanical_1",
 							"Priority": "Primary"
@@ -5631,7 +5631,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_BOTANICAL_REAL_STEP_2",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/botanical_2",
 							"Priority": "Primary"
@@ -5641,7 +5641,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_BOTANICAL_REAL_STEP_3",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/botanical_3",
 							"Priority": "Primary"
@@ -5651,7 +5651,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_BOTANICAL_REAL_STEP_4",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/botanical_4",
 							"Priority": "Primary"
@@ -5683,7 +5683,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_OVERLEFT_REAL_STEP_1",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/overleft_1",
 							"Priority": "Primary"
@@ -5693,7 +5693,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_OVERLEFT_REAL_STEP_2",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/overleft_2",
 							"Priority": "Primary"
@@ -5703,7 +5703,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_OVERLEFT_REAL_STEP_3",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/overleft_3",
 							"Priority": "Primary"
@@ -5713,7 +5713,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_OVERLEFT_REAL_STEP_4",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/overleft_4",
 							"Priority": "Primary"
@@ -5723,7 +5723,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_OVERLEFT_REAL_STEP_5",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/overleft_5",
 							"Priority": "Primary"
@@ -5755,7 +5755,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_ORIGIN_REAL_STEP_1",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/origin_1",
 							"Priority": "Primary"
@@ -5765,7 +5765,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_ORIGIN_REAL_STEP_2",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/origin_2",
 							"Priority": "Primary"
@@ -5775,7 +5775,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_ORIGIN_REAL_STEP_3",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/origin_3",
 							"Priority": "Primary"
@@ -5785,7 +5785,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_ORIGIN_REAL_STEP_4",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/origin_4",
 							"Priority": "Primary"
@@ -5817,7 +5817,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_DEADEND_REAL_STEP_1",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/deadend_1",
 							"Priority": "Primary"
@@ -5827,7 +5827,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_DEADEND_REAL_STEP_2",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/deadend_2",
 							"Priority": "Primary"
@@ -5837,7 +5837,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_DEADEND_REAL_STEP_3",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/deadend_3",
 							"Priority": "Primary"
@@ -5847,7 +5847,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_DEADEND_REAL_STEP_4",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/deadend_4",
 							"Priority": "Primary"
@@ -5857,7 +5857,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_DEADEND_REAL_STEP_5",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/deadend_5",
 							"Priority": "Primary"
@@ -5867,7 +5867,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_DEADEND_REAL_STEP_6",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/deadend_6",
 							"Priority": "Primary"
@@ -5899,7 +5899,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_INVISIGHOUL_REAL_STEP_1",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/invisighoul_1",
 							"Priority": "Primary"
@@ -5909,7 +5909,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_INVISIGHOUL_REAL_STEP_2",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/invisighoul_2",
 							"Priority": "Primary"
@@ -5919,7 +5919,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_INVISIGHOUL_REAL_STEP_3",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/invisighoul_3",
 							"Priority": "Primary"
@@ -5929,7 +5929,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_INVISIGHOUL_REAL_STEP_4",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/invisighoul_4",
 							"Priority": "Primary"
@@ -5939,7 +5939,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_INVISIGHOUL_REAL_STEP_5",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/invisighoul_5",
 							"Priority": "Primary"
@@ -5949,7 +5949,7 @@
 							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "MINIGAME_INVISIGHOUL_REAL_STEP_6",
-							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]"
+							"QuestName": "[QUEST_MINIGAME_UNLOCK_QUESTNAME]",
 							"Description": "",
 							"LevelName": "minigames/invisighoul_6",
 							"Priority": "Primary"

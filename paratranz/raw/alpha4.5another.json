@@ -1,0 +1,608 @@
+[
+  {
+    "key": "STAT_ATTACK_COOLDOWN",
+    "original": "ATTACK COOLDOWN",
+    "translation": "攻击间隔",
+    "stage": 5
+  },
+  {
+    "key": "STAT_BULB_REGEN_TIME",
+    "original": "BULB REGEN TIME",
+    "translation": "泡泡再生时间",
+    "stage": 5
+  },
+  {
+    "key": "STAT_BUTTER_DAMAGE",
+    "original": "BUTTER DAMAGE",
+    "translation": "黄油伤害",
+    "stage": 5
+  },
+  {
+    "key": "STAT_FLAME_RECHARGE_TIME",
+    "original": "FLAME RECHARGE TIME",
+    "translation": "火焰冷却时间",
+    "stage": 5
+  },
+  {
+    "key": "STAT_HIT_RATE",
+    "original": "HIT RATE",
+    "translation": "攻击频率",
+    "stage": 5
+  },
+  {
+    "key": "STAT_KNOCKBACK_DISTANCE_TILES",
+    "original": "KNOCKBACK DISTANCE (TILES)",
+    "translation": "击退距离 (格)",
+    "stage": 5
+  },
+  {
+    "key": "STAT_LIFE_TIME",
+    "original": "LIFE TIME",
+    "translation": "存在时间",
+    "stage": 5
+  },
+  {
+    "key": "STAT_MELEE_RANGE_TILES",
+    "original": "MELEE RANGE (TILES)",
+    "translation": "近战攻击范围 (格)",
+    "stage": 5
+  },
+  {
+    "key": "STAT_PLANT_TRANSFORMATION",
+    "original": "PLANT TRANSFORMATION",
+    "translation": "产生植物",
+    "stage": 5
+  },
+  {
+    "key": "STAT_PROJECTILE_LIFE_TIME",
+    "original": "PROJECTILE LIFE TIME",
+    "translation": "紫泡存在时间",
+    "stage": 5
+  },
+  {
+    "key": "STAT_PROJECTILE_RANGE_TILES",
+    "original": "PROJECTILE RANGE (TILES)",
+    "translation": "导弹攻击范围 (格)",
+    "stage": 5
+  },
+  {
+    "key": "STAT_RANGE_TILES",
+    "original": "RANGE (TILES)",
+    "translation": "攻击范围 (格)",
+    "stage": 5
+  },
+  {
+    "key": "STAT_SUN_PER_HP",
+    "original": "SUN PER HP",
+    "translation": "每滴生命值索取阳光",
+    "stage": 5
+  },
+  {
+    "key": "STAT_SUN_PRODUCTION_PER_STAGE",
+    "original": "SUN PRODUCTION (PER STAGE)",
+    "translation": "阳光产量 (每个阶段)",
+    "stage": 5
+  },
+  {
+    "key": "STAT_ZAP_COOLDOWN_SECONDS",
+    "original": "ZAP COOLDOWN (SECONDS)",
+    "translation": "电击间隔 (秒)",
+    "stage": 5
+  },
+  {
+    "key": "STAT_AREA_THYMEWARP",
+    "original": "3x3 -- 5x5 -- FULL BOARD",
+    "translation": "3x3 -- 5x5 -- 全屏",
+    "stage": 5
+  },
+  {
+    "key": "STAT_AREA_FULL_BOAED",
+    "original": "Full Board",
+    "translation": "全屏",
+    "stage": 5
+  },
+  {
+    "key": "STAT_RANGE_MULTI_LANE",
+    "original": "Multi-Lane",
+    "translation": "多线路",
+    "stage": 5
+  },
+  {
+    "key": "STAT_SPECIAL_GROW_SUNSHROOM",
+    "original": "NA/NA -- 160/NA -- 120/240",
+    "translation": "无/无 -- 160/无 -- 120/240",
+    "stage": 5
+  },
+  {
+    "key": "STAT_PLANT_TRANSFORMATION_WITCHHAZEL",
+    "original": "SOLAR TOMATO -- MOONFLOWER I -- INFI-NUT II",
+    "translation": "阳光番茄 -- 一阶月光花 -- 二阶全息坚果",
+    "stage": 5
+  },
+  {
+    "key": "STAT_AREA_VARIABLE",
+    "original": "Variable",
+    "translation": "可变",
+    "stage": 5
+  },
+  {
+    "key": "QUEST_TAB_LABEL_MINIGAMES",
+    "original": "MINIGAMES",
+    "translation": "迷你游戏",
+    "stage": 5
+  },
+  {
+    "key": "QUEST_TAB_LABEL_COMMUNITY",
+    "original": "COMMUNITY",
+    "translation": "社区关卡",
+    "stage": 5
+  },
+  {
+    "key": "QUEST_TAB_LABEL_CHALLENGES",
+    "original": "CHALLENGES",
+    "translation": "挑战关卡",
+    "stage": 5
+  },
+  {
+    "key": "QUEST_TAB_LABEL_LIVE",
+    "original": "LIVE",
+    "translation": "在线关卡",
+    "stage": 5
+  },
+  {
+    "key": "QUEST_TAB_LABEL_SPECIAL",
+    "original": "SPECIAL",
+    "translation": "特殊关卡",
+    "stage": 5
+  },
+  {
+    "key": "QUEST_TAB_LABEL_ADVENTURE",
+    "original": "ADVENTURE",
+    "translation": "世界关卡",
+    "stage": 5
+  },
+  {
+    "key": "STAT_AVERAGE_DAMAGE",
+    "original": "AVERAGE DAMAGE",
+    "translation": "平均伤害",
+    "stage": 5
+  },
+  {
+    "key": "STAT_AVERAGE_RUSH_DAMAGE",
+    "original": "AVERAGE RUSH DAMAGE",
+    "translation": "冲锋平均伤害",
+    "stage": 5
+  },
+  {
+    "key": "STAT_BACK_DAMAGE",
+    "original": "BACK DAMAGE",
+    "translation": "后方伤害",
+    "stage": 5
+  },
+  {
+    "key": "STAT_BIG_BULB_DAMAGE",
+    "original": "BIG BULB DAMAGE",
+    "translation": "大型泡泡伤害",
+    "stage": 5
+  },
+  {
+    "key": "STAT_BOOST_TIME",
+    "original": "BOOST TIME",
+    "translation": "强化时间",
+    "stage": 5
+  },
+  {
+    "key": "STAT_CHANCE_OF_PLASMA_PEAS",
+    "original": "CHANCE OF PLASMA PEAS (%)",
+    "translation": "蓝火豌豆概率 (%)",
+    "stage": 5
+  },
+  {
+    "key": "STAT_CHOMP_DAMAGE",
+    "original": "CHOMP DAMAGE",
+    "translation": "啃咬伤害",
+    "stage": 5
+  },
+  {
+    "key": "STAT_COST_MULTIPLIER",
+    "original": "COST MULTIPLIER",
+    "translation": "消耗增长倍数",
+    "stage": 5
+  },
+  {
+    "key": "STAT_COST_OF_FIRST_TILE",
+    "original": "COST OF FIRST TILE",
+    "translation": "首次种植消耗",
+    "stage": 5
+  },
+  {
+    "key": "STAT_COST_OF_SECOND_TILE",
+    "original": "COST OF SECOND TILE",
+    "translation": "第二次种植消耗",
+    "stage": 5
+  },
+  {
+    "key": "STAT_COST_PER_SHOT",
+    "original": "COST PER SHOT",
+    "translation": "攻击消耗",
+    "stage": 5
+  },
+  {
+    "key": "STAT_DAMAGE",
+    "original": "DAMAGE",
+    "translation": "伤害",
+    "stage": 5
+  },
+  {
+    "key": "STAT_DAMAGE_BLUE_MODE",
+    "original": "DAMAGE (BLUE MODE)",
+    "translation": "伤害 (蓝色形态)",
+    "stage": 5
+  },
+  {
+    "key": "STAT_DAMAGE_GREEN_MODE",
+    "original": "DAMAGE (GREEN MODE)",
+    "translation": "伤害 (绿色形态)",
+    "stage": 5
+  },
+  {
+    "key": "STAT_DAMAGE_MULTIPLIER",
+    "original": "DAMAGE MULTIPLIER",
+    "translation": "伤害增长倍数",
+    "stage": 5
+  },
+  {
+    "key": "STAT_DECOMPOSE_TIME",
+    "original": "DECOMPOSE TIME",
+    "translation": "分解时间",
+    "stage": 5
+  },
+  {
+    "key": "STAT_DEFENSIVE_TOUGHNESS",
+    "original": "DEFENSIVE TOUGHNESS",
+    "translation": "防御状态生命值",
+    "stage": 5
+  },
+  {
+    "key": "STAT_EXPLOSION_DAMAGE",
+    "original": "EXPLOSION DAMAGE",
+    "translation": "爆炸伤害",
+    "stage": 5
+  },
+  {
+    "key": "STAT_FLAME_LENGTH_TILES",
+    "original": "FLAME LENGTH (TILES)",
+    "translation": "火焰长度 (格)",
+    "stage": 5
+  },
+  {
+    "key": "STAT_FRONT_DAMAGE",
+    "original": "FRONT DAMAGE",
+    "translation": "前方伤害",
+    "stage": 5
+  },
+  {
+    "key": "STAT_HAUNT_DPS",
+    "original": "HAUNT DPS",
+    "translation": "恐吓每秒伤害",
+    "stage": 5
+  },
+  {
+    "key": "STAT_HEAL_AMOUNT",
+    "original": "HEAL AMOUNT",
+    "translation": "治疗数额",
+    "stage": 5
+  },
+  {
+    "key": "STAT_HEAL_COOLDOWN",
+    "original": "HEAL COOLDOWN",
+    "translation": "治疗间隔",
+    "stage": 5
+  },
+  {
+    "key": "STAT_HEIGHT_RANGE",
+    "original": "HEIGHT RANGE",
+    "translation": "竖直攻击范围",
+    "stage": 5
+  },
+  {
+    "key": "STAT_HP_RESTORED_1",
+    "original": "HP RESTORED (1 = 100%)",
+    "translation": "生命值恢复 (1 = 100%)",
+    "stage": 5
+  },
+  {
+    "key": "STAT_IMPACT_DAMAGE",
+    "original": "IMPACT DAMAGE",
+    "translation": "撞击伤害",
+    "stage": 5
+  },
+  {
+    "key": "STAT_INITIAL_SUN_PRODUCTION",
+    "original": "INITIAL SUN PRODUCTION",
+    "translation": "初始阳光产量",
+    "stage": 5
+  },
+  {
+    "key": "STAT_KERNEL_DAMAGE",
+    "original": "KERNEL DAMAGE",
+    "translation": "玉米粒伤害",
+    "stage": 5
+  },
+  {
+    "key": "STAT_LAVA_DPS",
+    "original": "LAVA DPS",
+    "translation": "岩浆每秒伤害",
+    "stage": 5
+  },
+  {
+    "key": "STAT_LAVA_DURATION",
+    "original": "LAVA DURATION",
+    "translation": "岩浆持续时间",
+    "stage": 5
+  },
+  {
+    "key": "STAT_LEAF_MELEE_DAMAGE_PER_SECOND",
+    "original": "LEAF MELEE DAMAGE PER SECOND",
+    "translation": "冬青叶近战每秒伤害",
+    "stage": 5
+  },
+  {
+    "key": "STAT_LEAF_TOUGHNESS",
+    "original": "LEAF TOUGHNESS",
+    "translation": "冬青叶生命值",
+    "stage": 5
+  },
+  {
+    "key": "STAT_LEFT_DAMAGE",
+    "original": "LEFT DAMAGE",
+    "translation": "左侧伤害",
+    "stage": 5
+  },
+  {
+    "key": "STAT_LIFETIME",
+    "original": "LIFETIME",
+    "translation": "存在时间",
+    "stage": 5
+  },
+  {
+    "key": "STAT_MAX_SUN_PRODUCED",
+    "original": "MAX SUN PRODUCED",
+    "translation": "阳光生产峰值",
+    "stage": 5
+  },
+  {
+    "key": "STAT_MAX_SUN_PRODUCTION",
+    "original": "MAX SUN PRODUCTION",
+    "translation": "最高阳光产量",
+    "stage": 5
+  },
+  {
+    "key": "STAT_MEDIUM_BULB_DAMAGE",
+    "original": "MEDIUM BULB DAMAGE",
+    "translation": "中型泡泡伤害",
+    "stage": 5
+  },
+  {
+    "key": "STAT_MELEE_DAMAGE",
+    "original": "MELEE DAMAGE",
+    "translation": "近战伤害",
+    "stage": 5
+  },
+  {
+    "key": "STAT_MELEE_DAMAGE_PER_SECOND",
+    "original": "MELEE DAMAGE PER SECOND",
+    "translation": "近战每秒伤害",
+    "stage": 5
+  },
+  {
+    "key": "STAT_NUMBER_OF_TARGETS",
+    "original": "NUMBER OF TARGETS",
+    "translation": "目标数量",
+    "stage": 5
+  },
+  {
+    "key": "STAT_NUMBER_OF_TUMBLEWEEDS",
+    "original": "NUMBER OF TUMBLEWEEDS",
+    "translation": "风滚草数量",
+    "stage": 5
+  },
+  {
+    "key": "STAT_OFFENSIVE_TOUGHNESS",
+    "original": "OFFENSIVE TOUGHNESS",
+    "translation": "攻击状态生命值",
+    "stage": 5
+  },
+  {
+    "key": "STAT_ORB_SPEED_TILE_SECOND",
+    "original": "ORB SPEED (TILE/SECOND)",
+    "translation": "电球速度 (格/秒)",
+    "stage": 5
+  },
+  {
+    "key": "STAT_POISON_DPS",
+    "original": "POISON DPS",
+    "translation": "中毒每秒伤害",
+    "stage": 5
+  },
+  {
+    "key": "STAT_POISON_DURATION",
+    "original": "POISON DURATION",
+    "translation": "中毒持续时间",
+    "stage": 5
+  },
+  {
+    "key": "STAT_PROJECTILE_DAMAGE",
+    "original": "PROJECTILE DAMAGE",
+    "translation": "子弹伤害",
+    "stage": 5
+  },
+  {
+    "key": "STAT_PROJECTILE_SPLASH_DAMAGE",
+    "original": "PROJECTILE SPLASH DAMAGE",
+    "translation": "子弹溅射伤害",
+    "stage": 5
+  },
+  {
+    "key": "STAT_PUSH_PER_LEAF",
+    "original": "PUSH PER LEAF",
+    "translation": "每片叶子推击次数",
+    "stage": 5
+  },
+  {
+    "key": "STAT_RANGED_DAMAGE",
+    "original": "RANGED DAMAGE",
+    "translation": "远程伤害",
+    "stage": 5
+  },
+  {
+    "key": "STAT_REGEN_TIME_FROM_DAMAGE",
+    "original": "REGEN TIME FROM DAMAGE",
+    "translation": "受伤后再生时间",
+    "stage": 5
+  },
+  {
+    "key": "STAT_REGEN_TIME_FROM_DEATH",
+    "original": "REGEN TIME FROM DEATH",
+    "translation": "死亡后再生时间",
+    "stage": 5
+  },
+  {
+    "key": "STAT_SEED_DAMAGE",
+    "original": "SEED DAMAGE",
+    "translation": "种子伤害",
+    "stage": 5
+  },
+  {
+    "key": "STAT_SEED_REGENERATION_TIME",
+    "original": "SEED REGENERATION TIME",
+    "translation": "种子再生时间",
+    "stage": 5
+  },
+  {
+    "key": "STAT_SHOT_COOLDOWN",
+    "original": "SHOT COOLDOWN",
+    "translation": "射击间隔",
+    "stage": 5
+  },
+  {
+    "key": "STAT_SHOT_DAMAGE",
+    "original": "SHOT DAMAGE",
+    "translation": "射击伤害",
+    "stage": 5
+  },
+  {
+    "key": "STAT_SMALL_BULB_DAMAGE",
+    "original": "SMALL BULB DAMAGE",
+    "translation": "小型泡泡伤害",
+    "stage": 5
+  },
+  {
+    "key": "STAT_SPIKE_DAMAGE",
+    "original": "SPIKE DAMAGE",
+    "translation": "潜伏伤害",
+    "stage": 5
+  },
+  {
+    "key": "STAT_SPLASH_DAMAGE",
+    "original": "SPLASH DAMAGE",
+    "translation": "溅射伤害",
+    "stage": 5
+  },
+  {
+    "key": "STAT_STAB_DAMAGE",
+    "original": "STAB DAMAGE",
+    "translation": "突刺伤害",
+    "stage": 5
+  },
+  {
+    "key": "STAT_STAGE_1_DAMAGE",
+    "original": "STAGE 1 DAMAGE",
+    "translation": "1 阶段伤害",
+    "stage": 5
+  },
+  {
+    "key": "STAT_STAGE_2_DAMAGE",
+    "original": "STAGE 2 DAMAGE",
+    "translation": "2 阶段伤害",
+    "stage": 5
+  },
+  {
+    "key": "STAT_STAGE_3_DAMAGE",
+    "original": "STAGE 3 DAMAGE",
+    "translation": "3 阶段伤害",
+    "stage": 5
+  },
+  {
+    "key": "STAT_STARTING_COOLDOWN",
+    "original": "STARTING COOLDOWN",
+    "translation": "初次种植间隔",
+    "stage": 5
+  },
+  {
+    "key": "STAT_SUN_PRODUCTION",
+    "original": "SUN PRODUCTION",
+    "translation": "阳光产量",
+    "stage": 5
+  },
+  {
+    "key": "STAT_TOTAL_DAMAGE",
+    "original": "TOTAL DAMAGE",
+    "translation": "总计伤害",
+    "stage": 5
+  },
+  {
+    "key": "STAT_TOUGHNESS",
+    "original": "TOUGHNESS",
+    "translation": "生命值",
+    "stage": 5
+  },
+  {
+    "key": "STAT_WIDTH_RANGE",
+    "original": "WIDTH RANGE",
+    "translation": "横向攻击范围",
+    "stage": 5
+  },
+  {
+    "key": "STAT_ZAP_COOLDOWN",
+    "original": "ZAP COOLDOWN",
+    "translation": "电击间隔",
+    "stage": 5
+  },
+  {
+    "key": "STAT_ZAP_DAMAGE",
+    "original": "ZAP DAMAGE",
+    "translation": "电击伤害",
+    "stage": 5
+  },
+  {
+    "key": "STAT_ZAP_RADIUS",
+    "original": "ZAP RADIUS",
+    "translation": "电击半径",
+    "stage": 5
+  },
+  {
+    "key": "STORE_TAB_MAIN",
+    "original": "Main",
+    "translation": "主要",
+    "stage": 5
+  },
+  {
+    "key": "STORE_TAB_COSTUMES",
+    "original": "Costumes",
+    "translation": "装扮",
+    "stage": 5
+  },
+  {
+    "key": "STAT_FULLBOARD",
+    "original": "fullboard",
+    "translation": "全屏",
+    "stage": 5
+  },
+  {
+    "key": "STAT_AREA_MISSILETOE",
+    "original": "2x1 (Damage), 3x3 (Effect)",
+    "translation": "2x1 (伤害), 3x3 (效果)",
+    "stage": 5
+  }
+]

@@ -3166,7 +3166,7 @@
   {
     "key": "453",
     "original": "16-6: Vegan Vengeance",
-    "translation": "16-8: 素食者的复仇",
+    "translation": "16-6: 素食者的复仇",
     "stage": 5,
     "context": "COWBOY16"
   },
@@ -3523,7 +3523,7 @@
   {
     "key": "504",
     "original": "DA-8: Armor & Lance",
-    "translation": "DA-8:盾与矛",
+    "translation": "DA-8: 盾与矛",
     "stage": 5,
     "context": "DARK_DAY8"
   },
@@ -3614,7 +3614,7 @@
   {
     "key": "517",
     "original": "13-9: Sheep Paralysis",
-    "translation": "13-2: 绵羊计数者",
+    "translation": "13-19: 绵羊计数者",
     "stage": 5,
     "context": "DARK19"
   },
@@ -3726,7 +3726,7 @@
   {
     "key": "533",
     "original": "3-6: Wandering Spell",
-    "translation": "3-6:流浪巫师",
+    "translation": "3-6: 流浪巫师",
     "stage": 5,
     "context": "DARK6"
   },
@@ -3740,7 +3740,7 @@
   {
     "key": "535",
     "original": "3-8: Prop Plant",
-    "translation": "3-8:主力植物",
+    "translation": "3-8: 主力植物",
     "stage": 5,
     "context": "DARK8"
   },
@@ -3971,7 +3971,7 @@
   {
     "key": "568",
     "original": "18-1: Perfume Performance",
-    "translation": "18-2: 香水演出",
+    "translation": "18-1: 香水演出",
     "stage": 5,
     "context": "DINO11"
   },
@@ -3985,7 +3985,7 @@
   {
     "key": "570",
     "original": "18-3: Amber Champer",
-    "translation": "18-6: 琥珀房间",
+    "translation": "18-3: 琥珀房间",
     "stage": 5,
     "context": "DINO13"
   },
@@ -4405,7 +4405,7 @@
   {
     "key": "630",
     "original": "AE-8: Midnight Burrows",
-    "translation": "13-8: 午夜洞穴",
+    "translation": "AE-8: 午夜洞穴",
     "stage": 5,
     "context": "EGYPT_NIGHT8"
   },
@@ -5385,7 +5385,7 @@
   {
     "key": "770",
     "original": "3-4X: Fire Fighter",
-    "translation": "3-4: 消防员",
+    "translation": "3-4X: 消防员",
     "stage": 5,
     "context": "HARDCORE\\HARDCORE_DARK4"
   },
@@ -5434,7 +5434,7 @@
   {
     "key": "777",
     "original": "8-10X: Land of Giants",
-    "translation": "8-10: 巨人之地",
+    "translation": "8-10X: 巨人之地",
     "stage": 5,
     "context": "HARDCORE\\HARDCORE_DINO10"
   },
@@ -5980,7 +5980,7 @@
   {
     "key": "855",
     "original": "15-4: Lava Floor",
-    "translation": "15-2: 熔岩地板",
+    "translation": "15-4: 熔岩地板",
     "stage": 5,
     "context": "ICEAGE14"
   },
@@ -9886,7 +9886,7 @@
   {
     "key": "1413",
     "original": "WP-49: Brittle Gate - DT",
-    "translation": "WP-47: 极速保护 - DT",
+    "translation": "WP-49: 极速保护 - DT",
     "stage": 5,
     "context": "WARP\\PARTY49"
   },
@@ -10278,7 +10278,7 @@
   {
     "key": "1469",
     "original": "Go hunt some Yetis!",
-    "translation": "去捕杀一些雪人吧!",
+    "translation": "去猎杀一些雪人吧!",
     "stage": 5,
     "context": "YETI_INTRO"
   }

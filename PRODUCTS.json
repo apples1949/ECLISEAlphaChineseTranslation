@@ -16,7 +16,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "99",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Extra Seed Slot", "Extra Seed Slot", "Extra Seed Slot", "Extra Seed Slot", "Extra Seed Slot", "Extra Seed Slot" ],
+				"ShortDescriptions": [ "额外种子槽", "额外种子槽", "额外种子槽", "额外种子槽", "额外种子槽", "额外种子槽" ],
 				"Sku": "com.popcap.pvz2.android.gameupgrade.seedslot2"
 			}
 		}, {
@@ -34,7 +34,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "0",
 				"PriceMints": "49",
-				"ShortDescriptions": [ "Torchwood", "Torchwood", "Torchwood", "Torchwood", "Torchwood", "Torchwood" ],
+				"ShortDescriptions": [ "火炬树桩", "火炬树桩", "火炬树桩", "火炬树桩", "火炬树桩", "火炬树桩" ],
 				"Sku": "com.popcap.pvz2.android.plant.torchwood.eclise"
 			}
 		}, {
@@ -52,7 +52,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "0",
 				"PriceMints": "79",
-				"ShortDescriptions": [ "Gold Leaf", "Gold Leaf", "Gold Leaf", "Gold Leaf", "Gold Leaf", "Gold Leaf" ],
+				"ShortDescriptions": [ "黄金叶", "黄金叶", "黄金叶", "黄金叶", "黄金叶", "黄金叶" ],
 				"Sku": "com.popcap.pvz2.android.plant.goldleaf.eclise"
 			}
 		}, {
@@ -70,7 +70,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "0",
 				"PriceMints": "79",
-				"ShortDescriptions": [ "Sweet Potato", "Sweet Potato", "Sweet Potato", "Sweet Potato", "Sweet Potato", "Sweet Potato" ],
+				"ShortDescriptions": [ "甜薯", "甜薯", "甜薯", "甜薯", "甜薯", "甜薯" ],
 				"Sku": "com.popcap.pvz2.android.plant.sweetpotato.eclise"
 			}
 		}, {
@@ -88,7 +88,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "0",
 				"PriceMints": "79",
-				"ShortDescriptions": [ "Spikerock", "Spikerock", "Spikerock", "Spikerock", "Spikerock", "Spikerock" ],
+				"ShortDescriptions": [ "钢地刺", "钢地刺", "钢地刺", "钢地刺", "钢地刺", "钢地刺" ],
 				"Sku": "com.popcap.pvz2.android.plant.spikerock.eclise"
 			}
 		}, {
@@ -106,7 +106,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "0",
 				"PriceMints": "109",
-				"ShortDescriptions": [ "Dazey Chain", "Dazey Chain", "Dazey Chain", "Dazey Chain", "Dazey Chain", "Dazey Chain" ],
+				"ShortDescriptions": [ "迷乱雏菊", "迷乱雏菊", "迷乱雏菊", "迷乱雏菊", "迷乱雏菊", "迷乱雏菊" ],
 				"Sku": "com.popcap.pvz2.android.plant.dazeychain.eclise"
 			}
 		}, {
@@ -124,7 +124,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "0",
 				"PriceMints": "109",
-				"ShortDescriptions": [ "Shrinking Violet", "Shrinking Violet", "Shrinking Violet", "Shrinking Violet", "Shrinking Violet", "Shrinking Violet" ],
+				"ShortDescriptions": [ "缩小紫罗兰", "缩小紫罗兰", "缩小紫罗兰", "缩小紫罗兰", "缩小紫罗兰", "缩小紫罗兰" ],
 				"Sku": "com.popcap.pvz2.android.plant.shrinkingviolet.eclise"
 			}
 		}, {
@@ -142,7 +142,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "0",
 				"PriceMints": "109",
-				"ShortDescriptions": [ "Escape Root", "Escape Root", "Escape Root", "Escape Root", "Escape Root", "Escape Root" ],
+				"ShortDescriptions": [ "逃脱树根", "逃脱树根", "逃脱树根", "逃脱树根", "逃脱树根", "逃脱树根" ],
 				"Sku": "com.popcap.pvz2.android.plant.escaperoot.eclise"
 			}
 		}, {
@@ -160,7 +160,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "0",
 				"PriceMints": "149",
-				"ShortDescriptions": [ "Grapeshot", "Grapeshot", "Grapeshot", "Grapeshot", "Grapeshot", "Grapeshot" ],
+				"ShortDescriptions": [ "爆裂葡萄", "爆裂葡萄", "爆裂葡萄", "爆裂葡萄", "爆裂葡萄", "爆裂葡萄" ],
 				"Sku": "com.popcap.pvz2.android.plant.grapeshot.eclise"
 			}
 		}, {
@@ -178,7 +178,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "0",
 				"PriceMints": "149",
-				"ShortDescriptions": [ "Winter Melon", "Winter Melon", "Winter Melon", "Winter Melon", "Winter Melon", "Winter Melon" ],
+				"ShortDescriptions": [ "冰瓜投手", "冰瓜投手", "冰瓜投手", "冰瓜投手", "冰瓜投手", "冰瓜投手" ],
 				"Sku": "com.popcap.pvz2.android.plant.wintermelon.eclise"
 			}
 		}, {
@@ -196,7 +196,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "399",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Imitater", "Imitater", "Imitater", "Imitater", "Imitater", "Imitater" ],
+				"ShortDescriptions": [ "模仿者", "模仿者", "模仿者", "模仿者", "模仿者", "模仿者" ],
 				"Sku": "com.popcap.pvz2.android.plant.imitater.eclise"
 			}
 		}, {
@@ -214,7 +214,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "399",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Power Lily", "Power Lily", "Power Lily", "Power Lily", "Power Lily", "Power Lily" ],
+				"ShortDescriptions": [ "能量百合", "能量百合", "能量百合", "能量百合", "能量百合", "能量百合" ],
 				"Sku": "com.popcap.pvz2.android.plant.powerlily.eclise"
 			}
 		}, {
@@ -232,7 +232,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "999",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Lawn Marigold", "Lawn Marigold", "Lawn Marigold", "Lawn Marigold", "Lawn Marigold", "Lawn Marigold" ],
+				"ShortDescriptions": [ "草坪金盏花", "草坪金盏花", "草坪金盏花", "草坪金盏花", "草坪金盏花", "草坪金盏花" ],
 				"Sku": "com.popcap.pvz2.android.plant.marigold_lawn.eclise"
 			}
 		}, {
@@ -250,7 +250,7 @@
 				"PriceCoins": "25000",
 				"PriceGems": "0",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Tumble Raid", "Tumble Raid", "Tumble Raid", "Tumble Raid", "Tumble Raid", "Tumble Raid" ],
+				"ShortDescriptions": [ "风滚小分队", "风滚小分队", "风滚小分队", "风滚小分队", "风滚小分队", "风滚小分队" ],
 				"Sku": "com.popcap.pvz2.android.plant.tumbleraid.eclise"
 			}
 		}, {
@@ -268,7 +268,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "99",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Electric Pea", "Electric Pea", "Electric Pea", "Electric Pea", "Electric Pea", "Electric Pea" ],
+				"ShortDescriptions": [ "电能豌豆", "电能豌豆", "电能豌豆", "电能豌豆", "电能豌豆", "电能豌豆" ],
 				"Sku": "com.popcap.pvz2.android.plant.electricpeashooter.eclise"
 			}
 		}, {
@@ -284,7 +284,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "99",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "20 Random Mini Packets", "20 Random Mini Packets", "20 Random Mini Packets", "20 Random Mini Packets", "20 Random Mini Packets", "20 Random Mini Packets" ],
+				"ShortDescriptions": [ "20 份随机迷你卡包", "20 份随机迷你卡包", "20 份随机迷你卡包", "20 份随机迷你卡包", "20 份随机迷你卡包", "20 份随机迷你卡包" ],
 				"Sku": "com.popcap.pvz2.android.pinata.mini.electricpeashooter"
 			}
 		}, {
@@ -301,7 +301,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "99",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Electric Pea\n20 Random Mini Packets", "Electric Pea\n20 Random Mini Packets", "Electric Pea\n20 Random Mini Packets", "Electric Pea\n20 Random Mini Packets", "Electric Pea\n20 Random Mini Packets", "Electric Pea\n20 Random Mini Packets" ],
+				"ShortDescriptions": [ "电能豌豆\n20 份随机迷你卡包", "电能豌豆\n20 份随机迷你卡包", "电能豌豆\n20 份随机迷你卡包", "电能豌豆\n20 份随机迷你卡包", "电能豌豆\n20 份随机迷你卡包", "电能豌豆\n20 份随机迷你卡包" ],
 				"Sku": "com.popcap.pvz2.android.pinata.electricpeashooter.bundle"
 			}
 		}, {
@@ -319,7 +319,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Rasta", "Rasta", "Rasta", "Rasta", "Rasta", "Rasta" ],
+				"ShortDescriptions": [ "拉斯塔", "拉斯塔", "拉斯塔", "拉斯塔", "拉斯塔", "拉斯塔" ],
 				"Sku": "com.popcap.pvz2.android.bloomerang_custom_02"
 			}
 		}, {
@@ -337,7 +337,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Champ Belt", "Champ Belt", "Champ Belt", "Champ Belt", "Champ Belt", "Champ Belt" ],
+				"ShortDescriptions": [ "冠军腰带", "冠军腰带", "冠军腰带", "冠军腰带", "冠军腰带", "冠军腰带" ],
 				"Sku": "com.popcap.pvz2.android.bonkchoy_custom_01"
 			}
 		}, {
@@ -355,7 +355,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Sweatband", "Sweatband", "Sweatband", "Sweatband", "Sweatband", "Sweatband" ],
+				"ShortDescriptions": [ "吸汗带", "吸汗带", "吸汗带", "吸汗带", "吸汗带", "吸汗带" ],
 				"Sku": "com.popcap.pvz2.android.cabbagepult_custom_01"
 			}
 		}, {
@@ -373,7 +373,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Shades & Hats", "Shades & Hats", "Shades & Hats", "Shades & Hats", "Shades & Hats", "Shades & Hats" ],
+				"ShortDescriptions": [ "墨镜与帽子", "墨镜与帽子", "墨镜与帽子", "墨镜与帽子", "墨镜与帽子", "墨镜与帽子" ],
 				"Sku": "com.popcap.pvz2.android.cherry_bomb_custom_02"
 			}
 		}, {
@@ -391,7 +391,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Constructor Hat", "Constructor Hat", "Constructor Hat", "Constructor Hat", "Constructor Hat", "Constructor Hat" ],
+				"ShortDescriptions": [ "施工头盔", "施工头盔", "施工头盔", "施工头盔", "施工头盔", "施工头盔" ],
 				"Sku": "com.popcap.pvz2.android.coconutcannon_custom_01"
 			}
 		}, {
@@ -409,7 +409,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Fez", "Fez", "Fez", "Fez", "Fez", "Fez" ],
+				"ShortDescriptions": [ "菲斯帽", "菲斯帽", "菲斯帽", "菲斯帽", "菲斯帽", "菲斯帽" ],
 				"Sku": "com.popcap.pvz2.android.gravebuster_custom_02"
 			}
 		}, {
@@ -427,7 +427,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Fuzzy Earmuffs", "Fuzzy Earmuffs", "Fuzzy Earmuffs", "Fuzzy Earmuffs", "Fuzzy Earmuffs", "Fuzzy Earmuffs" ],
+				"ShortDescriptions": [ "毛绒耳罩", "毛绒耳罩", "毛绒耳罩", "毛绒耳罩", "毛绒耳罩", "毛绒耳罩" ],
 				"Sku": "com.popcap.pvz2.android.iceburg_custom_01"
 			}
 		}, {
@@ -445,7 +445,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Mini Chili", "Mini Chili", "Mini Chili", "Mini Chili", "Mini Chili", "Mini Chili" ],
+				"ShortDescriptions": [ "迷你辣椒", "迷你辣椒", "迷你辣椒", "迷你辣椒", "迷你辣椒", "迷你辣椒" ],
 				"Sku": "com.popcap.pvz2.android.jalapeno_custom_01"
 			}
 		}, {
@@ -463,7 +463,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Red Bandana", "Red Bandana", "Red Bandana", "Red Bandana", "Red Bandana", "Red Bandana" ],
+				"ShortDescriptions": [ "红色头巾", "红色头巾", "红色头巾", "红色头巾", "红色头巾", "红色头巾" ],
 				"Sku": "com.popcap.pvz2.android.kernelpult_custom_02"
 			}
 		}, {
@@ -481,7 +481,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Lamp Shade", "Lamp Shade", "Lamp Shade", "Lamp Shade", "Lamp Shade", "Lamp Shade" ],
+				"ShortDescriptions": [ "灯罩", "灯罩", "灯罩", "灯罩", "灯罩", "灯罩" ],
 				"Sku": "com.popcap.pvz2.android.lightningreed_custom_01"
 			}
 		}, {
@@ -499,7 +499,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Sailor Hat", "Sailor Hat", "Sailor Hat", "Sailor Hat", "Sailor Hat", "Sailor Hat" ],
+				"ShortDescriptions": [ "水手帽", "水手帽", "水手帽", "水手帽", "水手帽", "水手帽" ],
 				"Sku": "com.popcap.pvz2.android.melonpult_custom_02"
 			}
 		}, {
@@ -517,7 +517,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Fedoras", "Fedoras", "Fedoras", "Fedoras", "Fedoras", "Fedoras" ],
+				"ShortDescriptions": [ "软呢帽", "软呢帽", "软呢帽", "软呢帽", "软呢帽", "软呢帽" ],
 				"Sku": "com.popcap.pvz2.android.peapod_custom_01"
 			}
 		}, {
@@ -535,7 +535,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Heroic Mask", "Heroic Mask", "Heroic Mask", "Heroic Mask", "Heroic Mask", "Heroic Mask" ],
+				"ShortDescriptions": [ "英雄面巾", "英雄面巾", "英雄面巾", "英雄面巾", "英雄面巾", "英雄面巾" ],
 				"Sku": "com.popcap.pvz2.android.potatomine_custom_01"
 			}
 		}, {
@@ -553,7 +553,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Nerdy Glasses", "Nerdy Glasses", "Nerdy Glasses", "Nerdy Glasses", "Nerdy Glasses", "Nerdy Glasses" ],
+				"ShortDescriptions": [ "书呆子眼镜", "书呆子眼镜", "书呆子眼镜", "书呆子眼镜", "书呆子眼镜", "书呆子眼镜" ],
 				"Sku": "com.popcap.pvz2.android.powerlily_custom_1"
 			}
 		}, {
@@ -571,7 +571,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Viking Helmet", "Viking Helmet", "Viking Helmet", "Viking Helmet", "Viking Helmet", "Viking Helmet" ],
+				"ShortDescriptions": [ "维京头盔", "维京头盔", "维京头盔", "维京头盔", "维京头盔", "维京头盔" ],
 				"Sku": "com.popcap.pvz2.android.repeater_custom_01"
 			}
 		}, {
@@ -589,7 +589,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "20",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Icy Warrior", "Icy Warrior", "Icy Warrior", "Icy Warrior", "Icy Warrior", "Icy Warrior" ],
+				"ShortDescriptions": [ "冰雪战士", "冰雪战士", "冰雪战士", "冰雪战士", "冰雪战士", "冰雪战士" ],
 				"Sku": "com.popcap.pvz2.android.snowpea_custom_02"
 			}
 		}, {
@@ -607,7 +607,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Ratchet", "Ratchet", "Ratchet", "Ratchet", "Ratchet", "Ratchet" ],
+				"ShortDescriptions": [ "棘齿", "棘齿", "棘齿", "棘齿", "棘齿", "棘齿" ],
 				"Sku": "com.popcap.pvz2.android.snapdragon_custom_02"
 			}
 		}, {
@@ -625,7 +625,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Shades", "Shades", "Shades", "Shades", "Shades", "Shades" ],
+				"ShortDescriptions": [ "墨镜", "墨镜", "墨镜", "墨镜", "墨镜", "墨镜" ],
 				"Sku": "com.popcap.pvz2.android.spikerock_custom_01"
 			}
 		}, {
@@ -643,7 +643,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Fairy", "Fairy", "Fairy", "Fairy", "Fairy", "Fairy" ],
+				"ShortDescriptions": [ "妖精", "妖精", "妖精", "妖精", "妖精", "妖精" ],
 				"Sku": "com.popcap.pvz2.android.spikeweed_custom_01"
 			}
 		}, {
@@ -661,7 +661,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Angel & Devil", "Angel & Devil", "Angel & Devil", "Angel & Devil", "Angel & Devil", "Angel & Devil" ],
+				"ShortDescriptions": [ "天使与恶魔", "天使与恶魔", "天使与恶魔", "天使与恶魔", "天使与恶魔", "天使与恶魔" ],
 				"Sku": "com.popcap.pvz2.android.splitpea_custom_01"
 			}
 		}, {
@@ -679,7 +679,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Hawaiian Dress", "Hawaiian Dress", "Hawaiian Dress", "Hawaiian Dress", "Hawaiian Dress", "Hawaiian Dress" ],
+				"ShortDescriptions": [ "夏威夷裙", "夏威夷裙", "夏威夷裙", "夏威夷裙", "夏威夷裙", "夏威夷裙" ],
 				"Sku": "com.popcap.pvz2.android.springbean_custom_01"
 			}
 		}, {
@@ -697,7 +697,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Camo Bandana", "Camo Bandana", "Camo Bandana", "Camo Bandana", "Camo Bandana", "Camo Bandana" ],
+				"ShortDescriptions": [ "迷彩头巾", "迷彩头巾", "迷彩头巾", "迷彩头巾", "迷彩头巾", "迷彩头巾" ],
 				"Sku": "com.popcap.pvz2.android.squash_custom_01"
 			}
 		}, {
@@ -715,7 +715,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Blue Shades", "Blue Shades", "Blue Shades", "Blue Shades", "Blue Shades", "Blue Shades" ],
+				"ShortDescriptions": [ "蓝色墨镜", "蓝色墨镜", "蓝色墨镜", "蓝色墨镜", "蓝色墨镜", "蓝色墨镜" ],
 				"Sku": "com.popcap.pvz2.android.twinsunflower_custom_02"
 			}
 		}, {
@@ -733,7 +733,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Black Moustache", "Black Moustache", "Black Moustache", "Black Moustache", "Black Moustache", "Black Moustache" ],
+				"ShortDescriptions": [ "黑色八字胡", "黑色八字胡", "黑色八字胡", "黑色八字胡", "黑色八字胡", "黑色八字胡" ],
 				"Sku": "com.popcap.pvz2.android.tallnut_custom_01"
 			}
 		}, {
@@ -751,7 +751,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Pots", "Pots", "Pots", "Pots", "Pots", "Pots" ],
+				"ShortDescriptions": [ "锅", "锅", "锅", "锅", "锅", "锅" ],
 				"Sku": "com.popcap.pvz2.android.threepeater_custom_02"
 			}
 		}, {
@@ -769,7 +769,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Goggles", "Goggles", "Goggles", "Goggles", "Goggles", "Goggles" ],
+				"ShortDescriptions": [ "护目镜", "护目镜", "护目镜", "护目镜", "护目镜", "护目镜" ],
 				"Sku": "com.popcap.pvz2.android.torchwood_custom_01"
 			}
 		}, {
@@ -787,7 +787,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Blue Winter Hat", "Blue Winter Hat", "Blue Winter Hat", "Blue Winter Hat", "Blue Winter Hat", "Blue Winter Hat" ],
+				"ShortDescriptions": [ "蓝色冬帽", "蓝色冬帽", "蓝色冬帽", "蓝色冬帽", "蓝色冬帽", "蓝色冬帽" ],
 				"Sku": "com.popcap.pvz2.android.wintermelon_custom_02"
 			}
 		}, {
@@ -805,7 +805,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Blender", "Blender", "Blender", "Blender", "Blender", "Blender" ],
+				"ShortDescriptions": [ "搅拌机", "搅拌机", "搅拌机", "搅拌机", "搅拌机", "搅拌机" ],
 				"Sku": "com.popcap.pvz2.android.citron_custom_03"
 			}
 		}, {
@@ -823,7 +823,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Cape", "Cape", "Cape", "Cape", "Cape", "Cape" ],
+				"ShortDescriptions": [ "披风", "披风", "披风", "披风", "披风", "披风" ],
 				"Sku": "com.popcap.pvz2.android.laser_bean_custom_02"
 			}
 		}, {
@@ -841,7 +841,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Turban", "Turban", "Turban", "Turban", "Turban", "Turban" ],
+				"ShortDescriptions": [ "包头巾", "包头巾", "包头巾", "包头巾", "包头巾", "包头巾" ],
 				"Sku": "com.popcap.pvz2.android.magnifyinggrass_custom_02"
 			}
 		}, {
@@ -859,7 +859,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Ghost Trap", "Ghost Trap", "Ghost Trap", "Ghost Trap", "Ghost Trap", "Ghost Trap" ],
+				"ShortDescriptions": [ "幽灵陷阱", "幽灵陷阱", "幽灵陷阱", "幽灵陷阱", "幽灵陷阱", "幽灵陷阱" ],
 				"Sku": "com.popcap.pvz2.android.holonut_custom_02"
 			}
 		}, {
@@ -877,7 +877,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Futuristic Helmet", "Futuristic Helmet", "Futuristic Helmet", "Futuristic Helmet", "Futuristic Helmet", "Futuristic Helmet" ],
+				"ShortDescriptions": [ "未来头盔", "未来头盔", "未来头盔", "未来头盔", "未来头盔", "未来头盔" ],
 				"Sku": "com.popcap.pvz2.android.empea_custom_02"
 			}
 		}, {
@@ -895,7 +895,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "49",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "God of Mischief", "God of Mischief", "God of Mischief", "God of Mischief", "God of Mischief", "God of Mischief" ],
+				"ShortDescriptions": [ "恶作剧之神", "恶作剧之神", "恶作剧之神", "恶作剧之神", "恶作剧之神", "恶作剧之神" ],
 				"Sku": "com.popcap.pvz2.android.starfruit_custom_01"
 			}
 		}, {
@@ -913,7 +913,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Bjorn's Horn", "Bjorn's Horn", "Bjorn's Horn", "Bjorn's Horn", "Bjorn's Horn", "Bjorn's Horn" ],
+				"ShortDescriptions": [ "独角兽的角", "独角兽的角", "独角兽的角", "独角兽的角", "独角兽的角", "独角兽的角" ],
 				"Sku": "com.popcap.pvz2.android.powerplant_custom_02"
 			}
 		}, {
@@ -931,7 +931,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Warrior Marks", "Warrior Marks", "Warrior Marks", "Warrior Marks", "Warrior Marks", "Warrior Marks" ],
+				"ShortDescriptions": [ "战士印记", "战士印记", "战士印记", "战士印记", "战士印记", "战士印记" ],
 				"Sku": "com.popcap.pvz2.android.sunshroom_custom_01"
 			}
 		}, {
@@ -949,7 +949,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "20",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Galacton Fungi", "Galacton Fungi", "Galacton Fungi", "Galacton Fungi", "Galacton Fungi", "Galacton Fungi" ],
+				"ShortDescriptions": [ "催眠真菌", "催眠真菌", "催眠真菌", "催眠真菌", "催眠真菌", "催眠真菌" ],
 				"Sku": "com.popcap.pvz2.android.puffshroom_custom_01"
 			}
 		}, {
@@ -967,7 +967,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Glasses & Flowers", "Glasses & Flowers", "Glasses & Flowers", "Glasses & Flowers", "Glasses & Flowers", "Glasses & Flowers" ],
+				"ShortDescriptions": [ "眼镜与花朵", "眼镜与花朵", "眼镜与花朵", "眼镜与花朵", "眼镜与花朵", "眼镜与花朵" ],
 				"Sku": "com.popcap.pvz2.android.hypnoshroom_custom_01"
 			}
 		}, {
@@ -985,7 +985,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Thicc Glasses", "Thicc Glasses", "Thicc Glasses", "Thicc Glasses", "Thicc Glasses", "Thicc Glasses" ],
+				"ShortDescriptions": [ "高度近视镜", "高度近视镜", "高度近视镜", "高度近视镜", "高度近视镜", "高度近视镜" ],
 				"Sku": "com.popcap.pvz2.android.fumeshroom_custom_01"
 			}
 		}, {
@@ -1003,7 +1003,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Liberty Crown", "Liberty Crown", "Liberty Crown", "Liberty Crown", "Liberty Crown", "Liberty Crown" ],
+				"ShortDescriptions": [ "自由王冠", "自由王冠", "自由王冠", "自由王冠", "自由王冠", "自由王冠" ],
 				"Sku": "com.popcap.pvz2.android.sunbean_custom_01"
 			}
 		}, {
@@ -1021,7 +1021,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Purple Cape", "Purple Cape", "Purple Cape", "Purple Cape", "Purple Cape", "Purple Cape" ],
+				"ShortDescriptions": [ "紫色披风", "紫色披风", "紫色披风", "紫色披风", "紫色披风", "紫色披风" ],
 				"Sku": "com.popcap.pvz2.android.magnetshroom_custom_01"
 			}
 		}, {
@@ -1039,7 +1039,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Marching Hat", "Marching Hat", "Marching Hat", "Marching Hat", "Marching Hat", "Marching Hat" ],
+				"ShortDescriptions": [ "行军帽", "行军帽", "行军帽", "行军帽", "行军帽", "行军帽" ],
 				"Sku": "com.popcap.pvz2.android.peapod_custom_02"
 			}
 		}, {
@@ -1057,7 +1057,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "49",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Futuristic Patriarch", "Futuristic Patriarch", "Futuristic Patriarch", "Futuristic Patriarch", "Futuristic Patriarch", "Futuristic Patriarch" ],
+				"ShortDescriptions": [ "未来主教", "未来主教", "未来主教", "未来主教", "未来主教", "未来主教" ],
 				"Sku": "com.popcap.pvz2.android.chomper_custom_01"
 			}
 		}, {
@@ -1075,7 +1075,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "20",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Red Crust", "Red Crust", "Red Crust", "Red Crust", "Red Crust", "Red Crust" ],
+				"ShortDescriptions": [ "赤色地壳", "赤色地壳", "赤色地壳", "赤色地壳", "赤色地壳", "赤色地壳" ],
 				"Sku": "com.popcap.pvz2.android.bonkchoy_custom_05"
 			}
 		}, {
@@ -1093,7 +1093,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Tech Terror", "Tech Terror", "Tech Terror", "Tech Terror", "Tech Terror", "Tech Terror" ],
+				"ShortDescriptions": [ "科技恐惧", "科技恐惧", "科技恐惧", "科技恐惧", "科技恐惧", "科技恐惧" ],
 				"Sku": "com.popcap.pvz2.android.kernelpult_custom_04"
 			}
 		}, {
@@ -1111,7 +1111,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Vampire", "Vampire", "Vampire", "Vampire", "Vampire", "Vampire" ],
+				"ShortDescriptions": [ "吸血鬼", "吸血鬼", "吸血鬼", "吸血鬼", "吸血鬼", "吸血鬼" ],
 				"Sku": "com.popcap.pvz2.android.repeater_custom_03"
 			}
 		}, {
@@ -1129,7 +1129,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Root Warrior", "Root Warrior", "Root Warrior", "Root Warrior", "Root Warrior", "Root Warrior" ],
+				"ShortDescriptions": [ "根茎战士", "根茎战士", "根茎战士", "根茎战士", "根茎战士", "根茎战士" ],
 				"Sku": "com.popcap.pvz2.android.potatomine_custom_02"
 			}
 		}, {
@@ -1147,7 +1147,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Mine Turtle", "Mine Turtle", "Mine Turtle", "Mine Turtle", "Mine Turtle", "Mine Turtle" ],
+				"ShortDescriptions": [ "地雷乌龟", "地雷乌龟", "地雷乌龟", "地雷乌龟", "地雷乌龟", "地雷乌龟" ],
 				"Sku": "com.popcap.pvz2.android.potatomine_custom_03"
 			}
 		}, {
@@ -1165,7 +1165,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Elf Hat", "Elf Hat", "Elf Hat", "Elf Hat", "Elf Hat", "Elf Hat" ],
+				"ShortDescriptions": [ "小精灵帽", "小精灵帽", "小精灵帽", "小精灵帽", "小精灵帽", "小精灵帽" ],
 				"Sku": "com.popcap.pvz2.android.bloomerang_custom_01"
 			}
 		}, {
@@ -1183,7 +1183,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Top Hat", "Top Hat", "Top Hat", "Top Hat", "Top Hat", "Top Hat" ],
+				"ShortDescriptions": [ "礼帽", "礼帽", "礼帽", "礼帽", "礼帽", "礼帽" ],
 				"Sku": "com.popcap.pvz2.android.bloomerang_custom_03"
 			}
 		}, {
@@ -1201,7 +1201,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Tiara", "Tiara", "Tiara", "Tiara", "Tiara", "Tiara" ],
+				"ShortDescriptions": [ "冠状头饰", "冠状头饰", "冠状头饰", "冠状头饰", "冠状头饰", "冠状头饰" ],
 				"Sku": "com.popcap.pvz2.android.cabbagepult_custom_02"
 			}
 		}, {
@@ -1219,7 +1219,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Top Hat & Bowtie", "Top Hat & Bowtie", "Top Hat & Bowtie", "Top Hat & Bowtie", "Top Hat & Bowtie", "Top Hat & Bowtie" ],
+				"ShortDescriptions": [ "礼帽与蝴蝶结", "礼帽与蝴蝶结", "礼帽与蝴蝶结", "礼帽与蝴蝶结", "礼帽与蝴蝶结", "礼帽与蝴蝶结" ],
 				"Sku": "com.popcap.pvz2.android.cabbagepult_custom_03"
 			}
 		}, {
@@ -1237,7 +1237,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Magic Ice Gear", "Magic Ice Gear", "Magic Ice Gear", "Magic Ice Gear", "Magic Ice Gear", "Magic Ice Gear" ],
+				"ShortDescriptions": [ "魔法冰装备", "魔法冰装备", "魔法冰装备", "魔法冰装备", "魔法冰装备", "魔法冰装备" ],
 				"Sku": "com.popcap.pvz2.android.iceburg_custom_02"
 			}
 		}, {
@@ -1255,7 +1255,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Peashooter Earmuffs", "Peashooter Earmuffs", "Peashooter Earmuffs", "Peashooter Earmuffs", "Peashooter Earmuffs", "Peashooter Earmuffs" ],
+				"ShortDescriptions": [ "豌豆射手耳罩", "豌豆射手耳罩", "豌豆射手耳罩", "豌豆射手耳罩", "豌豆射手耳罩", "豌豆射手耳罩" ],
 				"Sku": "com.popcap.pvz2.android.iceburg_custom_03"
 			}
 		}, {
@@ -1273,7 +1273,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Luxury Bowtie", "Luxury Bowtie", "Luxury Bowtie", "Luxury Bowtie", "Luxury Bowtie", "Luxury Bowtie" ],
+				"ShortDescriptions": [ "豪华蝴蝶结", "豪华蝴蝶结", "豪华蝴蝶结", "豪华蝴蝶结", "豪华蝴蝶结", "豪华蝴蝶结" ],
 				"Sku": "com.popcap.pvz2.android.iceburg_custom_04"
 			}
 		}, {
@@ -1291,7 +1291,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Sombrero", "Sombrero", "Sombrero", "Sombrero", "Sombrero", "Sombrero" ],
+				"ShortDescriptions": [ "墨西哥阔边帽", "墨西哥阔边帽", "墨西哥阔边帽", "墨西哥阔边帽", "墨西哥阔边帽", "墨西哥阔边帽" ],
 				"Sku": "com.popcap.pvz2.android.gravebuster_custom_01"
 			}
 		}, {
@@ -1309,7 +1309,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Raver Shades", "Raver Shades", "Raver Shades", "Raver Shades", "Raver Shades", "Raver Shades" ],
+				"ShortDescriptions": [ "狂欢墨镜", "狂欢墨镜", "狂欢墨镜", "狂欢墨镜", "狂欢墨镜", "狂欢墨镜" ],
 				"Sku": "com.popcap.pvz2.android.twinsunflower_custom_01"
 			}
 		}, {
@@ -1327,7 +1327,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Red Sunglasses", "Red Sunglasses", "Red Sunglasses", "Red Sunglasses", "Red Sunglasses", "Red Sunglasses" ],
+				"ShortDescriptions": [ "红色太阳镜", "红色太阳镜", "红色太阳镜", "红色太阳镜", "红色太阳镜", "红色太阳镜" ],
 				"Sku": "com.popcap.pvz2.android.twinsunflower_custom_03"
 			}
 		}, {
@@ -1345,7 +1345,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Another One", "Another One", "Another One", "Another One", "Another One", "Another One" ],
+				"ShortDescriptions": [ "另一个", "另一个", "另一个", "另一个", "另一个", "另一个" ],
 				"Sku": "com.popcap.pvz2.android.twinsunflower_custom_04"
 			}
 		}, {
@@ -1363,7 +1363,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Lotus Base", "Lotus Base", "Lotus Base", "Lotus Base", "Lotus Base", "Lotus Base" ],
+				"ShortDescriptions": [ "莲瓣根基", "莲瓣根基", "莲瓣根基", "莲瓣根基", "莲瓣根基", "莲瓣根基" ],
 				"Sku": "com.popcap.pvz2.android.bonkchoy_custom_02"
 			}
 		}, {
@@ -1381,7 +1381,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Karate Master", "Karate Master", "Karate Master", "Karate Master", "Karate Master", "Karate Master" ],
+				"ShortDescriptions": [ "空手道大师", "空手道大师", "空手道大师", "空手道大师", "空手道大师", "空手道大师" ],
 				"Sku": "com.popcap.pvz2.android.bonkchoy_custom_03"
 			}
 		}, {
@@ -1399,7 +1399,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "99",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Yokai Kimono", "Yokai Kimono", "Yokai Kimono", "Yokai Kimono", "Yokai Kimono", "Yokai Kimono" ],
+				"ShortDescriptions": [ "和服妖怪", "和服妖怪", "和服妖怪", "和服妖怪", "和服妖怪", "和服妖怪" ],
 				"Sku": "com.popcap.pvz2.android.ghostpepper_custom_02"
 			}
 		}, {
@@ -1417,7 +1417,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Racoon Hat", "Racoon Hat", "Racoon Hat", "Racoon Hat", "Racoon Hat", "Racoon Hat" ],
+				"ShortDescriptions": [ "浣熊帽", "浣熊帽", "浣熊帽", "浣熊帽", "浣熊帽", "浣熊帽" ],
 				"Sku": "com.popcap.pvz2.android.repeater_custom_02"
 			}
 		}, {
@@ -1435,7 +1435,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Top Hat", "Top Hat", "Top Hat", "Top Hat", "Top Hat", "Top Hat" ],
+				"ShortDescriptions": [ "礼帽", "礼帽", "礼帽", "礼帽", "礼帽", "礼帽" ],
 				"Sku": "com.popcap.pvz2.android.repeater_custom_04"
 			}
 		}, {
@@ -1453,7 +1453,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Winter Cap", "Winter Cap", "Winter Cap", "Winter Cap", "Winter Cap", "Winter Cap" ],
+				"ShortDescriptions": [ "防寒帽", "防寒帽", "防寒帽", "防寒帽", "防寒帽", "防寒帽" ],
 				"Sku": "com.popcap.pvz2.android.snowpea_custom_01"
 			}
 		}, {
@@ -1471,7 +1471,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Trapper Hat", "Trapper Hat", "Trapper Hat", "Trapper Hat", "Trapper Hat", "Trapper Hat" ],
+				"ShortDescriptions": [ "猎户帽", "猎户帽", "猎户帽", "猎户帽", "猎户帽", "猎户帽" ],
 				"Sku": "com.popcap.pvz2.android.snowpea_custom_03"
 			}
 		}, {
@@ -1489,7 +1489,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Top Hat", "Top Hat", "Top Hat", "Top Hat", "Top Hat", "Top Hat" ],
+				"ShortDescriptions": [ "礼帽", "礼帽", "礼帽", "礼帽", "礼帽", "礼帽" ],
 				"Sku": "com.popcap.pvz2.android.snowpea_custom_04"
 			}
 		}, {
@@ -1507,7 +1507,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Japanese Bandana", "Japanese Bandana", "Japanese Bandana", "Japanese Bandana", "Japanese Bandana", "Japanese Bandana" ],
+				"ShortDescriptions": [ "头巾", "头巾", "头巾", "头巾", "头巾", "头巾" ],
 				"Sku": "com.popcap.pvz2.android.kernelpult_custom_01"
 			}
 		}, {
@@ -1525,7 +1525,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Top Hat & Collars", "Top Hat & Collars", "Top Hat & Collars", "Top Hat & Collars", "Top Hat & Collars", "Top Hat & Collars" ],
+				"ShortDescriptions": [ "礼帽与衣领", "礼帽与衣领", "礼帽与衣领", "礼帽与衣领", "礼帽与衣领", "礼帽与衣领" ],
 				"Sku": "com.popcap.pvz2.android.kernelpult_custom_03"
 			}
 		}, {
@@ -1543,7 +1543,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Fireman Hat", "Fireman Hat", "Fireman Hat", "Fireman Hat", "Fireman Hat", "Fireman Hat" ],
+				"ShortDescriptions": [ "消防员帽", "消防员帽", "消防员帽", "消防员帽", "消防员帽", "消防员帽" ],
 				"Sku": "com.popcap.pvz2.android.snapdragon_custom_01"
 			}
 		}, {
@@ -1561,7 +1561,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Lincoln's Hat", "Lincoln's Hat", "Lincoln's Hat", "Lincoln's Hat", "Lincoln's Hat", "Lincoln's Hat" ],
+				"ShortDescriptions": [ "林肯的帽子", "林肯的帽子", "林肯的帽子", "林肯的帽子", "林肯的帽子", "林肯的帽子" ],
 				"Sku": "com.popcap.pvz2.android.snapdragon_custom_03"
 			}
 		}, {
@@ -1579,7 +1579,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Reading Glasses", "Reading Glasses", "Reading Glasses", "Reading Glasses", "Reading Glasses", "Reading Glasses" ],
+				"ShortDescriptions": [ "老花镜", "老花镜", "老花镜", "老花镜", "老花镜", "老花镜" ],
 				"Sku": "com.popcap.pvz2.android.powerlily_custom_2"
 			}
 		}, {
@@ -1597,7 +1597,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Monocle", "Monocle", "Monocle", "Monocle", "Monocle", "Monocle" ],
+				"ShortDescriptions": [ "单片眼镜", "单片眼镜", "单片眼镜", "单片眼镜", "单片眼镜", "单片眼镜" ],
 				"Sku": "com.popcap.pvz2.android.powerlily_custom_3"
 			}
 		}, {
@@ -1615,7 +1615,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Weird Shades", "Weird Shades", "Weird Shades", "Weird Shades", "Weird Shades", "Weird Shades" ],
+				"ShortDescriptions": [ "古怪墨镜", "古怪墨镜", "古怪墨镜", "古怪墨镜", "古怪墨镜", "古怪墨镜" ],
 				"Sku": "com.popcap.pvz2.android.spikeweed_custom_02"
 			}
 		}, {
@@ -1633,7 +1633,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "20",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Reverse Beard", "Reverse Beard", "Reverse Beard", "Reverse Beard", "Reverse Beard", "Reverse Beard" ],
+				"ShortDescriptions": [ "反向胡子", "反向胡子", "反向胡子", "反向胡子", "反向胡子", "反向胡子" ],
 				"Sku": "com.popcap.pvz2.android.spikeweed_custom_03"
 			}
 		}, {
@@ -1651,7 +1651,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Extra Spikes", "Extra Spikes", "Extra Spikes", "Extra Spikes", "Extra Spikes", "Extra Spikes" ],
+				"ShortDescriptions": [ "额外的刺", "额外的刺", "额外的刺", "额外的刺", "额外的刺", "额外的刺" ],
 				"Sku": "com.popcap.pvz2.android.spikeweed_custom_04"
 			}
 		}, {
@@ -1669,7 +1669,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Pith Helmet", "Pith Helmet", "Pith Helmet", "Pith Helmet", "Pith Helmet", "Pith Helmet" ],
+				"ShortDescriptions": [ "遮阳帽", "遮阳帽", "遮阳帽", "遮阳帽", "遮阳帽", "遮阳帽" ],
 				"Sku": "com.popcap.pvz2.android.coconutcannon_custom_02"
 			}
 		}, {
@@ -1687,7 +1687,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "49",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Ancient Farlands", "Ancient Farlands", "Ancient Farlands", "Ancient Farlands", "Ancient Farlands", "Ancient Farlands" ],
+				"ShortDescriptions": [ "古老远地", "古老远地", "古老远地", "古老远地", "古老远地", "古老远地" ],
 				"Sku": "com.popcap.pvz2.android.holonut_custom_04"
 			}
 		}, {
@@ -1705,7 +1705,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "20",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Greek Drape", "Greek Drape", "Greek Drape", "Greek Drape", "Greek Drape", "Greek Drape" ],
+				"ShortDescriptions": [ "希腊披肩", "希腊披肩", "希腊披肩", "希腊披肩", "希腊披肩", "希腊披肩" ],
 				"Sku": "com.popcap.pvz2.android.wallnut_custom_03"
 			}
 		}, {
@@ -1723,7 +1723,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Spring Dress", "Spring Dress", "Spring Dress", "Spring Dress", "Spring Dress", "Spring Dress" ],
+				"ShortDescriptions": [ "弹簧套裙", "弹簧套裙", "弹簧套裙", "弹簧套裙", "弹簧套裙", "弹簧套裙" ],
 				"Sku": "com.popcap.pvz2.android.springbean_custom_02"
 			}
 		}, {
@@ -1741,7 +1741,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Spring Wigs", "Spring Wigs", "Spring Wigs", "Spring Wigs", "Spring Wigs", "Spring Wigs" ],
+				"ShortDescriptions": [ "弹簧假发", "弹簧假发", "弹簧假发", "弹簧假发", "弹簧假发", "弹簧假发" ],
 				"Sku": "com.popcap.pvz2.android.springbean_custom_03"
 			}
 		}, {
@@ -1759,7 +1759,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Funky Glasses", "Funky Glasses", "Funky Glasses", "Funky Glasses", "Funky Glasses", "Funky Glasses" ],
+				"ShortDescriptions": [ "时髦眼镜", "时髦眼镜", "时髦眼镜", "时髦眼镜", "时髦眼镜", "时髦眼镜" ],
 				"Sku": "com.popcap.pvz2.android.spikerock_custom_02"
 			}
 		}, {
@@ -1777,7 +1777,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Monocle", "Monocle", "Monocle", "Monocle", "Monocle", "Monocle" ],
+				"ShortDescriptions": [ "单片眼镜", "单片眼镜", "单片眼镜", "单片眼镜", "单片眼镜", "单片眼镜" ],
 				"Sku": "com.popcap.pvz2.android.spikerock_custom_03"
 			}
 		}, {
@@ -1795,7 +1795,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Party Hats", "Party Hats", "Party Hats", "Party Hats", "Party Hats", "Party Hats" ],
+				"ShortDescriptions": [ "派对帽", "派对帽", "派对帽", "派对帽", "派对帽", "派对帽" ],
 				"Sku": "com.popcap.pvz2.android.threepeater_custom_01"
 			}
 		}, {
@@ -1813,7 +1813,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Top Hat x 3", "Top Hat x 3", "Top Hat x 3", "Top Hat x 3", "Top Hat x 3", "Top Hat x 3" ],
+				"ShortDescriptions": [ "礼帽 x 3", "礼帽 x 3", "礼帽 x 3", "礼帽 x 3", "礼帽 x 3", "礼帽 x 3" ],
 				"Sku": "com.popcap.pvz2.android.threepeater_custom_03"
 			}
 		}, {
@@ -1831,7 +1831,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Pink Headband", "Pink Headband", "Pink Headband", "Pink Headband", "Pink Headband", "Pink Headband" ],
+				"ShortDescriptions": [ "粉红头带", "粉红头带", "粉红头带", "粉红头带", "粉红头带", "粉红头带" ],
 				"Sku": "com.popcap.pvz2.android.squash_custom_02"
 			}
 		}, {
@@ -1849,7 +1849,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "grrrrrrrrrrrr", "grrrrrrrrrrrr", "grrrrrrrrrrrr", "grrrrrrrrrrrr", "grrrrrrrrrrrr", "grrrrrrrrrrrr" ],
+				"ShortDescriptions": [ "吼吼吼吼吼", "吼吼吼吼吼", "吼吼吼吼吼", "吼吼吼吼吼", "吼吼吼吼吼", "吼吼吼吼吼" ],
 				"Sku": "com.popcap.pvz2.android.squash_custom_03"
 			}
 		}, {
@@ -1867,7 +1867,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Cop & Robber", "Cop & Robber", "Cop & Robber", "Cop & Robber", "Cop & Robber", "Cop & Robber" ],
+				"ShortDescriptions": [ "警察与强盗", "警察与强盗", "警察与强盗", "警察与强盗", "警察与强盗", "警察与强盗" ],
 				"Sku": "com.popcap.pvz2.android.splitpea_custom_02"
 			}
 		}, {
@@ -1885,7 +1885,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Secret Agents", "Secret Agents", "Secret Agents", "Secret Agents", "Secret Agents", "Secret Agents" ],
+				"ShortDescriptions": [ "特务", "特务", "特务", "特务", "特务", "特务" ],
 				"Sku": "com.popcap.pvz2.android.splitpea_custom_03"
 			}
 		}, {
@@ -1903,7 +1903,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Diaper", "Diaper", "Diaper", "Diaper", "Diaper", "Diaper" ],
+				"ShortDescriptions": [ "尿布", "尿布", "尿布", "尿布", "尿布", "尿布" ],
 				"Sku": "com.popcap.pvz2.android.chilibean_custom_02"
 			}
 		}, {
@@ -1921,7 +1921,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Bowtie", "Bowtie", "Bowtie", "Bowtie", "Bowtie", "Bowtie" ],
+				"ShortDescriptions": [ "蝴蝶结", "蝴蝶结", "蝴蝶结", "蝴蝶结", "蝴蝶结", "蝴蝶结" ],
 				"Sku": "com.popcap.pvz2.android.chilibean_custom_03"
 			}
 		}, {
@@ -1939,7 +1939,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Star Glasses", "Star Glasses", "Star Glasses", "Star Glasses", "Star Glasses", "Star Glasses" ],
+				"ShortDescriptions": [ "星形眼镜", "星形眼镜", "星形眼镜", "星形眼镜", "星形眼镜", "星形眼镜" ],
 				"Sku": "com.popcap.pvz2.android.torchwood_custom_02"
 			}
 		}, {
@@ -1957,7 +1957,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "99",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Slipper Tails", "Slipper Tails", "Slipper Tails", "Slipper Tails", "Slipper Tails", "Slipper Tails" ],
+				"ShortDescriptions": [ "滑尾", "滑尾", "滑尾", "滑尾", "滑尾", "滑尾" ],
 				"Sku": "com.popcap.pvz2.android.banana_custom_02"
 			}
 		}, {
@@ -1975,7 +1975,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Bunny Ears", "Bunny Ears", "Bunny Ears", "Bunny Ears", "Bunny Ears", "Bunny Ears" ],
+				"ShortDescriptions": [ "兔耳朵", "兔耳朵", "兔耳朵", "兔耳朵", "兔耳朵", "兔耳朵" ],
 				"Sku": "com.popcap.pvz2.android.lightningreed_custom_02"
 			}
 		}, {
@@ -1993,7 +1993,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Seriously, why, Popcap?", "Seriously, why, Popcap?", "Seriously, why, Popcap?", "Seriously, why, Popcap?", "Seriously, why, Popcap?", "Seriously, why, Popcap?" ],
+				"ShortDescriptions": [ "说真的, 为啥, 宝开?", "说真的, 为啥, 宝开?", "说真的, 为啥, 宝开?", "说真的, 为啥, 宝开?", "说真的, 为啥, 宝开?", "说真的, 为啥, 宝开?" ],
 				"Sku": "com.popcap.pvz2.android.lightningreed_custom_03"
 			}
 		}, {
@@ -2011,7 +2011,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Biker Stache", "Biker Stache", "Biker Stache", "Biker Stache", "Biker Stache", "Biker Stache" ],
+				"ShortDescriptions": [ "车手胡子", "车手胡子", "车手胡子", "车手胡子", "车手胡子", "车手胡子" ],
 				"Sku": "com.popcap.pvz2.android.tallnut_custom_02"
 			}
 		}, {
@@ -2029,7 +2029,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "DRP Beard", "DRP Beard", "DRP Beard", "DRP Beard", "DRP Beard", "DRP Beard" ],
+				"ShortDescriptions": [ "大胡须", "大胡须", "大胡须", "大胡须", "大胡须", "大胡须" ],
 				"Sku": "com.popcap.pvz2.android.tallnut_custom_03"
 			}
 		}, {
@@ -2047,7 +2047,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Thin Stache & Bowtie", "Thin Stache & Bowtie", "Thin Stache & Bowtie", "Thin Stache & Bowtie", "Thin Stache & Bowtie", "Thin Stache & Bowtie" ],
+				"ShortDescriptions": [ "小胡子与蝴蝶结", "小胡子与蝴蝶结", "小胡子与蝴蝶结", "小胡子与蝴蝶结", "小胡子与蝴蝶结", "小胡子与蝴蝶结" ],
 				"Sku": "com.popcap.pvz2.android.tallnut_custom_04"
 			}
 		}, {
@@ -2065,7 +2065,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "You guess it", "You guess it", "You guess it", "You guess it", "You guess it", "You guess it" ],
+				"ShortDescriptions": [ "你猜叫啥", "你猜叫啥", "你猜叫啥", "你猜叫啥", "你猜叫啥", "你猜叫啥" ],
 				"Sku": "com.popcap.pvz2.android.melonpult_custom_01"
 			}
 		}, {
@@ -2083,7 +2083,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Baseball Hat", "Baseball Hat", "Baseball Hat", "Baseball Hat", "Baseball Hat", "Baseball Hat" ],
+				"ShortDescriptions": [ "棒球帽", "棒球帽", "棒球帽", "棒球帽", "棒球帽", "棒球帽" ],
 				"Sku": "com.popcap.pvz2.android.melonpult_custom_03"
 			}
 		}, {
@@ -2101,7 +2101,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "*groan*", "*groan*", "*groan*", "*groan*", "*groan*", "*groan*" ],
+				"ShortDescriptions": [ "*叹息*", "*叹息*", "*叹息*", "*叹息*", "*叹息*", "*叹息*" ],
 				"Sku": "com.popcap.pvz2.android.wintermelon_custom_01"
 			}
 		}, {
@@ -2119,7 +2119,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Winter Hat", "Winter Hat", "Winter Hat", "Winter Hat", "Winter Hat", "Winter Hat" ],
+				"ShortDescriptions": [ "冬帽", "冬帽", "冬帽", "冬帽", "冬帽", "冬帽" ],
 				"Sku": "com.popcap.pvz2.android.wintermelon_custom_03"
 			}
 		}, {
@@ -2137,7 +2137,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Gold Necklace", "Gold Necklace", "Gold Necklace", "Gold Necklace", "Gold Necklace", "Gold Necklace" ],
+				"ShortDescriptions": [ "金项链", "金项链", "金项链", "金项链", "金项链", "金项链" ],
 				"Sku": "com.popcap.pvz2.android.laser_bean_custom_01"
 			}
 		}, {
@@ -2155,7 +2155,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Tux & Hat", "Tux & Hat", "Tux & Hat", "Tux & Hat", "Tux & Hat", "Tux & Hat" ],
+				"ShortDescriptions": [ "无尾礼服与礼帽", "无尾礼服与礼帽", "无尾礼服与礼帽", "无尾礼服与礼帽", "无尾礼服与礼帽", "无尾礼服与礼帽" ],
 				"Sku": "com.popcap.pvz2.android.laser_bean_custom_03"
 			}
 		}, {
@@ -2173,7 +2173,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "99",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Mist Flower", "Mist Flower", "Mist Flower", "Mist Flower", "Mist Flower", "Mist Flower" ],
+				"ShortDescriptions": [ "雾中之花", "雾中之花", "雾中之花", "雾中之花", "雾中之花", "雾中之花" ],
 				"Sku": "com.popcap.pvz2.android.akee_custom_03"
 			}
 		}, {
@@ -2191,7 +2191,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Propeller Beanie", "Propeller Beanie", "Propeller Beanie", "Propeller Beanie", "Propeller Beanie", "Propeller Beanie" ],
+				"ShortDescriptions": [ "螺旋桨帽", "螺旋桨帽", "螺旋桨帽", "螺旋桨帽", "螺旋桨帽", "螺旋桨帽" ],
 				"Sku": "com.popcap.pvz2.android.citron_custom_01"
 			}
 		}, {
@@ -2209,7 +2209,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Juice Carton", "Juice Carton", "Juice Carton", "Juice Carton", "Juice Carton", "Juice Carton" ],
+				"ShortDescriptions": [ "果汁盒", "果汁盒", "果汁盒", "果汁盒", "果汁盒", "果汁盒" ],
 				"Sku": "com.popcap.pvz2.android.citron_custom_02"
 			}
 		}, {
@@ -2227,7 +2227,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Frankenstein", "Frankenstein", "Frankenstein", "Frankenstein", "Frankenstein", "Frankenstein" ],
+				"ShortDescriptions": [ "弗兰肯斯坦", "弗兰肯斯坦", "弗兰肯斯坦", "弗兰肯斯坦", "弗兰肯斯坦", "弗兰肯斯坦" ],
 				"Sku": "com.popcap.pvz2.android.empea_custom_01"
 			}
 		}, {
@@ -2245,7 +2245,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Bowtie", "Bowtie", "Bowtie", "Bowtie", "Bowtie", "Bowtie" ],
+				"ShortDescriptions": [ "蝴蝶结", "蝴蝶结", "蝴蝶结", "蝴蝶结", "蝴蝶结", "蝴蝶结" ],
 				"Sku": "com.popcap.pvz2.android.empea_custom_03"
 			}
 		}, {
@@ -2263,7 +2263,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Antennae", "Antennae", "Antennae", "Antennae", "Antennae", "Antennae" ],
+				"ShortDescriptions": [ "触角", "触角", "触角", "触角", "触角", "触角" ],
 				"Sku": "com.popcap.pvz2.android.starfruit_custom_02"
 			}
 		}, {
@@ -2281,7 +2281,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Toaster", "Toaster", "Toaster", "Toaster", "Toaster", "Toaster" ],
+				"ShortDescriptions": [ "烤面包机", "烤面包机", "烤面包机", "烤面包机", "烤面包机", "烤面包机" ],
 				"Sku": "com.popcap.pvz2.android.holonut_custom_01"
 			}
 		}, {
@@ -2299,7 +2299,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Top Hate", "Top Hate", "Top Hate", "Top Hate", "Top Hate", "Top Hate" ],
+				"ShortDescriptions": [ "倒扣礼帽", "倒扣礼帽", "倒扣礼帽", "倒扣礼帽", "倒扣礼帽", "倒扣礼帽" ],
 				"Sku": "com.popcap.pvz2.android.holonut_custom_03"
 			}
 		}, {
@@ -2317,7 +2317,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Bow", "Bow", "Bow", "Bow", "Bow", "Bow" ],
+				"ShortDescriptions": [ "蝴蝶结", "蝴蝶结", "蝴蝶结", "蝴蝶结", "蝴蝶结", "蝴蝶结" ],
 				"Sku": "com.popcap.pvz2.android.magnifyinggrass_custom_01"
 			}
 		}, {
@@ -2335,7 +2335,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Act of Betrayal", "Act of Betrayal", "Act of Betrayal", "Act of Betrayal", "Act of Betrayal", "Act of Betrayal" ],
+				"ShortDescriptions": [ "背叛行为", "背叛行为", "背叛行为", "背叛行为", "背叛行为", "背叛行为" ],
 				"Sku": "com.popcap.pvz2.android.magnifyinggrass_custom_03"
 			}
 		}, {
@@ -2353,7 +2353,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Russian Hat", "Russian Hat", "Russian Hat", "Russian Hat", "Russian Hat", "Russian Hat" ],
+				"ShortDescriptions": [ "俄罗斯帽", "俄罗斯帽", "俄罗斯帽", "俄罗斯帽", "俄罗斯帽", "俄罗斯帽" ],
 				"Sku": "com.popcap.pvz2.android.powerplant_custom_01"
 			}
 		}, {
@@ -2371,7 +2371,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "49",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Nekonip", "Nekonip", "Nekonip", "Nekonip", "Nekonip", "Nekonip" ],
+				"ShortDescriptions": [ "猫娘", "猫娘", "猫娘", "猫娘", "猫娘", "猫娘" ],
 				"Sku": "com.popcap.pvz2.android.powerplant_custom_03"
 			}
 		}, {
@@ -2389,7 +2389,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "How many left even?", "How many left even?", "How many left even?", "How many left even?", "How many left even?", "How many left even?" ],
+				"ShortDescriptions": [ "还剩多少?", "还剩多少?", "还剩多少?", "还剩多少?", "还剩多少?", "还剩多少?" ],
 				"Sku": "com.popcap.pvz2.android.powerplant_custom_04"
 			}
 		}, {
@@ -2407,7 +2407,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Bandana", "Bandana", "Bandana", "Bandana", "Bandana", "Bandana" ],
+				"ShortDescriptions": [ "头巾", "头巾", "头巾", "头巾", "头巾", "头巾" ],
 				"Sku": "com.popcap.pvz2.android.tanglekelp_custom_01"
 			}
 		}, {
@@ -2425,7 +2425,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Bowler Hats", "Bowler Hats", "Bowler Hats", "Bowler Hats", "Bowler Hats", "Bowler Hats" ],
+				"ShortDescriptions": [ "圆顶帽", "圆顶帽", "圆顶帽", "圆顶帽", "圆顶帽", "圆顶帽" ],
 				"Sku": "com.popcap.pvz2.android.bowlingbulb_custom_1"
 			}
 		}, {
@@ -2443,7 +2443,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Ducky", "Ducky", "Ducky", "Ducky", "Ducky", "Ducky" ],
+				"ShortDescriptions": [ "鸭子", "鸭子", "鸭子", "鸭子", "鸭子", "鸭子" ],
 				"Sku": "com.popcap.pvz2.android.homingthistle_custom_01"
 			}
 		}, {
@@ -2461,7 +2461,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Warning Sign", "Warning Sign", "Warning Sign", "Warning Sign", "Warning Sign", "Warning Sign" ],
+				"ShortDescriptions": [ "警告标识", "警告标识", "警告标识", "警告标识", "警告标识", "警告标识" ],
 				"Sku": "com.popcap.pvz2.android.guacodile_custom_01"
 			}
 		}, {
@@ -2479,7 +2479,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Purple Bow", "Purple Bow", "Purple Bow", "Purple Bow", "Purple Bow", "Purple Bow" ],
+				"ShortDescriptions": [ "紫色蝴蝶结", "紫色蝴蝶结", "紫色蝴蝶结", "紫色蝴蝶结", "紫色蝴蝶结", "紫色蝴蝶结" ],
 				"Sku": "com.popcap.pvz2.android.ghostpepper_custom_01"
 			}
 		}, {
@@ -2497,7 +2497,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Pink Flower", "Pink Flower", "Pink Flower", "Pink Flower", "Pink Flower", "Pink Flower" ],
+				"ShortDescriptions": [ "粉花", "粉花", "粉花", "粉花", "粉花", "粉花" ],
 				"Sku": "com.popcap.pvz2.android.lilypad_custom_01"
 			}
 		}, {
@@ -2515,7 +2515,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Bowtie", "Bowtie", "Bowtie", "Bowtie", "Bowtie", "Bowtie" ],
+				"ShortDescriptions": [ "蝴蝶结", "蝴蝶结", "蝴蝶结", "蝴蝶结", "蝴蝶结", "蝴蝶结" ],
 				"Sku": "com.popcap.pvz2.android.sweetpotato_custom_01"
 			}
 		}, {
@@ -2533,7 +2533,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Ornament", "Ornament", "Ornament", "Ornament", "Ornament", "Ornament" ],
+				"ShortDescriptions": [ "装饰品", "装饰品", "装饰品", "装饰品", "装饰品", "装饰品" ],
 				"Sku": "com.popcap.pvz2.android.sapfling_custom_01"
 			}
 		}, {
@@ -2551,7 +2551,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Picnic Towel", "Picnic Towel", "Picnic Towel", "Picnic Towel", "Picnic Towel", "Picnic Towel" ],
+				"ShortDescriptions": [ "野餐毛巾", "野餐毛巾", "野餐毛巾", "野餐毛巾", "野餐毛巾", "野餐毛巾" ],
 				"Sku": "com.popcap.pvz2.android.banana_custom_01"
 			}
 		}, {
@@ -2569,7 +2569,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Vest", "Vest", "Vest", "Vest", "Vest", "Vest" ],
+				"ShortDescriptions": [ "背心", "背心", "背心", "背心", "背心", "背心" ],
 				"Sku": "com.popcap.pvz2.android.chardguard_custom_02"
 			}
 		}, {
@@ -2587,7 +2587,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Spiky Belt", "Spiky Belt", "Spiky Belt", "Spiky Belt", "Spiky Belt", "Spiky Belt" ],
+				"ShortDescriptions": [ "尖刺腰带", "尖刺腰带", "尖刺腰带", "尖刺腰带", "尖刺腰带", "尖刺腰带" ],
 				"Sku": "com.popcap.pvz2.android.chardguard_custom_03"
 			}
 		}, {
@@ -2605,7 +2605,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Fox Tail", "Fox Tail", "Fox Tail", "Fox Tail", "Fox Tail", "Fox Tail" ],
+				"ShortDescriptions": [ "狐狸尾巴", "狐狸尾巴", "狐狸尾巴", "狐狸尾巴", "狐狸尾巴", "狐狸尾巴" ],
 				"Sku": "com.popcap.pvz2.android.hurrikale_custom_01"
 			}
 		}, {
@@ -2623,7 +2623,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Cheese", "Cheese", "Cheese", "Cheese", "Cheese", "Cheese" ],
+				"ShortDescriptions": [ "奶酪", "奶酪", "奶酪", "奶酪", "奶酪", "奶酪" ],
 				"Sku": "com.popcap.pvz2.android.hotpotato_custom_01"
 			}
 		}, {
@@ -2641,7 +2641,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Fire Creature", "Fire Creature", "Fire Creature", "Fire Creature", "Fire Creature", "Fire Creature" ],
+				"ShortDescriptions": [ "烈焰人", "烈焰人", "烈焰人", "烈焰人", "烈焰人", "烈焰人" ],
 				"Sku": "com.popcap.pvz2.android.pepperpult_custom_01"
 			}
 		}, {
@@ -2659,7 +2659,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Hotdog", "Hotdog", "Hotdog", "Hotdog", "Hotdog", "Hotdog" ],
+				"ShortDescriptions": [ "热狗", "热狗", "热狗", "热狗", "热狗", "热狗" ],
 				"Sku": "com.popcap.pvz2.android.firepeashooter_custom_01"
 			}
 		}, {
@@ -2677,7 +2677,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "49",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Steampower", "Steampower", "Steampower", "Steampower", "Steampower", "Steampower" ],
+				"ShortDescriptions": [ "蒸汽动力", "蒸汽动力", "蒸汽动力", "蒸汽动力", "蒸汽动力", "蒸汽动力" ],
 				"Sku": "com.popcap.pvz2.android.caulipower_custom_02"
 			}
 		}, {
@@ -2695,7 +2695,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Night Vision", "Night Vision", "Night Vision", "Night Vision", "Night Vision", "Night Vision" ],
+				"ShortDescriptions": [ "夜视镜", "夜视镜", "夜视镜", "夜视镜", "夜视镜", "夜视镜" ],
 				"Sku": "com.popcap.pvz2.android.xshot_custom_02"
 			}
 		}, {
@@ -2713,7 +2713,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Forest Spirit's Cap", "Forest Spirit's Cap", "Forest Spirit's Cap", "Forest Spirit's Cap", "Forest Spirit's Cap", "Forest Spirit's Cap" ],
+				"ShortDescriptions": [ "森林精灵的帽子", "森林精灵的帽子", "森林精灵的帽子", "森林精灵的帽子", "森林精灵的帽子", "森林精灵的帽子" ],
 				"Sku": "com.popcap.pvz2.android.xshot_custom_01"
 			}
 		}, {
@@ -2731,7 +2731,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Radio", "Radio", "Radio", "Radio", "Radio", "Radio" ],
+				"ShortDescriptions": [ "无线电", "无线电", "无线电", "无线电", "无线电", "无线电" ],
 				"Sku": "com.popcap.pvz2.android.stunion_custom_02"
 			}
 		}, {
@@ -2749,7 +2749,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Straw Hat", "Straw Hat", "Straw Hat", "Straw Hat", "Straw Hat", "Straw Hat" ],
+				"ShortDescriptions": [ "草帽", "草帽", "草帽", "草帽", "草帽", "草帽" ],
 				"Sku": "com.popcap.pvz2.android.stunion_custom_01"
 			}
 		}, {
@@ -2767,7 +2767,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Spring Bow", "Spring Bow", "Spring Bow", "Spring Bow", "Spring Bow", "Spring Bow" ],
+				"ShortDescriptions": [ "春季蝴蝶结", "春季蝴蝶结", "春季蝴蝶结", "春季蝴蝶结", "春季蝴蝶结", "春季蝴蝶结" ],
 				"Sku": "com.popcap.pvz2.android.kernelpult_custom_05"
 			}
 		}, {
@@ -2785,7 +2785,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Flower Garland", "Flower Garland", "Flower Garland", "Flower Garland", "Flower Garland", "Flower Garland" ],
+				"ShortDescriptions": [ "花环", "花环", "花环", "花环", "花环", "花环" ],
 				"Sku": "com.popcap.pvz2.android.bonkchoy_custom_06"
 			}
 		}, {
@@ -2803,7 +2803,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Bonnets", "Bonnets", "Bonnets", "Bonnets", "Bonnets", "Bonnets" ],
+				"ShortDescriptions": [ "童帽", "童帽", "童帽", "童帽", "童帽", "童帽" ],
 				"Sku": "com.popcap.pvz2.android.twinsunflower_custom_05"
 			}
 		}, {
@@ -2821,7 +2821,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "49",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Lava Dragon", "Lava Dragon", "Lava Dragon", "Lava Dragon", "Lava Dragon", "Lava Dragon" ],
+				"ShortDescriptions": [ "熔岩龙", "熔岩龙", "熔岩龙", "熔岩龙", "熔岩龙", "熔岩龙" ],
 				"Sku": "com.popcap.pvz2.android.snapdragon_custom_04"
 			}
 		}, {
@@ -2839,7 +2839,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Elfin Ears", "Elfin Ears", "Elfin Ears", "Elfin Ears", "Elfin Ears", "Elfin Ears" ],
+				"ShortDescriptions": [ "小精灵耳朵", "小精灵耳朵", "小精灵耳朵", "小精灵耳朵", "小精灵耳朵", "小精灵耳朵" ],
 				"Sku": "com.popcap.pvz2.android.dandelion_custom_02"
 			}
 		}, {
@@ -2857,7 +2857,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Noisemaker", "Noisemaker", "Noisemaker", "Noisemaker", "Noisemaker", "Noisemaker" ],
+				"ShortDescriptions": [ "噪音制造者", "噪音制造者", "噪音制造者", "噪音制造者", "噪音制造者", "噪音制造者" ],
 				"Sku": "com.popcap.pvz2.android.kernelpult_custom_06"
 			}
 		}, {
@@ -2875,7 +2875,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "49",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Tribal Pea", "Tribal Pea", "Tribal Pea", "Tribal Pea", "Tribal Pea", "Tribal Pea" ],
+				"ShortDescriptions": [ "部落豌豆", "部落豌豆", "部落豌豆", "部落豌豆", "部落豌豆", "部落豌豆" ],
 				"Sku": "com.popcap.pvz2.android.primalpeashooter_custom_03"
 			}
 		}, {
@@ -2893,7 +2893,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Birthday Hat", "Birthday Hat", "Birthday Hat", "Birthday Hat", "Birthday Hat", "Birthday Hat" ],
+				"ShortDescriptions": [ "生日帽", "生日帽", "生日帽", "生日帽", "生日帽", "生日帽" ],
 				"Sku": "com.popcap.pvz2.android.cabbagepult_custom_04"
 			}
 		}, {
@@ -2911,7 +2911,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Birthday Hat", "Birthday Hat", "Birthday Hat", "Birthday Hat", "Birthday Hat", "Birthday Hat" ],
+				"ShortDescriptions": [ "生日帽", "生日帽", "生日帽", "生日帽", "生日帽", "生日帽" ],
 				"Sku": "com.popcap.pvz2.android.bonkchoy_custom_07"
 			}
 		}, {
@@ -2929,7 +2929,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Lei", "Lei", "Lei", "Lei", "Lei", "Lei" ],
+				"ShortDescriptions": [ "花环", "花环", "花环", "花环", "花环", "花环" ],
 				"Sku": "com.popcap.pvz2.android.lavaguava_custom_01"
 			}
 		}, {
@@ -2947,7 +2947,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Afro", "Afro", "Afro", "Afro", "Afro", "Afro" ],
+				"ShortDescriptions": [ "爆炸头", "爆炸头", "爆炸头", "爆炸头", "爆炸头", "爆炸头" ],
 				"Sku": "com.popcap.pvz2.android.toadstool_custom_01"
 			}
 		}, {
@@ -2965,7 +2965,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Purple Hat", "Purple Hat", "Purple Hat", "Purple Hat", "Purple Hat", "Purple Hat" ],
+				"ShortDescriptions": [ "紫帽", "紫帽", "紫帽", "紫帽", "紫帽", "紫帽" ],
 				"Sku": "com.popcap.pvz2.android.toadstool_custom_02"
 			}
 		}, {
@@ -2983,7 +2983,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Helmet", "Helmet", "Helmet", "Helmet", "Helmet", "Helmet" ],
+				"ShortDescriptions": [ "头盔", "头盔", "头盔", "头盔", "头盔", "头盔" ],
 				"Sku": "com.popcap.pvz2.android.akee_custom_01"
 			}
 		}, {
@@ -3001,7 +3001,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Bandana", "Bandana", "Bandana", "Bandana", "Bandana", "Bandana" ],
+				"ShortDescriptions": [ "头巾", "头巾", "头巾", "头巾", "头巾", "头巾" ],
 				"Sku": "com.popcap.pvz2.android.akee_custom_02"
 			}
 		}, {
@@ -3019,7 +3019,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Mawashi", "Mawashi", "Mawashi", "Mawashi", "Mawashi", "Mawashi" ],
+				"ShortDescriptions": [ "兜裆布", "兜裆布", "兜裆布", "兜裆布", "兜裆布", "兜裆布" ],
 				"Sku": "com.popcap.pvz2.android.endurian_custom_01"
 			}
 		}, {
@@ -3037,7 +3037,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Guardian Faulds", "Guardian Faulds", "Guardian Faulds", "Guardian Faulds", "Guardian Faulds", "Guardian Faulds" ],
+				"ShortDescriptions": [ "守卫者盔甲", "守卫者盔甲", "守卫者盔甲", "守卫者盔甲", "守卫者盔甲", "守卫者盔甲" ],
 				"Sku": "com.popcap.pvz2.android.endurian_custom_02"
 			}
 		}, {
@@ -3055,7 +3055,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Red Robin Hood", "Red Robin Hood", "Red Robin Hood", "Red Robin Hood", "Red Robin Hood", "Red Robin Hood" ],
+				"ShortDescriptions": [ "红罗宾汉", "红罗宾汉", "红罗宾汉", "红罗宾汉", "红罗宾汉", "红罗宾汉" ],
 				"Sku": "com.popcap.pvz2.android.redstinger_custom_01"
 			}
 		}, {
@@ -3073,7 +3073,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "49",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Red Gear Emblem", "Red Gear Emblem", "Red Gear Emblem", "Red Gear Emblem", "Red Gear Emblem", "Red Gear Emblem" ],
+				"ShortDescriptions": [ "红装备徽章", "红装备徽章", "红装备徽章", "红装备徽章", "红装备徽章", "红装备徽章" ],
 				"Sku": "com.popcap.pvz2.android.redstinger_custom_02"
 			}
 		}, {
@@ -3091,7 +3091,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Sundae Topping", "Sundae Topping", "Sundae Topping", "Sundae Topping", "Sundae Topping", "Sundae Topping" ],
+				"ShortDescriptions": [ "圣代浇头", "圣代浇头", "圣代浇头", "圣代浇头", "圣代浇头", "圣代浇头" ],
 				"Sku": "com.popcap.pvz2.android.goldleaf_custom_01"
 			}
 		}, {
@@ -3109,7 +3109,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Golden Locks", "Golden Locks", "Golden Locks", "Golden Locks", "Golden Locks", "Golden Locks" ],
+				"ShortDescriptions": [ "金发", "金发", "金发", "金发", "金发", "金发" ],
 				"Sku": "com.popcap.pvz2.android.goldleaf_custom_02"
 			}
 		}, {
@@ -3127,7 +3127,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Hairstyle 9001", "Hairstyle 9001", "Hairstyle 9001", "Hairstyle 9001", "Hairstyle 9001", "Hairstyle 9001" ],
+				"ShortDescriptions": [ "9001式发型", "9001式发型", "9001式发型", "9001式发型", "9001式发型", "9001式发型" ],
 				"Sku": "com.popcap.pvz2.android.goldleaf_custom_03"
 			}
 		}, {
@@ -3145,7 +3145,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Nighty Night Cap", "Nighty Night Cap", "Nighty Night Cap", "Nighty Night Cap", "Nighty Night Cap", "Nighty Night Cap" ],
+				"ShortDescriptions": [ "晚安帽", "晚安帽", "晚安帽", "晚安帽", "晚安帽", "晚安帽" ],
 				"Sku": "com.popcap.pvz2.android.stallia_custom_01"
 			}
 		}, {
@@ -3163,7 +3163,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Angel Headwear", "Angel Headwear", "Angel Headwear", "Angel Headwear", "Angel Headwear", "Angel Headwear" ],
+				"ShortDescriptions": [ "天使头饰", "天使头饰", "天使头饰", "天使头饰", "天使头饰", "天使头饰" ],
 				"Sku": "com.popcap.pvz2.android.stallia_custom_02"
 			}
 		}, {
@@ -3181,7 +3181,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Bug Zapper", "Bug Zapper", "Bug Zapper", "Bug Zapper", "Bug Zapper", "Bug Zapper" ],
+				"ShortDescriptions": [ "捕虫灯", "捕虫灯", "捕虫灯", "捕虫灯", "捕虫灯", "捕虫灯" ],
 				"Sku": "com.popcap.pvz2.android.lightningreed_custom_05"
 			}
 		}, {
@@ -3199,7 +3199,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "49",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Dark Knight Armor", "Dark Knight Armor", "Dark Knight Armor", "Dark Knight Armor", "Dark Knight Armor", "Dark Knight Armor" ],
+				"ShortDescriptions": [ "黑骑士盔甲", "黑骑士盔甲", "黑骑士盔甲", "黑骑士盔甲", "黑骑士盔甲", "黑骑士盔甲" ],
 				"Sku": "com.popcap.pvz2.android.pepperpult_custom_02"
 			}
 		}, {
@@ -3217,7 +3217,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Swimsuit", "Swimsuit", "Swimsuit", "Swimsuit", "Swimsuit", "Swimsuit" ],
+				"ShortDescriptions": [ "泳装", "泳装", "泳装", "泳装", "泳装", "泳装" ],
 				"Sku": "com.popcap.pvz2.android.tallnut_custom_05"
 			}
 		}, {
@@ -3235,7 +3235,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Personal Fan", "Personal Fan", "Personal Fan", "Personal Fan", "Personal Fan", "Personal Fan" ],
+				"ShortDescriptions": [ "个人风扇", "个人风扇", "个人风扇", "个人风扇", "个人风扇", "个人风扇" ],
 				"Sku": "com.popcap.pvz2.android.wintermelon_custom_04"
 			}
 		}, {
@@ -3253,7 +3253,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Sun Hat", "Sun Hat", "Sun Hat", "Sun Hat", "Sun Hat", "Sun Hat" ],
+				"ShortDescriptions": [ "阔边遮阳帽", "阔边遮阳帽", "阔边遮阳帽", "阔边遮阳帽", "阔边遮阳帽", "阔边遮阳帽" ],
 				"Sku": "com.popcap.pvz2.android.repeater_custom_05"
 			}
 		}, {
@@ -3271,7 +3271,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "49",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Glass Princess", "Glass Princess", "Glass Princess", "Glass Princess", "Glass Princess", "Glass Princess" ],
+				"ShortDescriptions": [ "玻璃公主", "玻璃公主", "玻璃公主", "玻璃公主", "玻璃公主", "玻璃公主" ],
 				"Sku": "com.popcap.pvz2.android.cactus_custom_01"
 			}
 		}, {
@@ -3289,7 +3289,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Denim Vest", "Denim Vest", "Denim Vest", "Denim Vest", "Denim Vest", "Denim Vest" ],
+				"ShortDescriptions": [ "牛仔背心", "牛仔背心", "牛仔背心", "牛仔背心", "牛仔背心", "牛仔背心" ],
 				"Sku": "com.popcap.pvz2.android.cactus_custom_02"
 			}
 		}, {
@@ -3307,7 +3307,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Mohawk", "Mohawk", "Mohawk", "Mohawk", "Mohawk", "Mohawk" ],
+				"ShortDescriptions": [ "莫霍克", "莫霍克", "莫霍克", "莫霍克", "莫霍克", "莫霍克" ],
 				"Sku": "com.popcap.pvz2.android.strawburst_custom_01"
 			}
 		}, {
@@ -3325,7 +3325,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Small Fedora", "Small Fedora", "Small Fedora", "Small Fedora", "Small Fedora", "Small Fedora" ],
+				"ShortDescriptions": [ "小软呢帽", "小软呢帽", "小软呢帽", "小软呢帽", "小软呢帽", "小软呢帽" ],
 				"Sku": "com.popcap.pvz2.android.strawburst_custom_02"
 			}
 		}, {
@@ -3343,7 +3343,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Trucker Toad", "Trucker Toad", "Trucker Toad", "Trucker Toad", "Trucker Toad", "Trucker Toad" ],
+				"ShortDescriptions": [ "蟾蜍卡车司机", "蟾蜍卡车司机", "蟾蜍卡车司机", "蟾蜍卡车司机", "蟾蜍卡车司机", "蟾蜍卡车司机" ],
 				"Sku": "com.popcap.pvz2.android.toadstool_custom_03"
 			}
 		}, {
@@ -3361,7 +3361,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Light Bulb", "Light Bulb", "Light Bulb", "Light Bulb", "Light Bulb", "Light Bulb" ],
+				"ShortDescriptions": [ "电灯泡", "电灯泡", "电灯泡", "电灯泡", "电灯泡", "电灯泡" ],
 				"Sku": "com.popcap.pvz2.android.electricblueberry_custom_01"
 			}
 		}, {
@@ -3379,7 +3379,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Outlet", "Outlet", "Outlet", "Outlet", "Outlet", "Outlet" ],
+				"ShortDescriptions": [ "插座", "插座", "插座", "插座", "插座", "插座" ],
 				"Sku": "com.popcap.pvz2.android.electricblueberry_custom_02"
 			}
 		}, {
@@ -3397,7 +3397,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Run P.V.Z", "Run P.V.Z", "Run P.V.Z", "Run P.V.Z", "Run P.V.Z", "Run P.V.Z" ],
+				"ShortDescriptions": [ "P.V.Z牌运动帽", "P.V.Z牌运动帽", "P.V.Z牌运动帽", "P.V.Z牌运动帽", "P.V.Z牌运动帽", "P.V.Z牌运动帽" ],
 				"Sku": "com.popcap.pvz2.android.phatbeet_custom_01"
 			}
 		}, {
@@ -3415,7 +3415,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Radio Construction Helmet", "Radio Construction Helmet", "Radio Construction Helmet", "Radio Construction Helmet", "Radio Construction Helmet", "Radio Construction Helmet" ],
+				"ShortDescriptions": [ "无线电施工头盔", "无线电施工头盔", "无线电施工头盔", "无线电施工头盔", "无线电施工头盔", "无线电施工头盔" ],
 				"Sku": "com.popcap.pvz2.android.phatbeet_custom_02"
 			}
 		}, {
@@ -3433,7 +3433,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Helm of Plantity +1", "Helm of Plantity +1", "Helm of Plantity +1", "Helm of Plantity +1", "Helm of Plantity +1", "Helm of Plantity +1" ],
+				"ShortDescriptions": [ "植物头盔 +1", "植物头盔 +1", "植物头盔 +1", "植物头盔 +1", "植物头盔 +1", "植物头盔 +1" ],
 				"Sku": "com.popcap.pvz2.android.celerystalker_custom_01"
 			}
 		}, {
@@ -3451,7 +3451,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Boxing Helmets", "Boxing Helmets", "Boxing Helmets", "Boxing Helmets", "Boxing Helmets", "Boxing Helmets" ],
+				"ShortDescriptions": [ "拳击头盔", "拳击头盔", "拳击头盔", "拳击头盔", "拳击头盔", "拳击头盔" ],
 				"Sku": "com.popcap.pvz2.android.celerystalker_custom_02"
 			}
 		}, {
@@ -3469,7 +3469,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Crop Farmer Hat", "Crop Farmer Hat", "Crop Farmer Hat", "Crop Farmer Hat", "Crop Farmer Hat", "Crop Farmer Hat" ],
+				"ShortDescriptions": [ "庄稼农帽", "庄稼农帽", "庄稼农帽", "庄稼农帽", "庄稼农帽", "庄稼农帽" ],
 				"Sku": "com.popcap.pvz2.android.garlic_custom_01"
 			}
 		}, {
@@ -3487,7 +3487,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Rubber Glove", "Rubber Glove", "Rubber Glove", "Rubber Glove", "Rubber Glove", "Rubber Glove" ],
+				"ShortDescriptions": [ "橡胶手套", "橡胶手套", "橡胶手套", "橡胶手套", "橡胶手套", "橡胶手套" ],
 				"Sku": "com.popcap.pvz2.android.garlic_custom_02"
 			}
 		}, {
@@ -3505,7 +3505,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Cutest Bow", "Cutest Bow", "Cutest Bow", "Cutest Bow", "Cutest Bow", "Cutest Bow" ],
+				"ShortDescriptions": [ "最可爱的蝴蝶结", "最可爱的蝴蝶结", "最可爱的蝴蝶结", "最可爱的蝴蝶结", "最可爱的蝴蝶结", "最可爱的蝴蝶结" ],
 				"Sku": "com.popcap.pvz2.android.sporeshroom_custom_01"
 			}
 		}, {
@@ -3523,7 +3523,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Turtle Shell", "Turtle Shell", "Turtle Shell", "Turtle Shell", "Turtle Shell", "Turtle Shell" ],
+				"ShortDescriptions": [ "龟壳", "龟壳", "龟壳", "龟壳", "龟壳", "龟壳" ],
 				"Sku": "com.popcap.pvz2.android.sporeshroom_custom_02"
 			}
 		}, {
@@ -3541,7 +3541,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Black Rimmed Glasses", "Black Rimmed Glasses", "Black Rimmed Glasses", "Black Rimmed Glasses", "Black Rimmed Glasses", "Black Rimmed Glasses" ],
+				"ShortDescriptions": [ "黑框眼镜", "黑框眼镜", "黑框眼镜", "黑框眼镜", "黑框眼镜", "黑框眼镜" ],
 				"Sku": "com.popcap.pvz2.android.intensivecarrot_custom_01"
 			}
 		}, {
@@ -3559,7 +3559,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Doc Head Mirror", "Doc Head Mirror", "Doc Head Mirror", "Doc Head Mirror", "Doc Head Mirror", "Doc Head Mirror" ],
+				"ShortDescriptions": [ "医生头镜", "医生头镜", "医生头镜", "医生头镜", "医生头镜", "医生头镜" ],
 				"Sku": "com.popcap.pvz2.android.intensivecarrot_custom_02"
 			}
 		}, {
@@ -3577,7 +3577,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "20",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Count Jackula", "Count Jackula", "Count Jackula", "Count Jackula", "Count Jackula", "Count Jackula" ],
+				"ShortDescriptions": [ "杰库拉伯爵", "杰库拉伯爵", "杰库拉伯爵", "杰库拉伯爵", "杰库拉伯爵", "杰库拉伯爵" ],
 				"Sku": "com.popcap.pvz2.android.jackolantern_custom_01"
 			}
 		}, {
@@ -3595,7 +3595,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Fire Extinguisher", "Fire Extinguisher", "Fire Extinguisher", "Fire Extinguisher", "Fire Extinguisher", "Fire Extinguisher" ],
+				"ShortDescriptions": [ "灭火器", "灭火器", "灭火器", "灭火器", "灭火器", "灭火器" ],
 				"Sku": "com.popcap.pvz2.android.jackolantern_custom_02"
 			}
 		}, {
@@ -3613,7 +3613,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Umbrella", "Umbrella", "Umbrella", "Umbrella", "Umbrella", "Umbrella" ],
+				"ShortDescriptions": [ "雨伞", "雨伞", "雨伞", "雨伞", "雨伞", "雨伞" ],
 				"Sku": "com.popcap.pvz2.android.grapeshot_custom_01"
 			}
 		}, {
@@ -3631,7 +3631,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Balloons", "Balloons", "Balloons", "Balloons", "Balloons", "Balloons" ],
+				"ShortDescriptions": [ "气球", "气球", "气球", "气球", "气球", "气球" ],
 				"Sku": "com.popcap.pvz2.android.grapeshot_custom_02"
 			}
 		}, {
@@ -3649,7 +3649,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Hunter Hat", "Hunter Hat", "Hunter Hat", "Hunter Hat", "Hunter Hat", "Hunter Hat" ],
+				"ShortDescriptions": [ "猎人帽", "猎人帽", "猎人帽", "猎人帽", "猎人帽", "猎人帽" ],
 				"Sku": "com.popcap.pvz2.android.primalpeashooter_custom_01"
 			}
 		}, {
@@ -3667,7 +3667,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "20",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Porcupine Bird", "Porcupine Bird", "Porcupine Bird", "Porcupine Bird", "Porcupine Bird", "Porcupine Bird" ],
+				"ShortDescriptions": [ "豪猪鸟", "豪猪鸟", "豪猪鸟", "豪猪鸟", "豪猪鸟", "豪猪鸟" ],
 				"Sku": "com.popcap.pvz2.android.primalpeashooter_custom_02"
 			}
 		}, {
@@ -3685,7 +3685,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Overalls", "Overalls", "Overalls", "Overalls", "Overalls", "Overalls" ],
+				"ShortDescriptions": [ "工作服", "工作服", "工作服", "工作服", "工作服", "工作服" ],
 				"Sku": "com.popcap.pvz2.android.primalwallnut_custom_01"
 			}
 		}, {
@@ -3703,7 +3703,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Speed Swimmer", "Speed Swimmer", "Speed Swimmer", "Speed Swimmer", "Speed Swimmer", "Speed Swimmer" ],
+				"ShortDescriptions": [ "速泳者", "速泳者", "速泳者", "速泳者", "速泳者", "速泳者" ],
 				"Sku": "com.popcap.pvz2.android.primalwallnut_custom_02"
 			}
 		}, {
@@ -3721,7 +3721,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Cupid Arrow", "Cupid Arrow", "Cupid Arrow", "Cupid Arrow", "Cupid Arrow", "Cupid Arrow" ],
+				"ShortDescriptions": [ "丘比特之箭", "丘比特之箭", "丘比特之箭", "丘比特之箭", "丘比特之箭", "丘比特之箭" ],
 				"Sku": "com.popcap.pvz2.android.perfumeshroom_custom_01"
 			}
 		}, {
@@ -3739,7 +3739,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Cool Guy Cap", "Cool Guy Cap", "Cool Guy Cap", "Cool Guy Cap", "Cool Guy Cap", "Cool Guy Cap" ],
+				"ShortDescriptions": [ "酷男帽", "酷男帽", "酷男帽", "酷男帽", "酷男帽", "酷男帽" ],
 				"Sku": "com.popcap.pvz2.android.perfumeshroom_custom_02"
 			}
 		}, {
@@ -3757,7 +3757,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Fox Mask", "Fox Mask", "Fox Mask", "Fox Mask", "Fox Mask", "Fox Mask" ],
+				"ShortDescriptions": [ "狐狸面具", "狐狸面具", "狐狸面具", "狐狸面具", "狐狸面具", "狐狸面具" ],
 				"Sku": "com.popcap.pvz2.android.coldsnapdragon_custom_01"
 			}
 		}, {
@@ -3775,7 +3775,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Ice Cream Cone", "Ice Cream Cone", "Ice Cream Cone", "Ice Cream Cone", "Ice Cream Cone", "Ice Cream Cone" ],
+				"ShortDescriptions": [ "蛋筒冰淇淋", "蛋筒冰淇淋", "蛋筒冰淇淋", "蛋筒冰淇淋", "蛋筒冰淇淋", "蛋筒冰淇淋" ],
 				"Sku": "com.popcap.pvz2.android.coldsnapdragon_custom_02"
 			}
 		}, {
@@ -3793,7 +3793,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Smart Specs", "Smart Specs", "Smart Specs", "Smart Specs", "Smart Specs", "Smart Specs" ],
+				"ShortDescriptions": [ "智能眼镜", "智能眼镜", "智能眼镜", "智能眼镜", "智能眼镜", "智能眼镜" ],
 				"Sku": "com.popcap.pvz2.android.primalpotatomine_custom_01"
 			}
 		}, {
@@ -3811,7 +3811,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "49",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Mine Mind", "Mine Mind", "Mine Mind", "Mine Mind", "Mine Mind", "Mine Mind" ],
+				"ShortDescriptions": [ "地雷智慧", "地雷智慧", "地雷智慧", "地雷智慧", "地雷智慧", "地雷智慧" ],
 				"Sku": "com.popcap.pvz2.android.primalpotatomine_custom_02"
 			}
 		}, {
@@ -3829,7 +3829,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Moon Tiara", "Moon Tiara", "Moon Tiara", "Moon Tiara", "Moon Tiara", "Moon Tiara" ],
+				"ShortDescriptions": [ "月亮头饰", "月亮头饰", "月亮头饰", "月亮头饰", "月亮头饰", "月亮头饰" ],
 				"Sku": "com.popcap.pvz2.android.primalsunflower_custom_01"
 			}
 		}, {
@@ -3847,7 +3847,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Antlers", "Antlers", "Antlers", "Antlers", "Antlers", "Antlers" ],
+				"ShortDescriptions": [ "鹿角", "鹿角", "鹿角", "鹿角", "鹿角", "鹿角" ],
 				"Sku": "com.popcap.pvz2.android.primalsunflower_custom_02"
 			}
 		}, {
@@ -3865,7 +3865,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Ruby Glitter Shoes", "Ruby Glitter Shoes", "Ruby Glitter Shoes", "Ruby Glitter Shoes", "Ruby Glitter Shoes", "Ruby Glitter Shoes" ],
+				"ShortDescriptions": [ "红宝石闪光鞋", "红宝石闪光鞋", "红宝石闪光鞋", "红宝石闪光鞋", "红宝石闪光鞋", "红宝石闪光鞋" ],
 				"Sku": "com.popcap.pvz2.android.shrinkingviolet_custom_01"
 			}
 		}, {
@@ -3883,7 +3883,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Silver Boots", "Silver Boots", "Silver Boots", "Silver Boots", "Silver Boots", "Silver Boots" ],
+				"ShortDescriptions": [ "银靴子", "银靴子", "银靴子", "银靴子", "银靴子", "银靴子" ],
 				"Sku": "com.popcap.pvz2.android.shrinkingviolet_custom_02"
 			}
 		}, {
@@ -3901,7 +3901,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Flower Headband", "Flower Headband", "Flower Headband", "Flower Headband", "Flower Headband", "Flower Headband" ],
+				"ShortDescriptions": [ "花头带", "花头带", "花头带", "花头带", "花头带", "花头带" ],
 				"Sku": "com.popcap.pvz2.android.bloominghearts_custom_01"
 			}
 		}, {
@@ -3919,7 +3919,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Headband of Hope", "Headband of Hope", "Headband of Hope", "Headband of Hope", "Headband of Hope", "Headband of Hope" ],
+				"ShortDescriptions": [ "希望头带", "希望头带", "希望头带", "希望头带", "希望头带", "希望头带" ],
 				"Sku": "com.popcap.pvz2.android.bloominghearts_custom_02"
 			}
 		}, {
@@ -3937,7 +3937,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Magic Moon Wand", "Magic Moon Wand", "Magic Moon Wand", "Magic Moon Wand", "Magic Moon Wand", "Magic Moon Wand" ],
+				"ShortDescriptions": [ "魔月棒", "魔月棒", "魔月棒", "魔月棒", "魔月棒", "魔月棒" ],
 				"Sku": "com.popcap.pvz2.android.moonflower_custom_01"
 			}
 		}, {
@@ -3955,7 +3955,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Shades", "Shades", "Shades", "Shades", "Shades", "Shades" ],
+				"ShortDescriptions": [ "墨镜", "墨镜", "墨镜", "墨镜", "墨镜", "墨镜" ],
 				"Sku": "com.popcap.pvz2.android.nightshade_custom_01"
 			}
 		}, {
@@ -3973,7 +3973,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Kitty Hat", "Kitty Hat", "Kitty Hat", "Kitty Hat", "Kitty Hat", "Kitty Hat" ],
+				"ShortDescriptions": [ "猫帽", "猫帽", "猫帽", "猫帽", "猫帽", "猫帽" ],
 				"Sku": "com.popcap.pvz2.android.shadowshroom_custom_01"
 			}
 		}, {
@@ -3991,7 +3991,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Mining Helmet", "Mining Helmet", "Mining Helmet", "Mining Helmet", "Mining Helmet", "Mining Helmet" ],
+				"ShortDescriptions": [ "矿工帽", "矿工帽", "矿工帽", "矿工帽", "矿工帽", "矿工帽" ],
 				"Sku": "com.popcap.pvz2.android.escaperoot_custom_01"
 			}
 		}, {
@@ -4009,7 +4009,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Sheriff Hat", "Sheriff Hat", "Sheriff Hat", "Sheriff Hat", "Sheriff Hat", "Sheriff Hat" ],
+				"ShortDescriptions": [ "警长帽", "警长帽", "警长帽", "警长帽", "警长帽", "警长帽" ],
 				"Sku": "com.popcap.pvz2.android.escaperoot_custom_02"
 			}
 		}, {
@@ -4027,7 +4027,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Glam Hair", "Glam Hair", "Glam Hair", "Glam Hair", "Glam Hair", "Glam Hair" ],
+				"ShortDescriptions": [ "格拉姆发型", "格拉姆发型", "格拉姆发型", "格拉姆发型", "格拉姆发型", "格拉姆发型" ],
 				"Sku": "com.popcap.pvz2.android.dusklobber_custom_01"
 			}
 		}, {
@@ -4045,7 +4045,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Stylish Newsboy Hat", "Stylish Newsboy Hat", "Stylish Newsboy Hat", "Stylish Newsboy Hat", "Stylish Newsboy Hat", "Stylish Newsboy Hat" ],
+				"ShortDescriptions": [ "时髦的报童帽", "时髦的报童帽", "时髦的报童帽", "时髦的报童帽", "时髦的报童帽", "时髦的报童帽" ],
 				"Sku": "com.popcap.pvz2.android.dusklobber_custom_02"
 			}
 		}, {
@@ -4063,7 +4063,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Conical Hat", "Conical Hat", "Conical Hat", "Conical Hat", "Conical Hat", "Conical Hat" ],
+				"ShortDescriptions": [ "圆锥形帽", "圆锥形帽", "圆锥形帽", "圆锥形帽", "圆锥形帽", "圆锥形帽" ],
 				"Sku": "com.popcap.pvz2.android.grimrose_custom_01"
 			}
 		}, {
@@ -4081,7 +4081,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Wide Brimmed Hat", "Wide Brimmed Hat", "Wide Brimmed Hat", "Wide Brimmed Hat", "Wide Brimmed Hat", "Wide Brimmed Hat" ],
+				"ShortDescriptions": [ "宽边帽子", "宽边帽子", "宽边帽子", "宽边帽子", "宽边帽子", "宽边帽子" ],
 				"Sku": "com.popcap.pvz2.android.grimrose_custom_02"
 			}
 		}, {
@@ -4099,7 +4099,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Malcom Glasses", "Malcom Glasses", "Malcom Glasses", "Malcom Glasses", "Malcom Glasses", "Malcom Glasses" ],
+				"ShortDescriptions": [ "麦肯罗镜", "麦肯罗镜", "麦肯罗镜", "麦肯罗镜", "麦肯罗镜", "麦肯罗镜" ],
 				"Sku": "com.popcap.pvz2.android.goldbloom_custom_01"
 			}
 		}, {
@@ -4117,7 +4117,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Golden Mask", "Golden Mask", "Golden Mask", "Golden Mask", "Golden Mask", "Golden Mask" ],
+				"ShortDescriptions": [ "黄金面具", "黄金面具", "黄金面具", "黄金面具", "黄金面具", "黄金面具" ],
 				"Sku": "com.popcap.pvz2.android.goldbloom_custom_02"
 			}
 		}, {
@@ -4135,7 +4135,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "20",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Lightning Crest", "Lightning Crest", "Lightning Crest", "Lightning Crest", "Lightning Crest", "Lightning Crest" ],
+				"ShortDescriptions": [ "闪电羽冠", "闪电羽冠", "闪电羽冠", "闪电羽冠", "闪电羽冠", "闪电羽冠" ],
 				"Sku": "com.popcap.pvz2.android.electriccurrant_custom_01"
 			}
 		}, {
@@ -4153,7 +4153,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Blue Light Bulb", "Blue Light Bulb", "Blue Light Bulb", "Blue Light Bulb", "Blue Light Bulb", "Blue Light Bulb" ],
+				"ShortDescriptions": [ "蓝色灯泡", "蓝色灯泡", "蓝色灯泡", "蓝色灯泡", "蓝色灯泡", "蓝色灯泡" ],
 				"Sku": "com.popcap.pvz2.android.electriccurrant_custom_02"
 			}
 		}, {
@@ -4171,7 +4171,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Prehistoric Shirt & Tie", "Prehistoric Shirt & Tie", "Prehistoric Shirt & Tie", "Prehistoric Shirt & Tie", "Prehistoric Shirt & Tie", "Prehistoric Shirt & Tie" ],
+				"ShortDescriptions": [ "史前衬衫与领带", "史前衬衫与领带", "史前衬衫与领带", "史前衬衫与领带", "史前衬衫与领带", "史前衬衫与领带" ],
 				"Sku": "com.popcap.pvz2.android.bonkchoy_custom_08"
 			}
 		}, {
@@ -4189,7 +4189,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Red Antenna", "Red Antenna", "Red Antenna", "Red Antenna", "Red Antenna", "Red Antenna" ],
+				"ShortDescriptions": [ "红色天线", "红色天线", "红色天线", "红色天线", "红色天线", "红色天线" ],
 				"Sku": "com.popcap.pvz2.android.melonpult_custom_05"
 			}
 		}, {
@@ -4207,7 +4207,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Triceratops Horns", "Triceratops Horns", "Triceratops Horns", "Triceratops Horns", "Triceratops Horns", "Triceratops Horns" ],
+				"ShortDescriptions": [ "三角龙的角", "三角龙的角", "三角龙的角", "三角龙的角", "三角龙的角", "三角龙的角" ],
 				"Sku": "com.popcap.pvz2.android.cabbagepult_custom_05"
 			}
 		}, {
@@ -4225,7 +4225,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Lil' Homie", "Lil' Homie", "Lil' Homie", "Lil' Homie", "Lil' Homie", "Lil' Homie" ],
+				"ShortDescriptions": [ "小导向蓟", "小导向蓟", "小导向蓟", "小导向蓟", "小导向蓟", "小导向蓟" ],
 				"Sku": "com.popcap.pvz2.android.homingthistle_custom_02"
 			}
 		}, {
@@ -4243,7 +4243,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Flames & Pipes", "Flames & Pipes", "Flames & Pipes", "Flames & Pipes", "Flames & Pipes", "Flames & Pipes" ],
+				"ShortDescriptions": [ "火焰与管道", "火焰与管道", "火焰与管道", "火焰与管道", "火焰与管道", "火焰与管道" ],
 				"Sku": "com.popcap.pvz2.android.explodeonut_custom_01"
 			}
 		}, {
@@ -4261,7 +4261,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "LEAF Pennant", "LEAF Pennant", "LEAF Pennant", "LEAF Pennant", "LEAF Pennant", "LEAF Pennant" ],
+				"ShortDescriptions": [ "叶旗", "叶旗", "叶旗", "叶旗", "叶旗", "叶旗" ],
 				"Sku": "com.popcap.pvz2.android.aloe_custom_01"
 			}
 		}, {
@@ -4279,7 +4279,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Flower Pennant", "Flower Pennant", "Flower Pennant", "Flower Pennant", "Flower Pennant", "Flower Pennant" ],
+				"ShortDescriptions": [ "花旗", "花旗", "花旗", "花旗", "花旗", "花旗" ],
 				"Sku": "com.popcap.pvz2.android.aloe_custom_02"
 			}
 		}, {
@@ -4297,7 +4297,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Maid Headband", "Maid Headband", "Maid Headband", "Maid Headband", "Maid Headband", "Maid Headband" ],
+				"ShortDescriptions": [ "女仆头带", "女仆头带", "女仆头带", "女仆头带", "女仆头带", "女仆头带" ],
 				"Sku": "com.popcap.pvz2.android.primalsunflower_custom_03"
 			}
 		}, {
@@ -4315,7 +4315,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Grass Knuckles", "Grass Knuckles", "Grass Knuckles", "Grass Knuckles", "Grass Knuckles", "Grass Knuckles" ],
+				"ShortDescriptions": [ "指虎侠", "指虎侠", "指虎侠", "指虎侠", "指虎侠", "指虎侠" ],
 				"Sku": "com.popcap.pvz2.android.bonkchoy_custom_09"
 			}
 		}, {
@@ -4333,7 +4333,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "20",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Captain Combustible", "Captain Combustible", "Captain Combustible", "Captain Combustible", "Captain Combustible", "Captain Combustible" ],
+				"ShortDescriptions": [ "火爆队长", "火爆队长", "火爆队长", "火爆队长", "火爆队长", "火爆队长" ],
 				"Sku": "com.popcap.pvz2.android.torchwood_custom_05"
 			}
 		}, {
@@ -4351,7 +4351,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Night Cap", "Night Cap", "Night Cap", "Night Cap", "Night Cap", "Night Cap" ],
+				"ShortDescriptions": [ "暗夜菇", "暗夜菇", "暗夜菇", "暗夜菇", "暗夜菇", "暗夜菇" ],
 				"Sku": "com.popcap.pvz2.android.fumeshroom_custom_02"
 			}
 		}, {
@@ -4369,7 +4369,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Camo Shorts", "Camo Shorts", "Camo Shorts", "Camo Shorts", "Camo Shorts", "Camo Shorts" ],
+				"ShortDescriptions": [ "迷彩短裤", "迷彩短裤", "迷彩短裤", "迷彩短裤", "迷彩短裤", "迷彩短裤" ],
 				"Sku": "com.popcap.pvz2.android.applemortar_custom_01"
 			}
 		}, {
@@ -4387,7 +4387,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Ear Protection", "Ear Protection", "Ear Protection", "Ear Protection", "Ear Protection", "Ear Protection" ],
+				"ShortDescriptions": [ "护耳罩", "护耳罩", "护耳罩", "护耳罩", "护耳罩", "护耳罩" ],
 				"Sku": "com.popcap.pvz2.android.bombegranate_custom_01"
 			}
 		}, {
@@ -4405,7 +4405,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "20",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Alpha", "Alpha", "Alpha", "Alpha", "Alpha", "Alpha" ],
+				"ShortDescriptions": [ "阿尔法", "阿尔法", "阿尔法", "阿尔法", "阿尔法", "阿尔法" ],
 				"Sku": "com.popcap.pvz2.android.bombegranate_custom_02"
 			}
 		}, {
@@ -4423,7 +4423,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Bow", "Bow", "Bow", "Bow", "Bow", "Bow" ],
+				"ShortDescriptions": [ "蝴蝶结", "蝴蝶结", "蝴蝶结", "蝴蝶结", "蝴蝶结", "蝴蝶结" ],
 				"Sku": "com.popcap.pvz2.android.missiletoe_custom_01"
 			}
 		}, {
@@ -4441,7 +4441,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Scarf", "Scarf", "Scarf", "Scarf", "Scarf", "Scarf" ],
+				"ShortDescriptions": [ "围巾", "围巾", "围巾", "围巾", "围巾", "围巾" ],
 				"Sku": "com.popcap.pvz2.android.missiletoe_custom_02"
 			}
 		}, {
@@ -4459,7 +4459,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Cat Ears", "Cat Ears", "Cat Ears", "Cat Ears", "Cat Ears", "Cat Ears" ],
+				"ShortDescriptions": [ "猫耳朵", "猫耳朵", "猫耳朵", "猫耳朵", "猫耳朵", "猫耳朵" ],
 				"Sku": "com.popcap.pvz2.android.parsnip_custom_01"
 			}
 		}, {
@@ -4477,7 +4477,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Extra Crab", "Extra Crab", "Extra Crab", "Extra Crab", "Extra Crab", "Extra Crab" ],
+				"ShortDescriptions": [ "额外的螃蟹", "额外的螃蟹", "额外的螃蟹", "额外的螃蟹", "额外的螃蟹", "额外的螃蟹" ],
 				"Sku": "com.popcap.pvz2.android.parsnip_custom_02"
 			}
 		}, {
@@ -4495,7 +4495,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Witch Hat", "Witch Hat", "Witch Hat", "Witch Hat", "Witch Hat", "Witch Hat" ],
+				"ShortDescriptions": [ "女巫帽", "女巫帽", "女巫帽", "女巫帽", "女巫帽", "女巫帽" ],
 				"Sku": "com.popcap.pvz2.android.witchhazel_custom_01"
 			}
 		}, {
@@ -4513,7 +4513,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Nightcap", "Nightcap", "Nightcap", "Nightcap", "Nightcap", "Nightcap" ],
+				"ShortDescriptions": [ "睡帽", "睡帽", "睡帽", "睡帽", "睡帽", "睡帽" ],
 				"Sku": "com.popcap.pvz2.android.witchhazel_custom_02"
 			}
 		}, {
@@ -4531,7 +4531,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Chocolate", "Chocolate", "Chocolate", "Chocolate", "Chocolate", "Chocolate" ],
+				"ShortDescriptions": [ "巧克力", "巧克力", "巧克力", "巧克力", "巧克力", "巧克力" ],
 				"Sku": "com.popcap.pvz2.android.hotdate_custom_01"
 			}
 		}, {
@@ -4549,7 +4549,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Graduation", "Graduation", "Graduation", "Graduation", "Graduation", "Graduation" ],
+				"ShortDescriptions": [ "毕业帽", "毕业帽", "毕业帽", "毕业帽", "毕业帽", "毕业帽" ],
 				"Sku": "com.popcap.pvz2.android.caulipower_custom_01"
 			}
 		}, {
@@ -4567,7 +4567,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Neon Arrow", "Neon Arrow", "Neon Arrow", "Neon Arrow", "Neon Arrow", "Neon Arrow" ],
+				"ShortDescriptions": [ "霓虹灯箭头", "霓虹灯箭头", "霓虹灯箭头", "霓虹灯箭头", "霓虹灯箭头", "霓虹灯箭头" ],
 				"Sku": "com.popcap.pvz2.android.electricpeashooter_custom_01"
 			}
 		}, {
@@ -4585,7 +4585,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "20",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Bunny", "Bunny", "Bunny", "Bunny", "Bunny", "Bunny" ],
+				"ShortDescriptions": [ "兔女郎", "兔女郎", "兔女郎", "兔女郎", "兔女郎", "兔女郎" ],
 				"Sku": "com.popcap.pvz2.android.dusklobber_custom_03"
 			}
 		}, {
@@ -4603,7 +4603,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Blue Ribbon", "Blue Ribbon", "Blue Ribbon", "Blue Ribbon", "Blue Ribbon", "Blue Ribbon" ],
+				"ShortDescriptions": [ "蓝丝带", "蓝丝带", "蓝丝带", "蓝丝带", "蓝丝带", "蓝丝带" ],
 				"Sku": "com.popcap.pvz2.android.hollyknight_custom_01"
 			}
 		}, {
@@ -4621,7 +4621,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Lucky Hat", "Lucky Hat", "Lucky Hat", "Lucky Hat", "Lucky Hat", "Lucky Hat" ],
+				"ShortDescriptions": [ "幸运帽", "幸运帽", "幸运帽", "幸运帽", "幸运帽", "幸运帽" ],
 				"Sku": "com.popcap.pvz2.android.peashooter_custom_01"
 			}
 		}, {
@@ -4639,7 +4639,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Crown", "Crown", "Crown", "Crown", "Crown", "Crown" ],
+				"ShortDescriptions": [ "王冠", "王冠", "王冠", "王冠", "王冠", "王冠" ],
 				"Sku": "com.popcap.pvz2.android.peashooter_custom_02"
 			}
 		}, {
@@ -4657,7 +4657,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Cap", "Cap", "Cap", "Cap", "Cap", "Cap" ],
+				"ShortDescriptions": [ "帽子", "帽子", "帽子", "帽子", "帽子", "帽子" ],
 				"Sku": "com.popcap.pvz2.android.peashooter_custom_03"
 			}
 		}, {
@@ -4675,7 +4675,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Brotherhood", "Brotherhood", "Brotherhood", "Brotherhood", "Brotherhood", "Brotherhood" ],
+				"ShortDescriptions": [ "兄弟会", "兄弟会", "兄弟会", "兄弟会", "兄弟会", "兄弟会" ],
 				"Sku": "com.popcap.pvz2.android.peashooter_custom_04"
 			}
 		}, {
@@ -4693,7 +4693,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "20",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Sleeping Cutie", "Sleeping Cutie", "Sleeping Cutie", "Sleeping Cutie", "Sleeping Cutie", "Sleeping Cutie" ],
+				"ShortDescriptions": [ "沉睡的小可爱", "沉睡的小可爱", "沉睡的小可爱", "沉睡的小可爱", "沉睡的小可爱", "沉睡的小可爱" ],
 				"Sku": "com.popcap.pvz2.android.peashooter_custom_valentines"
 			}
 		}, {
@@ -4711,7 +4711,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Frankenstein", "Frankenstein", "Frankenstein", "Frankenstein", "Frankenstein", "Frankenstein" ],
+				"ShortDescriptions": [ "弗兰肯斯坦", "弗兰肯斯坦", "弗兰肯斯坦", "弗兰肯斯坦", "弗兰肯斯坦", "弗兰肯斯坦" ],
 				"Sku": "com.popcap.pvz2.android.peashooter_custom_holiday"
 			}
 		}, {
@@ -4729,7 +4729,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Green Zorro", "Green Zorro", "Green Zorro", "Green Zorro", "Green Zorro", "Green Zorro" ],
+				"ShortDescriptions": [ "绿佐罗", "绿佐罗", "绿佐罗", "绿佐罗", "绿佐罗", "绿佐罗" ],
 				"Sku": "com.popcap.pvz2.android.peashooter_custom_halloween"
 			}
 		}, {
@@ -4747,7 +4747,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Green Shadow", "Green Shadow", "Green Shadow", "Green Shadow", "Green Shadow", "Green Shadow" ],
+				"ShortDescriptions": [ "绿影侠", "绿影侠", "绿影侠", "绿影侠", "绿影侠", "绿影侠" ],
 				"Sku": "com.popcap.pvz2.android.peashooter_custom_thingsandstuff"
 			}
 		}, {
@@ -4765,7 +4765,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "20",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Waitress Hat", "Waitress Hat", "Waitress Hat", "Waitress Hat", "Waitress Hat", "Waitress Hat" ],
+				"ShortDescriptions": [ "服务员帽子", "服务员帽子", "服务员帽子", "服务员帽子", "服务员帽子", "服务员帽子" ],
 				"Sku": "com.popcap.pvz2.android.sunflower_custom_01"
 			}
 		}, {
@@ -4783,7 +4783,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Underframed Shades", "Underframed Shades", "Underframed Shades", "Underframed Shades", "Underframed Shades", "Underframed Shades" ],
+				"ShortDescriptions": [ "底框墨镜", "底框墨镜", "底框墨镜", "底框墨镜", "底框墨镜", "底框墨镜" ],
 				"Sku": "com.popcap.pvz2.android.sunflower_custom_02"
 			}
 		}, {
@@ -4801,7 +4801,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Red Glasses", "Red Glasses", "Red Glasses", "Red Glasses", "Red Glasses", "Red Glasses" ],
+				"ShortDescriptions": [ "红眼镜", "红眼镜", "红眼镜", "红眼镜", "红眼镜", "红眼镜" ],
 				"Sku": "com.popcap.pvz2.android.sunflower_custom_03"
 			}
 		}, {
@@ -4819,7 +4819,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Dusk Crown", "Dusk Crown", "Dusk Crown", "Dusk Crown", "Dusk Crown", "Dusk Crown" ],
+				"ShortDescriptions": [ "黄昏王冠", "黄昏王冠", "黄昏王冠", "黄昏王冠", "黄昏王冠", "黄昏王冠" ],
 				"Sku": "com.popcap.pvz2.android.sunflower_custom_04"
 			}
 		}, {
@@ -4837,7 +4837,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Heart Glasses", "Heart Glasses", "Heart Glasses", "Heart Glasses", "Heart Glasses", "Heart Glasses" ],
+				"ShortDescriptions": [ "心形眼镜", "心形眼镜", "心形眼镜", "心形眼镜", "心形眼镜", "心形眼镜" ],
 				"Sku": "com.popcap.pvz2.android.sunflower_custom_valentines"
 			}
 		}, {
@@ -4855,7 +4855,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Bowtie", "Bowtie", "Bowtie", "Bowtie", "Bowtie", "Bowtie" ],
+				"ShortDescriptions": [ "蝴蝶结", "蝴蝶结", "蝴蝶结", "蝴蝶结", "蝴蝶结", "蝴蝶结" ],
 				"Sku": "com.popcap.pvz2.android.sunflower_custom_holiday"
 			}
 		}, {
@@ -4873,7 +4873,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Witchy Hat", "Witchy Hat", "Witchy Hat", "Witchy Hat", "Witchy Hat", "Witchy Hat" ],
+				"ShortDescriptions": [ "女巫帽", "女巫帽", "女巫帽", "女巫帽", "女巫帽", "女巫帽" ],
 				"Sku": "com.popcap.pvz2.android.sunflower_custom_halloween"
 			}
 		}, {
@@ -4891,7 +4891,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Solar Flare", "Solar Flare", "Solar Flare", "Solar Flare", "Solar Flare", "Solar Flare" ],
+				"ShortDescriptions": [ "耀斑花", "耀斑花", "耀斑花", "耀斑花", "耀斑花", "耀斑花" ],
 				"Sku": "com.popcap.pvz2.android.sunflower_custom_thingsandstuff"
 			}
 		}, {
@@ -4909,7 +4909,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Bowtie #1", "Bowtie #1", "Bowtie #1", "Bowtie #1", "Bowtie #1", "Bowtie #1" ],
+				"ShortDescriptions": [ "蝴蝶结 #1", "蝴蝶结 #1", "蝴蝶结 #1", "蝴蝶结 #1", "蝴蝶结 #1", "蝴蝶结 #1" ],
 				"Sku": "com.popcap.pvz2.android.wallnut_custom_01"
 			}
 		}, {
@@ -4927,7 +4927,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Bowtie #2", "Bowtie #2", "Bowtie #2", "Bowtie #2", "Bowtie #2", "Bowtie #2" ],
+				"ShortDescriptions": [ "蝴蝶结 #2", "蝴蝶结 #2", "蝴蝶结 #2", "蝴蝶结 #2", "蝴蝶结 #2", "蝴蝶结 #2" ],
 				"Sku": "com.popcap.pvz2.android.wallnut_custom_02"
 			}
 		}, {
@@ -4945,7 +4945,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "99",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Ice Fairy", "Ice Fairy", "Ice Fairy", "Ice Fairy", "Ice Fairy", "Ice Fairy" ],
+				"ShortDescriptions": [ "冰雪仙女", "冰雪仙女", "冰雪仙女", "冰雪仙女", "冰雪仙女", "冰雪仙女" ],
 				"Sku": "com.popcap.pvz2.android.missiletoe_custom_03"
 			}
 		}, {
@@ -4963,7 +4963,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Waiter's Attire", "Waiter's Attire", "Waiter's Attire", "Waiter's Attire", "Waiter's Attire", "Waiter's Attire" ],
+				"ShortDescriptions": [ "服务员着装", "服务员着装", "服务员着装", "服务员着装", "服务员着装", "服务员着装" ],
 				"Sku": "com.popcap.pvz2.android.wallnut_custom_04"
 			}
 		}, {
@@ -4981,7 +4981,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "20",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Red Commander", "Red Commander", "Red Commander", "Red Commander", "Red Commander", "Red Commander" ],
+				"ShortDescriptions": [ "红色指挥官", "红色指挥官", "红色指挥官", "红色指挥官", "红色指挥官", "红色指挥官" ],
 				"Sku": "com.popcap.pvz2.android.strawburst_custom_03"
 			}
 		}, {
@@ -4999,7 +4999,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Scarf", "Scarf", "Scarf", "Scarf", "Scarf", "Scarf" ],
+				"ShortDescriptions": [ "围巾", "围巾", "围巾", "围巾", "围巾", "围巾" ],
 				"Sku": "com.popcap.pvz2.android.wallnut_custom_holiday"
 			}
 		}, {
@@ -5017,7 +5017,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Mummy Wrap", "Mummy Wrap", "Mummy Wrap", "Mummy Wrap", "Mummy Wrap", "Mummy Wrap" ],
+				"ShortDescriptions": [ "木乃伊", "木乃伊", "木乃伊", "木乃伊", "木乃伊", "木乃伊" ],
 				"Sku": "com.popcap.pvz2.android.wallnut_custom_halloween"
 			}
 		}, {
@@ -5035,7 +5035,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Wall-knight", "Wall-knight", "Wall-knight", "Wall-knight", "Wall-knight", "Wall-knight" ],
+				"ShortDescriptions": [ "木乃伊坚果骑士", "木乃伊坚果骑士", "木乃伊坚果骑士", "木乃伊坚果骑士", "木乃伊坚果骑士", "木乃伊坚果骑士" ],
 				"Sku": "com.popcap.pvz2.android.wallnut_custom_thingsandstuff"
 			}
 		}, {
@@ -5053,7 +5053,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Hearty Earmuff", "Hearty Earmuff", "Hearty Earmuff", "Hearty Earmuff", "Hearty Earmuff", "Hearty Earmuff" ],
+				"ShortDescriptions": [ "爱心耳罩", "爱心耳罩", "爱心耳罩", "爱心耳罩", "爱心耳罩", "爱心耳罩" ],
 				"Sku": "com.popcap.pvz2.android.iceburg_custom_valentines"
 			}
 		}, {
@@ -5071,7 +5071,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Hearty Headband", "Hearty Headband", "Hearty Headband", "Hearty Headband", "Hearty Headband", "Hearty Headband" ],
+				"ShortDescriptions": [ "爱心头带", "爱心头带", "爱心头带", "爱心头带", "爱心头带", "爱心头带" ],
 				"Sku": "com.popcap.pvz2.android.pepperpult_custom_valentines"
 			}
 		}, {
@@ -5089,7 +5089,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "49",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "War Hog", "War Hog", "War Hog", "War Hog", "War Hog", "War Hog" ],
+				"ShortDescriptions": [ "战豪", "战豪", "战豪", "战豪", "战豪", "战豪" ],
 				"Sku": "com.popcap.pvz2.android.endurian_custom_03"
 			}
 		}, {
@@ -5107,7 +5107,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "20",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Bear Trap", "Bear Trap", "Bear Trap", "Bear Trap", "Bear Trap", "Bear Trap" ],
+				"ShortDescriptions": [ "捕熊器", "捕熊器", "捕熊器", "捕熊器", "捕熊器", "捕熊器" ],
 				"Sku": "com.popcap.pvz2.android.guacodile_custom_02"
 			}
 		}, {
@@ -5125,7 +5125,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "49",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Wall Hero", "Wall Hero", "Wall Hero", "Wall Hero", "Wall Hero", "Wall Hero" ],
+				"ShortDescriptions": [ "高墙英雄", "高墙英雄", "高墙英雄", "高墙英雄", "高墙英雄", "高墙英雄" ],
 				"Sku": "com.popcap.pvz2.android.tallnut_custom_06"
 			}
 		}, {
@@ -5143,7 +5143,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Badboy", "Badboy", "Badboy", "Badboy", "Badboy", "Badboy" ],
+				"ShortDescriptions": [ "坏男孩", "坏男孩", "坏男孩", "坏男孩", "坏男孩", "坏男孩" ],
 				"Sku": "com.popcap.pvz2.android.pepperpult_custom_04"
 			}
 		}, {
@@ -5161,7 +5161,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Lovely Poncho", "Lovely Poncho", "Lovely Poncho", "Lovely Poncho", "Lovely Poncho", "Lovely Poncho" ],
+				"ShortDescriptions": [ "爱心斗篷", "爱心斗篷", "爱心斗篷", "爱心斗篷", "爱心斗篷", "爱心斗篷" ],
 				"Sku": "com.popcap.pvz2.android.tallnut_custom_valentines"
 			}
 		}, {
@@ -5179,7 +5179,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "20",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Double Mischief", "Double Mischief", "Double Mischief", "Double Mischief", "Double Mischief", "Double Mischief" ],
+				"ShortDescriptions": [ "双重恶作剧", "双重恶作剧", "双重恶作剧", "双重恶作剧", "双重恶作剧", "双重恶作剧" ],
 				"Sku": "com.popcap.pvz2.android.twinsunflower_custom_06"
 			}
 		}, {
@@ -5197,7 +5197,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "You know what this is", "You know what this is", "You know what this is", "You know what this is", "You know what this is", "You know what this is" ],
+				"ShortDescriptions": [ "你知道这是什么", "你知道这是什么", "你知道这是什么", "你知道这是什么", "你知道这是什么", "你知道这是什么" ],
 				"Sku": "com.popcap.pvz2.android.marigold_custom_03"
 			}
 		}, {
@@ -5215,7 +5215,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "49",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Blood Crystal", "Blood Crystal", "Blood Crystal", "Blood Crystal", "Blood Crystal", "Blood Crystal" ],
+				"ShortDescriptions": [ "血晶", "血晶", "血晶", "血晶", "血晶", "血晶" ],
 				"Sku": "com.popcap.pvz2.android.spearmint_custom_01"
 			}
 		}, {
@@ -5233,7 +5233,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "49",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Snow Cat", "Snow Cat", "Snow Cat", "Snow Cat", "Snow Cat", "Snow Cat" ],
+				"ShortDescriptions": [ "雪猫", "雪猫", "雪猫", "雪猫", "雪猫", "雪猫" ],
 				"Sku": "com.popcap.pvz2.android.spearmint_custom_02"
 			}
 		}, {
@@ -5251,7 +5251,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "99",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Paladin", "Paladin", "Paladin", "Paladin", "Paladin", "Paladin" ],
+				"ShortDescriptions": [ "圣骑士", "圣骑士", "圣骑士", "圣骑士", "圣骑士", "圣骑士" ],
 				"Sku": "com.popcap.pvz2.android.parsnip_custom_03"
 			}
 		}, {
@@ -5269,7 +5269,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "99",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Dark Knight", "Dark Knight", "Dark Knight", "Dark Knight", "Dark Knight", "Dark Knight" ],
+				"ShortDescriptions": [ "黑骑士", "黑骑士", "黑骑士", "黑骑士", "黑骑士", "黑骑士" ],
 				"Sku": "com.popcap.pvz2.android.chardguard_custom_01"
 			}
 		}, {
@@ -5287,7 +5287,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "20",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Rainbow Petals", "Rainbow Petals", "Rainbow Petals", "Rainbow Petals", "Rainbow Petals", "Rainbow Petals" ],
+				"ShortDescriptions": [ "彩虹花瓣", "彩虹花瓣", "彩虹花瓣", "彩虹花瓣", "彩虹花瓣", "彩虹花瓣" ],
 				"Sku": "com.popcap.pvz2.android.marigold_custom_01"
 			}
 		}, {
@@ -5305,7 +5305,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "99",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Peacock Mask", "Peacock Mask", "Peacock Mask", "Peacock Mask", "Peacock Mask", "Peacock Mask" ],
+				"ShortDescriptions": [ "孔雀面具", "孔雀面具", "孔雀面具", "孔雀面具", "孔雀面具", "孔雀面具" ],
 				"Sku": "com.popcap.pvz2.android.repeater_custom_06"
 			}
 		}, {
@@ -5323,7 +5323,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "0",
 				"PriceMints": "29",
-				"ShortDescriptions": [ "Gascar", "Gascar", "Gascar", "Gascar", "Gascar", "Gascar" ],
+				"ShortDescriptions": [ "天然气汽车", "天然气汽车", "天然气汽车", "天然气汽车", "天然气汽车", "天然气汽车" ],
 				"Sku": "com.popcap.pvz2.android.chilibean_custom_04"
 			}
 		}, {
@@ -5341,7 +5341,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "0",
 				"PriceMints": "29",
-				"ShortDescriptions": [ "Slug", "Slug", "Slug", "Slug", "Slug", "Slug" ],
+				"ShortDescriptions": [ "鼻涕虫", "鼻涕虫", "鼻涕虫", "鼻涕虫", "鼻涕虫", "鼻涕虫" ],
 				"Sku": "com.popcap.pvz2.android.shadowshroom_custom_02"
 			}
 		}, {
@@ -5359,7 +5359,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "49",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Vapor Inhalation Protector", "Vapor Inhalation Protector", "Vapor Inhalation Protector", "Vapor Inhalation Protector", "Vapor Inhalation Protector", "Vapor Inhalation Protector" ],
+				"ShortDescriptions": [ "蒸汽吸入保护器", "蒸汽吸入保护器", "蒸汽吸入保护器", "蒸汽吸入保护器", "蒸汽吸入保护器", "蒸汽吸入保护器" ],
 				"Sku": "com.popcap.pvz2.android.jackolantern_custom_03"
 			}
 		}, {
@@ -5377,7 +5377,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "99",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Shadow Mage", "Shadow Mage", "Shadow Mage", "Shadow Mage", "Shadow Mage", "Shadow Mage" ],
+				"ShortDescriptions": [ "暗影法师", "暗影法师", "暗影法师", "暗影法师", "暗影法师", "暗影法师" ],
 				"Sku": "com.popcap.pvz2.android.moonflower_custom_02"
 			}
 		}, {
@@ -5395,7 +5395,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "49",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Black Assassin", "Black Assassin", "Black Assassin", "Black Assassin", "Black Assassin", "Black Assassin" ],
+				"ShortDescriptions": [ "黑色刺客", "黑色刺客", "黑色刺客", "黑色刺客", "黑色刺客", "黑色刺客" ],
 				"Sku": "com.popcap.pvz2.android.armamint_custom_01"
 			}
 		}, {
@@ -5413,7 +5413,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "... (Lawn)", "... (Lawn)", "... (Lawn)", "... (Lawn)", "... (Lawn)", "... (Lawn)" ],
+				"ShortDescriptions": [ "... (草坪)", "... (草坪)", "... (草坪)", "... (草坪)", "... (草坪)", "... (草坪)" ],
 				"Sku": "com.popcap.pvz2.android.enlightenmint_custom_03"
 			}
 		}, {
@@ -5431,7 +5431,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "0",
 				"PriceMints": "9",
-				"ShortDescriptions": [ "Rainbow Petals (Lawn)", "Rainbow Petals (Lawn)", "Rainbow Petals (Lawn)", "Rainbow Petals (Lawn)", "Rainbow Petals (Lawn)", "Rainbow Petals (Lawn)" ],
+				"ShortDescriptions": [ "彩虹花瓣 (草坪)", "彩虹花瓣 (草坪)", "彩虹花瓣 (草坪)", "彩虹花瓣 (草坪)", "彩虹花瓣 (草坪)", "彩虹花瓣 (草坪)" ],
 				"Sku": "com.popcap.pvz2.android.enlightenmint_custom_01"
 			}
 		}, {
@@ -5449,7 +5449,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "99",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "White Maiden", "White Maiden", "White Maiden", "White Maiden", "White Maiden", "White Maiden" ],
+				"ShortDescriptions": [ "纯白少女", "纯白少女", "纯白少女", "纯白少女", "纯白少女", "纯白少女" ],
 				"Sku": "com.popcap.pvz2.android.marigold_custom_02"
 			}
 		}, {
@@ -5467,7 +5467,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "0",
 				"PriceMints": "9",
-				"ShortDescriptions": [ "White Maiden (Lawn)", "White Maiden (Lawn)", "White Maiden (Lawn)", "White Maiden (Lawn)", "White Maiden (Lawn)", "White Maiden (Lawn)" ],
+				"ShortDescriptions": [ "纯白少女 (草坪)", "纯白少女 (草坪)", "纯白少女 (草坪)", "纯白少女 (草坪)", "纯白少女 (草坪)", "纯白少女 (草坪)" ],
 				"Sku": "com.popcap.pvz2.android.enlightenmint_custom_02"
 			}
 		}, {
@@ -5485,7 +5485,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "10",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Bunny Ears", "Bunny Ears", "Bunny Ears", "Bunny Ears", "Bunny Ears", "Bunny Ears" ],
+				"ShortDescriptions": [ "兔耳朵", "兔耳朵", "兔耳朵", "兔耳朵", "兔耳朵", "兔耳朵" ],
 				"Sku": "com.popcap.pvz2.android.snapdragon_custom_07"
 			}
 		}, {
@@ -5503,7 +5503,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Shades", "Shades", "Shades", "Shades", "Shades", "Shades" ],
+				"ShortDescriptions": [ "墨镜", "墨镜", "墨镜", "墨镜", "墨镜", "墨镜" ],
 				"Sku": "com.popcap.pvz2.android.stickybombrice_custom_01"
 			}
 		}, {
@@ -5521,7 +5521,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Visor", "Visor", "Visor", "Visor", "Visor", "Visor" ],
+				"ShortDescriptions": [ "遮阳帽舌", "遮阳帽舌", "遮阳帽舌", "遮阳帽舌", "遮阳帽舌", "遮阳帽舌" ],
 				"Sku": "com.popcap.pvz2.android.chomper_custom_02"
 			}
 		}, {
@@ -5539,7 +5539,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Mafia Hat", "Mafia Hat", "Mafia Hat", "Mafia Hat", "Mafia Hat", "Mafia Hat" ],
+				"ShortDescriptions": [ "黑手党帽", "黑手党帽", "黑手党帽", "黑手党帽", "黑手党帽", "黑手党帽" ],
 				"Sku": "com.popcap.pvz2.android.hocus_custom_01"
 			}
 		}, {
@@ -5557,7 +5557,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "49",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Silkdusk", "Silkdusk", "Silkdusk", "Silkdusk", "Silkdusk", "Silkdusk" ],
+				"ShortDescriptions": [ "幽暗丝绸", "幽暗丝绸", "幽暗丝绸", "幽暗丝绸", "幽暗丝绸", "幽暗丝绸" ],
 				"Sku": "com.popcap.pvz2.android.concealmint_custom_01"
 			}
 		}, {
@@ -5575,7 +5575,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "99",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Nightwing", "Nightwing", "Nightwing", "Nightwing", "Nightwing", "Nightwing" ],
+				"ShortDescriptions": [ "夜翼", "夜翼", "夜翼", "夜翼", "夜翼", "夜翼" ],
 				"Sku": "com.popcap.pvz2.android.stickybombrice_custom_02"
 			}
 		}, {
@@ -5593,7 +5593,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "99",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Fire Ant", "Fire Ant", "Fire Ant", "Fire Ant", "Fire Ant", "Fire Ant" ],
+				"ShortDescriptions": [ "火蚁", "火蚁", "火蚁", "火蚁", "火蚁", "火蚁" ],
 				"Sku": "com.popcap.pvz2.android.nightshade_custom_02"
 			}
 		}, {
@@ -5611,7 +5611,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "20",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Cherokee", "Cherokee", "Cherokee", "Cherokee", "Cherokee", "Cherokee" ],
+				"ShortDescriptions": [ "切诺基", "切诺基", "切诺基", "切诺基", "切诺基", "切诺基" ],
 				"Sku": "com.popcap.pvz2.android.sunbean_custom_02"
 			}
 		}, {
@@ -5629,7 +5629,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "49",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Aquarius Knight", "Aquarius Knight", "Aquarius Knight", "Aquarius Knight", "Aquarius Knight", "Aquarius Knight" ],
+				"ShortDescriptions": [ "宝瓶骑士", "宝瓶骑士", "宝瓶骑士", "宝瓶骑士", "宝瓶骑士", "宝瓶骑士" ],
 				"Sku": "com.popcap.pvz2.android.cabbagepult_custom_06"
 			}
 		}, {
@@ -5647,7 +5647,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "49",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Umbra Armor", "Umbra Armor", "Umbra Armor", "Umbra Armor", "Umbra Armor", "Umbra Armor" ],
+				"ShortDescriptions": [ "暗影盔甲", "暗影盔甲", "暗影盔甲", "暗影盔甲", "暗影盔甲", "暗影盔甲" ],
 				"Sku": "com.popcap.pvz2.android.torchwood_custom_03"
 			}
 		}, {
@@ -5665,7 +5665,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "0",
 				"PriceMints": "59",
-				"ShortDescriptions": [ "Monarchy Crown", "Monarchy Crown", "Monarchy Crown", "Monarchy Crown", "Monarchy Crown", "Monarchy Crown" ],
+				"ShortDescriptions": [ "君主王冠", "君主王冠", "君主王冠", "君主王冠", "君主王冠", "君主王冠" ],
 				"Sku": "com.popcap.pvz2.android.hocus_custom_02"
 			}
 		}, {
@@ -5683,7 +5683,7 @@
 				"PriceCoins": "10",
 				"PriceGems": "0",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Moth Lamp", "Moth Lamp", "Moth Lamp", "Moth Lamp", "Moth Lamp", "Moth Lamp" ],
+				"ShortDescriptions": [ "蛾灯", "蛾灯", "蛾灯", "蛾灯", "蛾灯", "蛾灯" ],
 				"Sku": "com.popcap.pvz2.android.dandelion_custom_01"
 			}
 		}, {
@@ -5699,7 +5699,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "1",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "Hardcoded Unremovable Pinata", "Hardcoded Unremovable Pinata", "Hardcoded Unremovable Pinata", "Hardcoded Unremovable Pinata", "Hardcoded Unremovable Pinata", "Hardcoded Unremovable Pinata" ],
+				"ShortDescriptions": [ "因硬编码而无法移除的彩陶", "因硬编码而无法移除的彩陶", "因硬编码而无法移除的彩陶", "因硬编码而无法移除的彩陶", "因硬编码而无法移除的彩陶", "因硬编码而无法移除的彩陶" ],
 				"Sku": "com.popcap.pvz2.android.pinata.peashooter.consume"
 			}
 		}, {
@@ -5715,7 +5715,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "0",
 				"PriceMints": "49",
-				"ShortDescriptions": [ "10000 ~ 25000 Coins\n3 ~ 6 Mini Packets", "10000 ~ 25000 Coins\n3 ~ 6 Mini Packets", "10000 ~ 25000 Coins\n3 ~ 6 Mini Packets", "10000 ~ 25000 Coins\n3 ~ 6 Mini Packets", "10000 ~ 25000 Coins\n3 ~ 6 Mini Packets", "10000 ~ 25000 Coins\n3 ~ 6 Mini Packets" ],
+				"ShortDescriptions": [ "10000 ~ 25000 枚硬币\n3 ~ 6 份迷你卡包", "10000 ~ 25000 枚硬币\n3 ~ 6 份迷你卡包", "10000 ~ 25000 枚硬币\n3 ~ 6 份迷你卡包", "10000 ~ 25000 枚硬币\n3 ~ 6 份迷你卡包", "10000 ~ 25000 枚硬币\n3 ~ 6 份迷你卡包", "10000 ~ 25000 枚硬币\n3 ~ 6 份迷你卡包" ],
 				"Sku": "com.popcap.pvz2.android.pinata.mini"
 			}
 		}, {
@@ -5731,7 +5731,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "19",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "1 packet for each Mini Plant", "1 packet for each Mini Plant", "1 packet for each Mini Plant", "1 packet for each Mini Plant", "1 packet for each Mini Plant", "1 packet for each Mini Plant" ],
+				"ShortDescriptions": [ "每个迷你植物 1 卡包", "每个迷你植物 1 卡包", "每个迷你植物 1 卡包", "每个迷你植物 1 卡包", "每个迷你植物 1 卡包", "每个迷你植物 1 卡包" ],
 				"Sku": "com.popcap.pvz2.android.pinata.mini_all"
 			}
 		}, {
@@ -5747,7 +5747,7 @@
 				"PriceCoins": "690000",
 				"PriceGems": "0",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "100 packets for a random Mini Plant", "100 packets for a random Mini Plant", "100 packets for a random Mini Plant", "100 packets for a random Mini Plant", "100 packets for a random Mini Plant", "100 packets for a random Mini Plant" ],
+				"ShortDescriptions": [ "随机一个迷你植物 100 份卡包", "随机一个迷你植物 100 份卡包", "随机一个迷你植物 100 份卡包", "随机一个迷你植物 100 份卡包", "随机一个迷你植物 100 份卡包", "随机一个迷你植物 100 份卡包" ],
 				"Sku": "com.popcap.pvz2.android.pinata.mini_mega"
 			}
 		}, {
@@ -5767,7 +5767,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "1",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "1000 Coins!", "1000 Coins!", "1000 Coins!", "1000 Coins!", "1000 Coins!", "1000 Coins!" ],
+				"ShortDescriptions": [ "1000 枚硬币!", "1000 枚硬币!", "1000 枚硬币!", "1000 枚硬币!", "1000 枚硬币!", "1000 枚硬币!" ],
 				"Sku": "com.popcap.pvz2.android.coins1"
 			}
 		}, {
@@ -5787,7 +5787,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "5",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "5000 Coins!", "5000 Coins!", "5000 Coins!", "5000 Coins!", "5000 Coins!", "5000 Coins!" ],
+				"ShortDescriptions": [ "5000 枚硬币!", "5000 枚硬币!", "5000 枚硬币!", "5000 枚硬币!", "5000 枚硬币!", "5000 枚硬币!" ],
 				"Sku": "com.popcap.pvz2.android.coins2"
 			}
 		}, {
@@ -5807,7 +5807,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "25",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "27500 Coins!", "27500 Coins!", "27500 Coins!", "27500 Coins!", "27500 Coins!", "27500 Coins!" ],
+				"ShortDescriptions": [ "27500 枚硬币!", "27500 枚硬币!", "27500 枚硬币!", "27500 枚硬币!", "27500 枚硬币!", "27500 枚硬币!" ],
 				"Sku": "com.popcap.pvz2.android.coins3"
 			}
 		}, {
@@ -5827,7 +5827,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "125",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "150000 Coins!", "150000 Coins!", "150000 Coins!", "150000 Coins!", "150000 Coins!", "150000 Coins!" ],
+				"ShortDescriptions": [ "150000 枚硬币!", "150000 枚硬币!", "150000 枚硬币!", "150000 枚硬币!", "150000 枚硬币!", "150000 枚硬币!" ],
 				"Sku": "com.popcap.pvz2.android.coins4"
 			}
 		}, {
@@ -5847,7 +5847,7 @@
 				"PriceCoins": "2000",
 				"PriceGems": "0",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "1 Gem!", "1 Gem!", "1 Gem!", "1 Gem!", "1 Gem!", "1 Gem!" ],
+				"ShortDescriptions": [ "1 颗钻石!", "1 颗钻石!", "1 颗钻石!", "1 颗钻石!", "1 颗钻石!", "1 颗钻石!" ],
 				"Sku": "com.popcap.pvz2.android.gems1"
 			}
 		}, {
@@ -5867,7 +5867,7 @@
 				"PriceCoins": "60000",
 				"PriceGems": "0",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "32 Gems!", "32 Gems!", "32 Gems!", "32 Gems!", "32 Gems!", "32 Gems!" ],
+				"ShortDescriptions": [ "32 颗钻石!", "32 颗钻石!", "32 颗钻石!", "32 颗钻石!", "32 颗钻石!", "32 颗钻石!" ],
 				"Sku": "com.popcap.pvz2.android.gems2"
 			}
 		}, {
@@ -5887,7 +5887,7 @@
 				"PriceCoins": "120000",
 				"PriceGems": "0",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "68 Gems!", "68 Gems!", "68 Gems!", "68 Gems!", "68 Gems!", "68 Gems!" ],
+				"ShortDescriptions": [ "68 颗钻石!", "68 颗钻石!", "68 颗钻石!", "68 颗钻石!", "68 颗钻石!", "68 颗钻石!" ],
 				"Sku": "com.popcap.pvz2.android.gems3"
 			}
 		}, {
@@ -5907,7 +5907,7 @@
 				"PriceCoins": "250000",
 				"PriceGems": "0",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "149 Gems!", "149 Gems!", "149 Gems!", "149 Gems!", "149 Gems!", "149 Gems!" ],
+				"ShortDescriptions": [ "149 颗钻石!", "149 颗钻石!", "149 颗钻石!", "149 颗钻石!", "149 颗钻石!", "149 颗钻石!" ],
 				"Sku": "com.popcap.pvz2.android.gems4"
 			}
 		}, {
@@ -5927,7 +5927,7 @@
 				"PriceCoins": "400000",
 				"PriceGems": "0",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "246 Gems!", "246 Gems!", "246 Gems!", "246 Gems!", "246 Gems!", "246 Gems!" ],
+				"ShortDescriptions": [ "246 颗钻石!", "246 颗钻石!", "246 颗钻石!", "246 颗钻石!", "246 颗钻石!", "246 颗钻石!" ],
 				"Sku": "com.popcap.pvz2.android.gems5"
 			}
 		}, {
@@ -5947,7 +5947,7 @@
 				"PriceCoins": "800000",
 				"PriceGems": "0",
 				"PriceMints": "0",
-				"ShortDescriptions": [ "499 Gems!", "499 Gems!", "499 Gems!", "499 Gems!", "499 Gems!", "499 Gems!" ],
+				"ShortDescriptions": [ "499 颗钻石!", "499 颗钻石!", "499 颗钻石!", "499 颗钻石!", "499 颗钻石!", "499 颗钻石!" ],
 				"Sku": "com.popcap.pvz2.android.gems6"
 			}
 		} ],

@@ -20,7 +20,7 @@
   {
     "key": "4",
     "original": "Spend 3000 sun to break the statues before the final wave",
-    "translation": "在最后一波之前花费 3000 阳光摧毁雕像",
+    "translation": "在最后一波前花费 3000 阳光摧毁雕像",
     "stage": 5
   },
   {
@@ -38,7 +38,7 @@
   {
     "key": "7",
     "original": "Survive with the given plants\\nUse Plant Food on your Iceberg Lettuces or Sunflowers to make sun",
-    "translation": "使用给定的植物存活下来\\n给你的冰冻生菜或者向日葵叶绿素来生成阳光",
+    "translation": "使用给定的植物存活下来\\n给你的冰冻生菜或者向日葵使用叶绿素来生成阳光",
     "stage": 5
   },
   {
@@ -188,7 +188,7 @@
   {
     "key": "32",
     "original": "Survive with 800 starting sun\\nSpend 3000 sun to break the statues before the final wave",
-    "translation": "在有 800 初始阳光的情况下存活下来\\n在最后一波之前花费 3000 阳光摧毁雕像",
+    "translation": "在有 800 初始阳光的情况下存活下来\\n在最后一波前花费 3000 阳光摧毁雕像",
     "stage": 5
   },
   {
@@ -398,7 +398,7 @@
   {
     "key": "67",
     "original": "Spend 5000 sun to break the statues before the final wave",
-    "translation": "在最后一波之前花费 5000 阳光摧毁雕像",
+    "translation": "在最后一波前花费 5000 阳光摧毁雕像",
     "stage": 5
   },
   {
@@ -614,7 +614,7 @@
   {
     "key": "103",
     "original": "Football Zombies won't eat your plants nor your brain this time.\\nKill at least 20 of them.",
-    "translation": "橄榄球僵尸这次将不会吃你的植物和你的脑子.\\n至少将他们 20 只击杀掉.",
+    "translation": "橄榄球僵尸这次将不会吃你的植物和你的脑子.\\n至少击杀 20 只橄榄球僵尸.",
     "stage": 5
   },
   {
@@ -1052,7 +1052,7 @@
   {
     "key": "176",
     "original": "Spend 3000 sun to break the statues before the final wave",
-    "translation": "在最后一波之前花费 3000 阳光摧毁雕像",
+    "translation": "在最后一波前花费 3000 阳光摧毁雕像",
     "stage": 5
   },
   {
@@ -1190,7 +1190,7 @@
   {
     "key": "199",
     "original": "Survive with the chosen plants and conveyor\\nPlants from the conveyor cost sun to plant!",
-    "translation": "使用选定的和传送带给的植物存活下来\\n送带给的植物需要花费阳光才能种植!",
+    "translation": "使用选定的和传送带给的植物存活下来\\n传送带给的植物需要花费阳光才能种植!",
     "stage": 5
   },
   {
@@ -1406,7 +1406,7 @@
   {
     "key": "235",
     "original": "Spend 5000 sun to break the statues before the final wave",
-    "translation": "在最后一波之前花费 5000 阳光摧毁雕像",
+    "translation": "在最后一波前花费 5000 阳光摧毁雕像",
     "stage": 5
   },
   {
@@ -1454,7 +1454,7 @@
   {
     "key": "243",
     "original": "Spend 3000 sun to break the statues before the final wave",
-    "translation": "在最后一波之前花费 3000 阳光摧毁雕像",
+    "translation": "在最后一波前花费 3000 阳光摧毁雕像",
     "stage": 5
   },
   {
@@ -2078,7 +2078,7 @@
   {
     "key": "347",
     "original": "Plant Moonflowers on Boost Tiles and protect their shields before the first flag wave\\nAll zombies are stronger during the eclipse\\nSunburn will follow the eclipse\\nSpend 5000 sun to break the statues before the final wave",
-    "translation": "在第一大波前在强化地砖上种满月光花并保护她们的护罩\\n在日食时所有僵尸都会变强\\n日食后随之而来的是日灼\\n在最后一波之前花费 5000 阳光摧毁雕像",
+    "translation": "在第一大波前在强化地砖上种满月光花并保护她们的护罩\\n在日食时所有僵尸都会变强\\n日食后随之而来的是日灼\\n在最后一波前花费 5000 阳光摧毁雕像",
     "stage": 5
   },
   {

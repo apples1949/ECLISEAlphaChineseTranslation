@@ -1,0 +1,248 @@
+{
+	"#note": "Please do not publicize these code lines or distribute a modified version of the mod - keep this to yourself. That includes the levels as well. Thanks! - DT",
+	"#comment": "",
+	"version": 1,
+	"objects": [ {
+			"objclass": "MarketLayoutProps",
+			"aliases": [ "MarketLayoutProps" ],
+			"objdata": {
+				"GlobalConfig": {
+					"NotificationTimerEvent": "QA 2020 Year of 8 Hour Events",
+					"NotificationDailyGiftCategory": "Daily Offers"
+				},
+				"Markets": [ {
+						"Type": "Main",
+						"Clusters": [ "Promotions", "Resources", "Costumes", "Costumes_2", "Costumes_3", "Costumes_4", "Costumes_5" ]
+					}, {
+						"Type": "Tutorial",
+						"Clusters": [ "Tutorial" ]
+					}, {
+						"Type": "Tutorial50MB",
+						"Clusters": [ "Tutorial50MB" ]
+					}, {
+						"Type": "CoinQuickStore",
+						"Clusters": [ "CoinQuickStore" ],
+						"QuickStoreInnerHeader": "[STORE_COINS_CURRENT_PROFILE]",
+						"ShowInnerHeaderOnlyForMultipleProfiles": "true"
+					}, {
+						"Type": "GemQuickStore",
+						"Clusters": [ "GemQuickStore" ],
+						"QuickStoreInnerHeader": "[STORE_GEMS_CURRENT_PROFILE]",
+						"ShowInnerHeaderOnlyForMultipleProfiles": "true"
+					}, {
+						"Type": "SproutQuickStore",
+						"Clusters": [ "SproutQuickStore" ],
+						"QuickStoreInnerHeader": "[STORE_SPROUTS_CURRENT_PROFILE]",
+						"ShowInnerHeaderOnlyForMultipleProfiles": "true"
+					} ],
+				"Clusters": [ {
+						"Type": "Promotions",
+						"Tabs": [ "Promoted Offers" ]
+					}, {
+						"Type": "Resources",
+						"Tabs": [ "Resources" ]
+					}, {
+						"Type": "Costumes",
+						"Tabs": [ "Costumes" ]
+					}, {
+						"Type": "Costumes_2",
+						"Tabs": [ "Costumes_2" ]
+					}, {
+						"Type": "Costumes_3",
+						"Tabs": [ "Costumes_3" ]
+					}, {
+						"Type": "Costumes_4",
+						"Tabs": [ "Costumes_4" ]
+					}, {
+						"Type": "Costumes_5",
+						"Tabs": [ "Costumes_5" ]
+					}, {
+						"Type": "Tutorial",
+						"Tabs": [ "Tutorial" ]
+					}, {
+						"Type": "Tutorial50MB",
+						"Tabs": [ "Tutorial50MB" ]
+					}, {
+						"Type": "CoinQuickStore",
+						"Tabs": [ "CoinQuickStore" ]
+					}, {
+						"Type": "GemQuickStore",
+						"Tabs": [ "GemQuickStore" ]
+					}, {
+						"Type": "SproutQuickStore",
+						"Tabs": [ "SproutQuickStore" ]
+					} ],
+				"Tabs": [ {
+						"Type": "Promoted Offers",
+						"Name": "[STORE_TAB_MAIN]",
+						"ImageDown": "IMAGE_UI_STORE_GEMSTAB_DOWN",
+						"ImageActive": "IMAGE_UI_STORE_GEMSTAB_ACTIVE",
+						"Categories": [ "Promoted Offers", "Plants" ]
+					}, {
+						"Type": "Resources",
+						"Name": "[STORE_TAB_RESOURCES]",
+						"ImageDown": "IMAGE_UI_STORE_COINSTAB_DOWN",
+						"ImageActive": "IMAGE_UI_STORE_COINSTAB_ACTIVE",
+						"Categories": [ "Coins", "Gems" ]
+					}, {
+						"Type": "Costumes",
+						"Name": "[STORE_TAB_COSTUMES]",
+						"ImageDown": "IMAGE_UI_STORE_SPROUTSTAB_DOWN",
+						"ImageActive": "IMAGE_UI_STORE_SPROUTSTAB_ACTIVE",
+						"Categories": [ "Costumes" ]
+					}, {
+						"Type": "Costumes_2",
+						"Name": "[STORE_TAB_COSTUMES]",
+						"ImageDown": "IMAGE_UI_STORE_SPROUTSTAB_DOWN",
+						"ImageActive": "IMAGE_UI_STORE_SPROUTSTAB_ACTIVE",
+						"Categories": [ "Costumes_2" ]
+					}, {
+						"Type": "Costumes_3",
+						"Name": "[STORE_TAB_COSTUMES]",
+						"ImageDown": "IMAGE_UI_STORE_SPROUTSTAB_DOWN",
+						"ImageActive": "IMAGE_UI_STORE_SPROUTSTAB_ACTIVE",
+						"Categories": [ "Costumes_3" ]
+					}, {
+						"Type": "Costumes_4",
+						"Name": "[STORE_TAB_COSTUMES]",
+						"ImageDown": "IMAGE_UI_STORE_SPROUTSTAB_DOWN",
+						"ImageActive": "IMAGE_UI_STORE_SPROUTSTAB_ACTIVE",
+						"Categories": [ "Costumes_4" ]
+					}, {
+						"Type": "Costumes_5",
+						"Name": "[STORE_TAB_COSTUMES]",
+						"ImageDown": "IMAGE_UI_STORE_SPROUTSTAB_DOWN",
+						"ImageActive": "IMAGE_UI_STORE_SPROUTSTAB_ACTIVE",
+						"Categories": [ "Costumes_5" ]
+					}, {
+						"Type": "Tutorial",
+						"Name": "[STORE_TAB_TUTORIAL]",
+						"ImageDown": "IMAGE_UI_STORE_PINATASTAB_DOWN",
+						"ImageActive": "IMAGE_UI_STORE_PLANTSTAB_ACTIVE",
+						"Categories": [ "Tutorial" ]
+					}, {
+						"Type": "Tutorial50MB",
+						"Name": "[STORE_TAB_TUTORIAL]",
+						"ImageDown": "IMAGE_UI_STORE_PINATASTAB_DOWN",
+						"ImageActive": "IMAGE_UI_STORE_PLANTSTAB_ACTIVE",
+						"Categories": [ "Tutorial50MB" ]
+					}, {
+						"Type": "CoinQuickStore",
+						"Name": "[STORE_TAB_COINS]",
+						"ImageDown": "IMAGE_UI_STORE_COINSTAB_DOWN",
+						"ImageActive": "IMAGE_UI_STORE_COINSTAB_ACTIVE",
+						"Categories": [ "QuickCoins" ]
+					}, {
+						"Type": "GemQuickStore",
+						"Name": "[STORE_TAB_GEMS]",
+						"ImageDown": "IMAGE_UI_STORE_COINSTAB_DOWN",
+						"ImageActive": "IMAGE_UI_STORE_COINSTAB_ACTIVE",
+						"Categories": [ "QuickGems" ]
+					}, {
+						"Type": "SproutQuickStore",
+						"Name": "[STORE_TAB_SPROUTS]",
+						"ImageDown": "IMAGE_UI_STORE_SPROUTSTAB_DOWN",
+						"ImageActive": "IMAGE_UI_STORE_SPROUTSTAB_ACTIVE",
+						"Categories": [ "QuickSprouts" ]
+					} ],
+				"Categories": [ {
+						"Type": "QATest",
+						"LabelText": "QATest",
+						"MaxCount": -1,
+						"DebugOnly": true,
+						"Card": "IMAGE_UI_CARDS_STORE_STORE_GEM_CARD"
+					}, {
+						"Type": "Promoted Offers",
+						"LabelText": "",
+						"MaxCount": 999,
+						"PromotionSlots": [ "Slot1", "Slot2", "Slot3", "Slot4", "Slot5" ]
+					}, {
+						"Type": "Plants",
+						"LabelText": "",
+						"MaxCount": 999,
+						"Card": "IMAGE_UI_CARDS_STORE_STORE_BUNDLE_CARD"
+					}, {
+						"Type": "Costumes",
+						"LabelText": "",
+						"MaxCount": 999,
+						"Card": "IMAGE_UI_CARDS_STORE_STORE_BUNDLE_CARD"
+					}, {
+						"Type": "Costumes_2",
+						"LabelText": "",
+						"MaxCount": 999,
+						"Card": "IMAGE_UI_CARDS_STORE_STORE_BUNDLE_CARD"
+					}, {
+						"Type": "Costumes_3",
+						"LabelText": "",
+						"MaxCount": 999,
+						"Card": "IMAGE_UI_CARDS_STORE_STORE_BUNDLE_CARD"
+					}, {
+						"Type": "Costumes_4",
+						"LabelText": "",
+						"MaxCount": 999,
+						"Card": "IMAGE_UI_CARDS_STORE_STORE_BUNDLE_CARD"
+					}, {
+						"Type": "Costumes_5",
+						"LabelText": "",
+						"MaxCount": 999,
+						"Card": "IMAGE_UI_CARDS_STORE_STORE_BUNDLE_CARD"
+					}, {
+						"Type": "Tutorial",
+						"LabelText": "",
+						"MaxCount": 6,
+						"Card": "IMAGE_UI_CARDS_STORE_STORE_PLANT_CARD"
+					}, {
+						"Type": "Tutorial50MB",
+						"LabelText": "",
+						"MaxCount": 6,
+						"Card": "IMAGE_UI_CARDS_STORE_STORE_PLANT_CARD"
+					}, {
+						"Type": "Coins",
+						"LabelText": "",
+						"MaxCount": 999,
+						"Card": "IMAGE_UI_CARDS_STORE_STORE_COIN_CARD"
+					}, {
+						"Type": "Gems",
+						"LabelText": "",
+						"MaxCount": 999,
+						"Card": "IMAGE_UI_CARDS_STORE_STORE_GEM_CARD"
+					}, {
+						"Type": "QuickCoins",
+						"LabelText": "",
+						"MaxCount": 999,
+						"Card": "IMAGE_UI_CARDS_STORE_STORE_COIN_CARD"
+					}, {
+						"Type": "QuickGems",
+						"LabelText": "",
+						"MaxCount": 999,
+						"Card": "IMAGE_UI_CARDS_STORE_STORE_GEM_CARD"
+					}, {
+						"Type": "Upgrades",
+						"LabelText": "",
+						"MaxCount": 999,
+						"Card": "IMAGE_UI_CARDS_STORE_STORE_UPGRADE_CARD"
+					} ],
+				"PromotionSlots": [ {
+						"Type": "Slot1",
+						"GroupPriority": [ "NewPlant", "SeasonOffers", "StarterBundles", "MidPlayerOffers", "HolidayOffers", "POTWOffers", "RiftOffers" ],
+						"FallbackCategory": "Bundles"
+					}, {
+						"Type": "Slot2",
+						"GroupPriority": [ "NewPlant", "SeasonOffers", "StarterBundles", "MidPlayerOffers", "HolidayOffers", "POTWOffers", "RiftOffers" ],
+						"FallbackCategory": "Bundles"
+					}, {
+						"Type": "Slot3",
+						"GroupPriority": [ "NewPlant", "SeasonOffers", "StarterBundles", "MidPlayerOffers", "HolidayOffers", "POTWOffers", "RiftOffers" ],
+						"FallbackCategory": "Bundles"
+					}, {
+						"Type": "Slot4",
+						"GroupPriority": [ "NewPlant", "SeasonOffers", "StarterBundles", "MidPlayerOffers", "HolidayOffers", "POTWOffers", "RiftOffers" ],
+						"FallbackCategory": "Bundles"
+					}, {
+						"Type": "Slot5",
+						"GroupPriority": [ "NewPlant", "SeasonOffers", "StarterBundles", "MidPlayerOffers", "HolidayOffers", "POTWOffers", "RiftOffers" ],
+						"FallbackCategory": "Bundles"
+					} ]
+			}
+		} ]
+}

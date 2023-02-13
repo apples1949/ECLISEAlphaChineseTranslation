@@ -450,7 +450,7 @@
 450,16-3: Wild Runner,16-3: 西部逃亡
 451,16-4: Homing Side Control,16-4: 导向控制
 452,16-5: Plant Consumer,16-5: 植物饕餮
-453,16-6: Vegan Vengeance,16-8: 素食者的复仇
+453,16-6: Vegan Vengeance,16-6: 素食者的复仇
 454,16-7: Cross Field,16-7: 腹背受敌
 455,16-8: Electric Scanner,16-8: 电流扫描仪
 456,16-9: Vacantation,16-9: 虚无
@@ -501,7 +501,7 @@
 501,DA-5: Snap Dragons,DA-5: 火龙草
 502,DA-6: Day Mocracy,DA-6: 白日民主
 503,DA-7: Endrian Wall,DA-7: 榴莲墙
-504,DA-8: Armor & Lance,DA-8:盾与矛
+504,DA-8: Armor & Lance,DA-8: 盾与矛
 505,DA-9: Sheep Tactic,DA-9: 绵羊战术
 506,"Play chapter 4 instead, dummy.","去玩第4章吧, 小傻瓜."
 507,3-1: Dark Ages,3-1: 黑暗时代
@@ -514,7 +514,7 @@
 514,13-6: Shower in the Grain,13-6: 谷粒沐浴
 515,13-7: False Collision,13-7: 错误碰撞
 516,13-8: Midnight Circus,13-8: 夜半马戏团
-517,13-9: Sheep Paralysis,13-2: 绵羊计数者
+517,13-9: Sheep Paralysis,13-19: 绵羊计数者
 518,3-2: Organic Lights,3-2: 有机光源
 519,13-10: The Shadow Re-Arm,13-10: 暗影武装
 520,[DARKAGES_LEVEL_NAME],[DARKAGES_LEVEL_NAME]
@@ -530,9 +530,9 @@
 530,[DARKAGES_LEVEL_NAME],[DARKAGES_LEVEL_NAME]
 531,3-4: Fire Fighter,3-4: 消防员
 532,3-5: Grave Consumer,3-5: 墓地骚动
-533,3-6: Wandering Spell,3-6:流浪巫师
+533,3-6: Wandering Spell,3-6: 流浪巫师
 534,3-7: Knight After Night,3-7: 骑士后夜
-535,3-8: Prop Plant,3-8:主力植物
+535,3-8: Prop Plant,3-8: 主力植物
 536,3-9: Stonecutter,3-9: 碎石机
 537,[DANGER_ROOM_DINO_LEVEL_NAME],[DANGER_ROOM_DINO_LEVEL_NAME]
 538,[DANGER_ROOM_DINO_LEVEL_NAME],[DANGER_ROOM_DINO_LEVEL_NAME]
@@ -565,9 +565,9 @@
 565,"Play chapter 9 instead, dummy.","去玩第9章吧, 小傻瓜."
 566,8-1: Mesozoic Marsh,8-1: 中生代沼泽
 567,8-10: Land of Giants,8-10: 巨人之地
-568,18-1: Perfume Performance,18-2: 香水演出
+568,18-1: Perfume Performance,18-1: 香水演出
 569,18-2: Hive Bribe,18-2: 群体贿赂
-570,18-3: Amber Champer,18-6: 琥珀房间
+570,18-3: Amber Champer,18-3: 琥珀房间
 571,18-4: Terrorsaurus,18-4: 恐怖霸王龙
 572,18-5: Heal Overdose,18-5: 过量治疗
 573,18-6: Firefly Anthropod,18-6: 萤火人
@@ -627,7 +627,7 @@
 627,AE-5: Odd Blockoff,AE-5: 霉田怪圈
 628,AE-6: Close Fire,AE-6: 近火
 629,AE-7: Big Decision,AE-7: 重大抉择
-630,AE-8: Midnight Burrows,13-8: 午夜洞穴
+630,AE-8: Midnight Burrows,AE-8: 午夜洞穴
 631,AE-9: Emerging The Light,AE-9: 火光浮现
 632,"Play chapter 2 instead, dummy.","去玩第2章吧, 小傻瓜."
 633,"Play chapter 12 instead, dummy.","去玩第12章吧, 小傻瓜."
@@ -767,14 +767,14 @@
 767,3-10X: Neromancy,3-10X: 亡灵返乡
 768,3-2X: Organic Lights,3-2X: 有机光源
 769,3-3X: Grave Cavation,3-3X: 墓地骚动
-770,3-4X: Fire Fighter,3-4: 消防员
+770,3-4X: Fire Fighter,3-4X: 消防员
 771,3-5X: Grave Consumer,3-5X: 墓地骚动
 772,3-6X: Wandering Spell,3-6X: 流浪巫师
 773,3-7X: Knight After Night,3-7X: 骑士后夜
 774,3-8X: Prop Plant,3-8X: 主力植物
 775,3-9X: Stonecutter,3-9X: 碎石机
 776,8-1X: Mesozoic Marsh,8-1X: 中生代沼泽
-777,8-10X: Land of Giants,8-10: 巨人之地
+777,8-10X: Land of Giants,8-10X: 巨人之地
 778,8-2X: Kickstarter,8-2X: 弹射起步
 779,8-3X: Undefined Energy Resources,8-3X: 不明能源
 780,8-4X: Punch Spits,8-4X: 喷射重击
@@ -852,7 +852,7 @@
 852,15-1: Mold Switch,15-1: 霉菌转移
 853,15-2: Frostbite Cages,15-2: 极寒之笼
 854,15-3: Thaw Arena,15-3: 解冻竞技场
-855,15-4: Lava Floor,15-2: 熔岩地板
+855,15-4: Lava Floor,15-4: 熔岩地板
 856,15-5: Ice Scensor,15-5: 冰块传感器
 857,15-6: Knock Queue,15-6: 敲击队列
 858,15-7: Veteran Turkey,15-7: 老练火鸡
@@ -1410,7 +1410,7 @@
 1410,WP-46: Fast Food Founder,WP-46: 快餐创立者
 1411,WP-47: Quick Protection - DT,WP-47: 极速保护 - DT
 1412,WP-48: The Trespassers Law,WP-48: 闯入者法律
-1413,WP-49: Brittle Gate - DT,WP-47: 极速保护 - DT
+1413,WP-49: Brittle Gate - DT,WP-49: 极速保护 - DT
 1414,WP-5: Controlled Fire - Locke,WP-5: 火力控制 - Locke
 1415,WP-50: Predator Profession,WP-50: 捕食职业
 1416,WP-51: Grim Fate - DT,WP-51: 残酷命运 - DT
@@ -1466,4 +1466,4 @@
 1466,WP-97: Sun Packing - Locke,WP-97: 阳光包裹 - Locke
 1467,WP-98: Millenium Treasure Hunters - KEVINNGW808,WP-98: 千禧年寻宝者 - KEVINNGW808
 1468,WP-99: Rush Hour - Kimmy Turner,WP-99: 高峰期 - Kimmy Turner
-1469,Go hunt some Yetis!,去捕杀一些雪人吧!
+1469,Go hunt some Yetis!,去猎杀一些雪人吧!
